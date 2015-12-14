@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DoSell]]></title>
+        <description><![CDATA[DoSell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 19:28:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>DoSell Flow – Making Experience   Bring your Ideas to Life & Scale Globally DoSell as one-stop-shop end-to-end system factory: in addition to audited service providers and our internal service innovation engine, take care of your business architect, design, engineering and global market access advisory needs. Let us be more than your outsourcing partners: we help you connect with new clients, build a global brand, grow into international markets, find shorter design cycle, access to excellent software development companies.</p>]]></description>
+            <link>undefineddosell-flow-making-experience-bring-your-ideas-to-life-and/index.html</link>
+            <guid isPermaLink="false">a79b0dcc-f0f8-49dd-8e53-77270147a309</guid>
+            <pubDate>Mon, 14 Dec 2015 19:28:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
