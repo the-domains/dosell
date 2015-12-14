@@ -1,7 +1,7 @@
 name: DoSell
 favicon: null
 layout_spectrum: 0.544764
-typography_spectrum: 0.516892
+typography_spectrum: 0.95664
 title: DoSell Blog
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6039759228006005
+    - '#2b2d2c'
+    - '#ffffff'
+    - '#ee382b'
+    - '#8d8f8e'
+    - '#92322c'
+  brandStrength: 0.75
   lightness: 0.45594477793201804
   saturation: 0.4251121545676142
-  rhythmicContrast: 0.1596645973622799
+  rhythmicContrast: 0.5
 purpose: []
