@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 16:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 17:57:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Learn About DoSell From Budapest, Budapest, HU]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
-            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a401ac7aaf0099081ef86ad28f781f41988a0921.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4be8c25bcdf48638fc5fc23a4545ff582be0be5.jpg"></article>]]></description>
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Fri, 18 Dec 2015 16:14:55 GMT</pubDate>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
             <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
             <pubDate>Fri, 18 Dec 2015 15:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slack Is Investing Millions in Slack Bot Startups to Make Chat the Operating System of the Future]]></title>
+            <description><![CDATA[<article><h1>Slack Is Investing Millions in Slack Bot Startups to Make Chat the Operating System of the Future</h1><p>What do you do if you've raised $340 million in venture capital and you don't necessarily need all of it to run your business? Well, you could set some of that money aside and invest it in other companies. That's what trendy workplace chat vendor Slack is doing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c558e80448d213c8008da0d6e003ed12c17fffe6.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/12/slack-is-investing-80-million-in-slack-bot-startups/</link>
+            <guid isPermaLink="false">c8616195-8e62-4b44-bf89-46842af6fbfa</guid>
+            <pubDate>Fri, 18 Dec 2015 17:56:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryan Hoover, The Building Blocks of Community, LSC15]]></title>
@@ -68,13 +75,6 @@
             <link>http://beta.nomadprojects.io/</link>
             <guid isPermaLink="false">46b9eb0f-195f-4f12-962c-1eb26a1a8643</guid>
             <pubDate>Fri, 18 Dec 2015 15:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here are the Scripts for Sales Success - Emails, Calls and Demos That Close Deals]]></title>
-            <description><![CDATA[<article><h1>Here are the Scripts for Sales Success - Emails, Calls and Demos That Close Deals</h1><p>This article is by Peter Kazanjy , co-founder of , which was acquired by Monster last year. This article is excerpted from a chapter in his forthcoming book, Founding Sales , due out next year, which tackles everything founders and first-time sales staff need to know about acquiring early customers, building and scaling winning sales teams. Here, he shares the actual email, phone and demo scripts he's seen work time and again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a32180ef7e5c688f683b9f26270935dd7c7b3a4f.jpg"></article>]]></description>
-            <link>http://firstround.com/review/here-are-the-scripts-for-sales-success-emails-calls-and-demos-that-close-deals/#rt_e=eyJjYW1wYWlnbiI6ImhvbWVfc3RyZWFtIiwiZGVwdGgiOjAsIm9yZGVyIjoxLCJsYXlvdXQiOiJvbmUiLCJjb21wb25lbnQiOiJFbnRyeUNhcmQifQ%3D%3D</link>
-            <guid isPermaLink="false">4d85f380-9e57-4269-936c-c3b93895508b</guid>
-            <pubDate>Fri, 18 Dec 2015 14:34:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
