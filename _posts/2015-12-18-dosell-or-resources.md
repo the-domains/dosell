@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://dosell.io'
-  name: Dosell
-  favicon: 'http://dosell.io/wp-content/uploads/2015/07/favicon.png'
-  domain: dosell.io
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - top-notch
   - cheating
@@ -18,17 +16,21 @@ keywords:
   - complicated
   - trusted
 description: "So you are looking for a trusted, top-notch solution provider to solve your business's engineering and business process problems? Searching for the best possible service provider is a PAIN, because there are millions outside of your door and they are cheating you, slow, complicated and make your project fail."
-inLanguage: en
+datePublished: '2015-12-18T15:01:05.727Z'
+dateModified: '2015-12-18T14:56:12.385Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://dosell.io/resources-case-studies/'
 title: 'DoSell | Resources'
-datePublished: '2015-12-18T14:55:36.697Z'
-dateModified: '2015-12-18T14:54:30.774Z'
 sourcePath: _posts/2015-12-18-dosell-or-resources.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Dosell
+  domain: dosell.io
+  url: 'http://dosell.io'
+  favicon: 'http://dosell.io/wp-content/uploads/2015/07/favicon.png'
+url: dosell-or-resources/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
