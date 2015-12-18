@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:28:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Developers - Launchpad Accelerator | Home]]></title>
+            <description><![CDATA[<article><h1>Google Developers - Launchpad Accelerator | Home</h1><p>Have you and your team set out to address a real challenge for your home country and region? Are you ready to scale your product by leveraging Google's global reach and local resources? Would you like to join an elite community of startups from around the world?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5042609dd7fd8cd931b1b7e3c9630664a9d3194.gif"></article>]]></description>
+            <link>https://developers.google.com/startups/accelerator/</link>
+            <guid isPermaLink="false">761a1d91-f03d-417f-86ad-634e9a9b6d08</guid>
+            <pubDate>Fri, 18 Dec 2015 14:28:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data, Machine Learning and Cyber Security in the Auto Industry]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Weeks #1-2: My plan of attack, picking a market and the problem with passion</h1><p>If this is your first time reading, I recommend you start with a new B2B SaaS venture. tl;dr This is my first update of biweekly posts for my B2B SaaS venture challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b90894b627333136061529122f214a99fd6e1038.jpg"></article>]]></description>
             <link>http://melissatsang.com/2014/02/17/weeks-1-2-plan-attack-picking-market-problem-passion/</link>
             <guid isPermaLink="false">43cb20d6-3404-4126-90a7-9b9779463fae</guid>
-            <pubDate>Fri, 18 Dec 2015 14:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nomad Projects]]></title>
-            <description><![CDATA[<article><h1>Nomad Projects</h1><p>Nomad Projects is a platform for digital nomads who want to start a side project. Connect with other nomads so ideas don't stay ideas, but grow into a side project with diverse expertise. Search for nomads that complement your skillset or find side projects you would like to collaborate on.</p></article>]]></description>
-            <link>http://beta.nomadprojects.io/</link>
-            <guid isPermaLink="false">46b9eb0f-195f-4f12-962c-1eb26a1a8643</guid>
             <pubDate>Fri, 18 Dec 2015 14:27:24 GMT</pubDate>
         </item>
     </channel>
