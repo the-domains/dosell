@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 'industrial design, mechanical engineering, software engineering'
-datePublished: '2015-12-18T14:26:53.660Z'
-dateModified: '2015-12-18T08:06:09.802Z'
+datePublished: '2015-12-18T14:50:50.957Z'
+dateModified: '2015-12-18T14:50:42.974Z'
 title: Get the solution provider you have dreamed about
 author: []
+sourcePath: _posts/2015-12-18-get-the-solution-provider-you-have-dreamed-about.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-get-the-solution-provider-you-have-dreamed-about.md
-published: true
 url: get-the-solution-provider-you-have-dreamed-about/index.html
 _type: Article
 
