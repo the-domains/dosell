@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/'
 title: The First Person to Hack the iPhone Built a Self-Driving Car. In His Garage.
-datePublished: '2015-12-18T14:28:55.031Z'
-dateModified: '2015-12-17T07:46:12.170Z'
+datePublished: '2015-12-18T14:29:07.127Z'
+dateModified: '2015-12-17T07:46:06.292Z'
 sourcePath: _posts/2015-12-18-the-first-person-to-hack-the-iphone-built-a-self-driving-car.md
 published: true
 inFeed: true
