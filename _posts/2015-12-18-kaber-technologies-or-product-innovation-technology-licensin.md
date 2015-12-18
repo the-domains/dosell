@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://kabertech.com/'
 title: 'Kaber Technologies | Product Innovation, Technology Licensing Firm'
-datePublished: '2015-12-18T14:32:14.089Z'
-dateModified: '2015-12-15T16:42:45.486Z'
+datePublished: '2015-12-18T14:32:25.248Z'
+dateModified: '2015-12-15T16:42:41.130Z'
 sourcePath: _posts/2015-12-18-kaber-technologies-or-product-innovation-technology-licensin.md
 published: true
 inFeed: true
