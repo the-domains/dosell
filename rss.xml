@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:28:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weeks #1-2: My plan of attack, picking a market and the problem with passion]]></title>
+            <description><![CDATA[<article><h1>Weeks #1-2: My plan of attack, picking a market and the problem with passion</h1><p>If this is your first time reading, I recommend you start with a new B2B SaaS venture. tl;dr This is my first update of biweekly posts for my B2B SaaS venture challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b4089cfe0b6d284dc1c080ab13f0b255834849a.jpg"></article>]]></description>
+            <link>http://melissatsang.com/2014/02/17/weeks-1-2-plan-attack-picking-market-problem-passion/</link>
+            <guid isPermaLink="false">43cb20d6-3404-4126-90a7-9b9779463fae</guid>
+            <pubDate>Fri, 18 Dec 2015 14:27:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nomad Projects]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>B2B handbook part III.</h1><p>venture innovaton, B2B company reference guide</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edd19988a99cdeb1ede01b2a8ff37d4965d9d6c5.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/b2b-handbook-part-iii/index.html</link>
             <guid isPermaLink="false">84a79ccb-5226-4755-8fc6-4870c700838e</guid>
-            <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet of Things is about to reshape e-commerce - VisionMobile]]></title>
-            <description><![CDATA[<article><h1>The Internet of Things is about to reshape e-commerce - VisionMobile</h1><p>E-commerce as we know it is about to be fundamentally reshaped, as every connected object in the future becomes a potential commerce channel. Internet of Things - from smart home devices to connected cars - will transform e-commerce and allow it to stretch across the breadth of the customer journey - from awareness, to intent, to purchase.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd7dbfc77f7be26ea8e8ef5f1567ded43f196745.jpg"></article>]]></description>
-            <link>http://www.visionmobile.com/blog/2015/12/the-internet-of-things-is-about-to-reshape-e-commerce/?sf43142120=1</link>
-            <guid isPermaLink="false">b45b60fb-e1c5-4a5e-af61-0c3717a86c98</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
         </item>
     </channel>
