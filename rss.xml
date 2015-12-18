@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:34:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kaber Technologies | Product Innovation, Technology Licensing Firm]]></title>
+            <description><![CDATA[<article><h1>Kaber Technologies | Product Innovation, Technology Licensing Firm</h1><p>Kaber is a design and innovation consultancy that helps bring innovative products to market. We specialize in helping industrial companies with engineering, design and prototyping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73dd44f4e0a116b95d4b72e0a522eb88fe309f33.png"></article>]]></description>
+            <link>http://kabertech.com/</link>
+            <guid isPermaLink="false">29dfd3a0-192b-4aaa-b706-072174404b76</guid>
+            <pubDate>Fri, 18 Dec 2015 14:32:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fahrenheit 212]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://kabertech.com/assets/img/research-jet.png">]]></description>
             <link>https://thegrid.ai/dosell/dfb5933a-b464-4c25-9f9a-e31dc00547d2/index.html</link>
             <guid isPermaLink="false">dfb5933a-b464-4c25-9f9a-e31dc00547d2</guid>
-            <pubDate>Fri, 18 Dec 2015 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business Application Development Platform | Sclable]]></title>
-            <description><![CDATA[<article><h1>Business Application Development Platform | Sclable</h1><p>Radically rethinking technology with the Sclable Business Application Development Platform " build your own individual business application!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bea31b50c9a37933af1118c4e3eb8c585008d82b.png"></article>]]></description>
-            <link>https://sclable.com/</link>
-            <guid isPermaLink="false">d9c9c433-2415-4610-928a-fc926035af65</guid>
             <pubDate>Fri, 18 Dec 2015 14:32:00 GMT</pubDate>
         </item>
     </channel>
