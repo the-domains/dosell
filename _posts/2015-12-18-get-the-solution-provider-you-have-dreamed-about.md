@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'industrial design, mechanical engineering, software engineering'
-datePublished: '2015-12-18T14:50:50.957Z'
-dateModified: '2015-12-18T14:50:42.974Z'
+datePublished: '2015-12-18T15:10:12.220Z'
+dateModified: '2015-12-18T15:10:03.888Z'
 title: Get the solution provider you have dreamed about
 author: []
 sourcePath: _posts/2015-12-18-get-the-solution-provider-you-have-dreamed-about.md
