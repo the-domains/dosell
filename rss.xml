@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:29:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,20 +26,6 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iskraemeco :: Big, smart plans for SEC in Saudi Arabia]]></title>
-            <description><![CDATA[<article><h1>Iskraemeco :: Big, smart plans for SEC in Saudi Arabia</h1><p>55,000 smart meters that Iskraemeco will start supplying to SEC at the end of 2015 are a clear signal that the country is following its set plans. The specifics of the countries` topology require the meters to be highly efficient in an environment, characterised by high temperatures and a high humidity level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f2f8e8b201968e83d1bc3ba3e805e671ea9633.jpg"></article>]]></description>
-            <link>http://www.iskraemeco.com/en/news/big-smart-plans-sec-saudi-arabia/</link>
-            <guid isPermaLink="false">4a214751-3dcd-4bdb-81d0-7a45ecdac6a9</guid>
-            <pubDate>Fri, 18 Dec 2015 14:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First Person to Hack the iPhone Built a Self-Driving Car. In His Garage.]]></title>
-            <description><![CDATA[<article><h1>The First Person to Hack the iPhone Built a Self-Driving Car. In His Garage.</h1><p>From A few days before Thanksgiving, George Hotz, a 26-year-old hacker, invites me to his house in San Francisco to check out a project he's been working on. He says it's a self-driving car that he had built in about a month. The claim seems absurd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f23cb82bfc31dfc3eff0b89be03d9b755350a35e.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/</link>
-            <guid isPermaLink="false">a9b1d9b4-03e8-4450-9569-f77f1bd7b12f</guid>
-            <pubDate>Fri, 18 Dec 2015 14:28:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Welcome Weekly: A Curated Collection of New Talents on EyeEm - EyeEm Blog]]></title>
@@ -64,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Data, Machine Learning and Cyber Security in the Auto Industry]]></title>
-            <description><![CDATA[<article><h1>Data, Machine Learning and Cyber Security in the Auto Industry</h1><p>As the connected car evolves in order to meet the demands of today's mobility customer, data is increasingly central to what is driving new customer experiences and manufacturing processes. In fact, this year the automotive industry is projected to be the second largest generator of data in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d401a2f5963b3d05cef0bfb41452620db10f2a4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Data, Machine Learning and Cyber Security in the Auto Industry</h1><p>As the connected car evolves in order to meet the demands of today's mobility customer, data is increasingly central to what is driving new customer experiences and manufacturing processes. In fact, this year the automotive industry is projected to be the second largest generator of data in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e3c7c37a117ba9cde40bf7134bcc0e868b326b1.jpg"></article>]]></description>
             <link>http://www.ntti3.com/blog/data-machine-learning-and-cyber-security-in-the-auto-industry</link>
             <guid isPermaLink="false">3c9699ad-8a31-4a43-a06d-c84e914e6959</guid>
             <pubDate>Fri, 18 Dec 2015 14:28:32 GMT</pubDate>
@@ -75,6 +61,20 @@
             <link>http://blog.invisionapp.com/inside-design-godaddy/</link>
             <guid isPermaLink="false">4ed1703d-0cba-4ddd-858c-2d38d0c458f8</guid>
             <pubDate>Fri, 18 Dec 2015 14:27:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 ways to strengthen your discovery phase - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>3 ways to strengthen your discovery phase - InVision Blog</h1><p>The discovery phase of a project reminds me so much of dating-specifically that point in a new relationship where you realize you really like the person and want to get to know the real them. Why they want to be with you, what they expect, what makes them happy, what makes them sad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a015adaf19d4a4e9321dae26bbcce412ae5308.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.com/strengthen-discovery-phase/</link>
+            <guid isPermaLink="false">c98901d2-7383-4622-99d1-0011f4cab165</guid>
+            <pubDate>Fri, 18 Dec 2015 14:27:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building working prototypes without code - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>Building working prototypes without code - InVision Blog</h1><p>An idea might come in a flash, but turning it into an actual product with customers and revenue takes time-and a lot of it. That's why we hosted a webinar with Wade Foster, Co-founder and CEO of Zapier, on how to turn your idea into a working prototype without any code , getting you to version 0.1 much faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eedb91d49725527f33649be18cde88641da518b6.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.com/building-working-prototypes-without-code/</link>
+            <guid isPermaLink="false">fa1dd685-5905-4825-b4aa-b86b102e547c</guid>
+            <pubDate>Fri, 18 Dec 2015 14:27:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
