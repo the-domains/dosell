@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:56:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Six Month Challenge - Life experiments]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<article><h1>Get the solution provider you have dreamed about</h1><p>industrial design, mechanical engineering, software engineering</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6376e9d83a9f2bde01253a16742fc7186f652f5a.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/get-the-solution-provider-you-have-dreamed-about/index.html</link>
             <guid isPermaLink="false">e1884c5e-9d64-4897-87ee-c31007531146</guid>
-            <pubDate>Fri, 18 Dec 2015 14:26:53 GMT</pubDate>
+            <pubDate>Fri, 18 Dec 2015 14:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[B2B service development reference guide part I.]]></title>
@@ -40,6 +40,13 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DoSell | Resources]]></title>
+            <description><![CDATA[<article><h1>DoSell | Resources</h1><p>So you are looking for a trusted, top-notch solution provider to solve your business's engineering and business process problems? Searching for the best possible service provider is a PAIN, because there are millions outside of your door and they are cheating you, slow, complicated and make your project fail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab0608c3d8f7d564fb1a2648e1140e402649f767.jpg"></article>]]></description>
+            <link>http://dosell.io/resources-case-studies/</link>
+            <guid isPermaLink="false">a60f0863-acd6-47ba-b0ed-9454e363c684</guid>
+            <pubDate>Fri, 18 Dec 2015 14:55:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here are the Scripts for Sales Success - Emails, Calls and Demos That Close Deals]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.strategyand.pwc.com/reports/connected-car-2015-study</link>
             <guid isPermaLink="false">22d60c51-c20d-4297-8698-a0922c8f32fd</guid>
             <pubDate>Fri, 18 Dec 2015 14:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BusinessTown]]></title>
-            <description><![CDATA[<article><h1>BusinessTown</h1><p>An ongoing project attempting to explain our highly intangible, deeply disruptive, data-driven, venture-backed, gluten-free economic meritocracy to the uninitiated. With apologies to Richard Scarry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27d521bc80b161004a7b25cce81c886e6d3cce05.png"></article>]]></description>
-            <link>http://welcometobusinesstown.tumblr.com/</link>
-            <guid isPermaLink="false">7d4e2eea-2a98-4cac-84fc-06fc828c59ce</guid>
-            <pubDate>Fri, 18 Dec 2015 14:34:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
