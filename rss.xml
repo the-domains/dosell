@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DoSell Blog]]></title>
-        <description><![CDATA[DoSell Blog]]></description>
+        <title><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></title>
+        <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 19:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 20:54:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Learn About DoSell From Budapest, Budapest, HU]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
-            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50b158be83c3ba407e10d91c2d63d1f94695de55.png"></article>]]></description>
+            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195898d575cdfa6ddfb6f9f0ca1ef97b66f868bb.png"></article>]]></description>
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Fri, 18 Dec 2015 19:10:30 GMT</pubDate>
@@ -35,8 +35,15 @@
             <pubDate>Fri, 18 Dec 2015 19:02:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Startup Tools]]></title>
+            <description><![CDATA[<article><h1>Startup Tools</h1><p>1. Startup Tools Click Here 2. Lean LaunchPad Videos Click Here 3. Founding/Running Startup Advice Click Here 4. Market Research Click Here 5. Life Science Click Here 6. China Market Click Here -------------- Startup Tools Getting Started Why the Lean Startup Changes Everything - Harvard Business Review The Lean LaunchPad Online Class - FREE How to Build a Web Startup...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15c3adc52d71afb16015ef35a5bc565df87ca9db.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
+            <guid isPermaLink="false">81033af6-043f-48c9-8e33-94539e464a78</guid>
+            <pubDate>Fri, 18 Dec 2015 20:54:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Is How You Design Your Mobile App for Maximum Growth]]></title>
-            <description><![CDATA[<article><h1>This Is How You Design Your Mobile App for Maximum Growth</h1><p>Kamo Asatryan may very well be one of the best kept secrets in the startup ecosystem. He's one of a small handful of people who have observed hundreds of mobile apps, thought deeply and scientifically about their mechanics, and determined what they could change to grow faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/851a2b0c29621acf7ee1683d685245f6e854e00a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This Is How You Design Your Mobile App for Maximum Growth</h1><p>Kamo Asatryan may very well be one of the best kept secrets in the startup ecosystem. He's one of a small handful of people who have observed hundreds of mobile apps, thought deeply and scientifically about their mechanics, and determined what they could change to grow faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd95875c70ecc89b6f9794a45fcf50857b71e8fc.jpg"></article>]]></description>
             <link>http://firstround.com/review/this-is-how-you-design-your-app-for-maximum-growth/</link>
             <guid isPermaLink="false">22e8affb-3c90-4b0f-8c57-87687f14b190</guid>
             <pubDate>Fri, 18 Dec 2015 19:08:35 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Web Design in 2016: The Future is High Definition</h1><p>The prevalence of HD displays today is no coincidence, and design is pairing with new and imaginative visual techniques to bring these details to life. But applying HD to web design can be as intricate as the fine details in its displays.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ae1ee4447358daee1d6dd6b92df2c9c1b987163.jpg"></article>]]></description>
             <link>http://studio.uxpin.com/blog/web-design-in-2016-the-future-is-high-definition/?utm_source=facebook&amp;utm_medium=uxlink&amp;utm_campaign=&amp;utm_content=blog</link>
             <guid isPermaLink="false">47c2ba43-8b2e-47a0-9f1f-26325a5cc2ab</guid>
-            <pubDate>Fri, 18 Dec 2015 17:56:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slack Is Investing Millions in Slack Bot Startups to Make Chat the Operating System of the Future]]></title>
-            <description><![CDATA[<article><h1>Slack Is Investing Millions in Slack Bot Startups to Make Chat the Operating System of the Future</h1><p>What do you do if you've raised $340 million in venture capital and you don't necessarily need all of it to run your business? Well, you could set some of that money aside and invest it in other companies. That's what trendy workplace chat vendor Slack is doing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f9da258f41bb562251fb4b11cff734b83cff786.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/12/slack-is-investing-80-million-in-slack-bot-startups/</link>
-            <guid isPermaLink="false">c8616195-8e62-4b44-bf89-46842af6fbfa</guid>
             <pubDate>Fri, 18 Dec 2015 17:56:37 GMT</pubDate>
         </item>
     </channel>
