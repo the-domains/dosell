@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:28:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -28,8 +28,22 @@
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Building working prototypes without code - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>Building working prototypes without code - InVision Blog</h1><p>An idea might come in a flash, but turning it into an actual product with customers and revenue takes time-and a lot of it. That's why we hosted a webinar with Wade Foster, Co-founder and CEO of Zapier, on how to turn your idea into a working prototype without any code , getting you to version 0.1 much faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19eff5256fad2768d59d0f94cc04e8fbaa612f96.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.com/building-working-prototypes-without-code/</link>
+            <guid isPermaLink="false">fa1dd685-5905-4825-b4aa-b86b102e547c</guid>
+            <pubDate>Fri, 18 Dec 2015 14:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keeping teams strong during tight deadlines - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>Keeping teams strong during tight deadlines - InVision Blog</h1><p>Last month I participated in the Jefferson Health Hack, a multi-disciplinary event hosted by Jefferson University and sponsored by IBM, Comcast, Microsoft, and others. 250 designers, physicians, and developers spent the weekend designing and prototyping technology, products, and processes to improve healthcare outcomes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d76fb1cddcdc23e4dc2c58c1902acfb44d0f4e0.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.com/teams-tight-deadlines/</link>
+            <guid isPermaLink="false">e36378b7-ae21-4a49-9c20-f470d1946fcc</guid>
+            <pubDate>Fri, 18 Dec 2015 14:27:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Weeks #1-2: My plan of attack, picking a market and the problem with passion]]></title>
-            <description><![CDATA[<article><h1>Weeks #1-2: My plan of attack, picking a market and the problem with passion</h1><p>If this is your first time reading, I recommend you start with a new B2B SaaS venture. tl;dr This is my first update of biweekly posts for my B2B SaaS venture challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b4089cfe0b6d284dc1c080ab13f0b255834849a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Weeks #1-2: My plan of attack, picking a market and the problem with passion</h1><p>If this is your first time reading, I recommend you start with a new B2B SaaS venture. tl;dr This is my first update of biweekly posts for my B2B SaaS venture challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b90894b627333136061529122f214a99fd6e1038.jpg"></article>]]></description>
             <link>http://melissatsang.com/2014/02/17/weeks-1-2-plan-attack-picking-market-problem-passion/</link>
             <guid isPermaLink="false">43cb20d6-3404-4126-90a7-9b9779463fae</guid>
             <pubDate>Fri, 18 Dec 2015 14:27:24 GMT</pubDate>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Expensify's CEO on the Tactics that Doubled its Customer Base in Just Six Months</h1><p>David Barrett started coding when he was six years old and hasn't stopped since. So in a way, he really has been working his whole life to found and lead Expensify , the default service for many companies to process expenses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a08bb345044bcb55c5680bb6d548f9fed27c0cd1.jpg"></article>]]></description>
             <link>http://firstround.com/review/expensifys-ceo-on-the-tactics-that-doubled-its-customer-base-in-just-six-months/</link>
             <guid isPermaLink="false">d18f4509-48f3-47d5-9769-0eb5b80a63e1</guid>
-            <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homepage | Maform]]></title>
-            <description><![CDATA[<article><h1>Homepage | Maform</h1><p>By using this site you agree to the use of cookies for analytics, personalized content and ads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c61a2f0a761e7b87ce6a8a7cae833dfa6b49a7ee.jpg"></article>]]></description>
-            <link>http://maform.hu/</link>
-            <guid isPermaLink="false">6e5a095a-4553-426c-b9a2-a1a50745f471</guid>
-            <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B2B handbook part III.]]></title>
-            <description><![CDATA[<article><h1>B2B handbook part III.</h1><p>venture innovaton, B2B company reference guide</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edd19988a99cdeb1ede01b2a8ff37d4965d9d6c5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/b2b-handbook-part-iii/index.html</link>
-            <guid isPermaLink="false">84a79ccb-5226-4755-8fc6-4870c700838e</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
         </item>
     </channel>
