@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:36:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Animations In Interaction Design: 2016 And Beyond]]></title>
+            <description><![CDATA[<article><h1>Web Animations In Interaction Design: 2016 And Beyond</h1><p>We'll explain web animation's 5 most effective uses, as well as what to expect the near future. But in order to understand where animation is at now and where it's going, you must first know where it came from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aabb3e824c5f3fa654447953c96f39e4877521e.png"></article>]]></description>
+            <link>http://studio.uxpin.com/blog/web-animations-in-interaction-design-2016-and-beyond/?utm_source=facebook&amp;utm_medium=uxlink&amp;utm_campaign=&amp;utm_content=blog</link>
+            <guid isPermaLink="false">fdd6f763-7f20-49b6-97c9-bc4789884a8c</guid>
+            <pubDate>Fri, 18 Dec 2015 14:33:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ViVeMachine - Virtual Verification Technology - ViVeTech]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.dw.com/en/china-seeking-to-link-iran-to-its-new-silk-road/a-18917586?maca=en-RSS_en_Flipboard-9487-xml-media</link>
             <guid isPermaLink="false">50d13a2a-eb02-430d-ad67-07ca3a77215f</guid>
             <pubDate>Fri, 18 Dec 2015 14:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harvard i-lab | Startup Secrets: Value Proposition]]></title>
-            <description><![CDATA[<article><h1>Harvard i-lab | Startup Secrets: Value Proposition</h1><p>Learn how to define, evaluate and build your value proposition to ensure your venture can break out and build a compelling and sustainable business. Learn from Michael Skok, a serial entrepreneur turned venture capitalist, about "pain gain ratios" and other ways to assess whether you are creating, delivering, and harnessing value in your venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/842eae2d3098a6e47aafdb8267a5e388ffd4317f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=6pKW-ehL7dU&amp;list=WL&amp;index=14</link>
-            <guid isPermaLink="false">43406de5-1d50-43da-8e29-422f2d7ec686</guid>
-            <pubDate>Fri, 18 Dec 2015 14:33:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
