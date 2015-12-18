@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://neilpatel.com'
   name: Neilpatel
-  favicon: 'http://neilpatel.com/favicon.ico'
   domain: neilpatel.com
+  url: 'http://neilpatel.com'
+  favicon: 'http://neilpatel.com/favicon.ico'
 keywords:
   - tool
   - backlinks
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://neilpatel.com/2015/12/15/15-powerful-chrome-extensions-thatll-help-your-seo-efforts/?utm_source=email&utm_medium=email&utm_campaign=email'
 title: "15 Powerful Chrome Extensions That'll Help Your SEO Efforts"
-datePublished: '2015-12-18T14:31:38.980Z'
-dateModified: '2015-12-15T20:07:15.580Z'
+datePublished: '2015-12-18T20:58:43.578Z'
+dateModified: '2015-12-18T20:58:37.447Z'
 sourcePath: _posts/2015-12-18-15-powerful-chrome-extensions-thatll-help-your-seo-efforts.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
