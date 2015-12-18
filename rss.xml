@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[DoSell Blog]]></title>
         <description><![CDATA[DoSell Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:24:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 14:24:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[b2b service handbook part II.]]></title>
             <description><![CDATA[<article><h1>b2b service handbook part II.</h1><p>company innovation, b2b, business to business guide</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98f39699fa9ead60eea1f39bebfb72a4f323f485.jpg"></article>]]></description>
-            <link>undefinedb2b-service-handbook-part-ii/index.html</link>
+            <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
+            <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.stratos.com/sites/default/files/styles/1254x604/public/proteus_tile_2col2_0.jpg?itok=P6AWZr8w">]]></description>
+            <link>https://thegrid.ai/dosell/e55d9af8-471f-4460-8a8b-81e06a77b7b4/index.html</link>
+            <guid isPermaLink="false">e55d9af8-471f-4460-8a8b-81e06a77b7b4</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
         </item>
     </channel>
