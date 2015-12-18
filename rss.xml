@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 19:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 19:09:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Learn About DoSell From Budapest, Budapest, HU]]></title>
@@ -29,10 +29,17 @@
         </item>
         <item>
             <title><![CDATA[Six Month Challenge - Life experiments]]></title>
-            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af2f498b-2d4e-4c98-9d26-aad99f150156.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5046caad3de69c2b78a7f03dad5720625d9787c.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
             <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
             <pubDate>Fri, 18 Dec 2015 19:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's Why You Should Care About Holacracy]]></title>
+            <description><![CDATA[<article><h1>Here's Why You Should Care About Holacracy</h1><p>This article is by Adam Pisoni, co-founder and former CTO of Yammer. He is also a founder of Responsive.org, a new movement dedicated to helping companies become more agile, adaptive and empowering. I recently spent a month embedded at a consultancy called Undercurrent, watching how they help organizations become more adaptive and responsive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc63ea9f8d907ecf7ea12114030f7110e6f4b490.jpg"></article>]]></description>
+            <link>http://firstround.com/review/heres-why-you-should-care-about-holacracy/</link>
+            <guid isPermaLink="false">b7665546-318e-4756-a2c8-3168973e1a90</guid>
+            <pubDate>Fri, 18 Dec 2015 19:08:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bethlehem Steel's Hoover-Mason Trestle]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=NG1Jn5JM-V8&amp;list=PL1M9pu1POlekMxS-EKorIuuO_JynFHQRm&amp;index=4</link>
             <guid isPermaLink="false">fd0c431c-9fcd-46d9-9651-8031cf21e5b2</guid>
             <pubDate>Fri, 18 Dec 2015 16:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All GrowthHackers Original Growth Studies - GrowthHackers]]></title>
-            <description><![CDATA[<article><h1>All GrowthHackers Original Growth Studies - GrowthHackers</h1><p>Growth Studies Description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63441c49fe0abc787e9651c26289280d9099e98c.jpg"></article>]]></description>
-            <link>https://growthhackers.com/growth-studies</link>
-            <guid isPermaLink="false">3f538b4a-fa3d-470e-9c98-01f9ecf2096f</guid>
-            <pubDate>Fri, 18 Dec 2015 16:05:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
