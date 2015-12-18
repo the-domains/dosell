@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 15:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 15:56:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[DoSell Resource]]></title>
-            <description><![CDATA[<article><h1>DoSell Resource</h1><p>download presentation, case studies</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ee1e2c70082a2221a77dfac92e28f68a435fca.png"></article>]]></description>
+            <description><![CDATA[<article><h1>DoSell Resource</h1><p>download presentation, case studies</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8034826dd448e65dd56b3f151f034d9d1425fc45.png"></article>]]></description>
             <link>https://thegrid.ai/dosell/dosell-or-resources/index.html</link>
             <guid isPermaLink="false">a60f0863-acd6-47ba-b0ed-9454e363c684</guid>
             <pubDate>Fri, 18 Dec 2015 15:55:31 GMT</pubDate>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
             <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
             <pubDate>Fri, 18 Dec 2015 15:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nomad Projects]]></title>
+            <description><![CDATA[<article><h1>Nomad Projects</h1><p>Nomad Projects is a platform for digital nomads who want to start a side project. Connect with other nomads so ideas don't stay ideas, but grow into a side project with diverse expertise. Search for nomads that complement your skillset or find side projects you would like to collaborate on.</p></article>]]></description>
+            <link>http://beta.nomadprojects.io/</link>
+            <guid isPermaLink="false">46b9eb0f-195f-4f12-962c-1eb26a1a8643</guid>
+            <pubDate>Fri, 18 Dec 2015 15:56:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here are the Scripts for Sales Success - Emails, Calls and Demos That Close Deals]]></title>
