@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.ntti3.com/blog/data-machine-learning-and-cyber-security-in-the-auto-industry'
 title: 'Data, Machine Learning and Cyber Security in the Auto Industry'
-datePublished: '2015-12-18T14:28:32.033Z'
-dateModified: '2015-12-17T08:55:10.321Z'
+datePublished: '2015-12-18T14:31:39.060Z'
+dateModified: '2015-12-15T20:48:35.201Z'
 sourcePath: _posts/2015-12-18-data-machine-learning-and-cyber-security-in-the-auto-indust.md
 published: true
 inFeed: true
