@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 'company innovation, b2b, business to business guide'
-datePublished: '2015-12-18T14:24:04.441Z'
-dateModified: '2015-12-18T14:15:27.246Z'
+datePublished: '2015-12-18T14:50:11.846Z'
+dateModified: '2015-12-18T14:48:56.863Z'
 title: b2b service handbook part II.
 author: []
+sourcePath: _posts/2015-12-18-b2b-service-handbook-part-ii.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-b2b-service-handbook-part-ii.md
-published: true
 url: b2b-service-handbook-part-ii/index.html
 _type: Article
 
