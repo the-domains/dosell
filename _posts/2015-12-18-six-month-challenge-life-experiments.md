@@ -16,8 +16,8 @@ keywords:
   - gluten
   - postmortem
 description: This is the table of contents for my 6-month startup journey.
-datePublished: '2015-12-18T15:54:55.449Z'
-dateModified: '2015-12-18T15:54:50.676Z'
+datePublished: '2015-12-18T19:01:13.832Z'
+dateModified: '2015-12-18T19:00:57.236Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6079e74-b083-4a67-a8a7-70bf952ed42b.jpg)
-
 <article style=""><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey&amp;period;</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af2f498b-2d4e-4c98-9d26-aad99f150156.jpg)
