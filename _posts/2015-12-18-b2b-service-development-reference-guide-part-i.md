@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 'validate your idea, IDEO, design thinking'
-datePublished: '2015-12-18T14:26:53.637Z'
-dateModified: '2015-12-18T14:17:18.085Z'
+datePublished: '2015-12-18T14:49:39.429Z'
+dateModified: '2015-12-18T14:49:27.449Z'
 title: B2B service development reference guide part I.
 author: []
+sourcePath: _posts/2015-12-18-b2b-service-development-reference-guide-part-i.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-b2b-service-development-reference-guide-part-i.md
-published: true
 url: b2b-service-development-reference-guide-part-i/index.html
 _type: Article
 
