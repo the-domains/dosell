@@ -43,8 +43,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.uxpin.com/knowledge.html'
 title: Knowledge Wants To Be Free
-datePublished: '2015-12-18T14:32:25.247Z'
-dateModified: '2015-12-15T16:42:03.562Z'
+datePublished: '2015-12-18T16:04:58.741Z'
+dateModified: '2015-12-18T16:01:45.766Z'
 sourcePath: _posts/2015-12-18-knowledge-wants-to-be-free.md
 published: true
 inFeed: true
