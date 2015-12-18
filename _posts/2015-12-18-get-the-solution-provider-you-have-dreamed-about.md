@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'industrial design, mechanical engineering, software engineering'
-datePublished: '2015-12-18T15:10:12.220Z'
-dateModified: '2015-12-18T15:10:03.888Z'
+datePublished: '2015-12-18T15:10:27.138Z'
+dateModified: '2015-12-18T15:10:19.809Z'
 title: Get the solution provider you have dreamed about
 author: []
 sourcePath: _posts/2015-12-18-get-the-solution-provider-you-have-dreamed-about.md
