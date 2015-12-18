@@ -1,7 +1,7 @@
 name: DoSell
 favicon: null
-layout_spectrum: 0.90704
-typography_spectrum: 0.87456
+layout_spectrum: 0.95578
+typography_spectrum: 0.54242
 title: DoSell Blog
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#747474'
     - '#f6bfbc'
-  brandStrength: 0.625
-  lightness: 0.625
+  brandStrength: 0.125
+  lightness: 0.5
   saturation: 0.6875
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
