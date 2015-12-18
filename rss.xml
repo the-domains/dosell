@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:36:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,20 +26,6 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BusinessTown]]></title>
-            <description><![CDATA[<article><h1>BusinessTown</h1><p>An ongoing project attempting to explain our highly intangible, deeply disruptive, data-driven, venture-backed, gluten-free economic meritocracy to the uninitiated. With apologies to Richard Scarry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de8fba7ac84762f09bec42f3e31d4f3c3b1d2a96.png"></article>]]></description>
-            <link>http://welcometobusinesstown.tumblr.com/</link>
-            <guid isPermaLink="false">7d4e2eea-2a98-4cac-84fc-06fc828c59ce</guid>
-            <pubDate>Fri, 18 Dec 2015 14:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2015 Year in Review]]></title>
-            <description><![CDATA[<article><h1>2015 Year in Review</h1><p>Look back at the most talked-about topics of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14602d402f72e2bb6f98db2a6010022ea9eced6c.png"></article>]]></description>
-            <link>http://yearinreview.fb.com/2015/</link>
-            <guid isPermaLink="false">511f27c0-2077-4736-b0df-5cd3685955ae</guid>
-            <pubDate>Fri, 18 Dec 2015 14:34:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Persona]]></title>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>CharAT - Virtual Verification Technology - ViVeTech</h1><p>The name CHARAT stands for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0916e9dc8c9d3a21fa46960e0d7b64f404aca86.jpg"></article>]]></description>
             <link>https://www.vivetech.com/products_charat.html</link>
             <guid isPermaLink="false">e6c5e129-ef4d-4712-b60f-b140383fa67a</guid>
+            <pubDate>Fri, 18 Dec 2015 14:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Animations In Interaction Design: 2016 And Beyond]]></title>
+            <description><![CDATA[<article><h1>Web Animations In Interaction Design: 2016 And Beyond</h1><p>We'll explain web animation's 5 most effective uses, as well as what to expect the near future. But in order to understand where animation is at now and where it's going, you must first know where it came from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6fabca1bc2104803de118a079b77d072f7392d3.png"></article>]]></description>
+            <link>http://studio.uxpin.com/blog/web-animations-in-interaction-design-2016-and-beyond/?utm_source=facebook&amp;utm_medium=uxlink&amp;utm_campaign=&amp;utm_content=blog</link>
+            <guid isPermaLink="false">fdd6f763-7f20-49b6-97c9-bc4789884a8c</guid>
+            <pubDate>Fri, 18 Dec 2015 14:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ViVeMachine - Virtual Verification Technology - ViVeTech]]></title>
+            <description><![CDATA[<article><h1>ViVeMachine - Virtual Verification Technology - ViVeTech</h1><p>ViVeMachine is an engineering toolbar of ViVeLab platform. ViVeMachine makes the simulation, test and analysis of mechanical system controlled by the human possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26dd6c02baec9af6f478a5087c2be41b7a747b72.jpg"></article>]]></description>
+            <link>https://www.vivetech.com/services_virtual_verification_technology.html</link>
+            <guid isPermaLink="false">ae489c02-60f8-4188-85d7-b0fb9c9d2350</guid>
             <pubDate>Fri, 18 Dec 2015 14:33:47 GMT</pubDate>
         </item>
     </channel>
