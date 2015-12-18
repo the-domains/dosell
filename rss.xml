@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:29:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><p></p><img src="http://image-store.slidesharecdn.com/85f5e61c-9427-4920-adf9-821cf823065f-large.jpeg"></article>]]></description>
-            <link>http://image-store.slidesharecdn.com/85f5e61c-9427-4920-adf9-821cf823065f-large.jpeg</link>
-            <guid isPermaLink="false">6736a20f-f104-4246-b7be-3e0ed57e38ca</guid>
-            <pubDate>Fri, 18 Dec 2015 14:29:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The First Person to Hack the iPhone Built a Self-Driving Car. In His Garage.]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Google Developers - Launchpad Accelerator | Home</h1><p>Have you and your team set out to address a real challenge for your home country and region? Are you ready to scale your product by leveraging Google's global reach and local resources? Would you like to join an elite community of startups from around the world?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30db6e8eaf5164c1ce79d746e83c0f170058bd70.gif"></article>]]></description>
             <link>https://developers.google.com/startups/accelerator/</link>
             <guid isPermaLink="false">761a1d91-f03d-417f-86ad-634e9a9b6d08</guid>
+            <pubDate>Fri, 18 Dec 2015 14:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data, Machine Learning and Cyber Security in the Auto Industry]]></title>
+            <description><![CDATA[<article><h1>Data, Machine Learning and Cyber Security in the Auto Industry</h1><p>As the connected car evolves in order to meet the demands of today's mobility customer, data is increasingly central to what is driving new customer experiences and manufacturing processes. In fact, this year the automotive industry is projected to be the second largest generator of data in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d401a2f5963b3d05cef0bfb41452620db10f2a4.jpg"></article>]]></description>
+            <link>http://www.ntti3.com/blog/data-machine-learning-and-cyber-security-in-the-auto-industry</link>
+            <guid isPermaLink="false">3c9699ad-8a31-4a43-a06d-c84e914e6959</guid>
             <pubDate>Fri, 18 Dec 2015 14:28:32 GMT</pubDate>
         </item>
     </channel>
