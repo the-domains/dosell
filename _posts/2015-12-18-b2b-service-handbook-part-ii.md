@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'company innovation, b2b, business to business guide'
-datePublished: '2015-12-18T14:50:11.846Z'
-dateModified: '2015-12-18T14:48:56.863Z'
+datePublished: '2015-12-18T15:09:49.303Z'
+dateModified: '2015-12-18T15:09:42.289Z'
 title: b2b service handbook part II.
 author: []
 sourcePath: _posts/2015-12-18-b2b-service-handbook-part-ii.md
