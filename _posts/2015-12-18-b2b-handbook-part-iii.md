@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'venture innovaton, B2B company reference guide'
-datePublished: '2015-12-18T14:49:53.505Z'
-dateModified: '2015-12-18T14:49:02.242Z'
+datePublished: '2015-12-18T15:08:54.531Z'
+dateModified: '2015-12-18T15:08:43.242Z'
 title: B2B handbook part III.
 author: []
 sourcePath: _posts/2015-12-18-b2b-handbook-part-iii.md
