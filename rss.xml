@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:26:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/dosell/b2b-service-handbook-part-ii/index.html</link>
             <guid isPermaLink="false">5544dffd-56d9-4d92-aaef-415e826cc739</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All-projects]]></title>
-            <description><![CDATA[<article><h1>All-projects</h1><p>Product DevelopmentStratos' experience spans Drug Delivery, Point-of-Care Diagnostics, Consumer Electronics, Digital Health, Catheter Systems, Wearable Devices, Patient Monitoring, Bioprocess Manufacturing and Global Health. Our clients trust us to solve their toughest product development challenges with a constant eye towards commer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebcc58208df800c3e58bd21a12c9108fad6f7ed5.jpg"></article>]]></description>
-            <link>https://www.stratos.com/all-projects</link>
-            <guid isPermaLink="false">51102b91-370f-4286-9a39-2e7b10d5d618</guid>
-            <pubDate>Fri, 18 Dec 2015 14:26:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Get in the Van' and Other Tips for Getting Meaningful Customer Feedback]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p></article>]]></description>
             <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
             <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
+            <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.stratos.com/sites/default/files/styles/1254x604/public/proteus_tile_2col2_0.jpg?itok=P6AWZr8w">]]></description>
+            <link>https://thegrid.ai/dosell/e55d9af8-471f-4460-8a8b-81e06a77b7b4/index.html</link>
+            <guid isPermaLink="false">e55d9af8-471f-4460-8a8b-81e06a77b7b4</guid>
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
         </item>
     </channel>
