@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://b2bhandbook.persona.co'
   name: Persona
-  favicon: 'https://payload.persona.co/favicon/2532-1450302144.ico'
   domain: b2bhandbook.persona.co
+  url: 'https://b2bhandbook.persona.co'
+  favicon: 'https://payload.persona.co/favicon/2532-1450302144.ico'
 keywords:
   - innovators
   - part
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://b2bhandbook.persona.co/'
 title: B2B reference guide for company makers
-datePublished: '2015-12-18T15:36:50.402Z'
-dateModified: '2015-12-18T15:36:02.905Z'
+datePublished: '2015-12-18T15:40:49.816Z'
+dateModified: '2015-12-18T15:37:12.832Z'
 sourcePath: _posts/2015-12-18-b2b-reference-guide-for-company-makers.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
