@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'venture innovaton, B2B company reference guide'
-datePublished: '2015-12-18T14:24:04.526Z'
-dateModified: '2015-12-18T14:20:26.796Z'
+datePublished: '2015-12-18T14:49:53.505Z'
+dateModified: '2015-12-18T14:49:02.242Z'
 title: B2B handbook part III.
 author: []
+sourcePath: _posts/2015-12-18-b2b-handbook-part-iii.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-b2b-handbook-part-iii.md
-published: true
 url: b2b-handbook-part-iii/index.html
 _type: Article
 
