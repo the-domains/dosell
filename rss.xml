@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 14:34:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get the solution provider you have dreamed about]]></title>
@@ -28,6 +28,20 @@
             <pubDate>Fri, 18 Dec 2015 14:24:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Knowledge Wants To Be Free]]></title>
+            <description><![CDATA[<article><h1>Knowledge Wants To Be Free</h1><p>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f05eef042cc0d9451374fa00033bab3bc83bd52.jpg"></article>]]></description>
+            <link>https://www.uxpin.com/knowledge.html</link>
+            <guid isPermaLink="false">eac639c0-d1e4-42f5-b61a-7ef564e5549b</guid>
+            <pubDate>Fri, 18 Dec 2015 14:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://kabertech.com/assets/img/engineer-part1.png">]]></description>
+            <link>https://thegrid.ai/dosell/dac43f26-d70d-4c5d-b384-c5905100fab8/index.html</link>
+            <guid isPermaLink="false">dac43f26-d70d-4c5d-b384-c5905100fab8</guid>
+            <pubDate>Fri, 18 Dec 2015 14:32:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://kabertech.com/assets/img/design-axe-green.png">]]></description>
             <link>https://thegrid.ai/dosell/3431d28b-9f03-4c26-8ffc-1b80c19f9924/index.html</link>
@@ -36,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Kaber Technologies | Product Innovation, Technology Licensing Firm]]></title>
-            <description><![CDATA[<article><h1>Kaber Technologies | Product Innovation, Technology Licensing Firm</h1><p>Kaber is a design and innovation consultancy that helps bring innovative products to market. We specialize in helping industrial companies with engineering, design and prototyping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73dd44f4e0a116b95d4b72e0a522eb88fe309f33.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Kaber Technologies | Product Innovation, Technology Licensing Firm</h1><p>Kaber is a design and innovation consultancy that helps bring innovative products to market. We specialize in helping industrial companies with engineering, design and prototyping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e8349158e498ebb1e2042dd185dd730be80b1a6.png"></article>]]></description>
             <link>http://kabertech.com/</link>
             <guid isPermaLink="false">c3962333-c92e-4f42-9618-b8b7bb8468fe</guid>
             <pubDate>Fri, 18 Dec 2015 14:32:14 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/dosell/c04186f2-67d1-4c5b-a23b-cd888a0a98b5/index.html</link>
             <guid isPermaLink="false">c04186f2-67d1-4c5b-a23b-cd888a0a98b5</guid>
             <pubDate>Fri, 18 Dec 2015 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data, Machine Learning and Cyber Security in the Auto Industry]]></title>
-            <description><![CDATA[<article><h1>Data, Machine Learning and Cyber Security in the Auto Industry</h1><p>As the connected car evolves in order to meet the demands of today's mobility customer, data is increasingly central to what is driving new customer experiences and manufacturing processes. In fact, this year the automotive industry is projected to be the second largest generator of data in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d401a2f5963b3d05cef0bfb41452620db10f2a4.jpg"></article>]]></description>
-            <link>http://www.ntti3.com/blog/data-machine-learning-and-cyber-security-in-the-auto-industry</link>
-            <guid isPermaLink="false">66035e0f-e1a9-451c-ac50-ee20ee925671</guid>
-            <pubDate>Fri, 18 Dec 2015 14:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DoSell]]></title>
-            <description><![CDATA[<article><h1>DoSell</h1><p>We help you outsource design-, engineering and business tasks/processes. DoSell's Founders, Investors, Employees, Recommendations, Videos, Deals & Jobs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc4bae23162196198b82d4d2e3acb88f5a9d5e95.jpg"></article>]]></description>
-            <link>https://www.f6s.com/dosell/about</link>
-            <guid isPermaLink="false">e9c77579-9b61-4192-a118-fb08d845257b</guid>
-            <pubDate>Fri, 18 Dec 2015 14:31:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
