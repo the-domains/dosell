@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://neilpatel.com/2015/12/15/15-powerful-chrome-extensions-thatll-help-your-seo-efforts/?utm_source=email&utm_medium=email&utm_campaign=email'
 title: "15 Powerful Chrome Extensions That'll Help Your SEO Efforts"
-datePublished: '2015-12-18T14:29:59.004Z'
-dateModified: '2015-12-16T13:01:03.676Z'
+datePublished: '2015-12-18T14:31:38.980Z'
+dateModified: '2015-12-15T20:07:15.580Z'
 sourcePath: _posts/2015-12-18-15-powerful-chrome-extensions-thatll-help-your-seo-efforts.md
 published: true
 inFeed: true
