@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 20:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 20:35:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[15 Powerful Chrome Extensions That'll Help Your SEO Efforts]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Fri, 18 Dec 2015 19:02:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Enterprise sales for startups [FREE 1 hour crash course]]]></title>
+            <description><![CDATA[<article><h1>Enterprise sales for startups [FREE 1 hour crash course]</h1><p>Want to sell to large organizations but don't know how to navigate the complex sales cycle? Closing enterprise deals can be a lucrative way of growing your SaaS business-or a long, treacherous process, leaving you with nothing to show for it.</p><img src="http://close.io/static/img/steli_big.jpg"></article>]]></description>
+            <link>http://blog.close.io/enterprise-sales-for-startups-crash-course</link>
+            <guid isPermaLink="false">ff6ba6e1-0072-4152-8a65-3ce7659d1490</guid>
+            <pubDate>Sat, 19 Dec 2015 20:34:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[70 Awesome Tools for Growth Hacking and Bootstrapping your Startup]]></title>
             <description><![CDATA[<article><h1>70 Awesome Tools for Growth Hacking and Bootstrapping your Startup</h1><p>This post compiles an overview of some of the favourite tools and resources for bootstrapping a startup and employing growth hacking tactics. So, these tools will help you work faster and smarter to get your Startup off the ground. They can also help your team to boost the process during and after a Startup Weekend.</p><img src="https://blog.up.co/wp-content/uploads/2015/04/591-800x533.jpg"></article>]]></description>
             <link>https://blog.up.co/2015/04/08/tools-growthhacking-bootstrapping-your-startup/</link>
@@ -68,13 +75,6 @@
             <link>http://cathayassociates.com/2015/10/12/cathay-associates-creates-new-global-business-and-legal-advisory-network/</link>
             <guid isPermaLink="false">4a169194-8456-4e2d-9da7-a04083785959</guid>
             <pubDate>Fri, 18 Dec 2015 21:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nomad Projects]]></title>
-            <description><![CDATA[<article><h1>Nomad Projects</h1><p>Nomad Projects is a platform for digital nomads who want to start a side project. Connect with other nomads so ideas don't stay ideas, but grow into a side project with diverse expertise. Search for nomads that complement your skillset or find side projects you would like to collaborate on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44428c76b0dec2a74b79897bb0ffd479d3ce21ba.jpg"></article>]]></description>
-            <link>http://beta.nomadprojects.io/</link>
-            <guid isPermaLink="false">46b9eb0f-195f-4f12-962c-1eb26a1a8643</guid>
-            <pubDate>Fri, 18 Dec 2015 20:57:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
