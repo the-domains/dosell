@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://b2bhandbook.persona.co/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - innovators
   - part
@@ -17,8 +17,8 @@ keywords:
   - service
   - compressed
 description: "DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST"
-datePublished: '2015-12-18T19:10:30.465Z'
-dateModified: '2015-12-18T19:10:26.895Z'
+datePublished: '2015-12-19T20:50:16.777Z'
+dateModified: '2015-12-19T20:50:08.564Z'
 author: []
 related: []
 app_links: []
