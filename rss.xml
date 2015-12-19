@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 22:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.crowdfunder.com/dosell#slidedeck</link>
             <guid isPermaLink="false">1c4fa123-47cb-44a1-948b-14d05b954e04</guid>
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Startup Tools]]></title>
+            <description><![CDATA[<article><h1>Startup Tools</h1><p>get the full list of current tools for your venture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a19ad25c7b5764f9fcc0ed9351fb32d3aeb3fb50.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
+            <guid isPermaLink="false">3dae5bcd-1d56-4d72-8425-33aba36a01a9</guid>
+            <pubDate>Sat, 19 Dec 2015 22:35:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UX Design Knowledge.Shared]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/contact-us/index.html</link>
             <guid isPermaLink="false">615912aa-e790-404e-8b4e-0c2ce57869bb</guid>
             <pubDate>Sat, 19 Dec 2015 20:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Podcast: Tony Ulwick on Jobs-to-be-Done - Inside Intercom]]></title>
-            <description><![CDATA[<article><h1>Podcast: Tony Ulwick on Jobs-to-be-Done - Inside Intercom</h1><p>Tony Ulwick has spent a quarter-century pioneering the Jobs-to-be-Done method for product design. The founder of innovation consulting firm Strategyn, he's helped hundreds of companies create new goods and services using JTBD principles, as well as his Outcome-Driven Innovation process. The latter is chronicled in Tony's best-selling book What Customers Want .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f8789500fb9257777938d9110344968e863b03.png"></article>]]></description>
-            <link>https://blog.intercom.io/podcast-tony-ulwick-on-jobs-to-be-done/?utm_source=Master+Email+List&amp;utm_campaign=f3dd2bd09a-Strategyzer_Newsletter_December_1812_18_2015&amp;utm_medium=email&amp;utm_term=0_fd75a09316-f3dd2bd09a-334395089&amp;mc_cid=f3dd2bd09a&amp;mc_eid=7cb8f5089a#better-product</link>
-            <guid isPermaLink="false">29ce11b5-9ded-40ae-8189-5d929862b20b</guid>
-            <pubDate>Sat, 19 Dec 2015 20:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
