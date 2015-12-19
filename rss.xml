@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 20:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 20:35:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[15 Powerful Chrome Extensions That'll Help Your SEO Efforts]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Fri, 18 Dec 2015 19:02:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Top 5 Engineering Technology Articles This Week - Dec 13]]></title>
+            <description><![CDATA[<article><h1>Top 5 Engineering Technology Articles This Week - Dec 13</h1><p>Hello all! My top engineering technology picks of the week include how to produce energy with urine, a new medical breakthrough that can stop bleeding in a few seconds and salt that keeps the road clear for many years. Have a great weekend! Silicon Republic Ureaka!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83691216ce0af4fbe210982a733fd84e82569492.jpg"></article>]]></description>
+            <link>http://www.ansys-blog.com/engineering-technology-123/?</link>
+            <guid isPermaLink="false">5a0e5b96-0bd0-4d56-a31b-8f45993de22a</guid>
+            <pubDate>Sat, 19 Dec 2015 20:34:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Enterprise sales for startups [FREE 1 hour crash course]]]></title>
             <description><![CDATA[<article><h1>Enterprise sales for startups [FREE 1 hour crash course]</h1><p>Want to sell to large organizations but don't know how to navigate the complex sales cycle? Closing enterprise deals can be a lucrative way of growing your SaaS business-or a long, treacherous process, leaving you with nothing to show for it.</p><img src="http://close.io/static/img/steli_big.jpg"></article>]]></description>
             <link>http://blog.close.io/enterprise-sales-for-startups-crash-course</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/dosell-or-better-company-faster-services/index.html</link>
             <guid isPermaLink="false">db82e97b-fb82-41ed-ae20-92830bb9282e</guid>
             <pubDate>Fri, 18 Dec 2015 21:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cathay Associates]]></title>
-            <description><![CDATA[<article><h1>Cathay Associates</h1><p>We are proud to announce the launch of Cathay Associates, a global network of high-profile legal offices. We aim to provide the best service for assisting your company at home and abroad. Cathay Associates finds solutions for simplifying a complex market in order to help your business achieve new growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78d502670123bf14c49af6d432814c3211df298f.png"></article>]]></description>
-            <link>http://cathayassociates.com/2015/10/12/cathay-associates-creates-new-global-business-and-legal-advisory-network/</link>
-            <guid isPermaLink="false">4a169194-8456-4e2d-9da7-a04083785959</guid>
-            <pubDate>Fri, 18 Dec 2015 21:01:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
