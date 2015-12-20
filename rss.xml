@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:00:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,6 +35,20 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How I Structured Engineering Teams at LinkedIn and AdMob for Success]]></title>
+            <description><![CDATA[<article><h1>How I Structured Engineering Teams at LinkedIn and AdMob for Success</h1><p>Picture a startup in the middle of hyper-growth. It's adding engineers to keep up, but because its team is outgrowing the limited process it has in place, its product release cadence starts to slow. It's taking longer to check-in and deploy code. Features - then entire products - stop making it all the way to customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fecf9ac9be518f2fead59214361808cde44856b.jpg"></article>]]></description>
+            <link>http://firstround.com/review/how-i-structured-engineering-teams-at-linkedin-and-admob-for-success/</link>
+            <guid isPermaLink="false">9dc98cae-9537-49b3-9f6f-6d73adeba518</guid>
+            <pubDate>Sun, 20 Dec 2015 20:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greenwood Campbell | Digital Agency]]></title>
+            <description><![CDATA[<article><h1>Greenwood Campbell | Digital Agency</h1><p>Move your device around.Tap on touch points to interact. OK, got it Click and drag to look around.Use touch points to interact. OK, got it Greenwood Campbell is the digital agency that focuses on people. People don't browse the internet, they use it to get things done, and they usually don't have much time to do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06428107d8c76a4a1d5f2356930762f2b9aeee7.png"></article>]]></description>
+            <link>http://www.greenwoodcampbell.com/</link>
+            <guid isPermaLink="false">31b262ed-4f7f-4b47-94ad-40856758e0a0</guid>
+            <pubDate>Sun, 20 Dec 2015 20:00:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/KMfujN6vTESm1zhB2jCW_Screen%20Shot%202015-07-22%20at%204.16.55%20PM.png">]]></description>
             <link>https://thegrid.ai/dosell/01871da6-494d-4738-9bd0-1c76bba7209c/index.html</link>
@@ -57,24 +71,10 @@
         </item>
         <item>
             <title><![CDATA[EyeEm Market]]></title>
-            <description><![CDATA[<article><h1>EyeEm Market</h1><p>EyeEm is a free photo & editing app on iPhone & Android. Join our global creative community & marketplace and see where it takes you!</p><img src="https://www.eyeem.com/images/opengraph-default.jpeg"></article>]]></description>
+            <description><![CDATA[<article><h1>EyeEm Market</h1><p>EyeEm is a free photo & editing app on iPhone & Android. Join our global creative community & marketplace and see where it takes you!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eff63b00fd4101f7924ca2ea717148231db4c1c.jpg"></article>]]></description>
             <link>https://www.eyeem.com/market/sell/start#_=_</link>
             <guid isPermaLink="false">43a57d02-a6ff-4f5d-baa4-e3cf5db0d9e7</guid>
             <pubDate>Sun, 20 Dec 2015 19:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flat Design Gallery & Showcase * An inspirational resource for designers * Flat Inspire]]></title>
-            <description><![CDATA[<article><h1>Flat Design Gallery & Showcase * An inspirational resource for designers * Flat Inspire</h1><p>Flat Inspire is a curated gallery of the best examples of Flat UI Design from the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afb1bc9db5a7b1c56043a5eba388495cedafb02.jpg"></article>]]></description>
-            <link>http://flatinspire.com/</link>
-            <guid isPermaLink="false">5227e631-e670-4633-9b74-1acb910d7239</guid>
-            <pubDate>Sun, 20 Dec 2015 19:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UP Global - Home page]]></title>
-            <description><![CDATA[<article><h1>UP Global - Home page</h1><p>Whether you are preparing to launch your first company, seeking connections to industry leaders, or curious about entrepreneurship, we offer a range of programs that help you learn and grow as an innovator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cce7db9cb58a6043e336c356f023966a68837bd.jpg"></article>]]></description>
-            <link>http://www.up.co/</link>
-            <guid isPermaLink="false">9136dc02-fdbc-4b34-a947-28e92037b1cc</guid>
-            <pubDate>Sun, 20 Dec 2015 17:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
