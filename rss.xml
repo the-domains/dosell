@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:10:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GROWTHVERSE | Marketing Landscape]]></title>
+            <description><![CDATA[<article><h1>GROWTHVERSE | Marketing Landscape</h1><p>An interactive visualization of the marketing universe. With input from over 100 CMOs Growthverse represents a taxonomy of the marketing technology ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/253cf91e5579c9830e8d8f1e20f1b5c297396dcd.png"></article>]]></description>
+            <link>http://www.growthverse.com/overview</link>
+            <guid isPermaLink="false">2f836a16-a8f0-4e7c-b9a9-a551630e92d8</guid>
+            <pubDate>Sun, 20 Dec 2015 20:10:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wiselike]]></title>
-            <description><![CDATA[<article><h1>Wiselike</h1><p>Create your own professional Q&A page. Ask anyone to share their expertise and passions with you. Get recognized as an expert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51140c222f9b42248a08204fe9978f854e5d6176.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Wiselike</h1><p>Create your own professional Q&A page. Ask anyone to share their expertise and passions with you. Get recognized as an expert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f00a3e8052646e8ba11169c511a32ec0b85e4f57.gif"></article>]]></description>
             <link>https://wiselike.com/</link>
             <guid isPermaLink="false">29baa15b-6fca-402e-af4e-1ea7964c6df1</guid>
             <pubDate>Sun, 20 Dec 2015 20:04:06 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Greenwood Campbell | Digital Agency</h1><p>Move your device around.Tap on touch points to interact. OK, got it Click and drag to look around.Use touch points to interact. OK, got it Greenwood Campbell is the digital agency that focuses on people. People don't browse the internet, they use it to get things done, and they usually don't have much time to do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06428107d8c76a4a1d5f2356930762f2b9aeee7.png"></article>]]></description>
             <link>http://www.greenwoodcampbell.com/</link>
             <guid isPermaLink="false">31b262ed-4f7f-4b47-94ad-40856758e0a0</guid>
-            <pubDate>Sun, 20 Dec 2015 20:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/KMfujN6vTESm1zhB2jCW_Screen%20Shot%202015-07-22%20at%204.16.55%20PM.png">]]></description>
-            <link>https://thegrid.ai/dosell/01871da6-494d-4738-9bd0-1c76bba7209c/index.html</link>
-            <guid isPermaLink="false">01871da6-494d-4738-9bd0-1c76bba7209c</guid>
             <pubDate>Sun, 20 Dec 2015 20:00:16 GMT</pubDate>
         </item>
     </channel>
