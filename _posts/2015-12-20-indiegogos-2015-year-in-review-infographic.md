@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html'
 title: "Indiegogo's 2015 Year In Review [Infographic]"
-datePublished: '2015-12-20T17:34:25.075Z'
-dateModified: '2015-12-20T17:04:54.897Z'
+datePublished: '2015-12-20T17:34:29.480Z'
+dateModified: '2015-12-20T07:58:03.697Z'
 sourcePath: _posts/2015-12-20-indiegogos-2015-year-in-review-infographic.md
 published: true
 inFeed: true
