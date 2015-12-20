@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:18:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.crowdfunder.com/dosell#slidedeck</link>
             <guid isPermaLink="false">1c4fa123-47cb-44a1-948b-14d05b954e04</guid>
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mobility design M+D crutches use elbows not armpits]]></title>
+            <description><![CDATA[<article><h1>mobility design M+D crutches use elbows not armpits</h1><p>mobility design creates M+D crutches that use elbows, not armpits mobility design creates M+D crutches that use elbows, not armpits all images courtesy of mobility design whether it's a temporary need or a long-term condition, dealing with restricted mobility should be painfree™.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f4d0afef6a2af4c38389fe3ba07432b5fbfb1ee.jpg"></article>]]></description>
+            <link>http://www.designboom.com/design/mobility-design-crutches-12-19-2015/?utm_content=bufferc72d9&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">b5908175-b8ee-40b4-a61d-9a497313f247</guid>
+            <pubDate>Sun, 20 Dec 2015 20:18:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EyeEm Market]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Stormpath CTO on Designing a Beautiful REST+JSON API</h1><p>My name is I'm the CTO, co-founder of Les Hazlewood. Stormpath. We ust like you might use solve those problems so you as developers don't have to worry about that issue anymore. Of course, we offer developer tools, open source SDKs that wrap our REST+JSON API. That's us. Give us a shot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99947a4df32c23230c658eac7be18c25596adc00.jpg"></article>]]></description>
             <link>http://www.heavybit.com/library/video/2013-04-24-les-hazlewood</link>
             <guid isPermaLink="false">27d9ba95-e5c1-4101-a7b0-14a6fd7ea863</guid>
-            <pubDate>Sun, 20 Dec 2015 20:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Structured Engineering Teams at LinkedIn and AdMob for Success]]></title>
-            <description><![CDATA[<article><h1>How I Structured Engineering Teams at LinkedIn and AdMob for Success</h1><p>Picture a startup in the middle of hyper-growth. It's adding engineers to keep up, but because its team is outgrowing the limited process it has in place, its product release cadence starts to slow. It's taking longer to check-in and deploy code. Features - then entire products - stop making it all the way to customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89c41067e746d27857731d54fd4afe593133d77c.jpg"></article>]]></description>
-            <link>http://firstround.com/review/how-i-structured-engineering-teams-at-linkedin-and-admob-for-success/</link>
-            <guid isPermaLink="false">9dc98cae-9537-49b3-9f6f-6d73adeba518</guid>
             <pubDate>Sun, 20 Dec 2015 20:00:36 GMT</pubDate>
         </item>
     </channel>
