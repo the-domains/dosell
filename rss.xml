@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:00:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -33,13 +33,6 @@
             <link>https://www.crowdfunder.com/dosell#slidedeck</link>
             <guid isPermaLink="false">1c4fa123-47cb-44a1-948b-14d05b954e04</guid>
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greenwood Campbell | Digital Agency]]></title>
-            <description><![CDATA[<article><h1>Greenwood Campbell | Digital Agency</h1><p>Move your device around.Tap on touch points to interact. OK, got it Click and drag to look around.Use touch points to interact. OK, got it Greenwood Campbell is the digital agency that focuses on people. People don't browse the internet, they use it to get things done, and they usually don't have much time to do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63611c598edbc6fadf99a4c97f70707410f6ce7e.png"></article>]]></description>
-            <link>http://www.greenwoodcampbell.com/</link>
-            <guid isPermaLink="false">31b262ed-4f7f-4b47-94ad-40856758e0a0</guid>
-            <pubDate>Sun, 20 Dec 2015 20:00:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://flatinspire.com/</link>
             <guid isPermaLink="false">5227e631-e670-4633-9b74-1acb910d7239</guid>
             <pubDate>Sun, 20 Dec 2015 19:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UP Global - Home page]]></title>
+            <description><![CDATA[<article><h1>UP Global - Home page</h1><p>Whether you are preparing to launch your first company, seeking connections to industry leaders, or curious about entrepreneurship, we offer a range of programs that help you learn and grow as an innovator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cce7db9cb58a6043e336c356f023966a68837bd.jpg"></article>]]></description>
+            <link>http://www.up.co/</link>
+            <guid isPermaLink="false">9136dc02-fdbc-4b34-a947-28e92037b1cc</guid>
+            <pubDate>Sun, 20 Dec 2015 17:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
