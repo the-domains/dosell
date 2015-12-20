@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 17:35:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,6 +35,20 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Indiegogo's 2015 Year In Review [Infographic]]]></title>
+            <description><![CDATA[<article><h1>Indiegogo's 2015 Year In Review [Infographic]</h1><p>2015 was an incredible year for Indiegogo. More than 2.5 million people from 226 countries and territories contributed to 175,479 campaigns, ranging from innovative technology, to creative film and entertainment, to social impact. A father-son duo revolutionized beekeeping and made honey-on-tap accessible to anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce814f7c85d8605973150e14fad8d7056c4a4486.jpg"></article>]]></description>
+            <link>https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html</link>
+            <guid isPermaLink="false">42f78a22-308f-4349-b743-2abc21af9343</guid>
+            <pubDate>Sun, 20 Dec 2015 17:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[70 Awesome Tools for Growth Hacking and Bootstrapping your Startup]]></title>
+            <description><![CDATA[<article><h1>70 Awesome Tools for Growth Hacking and Bootstrapping your Startup</h1><p>This post compiles an overview of some of the favourite tools and resources for bootstrapping a startup and employing growth hacking tactics. So, these tools will help you work faster and smarter to get your Startup off the ground. They can also help your team to boost the process during and after a Startup Weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90200d3745743acdff1332eab1e3a0c8527a2b21.jpg"></article>]]></description>
+            <link>https://blog.up.co/2015/04/08/tools-growthhacking-bootstrapping-your-startup/</link>
+            <guid isPermaLink="false">826924cb-27e2-4bd0-a8a9-52816ea0fcd2</guid>
+            <pubDate>Sun, 20 Dec 2015 17:34:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Startup Tools]]></title>
             <description><![CDATA[<article><h1>Startup Tools</h1><p>get the full list of current tools for your venture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a19ad25c7b5764f9fcc0ed9351fb32d3aeb3fb50.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/dosell/dosell-or-resources/index.html</link>
             <guid isPermaLink="false">a60f0863-acd6-47ba-b0ed-9454e363c684</guid>
             <pubDate>Sat, 19 Dec 2015 20:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six Month Challenge - Life experiments]]></title>
-            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5046caad3de69c2b78a7f03dad5720625d9787c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
-            <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
-            <pubDate>Fri, 18 Dec 2015 19:02:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact us]]></title>
-            <description><![CDATA[<article><h1>Contact us</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d6f9a200d893b94f2c0082f7901afea49b7ba19.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/contact-us/index.html</link>
-            <guid isPermaLink="false">615912aa-e790-404e-8b4e-0c2ce57869bb</guid>
-            <pubDate>Sat, 19 Dec 2015 20:37:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
