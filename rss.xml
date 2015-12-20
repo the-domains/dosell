@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 17:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 17:35:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -33,13 +33,6 @@
             <link>https://www.crowdfunder.com/dosell#slidedeck</link>
             <guid isPermaLink="false">1c4fa123-47cb-44a1-948b-14d05b954e04</guid>
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indiegogo's 2015 Year In Review [Infographic]]]></title>
-            <description><![CDATA[<article><h1>Indiegogo's 2015 Year In Review [Infographic]</h1><p>2015 was an incredible year for Indiegogo. More than 2.5 million people from 226 countries and territories contributed to 175,479 campaigns, ranging from innovative technology, to creative film and entertainment, to social impact. A father-son duo revolutionized beekeeping and made honey-on-tap accessible to anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce814f7c85d8605973150e14fad8d7056c4a4486.jpg"></article>]]></description>
-            <link>https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html</link>
-            <guid isPermaLink="false">42f78a22-308f-4349-b743-2abc21af9343</guid>
-            <pubDate>Sun, 20 Dec 2015 17:34:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[70 Awesome Tools for Growth Hacking and Bootstrapping your Startup]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/dosell/dosell-or-resources/index.html</link>
             <guid isPermaLink="false">a60f0863-acd6-47ba-b0ed-9454e363c684</guid>
             <pubDate>Sat, 19 Dec 2015 20:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Month Challenge - Life experiments]]></title>
+            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5046caad3de69c2b78a7f03dad5720625d9787c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
+            <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
+            <pubDate>Fri, 18 Dec 2015 19:02:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
