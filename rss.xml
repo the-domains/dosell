@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 17:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 17:35:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,6 +35,20 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Happens Next Will Amaze You]]></title>
+            <description><![CDATA[<article><h1>What Happens Next Will Amaze You</h1><p>Soon the web was infested with all manner of trackers, beacons, pixels, tracking cookies and bugs. Companies learned to pool their data so they could follow customers across many sites. They created user profiles of everyone using the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/313f2897a44d93f827639f1e054c60cf62733696.jpg"></article>]]></description>
+            <link>http://idlewords.com/talks/what_happens_next_will_amaze_you.htm</link>
+            <guid isPermaLink="false">5d7fb608-3025-4b29-ae7c-9165d1221f9b</guid>
+            <pubDate>Sun, 20 Dec 2015 17:34:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UP Global - Get Involved]]></title>
+            <description><![CDATA[<article><h1>UP Global - Get Involved</h1><p>I want to prove to the world that from Nablus, a 3rd world city in a country under occupation, something Big can happen and we can make change and impact and help the whole world with our creativity and innovation. There is huge potential and great minds here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b27645eeaedefa310204aded84ba454382f9bd3c.jpg"></article>]]></description>
+            <link>http://www.up.co/get-involved</link>
+            <guid isPermaLink="false">63e45fbd-fc15-49a4-917a-6be7ed8ea2f4</guid>
+            <pubDate>Sun, 20 Dec 2015 17:34:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[EU Data Protection Deal Confirmed: Overview, Next Steps]]></title>
             <description><![CDATA[<article><h1>EU Data Protection Deal Confirmed: Overview, Next Steps</h1><p>Today the European Parliament Civil Liberties, Justice and Home Affairs Committee today confirmed the General Data Protection Regulation (GDPR). The substance of the legislation (summarized here) met with mixed reactions, its next steps are clearly defined under EU law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0ae782c64c0f712001ffe52ce9c13bbf63e85da.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/lisabrownlee/2015/12/17/eu-data-protection-deal-confirmed-overview-next-steps/</link>
@@ -61,20 +75,6 @@
             <link>https://www.zuora.com/</link>
             <guid isPermaLink="false">47092d24-a980-44dc-9bf3-4494eaae6c8e</guid>
             <pubDate>Sun, 20 Dec 2015 17:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indiegogo's 2015 Year In Review [Infographic]]]></title>
-            <description><![CDATA[<article><h1>Indiegogo's 2015 Year In Review [Infographic]</h1><p>2015 was an incredible year for Indiegogo. More than 2.5 million people from 226 countries and territories contributed to 175,479 campaigns, ranging from innovative technology, to creative film and entertainment, to social impact. A father-son duo revolutionized beekeeping and made honey-on-tap accessible to anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce814f7c85d8605973150e14fad8d7056c4a4486.jpg"></article>]]></description>
-            <link>https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html</link>
-            <guid isPermaLink="false">42f78a22-308f-4349-b743-2abc21af9343</guid>
-            <pubDate>Sun, 20 Dec 2015 17:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[70 Awesome Tools for Growth Hacking and Bootstrapping your Startup]]></title>
-            <description><![CDATA[<article><h1>70 Awesome Tools for Growth Hacking and Bootstrapping your Startup</h1><p>This post compiles an overview of some of the favourite tools and resources for bootstrapping a startup and employing growth hacking tactics. So, these tools will help you work faster and smarter to get your Startup off the ground. They can also help your team to boost the process during and after a Startup Weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90200d3745743acdff1332eab1e3a0c8527a2b21.jpg"></article>]]></description>
-            <link>https://blog.up.co/2015/04/08/tools-growthhacking-bootstrapping-your-startup/</link>
-            <guid isPermaLink="false">826924cb-27e2-4bd0-a8a9-52816ea0fcd2</guid>
-            <pubDate>Sun, 20 Dec 2015 17:34:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
