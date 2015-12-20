@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:04:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wiselike]]></title>
+            <description><![CDATA[<article><h1>Wiselike</h1><p>Create your own professional Q&A page. Ask anyone to share their expertise and passions with you. Get recognized as an expert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51140c222f9b42248a08204fe9978f854e5d6176.gif"></article>]]></description>
+            <link>https://wiselike.com/</link>
+            <guid isPermaLink="false">29baa15b-6fca-402e-af4e-1ea7964c6df1</guid>
+            <pubDate>Sun, 20 Dec 2015 20:04:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SimilarWeb.com - Competitive Intelligence Tool]]></title>
-            <description><![CDATA[<article><h1>SimilarWeb.com - Competitive Intelligence Tool</h1><p>Compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64dfe6d5d85f1b416280c03bbc8a87935bc11246.png"></article>]]></description>
+            <description><![CDATA[<article><h1>SimilarWeb.com - Competitive Intelligence Tool</h1><p>Compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c038370d2bc52c1dab7bf09e3dc90cb839401e1.png"></article>]]></description>
             <link>http://www.similarweb.com/</link>
             <guid isPermaLink="false">a7145480-f66d-45b2-9629-af24dfe0f90a</guid>
             <pubDate>Sun, 20 Dec 2015 20:01:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/01871da6-494d-4738-9bd0-1c76bba7209c/index.html</link>
             <guid isPermaLink="false">01871da6-494d-4738-9bd0-1c76bba7209c</guid>
             <pubDate>Sun, 20 Dec 2015 20:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Curated creative design and development resources | oozled]]></title>
-            <description><![CDATA[<article><h1>Curated creative design and development resources | oozled</h1><p>oozled is the largest curated list of creative resources online. Create a beautiful feed for free today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83f10840a1ce77d91c89a30bc9a9fb0b62c72c3.jpg"></article>]]></description>
-            <link>http://oozled.com/</link>
-            <guid isPermaLink="false">ef821b4c-3e7c-4dd2-bd5c-8b21fb676401</guid>
-            <pubDate>Sun, 20 Dec 2015 19:59:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
