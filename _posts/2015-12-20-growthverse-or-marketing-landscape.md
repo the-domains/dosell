@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.growthverse.com/overview'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - companies
   - engagement
 description: An interactive visualization of the marketing universe. With input from over 100 CMOs Growthverse represents a taxonomy of the marketing technology ecosystem.
-datePublished: '2015-12-20T20:10:51.196Z'
-dateModified: '2015-12-20T20:10:44.803Z'
+datePublished: '2015-12-20T20:17:18.326Z'
+dateModified: '2015-12-20T20:17:14.247Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.growthverse.com
   url: 'http://www.growthverse.com'
   favicon: 'http://www.growthverse.com/assets/images/favicon.png'
+url: growthverse-or-marketing-landscape/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
