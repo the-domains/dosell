@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://blog.intercom.io/podcast-tony-ulwick-on-jobs-to-be-done/?utm_source=Master+Email+List&utm_campaign=f3dd2bd09a-Strategyzer_Newsletter_December_1812_18_2015&utm_medium=email&utm_term=0_fd75a09316-f3dd2bd09a-334395089&mc_cid=f3dd2bd09a&mc_eid=7cb8f5089a#better-product'
+inLanguage: en
+starred: false
+keywords:
+  - unmet
+  - needs
+  - job
+  - segmenting
+  - tony
+  - done
+  - metrics
+  - product
+  - marketing
+  - getting
+description: "Tony Ulwick has spent a quarter-century pioneering the Jobs-to-be-Done method for product design. The founder of innovation consulting firm Strategyn, he's helped hundreds of companies create new goods and services using JTBD principles, as well as his Outcome-Driven Innovation process. The latter is chronicled in Tony's best-selling book What Customers Want ."
+datePublished: '2015-12-21T10:20:33.500Z'
+dateModified: '2015-12-21T10:20:28.817Z'
 author: []
 related:
   - score: 0.5378414392
@@ -22,36 +42,18 @@ related:
     thumbnail_height: 235
     thumbnail_url: 'https://cdn-images-1.medium.com/max/800/1*4b68ykk3H34KXVzqcHC3oA.png'
     thumbnail_width: 800
-publisher:
-  url: 'https://blog.intercom.io'
-  name: Inside Intercom
-  favicon: 'https://marketing.intercomassets.com/assets/favicon-d43b76a6a379bc237a54703bdb91d27a59b43929677efd6fbb722a005ea2a474.png'
-  domain: blog.intercom.io
-keywords:
-  - unmet
-  - needs
-  - job
-  - segmenting
-  - tony
-  - done
-  - metrics
-  - product
-  - marketing
-  - getting
-description: "Tony Ulwick has spent a quarter-century pioneering the Jobs-to-be-Done method for product design. The founder of innovation consulting firm Strategyn, he's helped hundreds of companies create new goods and services using JTBD principles, as well as his Outcome-Driven Innovation process. The latter is chronicled in Tony's best-selling book What Customers Want ."
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://blog.intercom.io/podcast-tony-ulwick-on-jobs-to-be-done/?utm_source=Master+Email+List&utm_campaign=f3dd2bd09a-Strategyzer_Newsletter_December_1812_18_2015&utm_medium=email&utm_term=0_fd75a09316-f3dd2bd09a-334395089&mc_cid=f3dd2bd09a&mc_eid=7cb8f5089a#better-product'
 title: 'Podcast: Tony Ulwick on Jobs-to-be-Done - Inside Intercom'
-datePublished: '2015-12-19T20:34:40.192Z'
-dateModified: '2015-12-19T16:05:22.597Z'
 sourcePath: _posts/2015-12-19-podcast-tony-ulwick-on-jobs-to-be-done-inside-intercom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Inside Intercom
+  domain: blog.intercom.io
+  url: 'https://blog.intercom.io'
+  favicon: 'https://marketing.intercomassets.com/assets/favicon-d43b76a6a379bc237a54703bdb91d27a59b43929677efd6fbb722a005ea2a474.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Podcast&amp;colon; Tony Ulwick on Jobs-to-be-Done - Inside Intercom</h1><p>Tony Ulwick has spent a quarter-century pioneering the Jobs-to-be-Done method for product design&amp;period; The founder of innovation consulting firm Strategyn&amp;comma; he's helped hundreds of companies create new goods and services using JTBD principles&amp;comma; as well as his Outcome-Driven Innovation process&amp;period; The latter is chronicled in Tony's best-selling book What Customers Want &amp;period;</p><img src="https://blog.intercomassets.com/wp-content/uploads/2015/12/09184759/Einstein-quote.png" /></article>
+<article style=""><h1>Podcast: Tony Ulwick on Jobs-to-be-Done - Inside Intercom</h1><p>Tony Ulwick has spent a quarter-century pioneering the Jobs-to-be-Done method for product design. The founder of innovation consulting firm Strategyn, he's helped hundreds of companies create new goods and services using JTBD principles, as well as his Outcome-Driven Innovation process. The latter is chronicled in Tony's best-selling book What Customers Want .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f8789500fb9257777938d9110344968e863b03.png" /></article>
