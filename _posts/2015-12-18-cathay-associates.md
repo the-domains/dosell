@@ -17,8 +17,8 @@ keywords:
   - network
   - office
 description: 'We are proud to announce the launch of Cathay Associates, a global network of high-profile legal offices. We aim to provide the best service for assisting your company at home and abroad. Cathay Associates finds solutions for simplifying a complex market in order to help your business achieve new growth.'
-datePublished: '2015-12-18T21:01:43.149Z'
-dateModified: '2015-12-18T21:01:24.452Z'
+datePublished: '2015-12-21T10:26:08.661Z'
+dateModified: '2015-12-21T10:26:05.492Z'
 author:
   - name: m4rci
     url: 'http://cathayassociates.com/author/m4rci/'
@@ -38,6 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cathay Associates</h1><p>We are proud to announce the launch of Cathay Associates, a global network of high-profile legal offices. We aim to provide the best service for assisting your company at home and abroad. Cathay Associates finds solutions for simplifying a complex market in order to help your business achieve new growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38c95c7baaccf30c216ca536b12e7f2721d15b7c.png" /></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5386a37-e6a9-49de-9646-b04947e431c6.jpg)
+
+<article style=""><h1>Cathay Associates</h1><p>We are proud to announce the launch of Cathay Associates, a global network of high-profile legal offices. We aim to provide the best service for assisting your company at home and abroad. Cathay Associates finds solutions for simplifying a complex market in order to help your business achieve new growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38c95c7baaccf30c216ca536b12e7f2721d15b7c.png" /></article>
