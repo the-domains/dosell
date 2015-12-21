@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'This post compiles an overview of some of the favourite tools and resources for bootstrapping a startup and employing growth hacking tactics. So, these tools will help you work faster and smarter to get your Startup off the ground. They can also help your team to boost the process during and after a Startup Weekend. So, have a look at these tools first to know best which tool to use when.'
-datePublished: '2015-12-21T13:44:43.170Z'
-dateModified: '2015-12-21T13:44:27.635Z'
+datePublished: '2015-12-21T22:24:52.668Z'
+dateModified: '2015-12-21T22:24:47.684Z'
 title: 70 Awesome Tools for Growth Hacking and Bootstrapping your Startup
 author: []
 authors: []
