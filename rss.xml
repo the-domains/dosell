@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 10:16:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,6 +35,20 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Startup Tools]]></title>
+            <description><![CDATA[<article><h1>Startup Tools</h1><p>get the full list of current tools for your venture</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a19ad25c7b5764f9fcc0ed9351fb32d3aeb3fb50.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
+            <guid isPermaLink="false">3dae5bcd-1d56-4d72-8425-33aba36a01a9</guid>
+            <pubDate>Mon, 21 Dec 2015 10:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><p>From "aha" to "oh shit", I'm sharing everything on my journey to 100,000 monthly visitors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/568b761c3508dcb3d43458152a91ab76d26f6caf.jpg"></article>]]></description>
+            <link>http://neilpatel.com/blog/</link>
+            <guid isPermaLink="false">cb4198ff-6954-4cc3-abfe-e0a70a99c34c</guid>
+            <pubDate>Mon, 21 Dec 2015 10:13:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Best Trips 2016 -- National Geographic Traveler]]></title>
             <description><![CDATA[<article><h1>Best Trips 2016 -- National Geographic Traveler</h1><p>Whether it's Greenland's Nuuk fjords or Poland's great lakes, these 20 go-now destinations will send you packing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae584ac9f2cf9f7052d6660f71935e5a04fdd7c0.jpg"></article>]]></description>
             <link>http://travel.nationalgeographic.com/travel/best-trips-2016/?sf17454778=1</link>
@@ -43,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Bessemer's Commandments for Dev-Focused Companies]]></title>
-            <description><![CDATA[<article><h1>Bessemer's Commandments for Dev-Focused Companies</h1><p>Ethan Kurzweil is a partner at Bessemer Venture Partners. He has led BVP's investments in Twilio, SendGrid, & Crowdflower and is responsible for Bessemer's roadmap on developer platforms. He has a unique perspective on what investors are looking for in developer-focused businesses & what it takes to build a big company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b0831e456154ff17657e0aa309829b97df6f0a9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bessemer's Commandments for Dev-Focused Companies</h1><p>Ethan Kurzweil is a partner at Bessemer Venture Partners. He has led BVP's investments in Twilio, SendGrid, & Crowdflower and is responsible for Bessemer's roadmap on developer platforms. He has a unique perspective on what investors are looking for in developer-focused businesses & what it takes to build a big company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f684e132f0e2a45a1f6db7355b9515b400039d06.jpg"></article>]]></description>
             <link>http://www.heavybit.com/library/video/2013-10-01-ethan-kurzweil</link>
             <guid isPermaLink="false">7fcce0b1-3d29-4a02-8617-e81ec9c73fd6</guid>
             <pubDate>Mon, 21 Dec 2015 10:13:04 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.designboom.com/design/mobility-design-crutches-12-19-2015/?utm_content=bufferc72d9&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">b5908175-b8ee-40b4-a61d-9a497313f247</guid>
             <pubDate>Sun, 20 Dec 2015 20:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EyeEm Market]]></title>
-            <description><![CDATA[<article><h1>EyeEm Market</h1><p>EyeEm is a free photo & editing app on iPhone & Android. Join our global creative community & marketplace and see where it takes you!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321eedb8c224ed87670ffe3fa8c5fff496587a83.jpg"></article>]]></description>
-            <link>https://www.eyeem.com/market/sell/start#_=_</link>
-            <guid isPermaLink="false">43a57d02-a6ff-4f5d-baa4-e3cf5db0d9e7</guid>
-            <pubDate>Sun, 20 Dec 2015 20:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GROWTHVERSE | Marketing Landscape]]></title>
-            <description><![CDATA[<article><h1>GROWTHVERSE | Marketing Landscape</h1><p>An interactive visualization of the marketing universe. With input from over 100 CMOs Growthverse represents a taxonomy of the marketing technology ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18235c2a03a852c091fe9dd74ab8db11ead717ff.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/growthverse-or-marketing-landscape/index.html</link>
-            <guid isPermaLink="false">2f836a16-a8f0-4e7c-b9a9-a551630e92d8</guid>
-            <pubDate>Sun, 20 Dec 2015 20:17:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
