@@ -4,8 +4,15 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 10:24:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Six Month Challenge - Life experiments]]></title>
+            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1bf0216-c5b8-4552-b67d-3d6ebf184604.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
+            <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
+            <pubDate>Mon, 21 Dec 2015 10:24:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
             <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9985067a633a880347ae52211a262e7b2bb3ef40.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Best Trips 2016 -- National Geographic Traveler</h1><p>Whether it's Greenland's Nuuk fjords or Poland's great lakes, these 20 go-now destinations will send you packing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beb93dc33ed024e0d46d5333944471cac8b2888e.jpg"></article>]]></description>
             <link>http://travel.nationalgeographic.com/travel/best-trips-2016/?sf17454778=1</link>
             <guid isPermaLink="false">e2617316-49b3-4a42-9521-ba412f4b88e9</guid>
-            <pubDate>Mon, 21 Dec 2015 10:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bessemer's Commandments for Dev-Focused Companies]]></title>
-            <description><![CDATA[<article><h1>Bessemer's Commandments for Dev-Focused Companies</h1><p>Ethan Kurzweil is a partner at Bessemer Venture Partners. He has led BVP's investments in Twilio, SendGrid, & Crowdflower and is responsible for Bessemer's roadmap on developer platforms. He has a unique perspective on what investors are looking for in developer-focused businesses & what it takes to build a big company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f684e132f0e2a45a1f6db7355b9515b400039d06.jpg"></article>]]></description>
-            <link>http://www.heavybit.com/library/video/2013-10-01-ethan-kurzweil</link>
-            <guid isPermaLink="false">7fcce0b1-3d29-4a02-8617-e81ec9c73fd6</guid>
             <pubDate>Mon, 21 Dec 2015 10:13:04 GMT</pubDate>
         </item>
     </channel>
