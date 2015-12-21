@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></title>
-        <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
+        <title><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></title>
+        <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 13:35:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Growthverse: Interactive marketing tools overview]]></title>
+            <description><![CDATA[<article><h1>Growthverse: Interactive marketing tools overview</h1><p>Growthverse was built for marketers, by marketers, with input from more than 100 CMOs </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14a932d7-5d2b-4d6b-9a7e-1e614673b34a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/growthverse-interactive-marketing-tools-overview/index.html</link>
+            <guid isPermaLink="false">658d5ef8-e47b-4738-a2ad-61171e0a6e10</guid>
+            <pubDate>Mon, 21 Dec 2015 13:35:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Six Month Challenge - Life experiments]]></title>
-            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7473d2858aa323466c79c0cb13cfc86aafe7bd20.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f6c5b524b7935f9533479b8819c76d16781b2a6.png"></article>]]></description>
             <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
             <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
             <pubDate>Mon, 21 Dec 2015 10:31:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.intercom.io/podcast-tony-ulwick-on-jobs-to-be-done/?utm_source=Master+Email+List&amp;utm_campaign=f3dd2bd09a-Strategyzer_Newsletter_December_1812_18_2015&amp;utm_medium=email&amp;utm_term=0_fd75a09316-f3dd2bd09a-334395089&amp;mc_cid=f3dd2bd09a&amp;mc_eid=7cb8f5089a#better-product</link>
             <guid isPermaLink="false">29ce11b5-9ded-40ae-8189-5d929862b20b</guid>
             <pubDate>Mon, 21 Dec 2015 10:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UX Design Knowledge Shared]]></title>
-            <description><![CDATA[<article><h1>UX Design Knowledge Shared</h1><p>Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82173db7b214829a81fa3032611fd9322688262e.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/ux-design-knowledgeshared/index.html</link>
-            <guid isPermaLink="false">e6a9e067-5f16-469f-9b3e-378d5b7ac34c</guid>
-            <pubDate>Mon, 21 Dec 2015 10:18:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
