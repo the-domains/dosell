@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T20:21:50.563Z'
-dateModified: '2015-12-20T20:21:34.249Z'
+datePublished: '2015-12-21T22:25:22.590Z'
+dateModified: '2015-12-21T22:25:17.924Z'
 title: Tech Video Library
 author: []
 authors: []
