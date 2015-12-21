@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 10:13:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Fri, 18 Dec 2015 15:58:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bessemer's Commandments for Dev-Focused Companies]]></title>
+            <description><![CDATA[<article><h1>Bessemer's Commandments for Dev-Focused Companies</h1><p>Ethan Kurzweil is a partner at Bessemer Venture Partners. He has led BVP's investments in Twilio, SendGrid, & Crowdflower and is responsible for Bessemer's roadmap on developer platforms. He has a unique perspective on what investors are looking for in developer-focused businesses & what it takes to build a big company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b0831e456154ff17657e0aa309829b97df6f0a9.jpg"></article>]]></description>
+            <link>http://www.heavybit.com/library/video/2013-10-01-ethan-kurzweil</link>
+            <guid isPermaLink="false">7fcce0b1-3d29-4a02-8617-e81ec9c73fd6</guid>
+            <pubDate>Mon, 21 Dec 2015 10:13:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tech Video Library]]></title>
-            <description><![CDATA[<article><h1>Tech Video Library</h1><p>Get the latest start-up, technology, marketing videos from Heavybit</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2fe8b8c-d2d7-45c8-9d76-140717907d40.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tech Video Library</h1><p>Get the latest start-up, technology, marketing videos from Heavybit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/371897ec3158e413ad254161a309c92fcb1b9218.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/tech-video-library/index.html</link>
             <guid isPermaLink="false">61d7482c-8a02-48a2-96c0-fab3b9dc594a</guid>
             <pubDate>Sun, 20 Dec 2015 20:21:50 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://wiselike.com/</link>
             <guid isPermaLink="false">29baa15b-6fca-402e-af4e-1ea7964c6df1</guid>
             <pubDate>Sun, 20 Dec 2015 20:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SimilarWeb.com - Competitive Intelligence Tool]]></title>
-            <description><![CDATA[<article><h1>SimilarWeb.com - Competitive Intelligence Tool</h1><p>Compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c038370d2bc52c1dab7bf09e3dc90cb839401e1.png"></article>]]></description>
-            <link>http://www.similarweb.com/</link>
-            <guid isPermaLink="false">a7145480-f66d-45b2-9629-af24dfe0f90a</guid>
-            <pubDate>Sun, 20 Dec 2015 20:01:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
