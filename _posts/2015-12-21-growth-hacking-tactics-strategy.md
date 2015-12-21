@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T22:22:25.270Z'
-dateModified: '2015-12-21T22:22:06.872Z'
+datePublished: '2015-12-21T22:24:34.111Z'
+dateModified: '2015-12-21T22:24:21.714Z'
 title: Growth Hacking Tactics @ Strategy
 author: []
 authors: []
