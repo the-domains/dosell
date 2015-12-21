@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get free e-books in UX design
-datePublished: '2015-12-21T10:18:16.474Z'
-dateModified: '2015-12-21T10:18:11.323Z'
+datePublished: '2015-12-21T13:39:54.461Z'
+dateModified: '2015-12-21T13:39:50.944Z'
 title: "UX Design Knowledge\_Shared"
 author: []
 sourcePath: _posts/2015-12-19-ux-design-knowledgeshared.md
@@ -22,7 +22,7 @@ url: ux-design-knowledgeshared/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de75cca3-9d37-4cb7-8fd8-dd38587eda56.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82173db7b214829a81fa3032611fd9322688262e.png)
 
 # [**UX Design Knowledge **Shared][0]
 
