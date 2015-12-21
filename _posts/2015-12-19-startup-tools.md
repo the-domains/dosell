@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: get the full list of current tools for your venture
-datePublished: '2015-12-21T10:16:45.050Z'
-dateModified: '2015-12-21T10:16:42.083Z'
+datePublished: '2015-12-21T13:39:08.176Z'
+dateModified: '2015-12-21T13:38:58.336Z'
 title: Startup Tools
 author: []
 sourcePath: _posts/2015-12-19-startup-tools.md
@@ -23,6 +23,6 @@ _type: Article
 
 ---
 # [Startup Tools][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a19ad25c7b5764f9fcc0ed9351fb32d3aeb3fb50.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5487489e748b5ed29e50f9d0c7351a62773da52.jpg)
 
 [0]: http://steveblank.com/tools-and-blogs-for-entrepreneurs/
