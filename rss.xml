@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 22:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 22:23:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[50 Groundbreaking Startup Ideas]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dosell/how-to-get-startup-ideas/index.html</link>
             <guid isPermaLink="false">554f5a93-e999-4e68-a833-edcf01074203</guid>
             <pubDate>Mon, 21 Dec 2015 22:05:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Growth Hacking Tactics @ Strategy]]></title>
+            <description><![CDATA[<article><h1>Growth Hacking Tactics @ Strategy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d93dd7adf8e9f258910c198c19f6f0a389029355.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/growth-hacking-tactics-strategy/index.html</link>
+            <guid isPermaLink="false">235d3aa3-4fe1-4a0b-9361-f1a620571843</guid>
+            <pubDate>Mon, 21 Dec 2015 22:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 Most Inspiring Design Blogs]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/growthverse-interactive-marketing-tools-overview/index.html</link>
             <guid isPermaLink="false">658d5ef8-e47b-4738-a2ad-61171e0a6e10</guid>
             <pubDate>Mon, 21 Dec 2015 13:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six Month Challenge - Life experiments]]></title>
-            <description><![CDATA[<article><h1>Six Month Challenge - Life experiments</h1><p>This is the table of contents for my 6-month startup journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f6c5b524b7935f9533479b8819c76d16781b2a6.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/six-month-challenge-life-experiments/index.html</link>
-            <guid isPermaLink="false">4662a22f-e612-4db4-a422-d2500e4980b7</guid>
-            <pubDate>Mon, 21 Dec 2015 10:31:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
