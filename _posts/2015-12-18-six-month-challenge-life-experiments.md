@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - mvp
   - week
@@ -16,8 +16,8 @@ keywords:
   - gluten
   - postmortem
 description: This is the table of contents for my 6-month startup journey.
-datePublished: '2015-12-21T10:24:05.234Z'
-dateModified: '2015-12-21T10:24:02.052Z'
+datePublished: '2015-12-21T10:31:43.735Z'
+dateModified: '2015-12-21T10:31:37.973Z'
 author: []
 related: []
 app_links: []
