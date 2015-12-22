@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:02:18.244Z'
-dateModified: '2015-12-22T21:02:07.980Z'
+datePublished: '2015-12-22T21:54:44.643Z'
+dateModified: '2015-12-22T21:54:37.372Z'
 title: Growth Hacking Tactics @ Strategy
 author: []
+sourcePath: _posts/2015-12-21-growth-hacking-tactics-strategy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-growth-hacking-tactics-strategy.md
-published: true
 url: growth-hacking-tactics-strategy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2c07630-b9e6-4f6a-aa6b-5e684a53f8fa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb4224910213e1d9e9911bdffbf27f71e4b7deea.jpg)
 
 # [Growth Hacking Tactics @ Strategy][0]
 
