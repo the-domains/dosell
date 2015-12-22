@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: get the full list of current tools for your venture
-datePublished: '2015-12-21T22:26:13.496Z'
-dateModified: '2015-12-21T22:26:06.023Z'
+datePublished: '2015-12-22T22:02:41.333Z'
+dateModified: '2015-12-22T22:02:22.988Z'
 title: Startup Tools
 author: []
 sourcePath: _posts/2015-12-19-startup-tools.md
