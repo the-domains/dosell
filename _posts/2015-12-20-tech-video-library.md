@@ -6,25 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:03:56.019Z'
-dateModified: '2015-12-22T21:03:53.541Z'
+datePublished: '2015-12-22T22:01:47.441Z'
+dateModified: '2015-12-22T22:01:44.498Z'
 title: Tech Video Library
 author: []
+sourcePath: _posts/2015-12-20-tech-video-library.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-tech-video-library.md
-published: true
 url: tech-video-library/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/371897ec3158e413ad254161a309c92fcb1b9218.jpg)
+
 # [Tech Video Library][0]
 
 Get the latest start-up, technology, marketing videos from Heavybit
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2fe8b8c-d2d7-45c8-9d76-140717907d40.jpg)
 
 [0]: http://www.heavybit.com/library/
