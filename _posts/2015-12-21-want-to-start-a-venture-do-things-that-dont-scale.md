@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T22:11:05.314Z'
-dateModified: '2015-12-21T22:10:49.617Z'
+datePublished: '2015-12-22T21:03:06.148Z'
+dateModified: '2015-12-22T21:02:48.909Z'
 title: "Want to start a venture? - Do Things that don't scale"
 author: []
 authors: []
