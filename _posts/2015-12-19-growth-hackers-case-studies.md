@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Growth studies
-datePublished: '2015-12-19T22:11:27.178Z'
-dateModified: '2015-12-19T22:11:05.991Z'
+datePublished: '2015-12-22T22:03:43.219Z'
+dateModified: '2015-12-21T10:18:55.027Z'
 title: Growth hackers case studies
 author: []
+sourcePath: _posts/2015-12-19-growth-hackers-case-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-growth-hackers-case-studies.md
-published: true
 url: growth-hackers-case-studies/index.html
 _type: Article
 
 ---
 # [Growth hackers case studies][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d008fa4-b6c8-4ed9-9ccf-b90653260e57.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc098fa6cf3fa78b0191697b93a90e1ed9ff25d6.jpg)
 
 [0]: http://growthhackers.com/growth-studies
