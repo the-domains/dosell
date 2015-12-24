@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - startup
   - duration
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=yyJcJrbPqlY'
 title: 50 Groundbreaking Startup Ideas - Video Compilation
-datePublished: '2015-12-21T22:05:52.325Z'
-dateModified: '2015-12-21T21:54:40.780Z'
+datePublished: '2015-12-24T19:03:08.267Z'
+dateModified: '2015-12-24T19:03:05.336Z'
 sourcePath: _posts/2015-12-21-50-groundbreaking-startup-ideas-video-compilation.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
