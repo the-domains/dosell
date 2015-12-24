@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 16:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 16:31:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -12,13 +12,6 @@
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product and Service Design]]></title>
-            <description><![CDATA[<article><h1>Product and Service Design</h1><p>Our offerings support the blurring between digital and physical products. To create experiences that scale frog provides brand design as well as design systems services. Our history, footprint and experience spans sectors, from consumer goods to highly-regulated industries.</p><img src="http://www.frogdesign.com/sites/default/files/services-hero-product-service-design.jpg"></article>]]></description>
-            <link>http://www.frogdesign.com/services/product-service-design.html</link>
-            <guid isPermaLink="false">a9cabebe-9269-464a-9914-92bde04cc9df</guid>
-            <pubDate>Thu, 24 Dec 2015 16:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tools]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.f-secure.com/en/web/about_global/careers/atp-careers</link>
             <guid isPermaLink="false">bd1e3326-318e-478d-a502-2a87b97ae2b3</guid>
             <pubDate>Thu, 24 Dec 2015 16:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="http://image-store.slidesharecdn.com/1a7c5697-d938-4099-8f16-5d43820e228c-large.png"></article>]]></description>
+            <link>http://image-store.slidesharecdn.com/1a7c5697-d938-4099-8f16-5d43820e228c-large.png</link>
+            <guid isPermaLink="false">3d52e1b9-a5ad-48ed-a1ec-23cbe5b63adf</guid>
+            <pubDate>Thu, 24 Dec 2015 16:30:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
