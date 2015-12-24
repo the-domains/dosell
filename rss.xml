@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 16:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 16:32:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -12,6 +12,13 @@
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Featured Design & Strategy Work]]></title>
+            <description><![CDATA[<article><h1>Featured Design & Strategy Work</h1><p>frog is a global design and strategy firm. We transform businesses at scale by creating systems of brand, product and service that deliver a distinctly better experience.</p><img src="http://www.frogdesign.com/sites/default/files/styles/square_span6/public/work/thumb/20151014_relatedcasestudy_thumbs_ge.jpg?itok=c04Dgc0S"></article>]]></description>
+            <link>http://www.frogdesign.com/work</link>
+            <guid isPermaLink="false">53009a12-6885-47d7-995e-41233ece85da</guid>
+            <pubDate>Thu, 24 Dec 2015 16:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Growth Strategy]]></title>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/</link>
             <guid isPermaLink="false">5b5d7c11-3e72-42d4-9c4d-c2a7ac890c44</guid>
             <pubDate>Thu, 24 Dec 2015 16:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shortening the Design Cycle with CATIA Analysis]]></title>
-            <description><![CDATA[<article><h1>Shortening the Design Cycle with CATIA Analysis</h1><p>This eSeminar shows how easily a simulation can be created and integrated in the overall design process. Integrating simulation upfront in the design stage, greatly reducing the overall time to market through providing better first past designs. Using guidance from seasoned experts or implementing simulation templates, more robust and optimized design can be created from the beginning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc59ece33395e8d60b681a8ca280e2f84a6488a.png"></article>]]></description>
-            <link>http://www.3ds.com/events/single-eseminar/shortening-the-design-cycle-with-catia-analysis/?xtmc=%23all&amp;xtcr=1</link>
-            <guid isPermaLink="false">97b1f3cf-1bd4-4684-a486-f7b427a7b268</guid>
-            <pubDate>Thu, 24 Dec 2015 16:30:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
