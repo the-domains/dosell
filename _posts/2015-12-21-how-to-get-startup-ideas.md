@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.  The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing. Microsoft, Apple, Yahoo, Google, and Facebook all began this way."
-datePublished: '2015-12-22T21:57:20.144Z'
-dateModified: '2015-12-22T21:57:16.544Z'
+datePublished: '2015-12-24T19:02:56.955Z'
+dateModified: '2015-12-24T19:02:51.973Z'
 title: How to get startup ideas?
 author: []
 sourcePath: _posts/2015-12-21-how-to-get-startup-ideas.md
