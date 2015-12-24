@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 16:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 16:31:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -12,6 +12,20 @@
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[B2G sales: How to sell to governments]]></title>
+            <description><![CDATA[<article><h1>B2G sales: How to sell to governments</h1><p>SeamlessDocs didn't set out to revolutionize the way governments digitally process forms. The startup-whose software instantly converts PDF or Word docs into dynamic, smart, cloud-based forms-wasn't even thinking about the government. They began like many other startups-with a vision, a couple of people, and a rough product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cf973a230e07df7929f4520640426b1d24ba0c9.jpg"></article>]]></description>
+            <link>http://blog.close.io/how-to-sell-to-governments?</link>
+            <guid isPermaLink="false">324f8d39-e3a1-4d06-a84d-44923098194a</guid>
+            <pubDate>Thu, 24 Dec 2015 16:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What It Takes to Succeed As a Product Designer (Part 2)]]></title>
+            <description><![CDATA[<article><h1>What It Takes to Succeed As a Product Designer (Part 2)</h1><p>In part 1, we described the overall attributes of great product designers. We also dove into tips for fulfilling user goals and business goals, shipping products, and focusing on the right problems. Now, we'll explore tips and resources for the following areas: How to refine your design decisionmaking Killing the designer ego Prioritizing features properly Communicating clearly with stakeholders Running effective usability tests in a hurry In a perfect world, you ' d have unlimited resources of money, talent and time.</p><img src="http://studio.uxpin.com/wp-content/uploads/2015/12/tumblr_nqx8ovsnHL1tubinno1_1280.jpg"></article>]]></description>
+            <link>http://studio.uxpin.com/blog/what-it-takes-to-succeed-as-a-product-designer-part-2/?utm_source=facebook&amp;utm_medium=uxlink&amp;utm_campaign=&amp;utm_content=blog</link>
+            <guid isPermaLink="false">a6185833-d3f6-4344-a66c-614a689e2b4e</guid>
+            <pubDate>Thu, 24 Dec 2015 16:30:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyber-attacks against businesses 'doubled in 2015']]></title>
@@ -61,20 +75,6 @@
             <link>http://blog.openskycorp.com/medical-devices-and-open-source-software-whos-responsible-for-security-weaknesses</link>
             <guid isPermaLink="false">f2498650-37bf-45fc-8402-018d0a10d058</guid>
             <pubDate>Thu, 24 Dec 2015 16:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The very best of Material Design in 2015]]></title>
-            <description><![CDATA[<article><h1>The very best of Material Design in 2015</h1><p>The 100 most popular posts on MaterialUp in 2015!</p><img src="http://assets.materialup.com/uploads/e16aeb7a-42f9-4293-bef5-45b75c8afd0c/teaser.png"></article>]]></description>
-            <link>http://www.materialup.com/collections/the-very-best-of-material-design-in-2015</link>
-            <guid isPermaLink="false">c4d8399d-0484-4962-b825-d350dd7155dc</guid>
-            <pubDate>Thu, 24 Dec 2015 16:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's economy: Seven predictions for 2016]]></title>
-            <description><![CDATA[<article><h1>China's economy: Seven predictions for 2016</h1><p>Investors and economists are becoming less optimistic about the global economy in 2016, partly because of concerns about China's performance. The Organization for Economic Cooperation and Development expects next year to be slightly better than this year, but has cut its 2016 world growth forecast from 3.6% to 3.3%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18ce2e94b7a4e4dd20a45cfabc94f5c59af0d0f0.jpg"></article>]]></description>
-            <link>http://www.latimes.com/business/la-fi-china-economy-2016-20151210-story.html</link>
-            <guid isPermaLink="false">e195a330-97c2-41e3-a0c8-3dfc04cc42be</guid>
-            <pubDate>Thu, 24 Dec 2015 16:29:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
