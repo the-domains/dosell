@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 16:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 16:30:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -12,20 +12,6 @@
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medical Devices and Open Source Software: Who's Responsible for Security Weaknesses?]]></title>
-            <description><![CDATA[<article><h1>Medical Devices and Open Source Software: Who's Responsible for Security Weaknesses?</h1><p>In 2008, Gartner predicted that by the year 2015, 99% of all Global 2000 enterprise software teams would be using open source software in their application development*. Well, it's 2015 - and this is one prediction that has come to pass. In the case of medical devices, the use of open source software seems ubiquitous.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7bc5f89303976711c9997458080f8b4163d6951.jpg"></article>]]></description>
-            <link>http://blog.openskycorp.com/medical-devices-and-open-source-software-whos-responsible-for-security-weaknesses</link>
-            <guid isPermaLink="false">f2498650-37bf-45fc-8402-018d0a10d058</guid>
-            <pubDate>Thu, 24 Dec 2015 16:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The very best of Material Design in 2015]]></title>
-            <description><![CDATA[<article><h1>The very best of Material Design in 2015</h1><p>The 100 most popular posts on MaterialUp in 2015!</p><img src="http://assets.materialup.com/uploads/e16aeb7a-42f9-4293-bef5-45b75c8afd0c/teaser.png"></article>]]></description>
-            <link>http://www.materialup.com/collections/the-very-best-of-material-design-in-2015</link>
-            <guid isPermaLink="false">c4d8399d-0484-4962-b825-d350dd7155dc</guid>
-            <pubDate>Thu, 24 Dec 2015 16:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China's economy: Seven predictions for 2016]]></title>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
             <guid isPermaLink="false">3dae5bcd-1d56-4d72-8425-33aba36a01a9</guid>
             <pubDate>Tue, 22 Dec 2015 22:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Video Library]]></title>
+            <description><![CDATA[<article><h1>Tech Video Library</h1><p>Get the latest start-up, technology, marketing videos from Heavybit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/355d317abd5bf0fcdae8e3c040231e59e89dc220.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/tech-video-library/index.html</link>
+            <guid isPermaLink="false">61d7482c-8a02-48a2-96c0-fab3b9dc594a</guid>
+            <pubDate>Tue, 22 Dec 2015 22:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Growthverse: Interactive marketing tools overview]]></title>
+            <description><![CDATA[<article><h1>Growthverse: Interactive marketing tools overview</h1><p>Growthverse was built for marketers, by marketers, with input from more than 100 CMOs </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20a895a72785a3e8809a34e20c6c9793abd4abdf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/growthverse-interactive-marketing-tools-overview/index.html</link>
+            <guid isPermaLink="false">658d5ef8-e47b-4738-a2ad-61171e0a6e10</guid>
+            <pubDate>Tue, 22 Dec 2015 22:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
