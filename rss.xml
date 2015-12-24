@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 16:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 16:30:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -12,6 +12,20 @@
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="http://image-store.slidesharecdn.com/4d20a4fe-2282-4120-8aa1-3263452638c8-large.png"></article>]]></description>
+            <link>http://image-store.slidesharecdn.com/4d20a4fe-2282-4120-8aa1-3263452638c8-large.png</link>
+            <guid isPermaLink="false">bf62211a-f554-4420-8d7f-31bbbb4dba25</guid>
+            <pubDate>Thu, 24 Dec 2015 16:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Turn Your Old Smartphone Into A Smart Mirror]]></title>
+            <description><![CDATA[<article><h1>How To Turn Your Old Smartphone Into A Smart Mirror</h1><p>Ditch your Post-it notes for reminders built right into a mirror. Software engineer Hannah Mittelstaedt programmed an old Android tablet to show time, weather, and other information in bright letters on a dark background. Place the device behind a two-way mirror, and only the text will shine through.</p><img src="http://www.popsci.com/sites/popsci.com/files/images/2015/12/smart_mirror.jpg"></article>]]></description>
+            <link>http://www.popsci.com/how-to-turn-your-smartphone-into-smart-mirror</link>
+            <guid isPermaLink="false">74eb336a-bf02-4d22-be2b-16ca52a163d1</guid>
+            <pubDate>Thu, 24 Dec 2015 16:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How digital technologies including IoT are transforming the global postal industry]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/dosell/70-awesome-tools-for-growth-hacking-and-bootstrapping-your-s/index.html</link>
             <guid isPermaLink="false">1915774b-9e56-425b-ac6d-b5daa05b2f45</guid>
             <pubDate>Tue, 22 Dec 2015 21:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Growth Hacking Tactics @ Strategy]]></title>
-            <description><![CDATA[<article><h1>Growth Hacking Tactics @ Strategy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a031ad5a9e8a24b6922cf3cd3f8a70c63ac555be.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/growth-hacking-tactics-strategy/index.html</link>
-            <guid isPermaLink="false">235d3aa3-4fe1-4a0b-9361-f1a620571843</guid>
-            <pubDate>Tue, 22 Dec 2015 21:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50 Groundbreaking Startup Ideas]]></title>
-            <description><![CDATA[<article><h1>50 Groundbreaking Startup Ideas</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c859a56b7b9c5091bd5752b3a7e43da585fcea.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/50-groundbreaking-startup-ideas/index.html</link>
-            <guid isPermaLink="false">53aa74f1-0310-41a4-b6c0-6ce602d483e9</guid>
-            <pubDate>Tue, 22 Dec 2015 21:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
