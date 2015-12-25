@@ -1,6 +1,6 @@
 name: DoSell
 favicon: null
-layout_spectrum: 0.16516
+layout_spectrum: 0.32762
 typography_spectrum: 0.56769
 title: 'DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2a2a2a'
-    - '#e2e2e2'
-    - '#e0382d'
-    - '#8f2d2b'
-    - '#bdbdbd'
-  brandStrength: 0.375
-  lightness: 0.75
-  saturation: 0.8125
+    - '#ffffff'
+    - '#8ba7b3'
+    - '#aedcec'
+    - '#090909'
+    - '#1b7dfc'
+  brandStrength: 0.625
+  lightness: 0.875
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
