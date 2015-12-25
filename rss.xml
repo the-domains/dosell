@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 16:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 16:27:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[50 Groundbreaking Startup Ideas - Video Compilation]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sharp FreeForm Displays | Ziba]]></title>
+            <description><![CDATA[<article><h1>Sharp FreeForm Displays | Ziba</h1><p>Ziba Tokyo worked with Sharp to find the best possible way to showcase the company's new FreeForm Display technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a8e73e189268017794e991313b8201f572d507.jpg"></article>]]></description>
+            <link>http://ziba.com/work/sharp-freeform-displays</link>
+            <guid isPermaLink="false">cc9bcff4-32c9-4c6d-ae13-5730c6704d7f</guid>
+            <pubDate>Fri, 25 Dec 2015 16:27:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Logitech Multimedia Speakers | Ziba]]></title>
-            <description><![CDATA[<article><h1>Logitech Multimedia Speakers | Ziba</h1><p>Ziba designed an attention-grabbing, low cost line of multimedia speakers for Logitech that make performance clear.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d02e1d41bacdf731a59ecc379b94e23b3d92270e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Logitech Multimedia Speakers | Ziba</h1><p>Ziba designed an attention-grabbing, low cost line of multimedia speakers for Logitech that make performance clear.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57cc3ea9df8c504b250e97a0c57a4d26ad42e700.jpg"></article>]]></description>
             <link>http://ziba.com/work/logitech-multimedia-speakers</link>
             <guid isPermaLink="false">6250c2b7-0945-499f-9957-e7fefd41a825</guid>
             <pubDate>Fri, 25 Dec 2015 16:26:57 GMT</pubDate>
@@ -64,16 +71,9 @@
         </item>
         <item>
             <title><![CDATA[Frog Tech Trends 2016]]></title>
-            <description><![CDATA[<article><h1>Frog Tech Trends 2016</h1><p>With the start of a new year, the exciting question is: What technology trends will radically transform businesses in 2016 and beyond? At frog we help our clients digitally transform their businesses by identifying emerging technologies and realizing their potential. Here are 15 technology trends driving companies to reinvent themselves.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a73d8448c3ca4ddb11cdbbdb069a62d4e4a41ecc.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Frog Tech Trends 2016</h1><p>With the start of a new year, the exciting question is: What technology trends will radically transform businesses in 2016 and beyond? At frog we help our clients digitally transform their businesses by identifying emerging technologies and realizing their potential. Here are 15 technology trends driving companies to reinvent themselves.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a942e22ebfedf40651648c85db97faddc89224f.png"></article>]]></description>
             <link>http://www.frogdesign.com/techtrends2016/?utm_campaign=Tech%20Trends%202016&amp;utm_source=Homepage</link>
             <guid isPermaLink="false">3947b81e-a45f-41df-84b3-fb25b6135ee9</guid>
-            <pubDate>Fri, 25 Dec 2015 16:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.frogdesign.com/wp-content/uploads/2015/10/20151002_Palo_01_v2.jpg">]]></description>
-            <link>https://thegrid.ai/dosell/b78f7c86-bbe1-46dd-bdbf-41ea16712d6b/index.html</link>
-            <guid isPermaLink="false">b78f7c86-bbe1-46dd-bdbf-41ea16712d6b</guid>
             <pubDate>Fri, 25 Dec 2015 16:25:32 GMT</pubDate>
         </item>
     </channel>
