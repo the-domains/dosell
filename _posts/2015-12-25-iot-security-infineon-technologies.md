@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073'
 title: IoT Security - Infineon Technologies
-datePublished: '2015-12-25T19:24:40.455Z'
-dateModified: '2015-12-25T18:53:28.611Z'
+datePublished: '2015-12-25T19:24:40.915Z'
+dateModified: '2015-12-25T18:48:48.313Z'
 sourcePath: _posts/2015-12-25-iot-security-infineon-technologies.md
 published: true
 inFeed: true
