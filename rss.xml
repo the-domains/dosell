@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 16:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 16:24:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[50 Groundbreaking Startup Ideas - Video Compilation]]></title>
@@ -33,13 +33,6 @@
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Mon, 21 Dec 2015 22:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LQD PALO | frogdesign.com]]></title>
-            <description><![CDATA[<article><h1>LQD PALO | frogdesign.com</h1><p>Palo connects people to essential information, resources and safety by offering free wifi, information on nearby attractions, restaurants, retail and events, volunteering opportunities and community groups, public service announcements, maps and way finding, emergency alerts, meeting points and taxi beacons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca65dc606b01215579394be166c898b6669114a1.jpg"></article>]]></description>
-            <link>http://www.frogdesign.com/work/lqd-palo.html</link>
-            <guid isPermaLink="false">e27c1f63-08af-4837-a8fa-e968841383fc</guid>
-            <pubDate>Fri, 25 Dec 2015 16:24:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://newsroom.cisco.com/press-release-content?articleId=1621819</link>
             <guid isPermaLink="false">0dd12be9-6eef-4907-ba8b-ffa4060ce543</guid>
             <pubDate>Fri, 25 Dec 2015 16:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salesforce]]></title>
+            <description><![CDATA[<article><h1>Salesforce</h1><p>Creating a live broadcasting experience for the 2014 Dreamforce Conference Method partnered with Salesforce to design and develop a multi-channel online broadcast experience to complement the 2014 Dreamforce conference in San Francisco. The conference brings together industry visionaries, product experts, and world leaders for four days of innovation, celebration, and collaboration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dda7ca70af3556896d3a1ad57c087b9ea2aad8dd.jpg"></article>]]></description>
+            <link>http://method.com/work/salesforce</link>
+            <guid isPermaLink="false">0a07f12c-b5e8-46a3-80b3-c013fd3fe98f</guid>
+            <pubDate>Fri, 25 Dec 2015 16:23:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
