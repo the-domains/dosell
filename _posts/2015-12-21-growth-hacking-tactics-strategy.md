@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:54:44.643Z'
-dateModified: '2015-12-22T21:54:37.372Z'
+datePublished: '2015-12-27T16:14:41.254Z'
+dateModified: '2015-12-27T16:14:37.276Z'
 title: Growth Hacking Tactics @ Strategy
 author: []
 sourcePath: _posts/2015-12-21-growth-hacking-tactics-strategy.md
@@ -22,7 +22,7 @@ url: growth-hacking-tactics-strategy/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb4224910213e1d9e9911bdffbf27f71e4b7deea.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a031ad5a9e8a24b6922cf3cd3f8a70c63ac555be.jpg)
 
 # [Growth Hacking Tactics @ Strategy][0]
 
