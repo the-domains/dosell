@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:55:21.376Z'
-dateModified: '2015-12-22T21:55:14.776Z'
+datePublished: '2015-12-27T16:16:06.026Z'
+dateModified: '2015-12-27T16:16:01.894Z'
 title: 50 Groundbreaking Startup Ideas
 author: []
 sourcePath: _posts/2015-12-21-50-groundbreaking-startup-ideas.md
@@ -22,7 +22,7 @@ url: 50-groundbreaking-startup-ideas/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c847c1d7-cb87-43b8-8198-cba34af237a4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c859a56b7b9c5091bd5752b3a7e43da585fcea.jpg)
 
 # [50 Groundbreaking Startup Ideas][0]
 
