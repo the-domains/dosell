@@ -4,8 +4,15 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 16:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 16:37:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[B2B reference guide for company makers]]></title>
+            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>validate your idea, brainstorming, product innovation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5f9c31c5766234df50a6f3065856503b67ddd04.jpg"></article>]]></description>
+            <link>https://b2bhandbook.persona.co/</link>
+            <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
+            <pubDate>Sun, 27 Dec 2015 16:37:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[50 Groundbreaking Startup Ideas - Video Compilation]]></title>
             <description><![CDATA[<article><h1>50 Groundbreaking Startup Ideas - Video Compilation</h1><p>Visit http://BlockShelf.com for more Startup resources!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/731a15e71b757e8ea8e10a9e7d53f8353f9db393.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Growth hackers case studies]]></title>
-            <description><![CDATA[<article><h1>Growth hackers case studies</h1><p>growth hacking, digital marketing, soft launch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5be1aaaee8f9d8af74a126a0cb1d51c91e986ed0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Growth hackers case studies</h1><p>growth hacking, digital marketing, soft launch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbd25e8fc468d700422bbfaf137cae3434364fb6.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/growth-hackers-case-studies/index.html</link>
             <guid isPermaLink="false">6be9ce44-1f61-45de-a648-df9baaf26027</guid>
             <pubDate>Sun, 27 Dec 2015 16:29:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/want-to-start-a-venture-do-things-that-dont-scale/index.html</link>
             <guid isPermaLink="false">3d00d975-42b2-4d2d-9c54-d905d408f664</guid>
             <pubDate>Sun, 27 Dec 2015 16:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50 Groundbreaking Startup Ideas]]></title>
-            <description><![CDATA[<article><h1>50 Groundbreaking Startup Ideas</h1><p>B2B services design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4925319fdcd21409ff4744f265abd0e2d57098e4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/50-groundbreaking-startup-ideas/index.html</link>
-            <guid isPermaLink="false">53aa74f1-0310-41a4-b6c0-6ce602d483e9</guid>
-            <pubDate>Sun, 27 Dec 2015 16:16:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
