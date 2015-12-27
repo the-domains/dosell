@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 16:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 16:27:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[50 Groundbreaking Startup Ideas - Video Compilation]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 24 Dec 2015 19:03:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UX Design Knowledge Shared]]></title>
+            <description><![CDATA[<article><h1>UX Design Knowledge Shared</h1><p>Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0183ae0c5ca6b4fe2980d5d8fc90210d82697b9.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/ux-design-knowledgeshared/index.html</link>
+            <guid isPermaLink="false">e6a9e067-5f16-469f-9b3e-378d5b7ac34c</guid>
+            <pubDate>Sun, 27 Dec 2015 16:27:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Startup Tools]]></title>
-            <description><![CDATA[<article><h1>Startup Tools</h1><p>growth hacking, digital marketing, soft launch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba26284cee795463cbfe828e6bd473be14670ba0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Startup Tools</h1><p>growth hacking, digital marketing, soft launch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2a97d571c9127fe9b84f621536845b7308a978.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
             <guid isPermaLink="false">3dae5bcd-1d56-4d72-8425-33aba36a01a9</guid>
             <pubDate>Sun, 27 Dec 2015 16:25:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/growth-hacking-tactics-strategy/index.html</link>
             <guid isPermaLink="false">235d3aa3-4fe1-4a0b-9361-f1a620571843</guid>
             <pubDate>Sun, 27 Dec 2015 16:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pitch, Please: 14 Must-Read Pitch Lessons Every Startup Founder Should Know]]></title>
-            <description><![CDATA[<article><h1>Pitch, Please: 14 Must-Read Pitch Lessons Every Startup Founder Should Know</h1><p>You business could be interesting to VC, but you have nothing yet. Stop pitching, and focus on building a solid business that solves a big problem, getting customers, and assembling a great team. You're not talking to the right investors, or you may live in a city without a mature ecosystem that supports early stage companies, or.....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e59cccb7876600819490417e0495386efdb43a.jpg"></article>]]></description>
-            <link>http://500.co/pitch-lessons-founders-andrea-500-must-read/</link>
-            <guid isPermaLink="false">b35ececc-547f-442c-8d79-b92c0466e7ea</guid>
-            <pubDate>Fri, 25 Dec 2015 19:24:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
