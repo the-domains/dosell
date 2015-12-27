@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 21:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 21:29:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,27 @@
             <pubDate>Thu, 24 Dec 2015 19:03:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[IoT Security - Infineon Technologies]]></title>
+            <description><![CDATA[<article><h1>IoT Security - Infineon Technologies</h1><p>Data security is indispensable in the Internet of Things. Our semiconductor security solutions protect information against theft & misuse. &#9659; Learn more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16188d0e81fbdd6454c735fd29af553973f29efd.jpg"></article>]]></description>
+            <link>http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073</link>
+            <guid isPermaLink="false">33622bf6-a122-43c9-8499-d4040812084b</guid>
+            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hardware Security - University of Maryland, College Park | Coursera]]></title>
+            <description><![CDATA[<article><h1>Hardware Security - University of Maryland, College Park | Coursera</h1><p>Hardware Security from University of Maryland, College Park. In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks to these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/439f6de34a2fcde0053d593aa8234f21d96befc3.png"></article>]]></description>
+            <link>https://www.coursera.org/course/hardwaresec</link>
+            <guid isPermaLink="false">a3ec2078-7765-4de0-86df-c4e218aee640</guid>
+            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Software Product Management | Coursera]]></title>
+            <description><![CDATA[<article><h1>Software Product Management | Coursera</h1><p>Explore Software Product Management Certificate offered by University of Alberta. Create better software. Confidently interact with clients. - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team. In this specialization you will master Agile software practices to lead a team of developers and interact with clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc394171c8642dd1c6f8d60ed3e7abdacfa2d7ee.jpg"></article>]]></description>
+            <link>https://www.coursera.org/specializations/product-management</link>
+            <guid isPermaLink="false">b30a4def-7854-4c98-b3a0-e566e242251e</guid>
+            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An Introduction to Programming the Internet of Things (IOT) | Coursera]]></title>
             <description><![CDATA[<article><h1>An Introduction to Programming the Internet of Things (IOT) | Coursera</h1><p>Explore An Introduction to Programming the Internet of Things (IOT) Certificate offered by University of California, Irvine. Create Your Own Internet of Things (IoT) Device - Design and create a simple IoT device in just six courses.. This Specialization covers embedded systems, the Raspberry Pi Platform, and the Arduino environment for building devices that can control the physical world.</p><img src="https://d396qusza40orc.cloudfront.net/phoenixassets/iot/specialization%20page%20%282%29.jpg"></article>]]></description>
             <link>https://www.coursera.org/specializations/iot</link>
@@ -29,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Internet of Things: Risks - Infineon Technologies]]></title>
-            <description><![CDATA[<article><h1>Internet of Things: Risks - Infineon Technologies</h1><p>New risks emerge with each new stage in technology. On the Internet, theft, fraud and manipulation reach a new dimension. Compared with the past, the extent of the damage caused is significantly greater. Anyone who attacks one notebook or smartphone may gain access - frequently unnoticed - to sensitive data from a host of other users, such as banking details, e-mails, photos, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b76fa90522b3bb9d2742be13969c7a9a830ae09.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Internet of Things: Risks - Infineon Technologies</h1><p>New risks emerge with each new stage in technology. On the Internet, theft, fraud and manipulation reach a new dimension. Compared with the past, the extent of the damage caused is significantly greater. Anyone who attacks one notebook or smartphone may gain access - frequently unnoticed - to sensitive data from a host of other users, such as banking details, e-mails, photos, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e59fe80da37867f682ac025196f3315819163261.png"></article>]]></description>
             <link>http://www.infineon.com/iot-security-ebrochure/en/risk.html</link>
             <guid isPermaLink="false">055257e8-138a-444d-9b68-f39549966f53</guid>
             <pubDate>Sun, 27 Dec 2015 21:29:01 GMT</pubDate>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/dosell/growth-hackers-case-studies/index.html</link>
             <guid isPermaLink="false">6be9ce44-1f61-45de-a648-df9baaf26027</guid>
             <pubDate>Sun, 27 Dec 2015 16:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UX Design Knowledge Shared]]></title>
-            <description><![CDATA[<article><h1>UX Design Knowledge Shared</h1><p>Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03acd9d5007e9a2abb6b5ccacfc68ebb43c85d88.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/ux-design-knowledgeshared/index.html</link>
-            <guid isPermaLink="false">e6a9e067-5f16-469f-9b3e-378d5b7ac34c</guid>
-            <pubDate>Sun, 27 Dec 2015 16:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Startup Tools]]></title>
-            <description><![CDATA[<article><h1>Startup Tools</h1><p>growth hacking, digital marketing, soft launch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2a97d571c9127fe9b84f621536845b7308a978.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/startup-tools/index.html</link>
-            <guid isPermaLink="false">3dae5bcd-1d56-4d72-8425-33aba36a01a9</guid>
-            <pubDate>Sun, 27 Dec 2015 16:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Video Library]]></title>
-            <description><![CDATA[<article><h1>Tech Video Library</h1><p>Get the latest start-up, technology, marketing videos from Heavybit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20c8cc1eb5aa4e11f52f539496f90f704b65fd4b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/tech-video-library/index.html</link>
-            <guid isPermaLink="false">61d7482c-8a02-48a2-96c0-fab3b9dc594a</guid>
-            <pubDate>Sun, 27 Dec 2015 16:24:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
