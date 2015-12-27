@@ -16,8 +16,8 @@ keywords:
   - complicated
   - trusted
 description: "So you are looking for a trusted, top-notch solution provider to solve your business's engineering and business process problems? Searching for the best possible service provider is a PAIN, because there are millions outside of your door and they are cheating you, slow, complicated and make your project fail."
-datePublished: '2015-12-19T20:51:52.715Z'
-dateModified: '2015-12-19T20:51:47.985Z'
+datePublished: '2015-12-27T16:39:13.491Z'
+dateModified: '2015-12-27T16:39:10.629Z'
 author: []
 related: []
 app_links: []
@@ -35,9 +35,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7675e83dc2927347e8a4ec84331aebe39311e6c6.jpg)
+
 # [_**DoSell Resource**_][0]
 
 download presentation, case studies
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54caf45-2c01-4f20-9cf5-7a734afad1fb.jpg)
 
 [0]: http://dosell.io/resources-case-studies/
