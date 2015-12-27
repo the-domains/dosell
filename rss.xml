@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 16:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 16:22:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[50 Groundbreaking Startup Ideas - Video Compilation]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=yyJcJrbPqlY</link>
             <guid isPermaLink="false">2c1d0ae8-c7b2-4433-9c9d-b31612bf59a8</guid>
             <pubDate>Thu, 24 Dec 2015 19:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Growthverse: Interactive marketing tools overview]]></title>
+            <description><![CDATA[<article><h1>Growthverse: Interactive marketing tools overview</h1><p>Growthverse was built for marketers, by marketers, with input from more than 100 CMOs </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20a895a72785a3e8809a34e20c6c9793abd4abdf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/growthverse-interactive-marketing-tools-overview/index.html</link>
+            <guid isPermaLink="false">658d5ef8-e47b-4738-a2ad-61171e0a6e10</guid>
+            <pubDate>Sun, 27 Dec 2015 16:22:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[70 Awesome Tools for Growth Hacking and Bootstrapping your Startup]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[How to get startup ideas?]]></title>
-            <description><![CDATA[<article><h1>How to get startup ideas?</h1><p>DoSell business architecture, engineering services</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4515948f48e453385b675f02fce437030a995ab3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to get startup ideas?</h1><p>DoSell business architecture, engineering services</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654fc1f23b450796ec8f92c2e72a1e82e193c9f3.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/how-to-get-startup-ideas/index.html</link>
             <guid isPermaLink="false">554f5a93-e999-4e68-a833-edcf01074203</guid>
             <pubDate>Sun, 27 Dec 2015 16:19:59 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IoT Security - Infineon Technologies</h1><p>Data security is indispensable in the Internet of Things. Our semiconductor security solutions protect information against theft & misuse. &#9659; Learn more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d58d1ee0acd2cf329665c366fd323ce7a501066.jpg"></article>]]></description>
             <link>http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073</link>
             <guid isPermaLink="false">6a19bffe-2a77-4fc1-836c-1b3d2d951a3e</guid>
-            <pubDate>Fri, 25 Dec 2015 19:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IoT Use Cases - Infineon Technologies]]></title>
-            <description><![CDATA[<article><h1>IoT Use Cases - Infineon Technologies</h1><p>IoT use cases show the different possibilties for this progressive technology. &#9659; View here our Internet of Things examples and trust in our expertise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f8939f7e44557f3496d56a74369f465c47f4eed.jpg"></article>]]></description>
-            <link>http://www.infineon.com/iot-security-ebrochure/en/use_cases.html</link>
-            <guid isPermaLink="false">9e3458f8-217b-4b91-95d1-38c08aee280d</guid>
             <pubDate>Fri, 25 Dec 2015 19:24:40 GMT</pubDate>
         </item>
     </channel>
