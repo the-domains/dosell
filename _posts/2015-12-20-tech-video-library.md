@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T22:01:47.441Z'
-dateModified: '2015-12-22T22:01:44.498Z'
+datePublished: '2015-12-27T16:24:03.912Z'
+dateModified: '2015-12-27T16:24:00.632Z'
 title: Tech Video Library
 author: []
 sourcePath: _posts/2015-12-20-tech-video-library.md
@@ -22,7 +22,7 @@ url: tech-video-library/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/371897ec3158e413ad254161a309c92fcb1b9218.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/355d317abd5bf0fcdae8e3c040231e59e89dc220.jpg)
 
 # [Tech Video Library][0]
 
