@@ -4,11 +4,11 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 16:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 16:51:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
-            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>validate your idea, brainstorming, product innovation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5f9c31c5766234df50a6f3065856503b67ddd04.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>B2B reference guide for company makers</h1><p>validate your idea, brainstorming, product innovation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2dcb342e88021766cdb4446045bd1dea94e8ba2.jpg"></article>]]></description>
             <link>https://b2bhandbook.persona.co/</link>
             <guid isPermaLink="false">990fe262-e6cc-4489-9be6-73a045abafe1</guid>
             <pubDate>Sun, 27 Dec 2015 16:37:47 GMT</pubDate>
@@ -19,6 +19,20 @@
             <link>https://www.youtube.com/watch?v=yyJcJrbPqlY</link>
             <guid isPermaLink="false">2c1d0ae8-c7b2-4433-9c9d-b31612bf59a8</guid>
             <pubDate>Thu, 24 Dec 2015 19:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The top 6 mobile security threats for 2016]]></title>
+            <description><![CDATA[<article><h1>The top 6 mobile security threats for 2016</h1><p>As we fast approach 2016, my security team and I have been compiling a forecast of mobile security trends and vulnerabilities that concern us most.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d2d3ce7223bafdac6ac6bde8dc437418912e06b.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/12/27/the-top-6-mobile-security-threats-for-2016/</link>
+            <guid isPermaLink="false">2b2f5485-f3d6-479e-b88b-4b0931e12fb3</guid>
+            <pubDate>Sun, 27 Dec 2015 16:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DoSell Resource]]></title>
+            <description><![CDATA[<article><h1>DoSell Resource</h1><p>download presentation, case studies</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/224a292473b13a0e44937207513a6c1f38b14595.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/dosell-or-resources/index.html</link>
+            <guid isPermaLink="false">a60f0863-acd6-47ba-b0ed-9454e363c684</guid>
+            <pubDate>Sun, 27 Dec 2015 16:39:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Growth hackers case studies]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/dosell/70-awesome-tools-for-growth-hacking-and-bootstrapping-your-s/index.html</link>
             <guid isPermaLink="false">1915774b-9e56-425b-ac6d-b5daa05b2f45</guid>
             <pubDate>Sun, 27 Dec 2015 16:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to get startup ideas?]]></title>
-            <description><![CDATA[<article><h1>How to get startup ideas?</h1><p>DoSell business architecture, engineering services</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654fc1f23b450796ec8f92c2e72a1e82e193c9f3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/how-to-get-startup-ideas/index.html</link>
-            <guid isPermaLink="false">554f5a93-e999-4e68-a833-edcf01074203</guid>
-            <pubDate>Sun, 27 Dec 2015 16:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to start a venture? - Do Things that don't scale]]></title>
-            <description><![CDATA[<article><h1>Want to start a venture? - Do Things that don't scale</h1><p>DoSell product design, engineering, software development</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cad2f5fa37303065f34074b62176e1cacf6a2ceb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/want-to-start-a-venture-do-things-that-dont-scale/index.html</link>
-            <guid isPermaLink="false">3d00d975-42b2-4d2d-9c54-d905d408f664</guid>
-            <pubDate>Sun, 27 Dec 2015 16:17:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
