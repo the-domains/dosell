@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.st.com'
-  name: St
-  favicon: 'http://www.st.com/favicon.ico'
-  domain: www.st.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466'
+inLanguage: en
+starred: false
 keywords:
   - iot
   - compliant
@@ -18,19 +17,22 @@ keywords:
   - module
   - gateway
 description: 'Kerkey - Security Module for Smartmetering system, STMicroelectronics, KERKEY'
-inLanguage: en
+datePublished: '2015-12-28T13:24:56.644Z'
+dateModified: '2015-12-28T13:24:54.117Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466'
 title: Kerkey Security Module for Smartmetering system - STMicroelectronics
-datePublished: '2015-12-27T21:29:03.067Z'
-dateModified: '2015-12-27T17:25:36.079Z'
 sourcePath: _posts/2015-12-27-kerkey-security-module-for-smartmetering-system-stmicroele.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: St
+  domain: www.st.com
+  url: 'http://www.st.com'
+  favicon: 'http://www.st.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Kerkey Security Module for Smartmetering system - STMicroelectronics</h1><p>Kerkey - Security Module for Smartmetering system&amp;comma; STMicroelectronics&amp;comma; KERKEY</p><img src="http://www.st.com/st-web-ui/static/active/en/images/logo.gif" /></article>
+<article style=""><h1>Kerkey Security Module for Smartmetering system - STMicroelectronics</h1><p>Kerkey - Security Module for Smartmetering system, STMicroelectronics, KERKEY</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3299fd4a9bea0ab181937aaedd1b622f947f518.gif" /></article>
