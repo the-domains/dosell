@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 13:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 13:24:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Full Stack Web Development | Coursera]]></title>
-            <description><![CDATA[<article><h1>Full Stack Web Development | Coursera</h1><p>Explore Full Stack Web Development Certificate offered by The Hong Kong University of Science and Technology. Build Complete Web Solutions - Master client- and server-side web development in five comprehensive courses.. The first two courses in this Specialization include an orientation to client-side development, covering HTML/CSS, JavaScript/JQuery, and frameworks such as AngularJS and Bootstrap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/751281be243b65c869249c5939a196eb034f0bf9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Full Stack Web Development | Coursera</h1><p>Explore Full Stack Web Development Certificate offered by The Hong Kong University of Science and Technology. Build Complete Web Solutions - Master client- and server-side web development in five comprehensive courses.. The first two courses in this Specialization include an orientation to client-side development, covering HTML/CSS, JavaScript/JQuery, and frameworks such as AngularJS and Bootstrap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d084a14f110396252a9a864a66efa52ad40c1fd0.jpg"></article>]]></description>
             <link>https://www.coursera.org/specializations/full-stack</link>
             <guid isPermaLink="false">97b3c464-f4c2-47f8-a292-e3a09c8f570c</guid>
             <pubDate>Mon, 28 Dec 2015 13:23:33 GMT</pubDate>
@@ -74,7 +74,7 @@
             <description><![CDATA[<article><h1>Java Programming: An Introduction to Software | Coursera</h1><p>Explore Java Programming: An Introduction to Software Certificate offered by Duke University. Build Software Applications - Learn the basics of programming and software development with Java in four courses.. This Specialization covers the fundamentals of software development, focusing on a beginner-level introduction to rigorous problem-solving approaches while still embracing and extending traditional methods of computer science and software engineering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2055edec821d12a916c7fedf28877ce90d8985d.jpg"></article>]]></description>
             <link>https://www.coursera.org/specializations/java-programming</link>
             <guid isPermaLink="false">812bf3c6-2311-4c1b-b29b-489ea3e62bf5</guid>
-            <pubDate>Sun, 27 Dec 2015 21:29:03 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 13:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
