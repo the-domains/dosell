@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 13:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 13:22:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,34 @@
             <pubDate>Thu, 24 Dec 2015 19:03:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introduction to the Internet of Things and Embedded Systems - University of California, Irvine | Coursera]]></title>
+            <description><![CDATA[<article><h1>Introduction to the Internet of Things and Embedded Systems - University of California, Irvine | Coursera</h1><p>Introduction to the Internet of Things and Embedded Systems from University of California, Irvine. The explosive growth of the "Internet of Things" is changing our world and the rapid drop in price for typical IoT components is allowing people to innovate new designs and products at home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed0e62231afea18aa8273cffdbf0298142446e4.jpg"></article>]]></description>
+            <link>https://www.coursera.org/learn/iot</link>
+            <guid isPermaLink="false">fafcb0d2-b297-4ffe-bee8-38ebac0422c1</guid>
+            <pubDate>Mon, 28 Dec 2015 13:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Internet of Things: Sensing and Actuation From Devices - University of California, San Diego | Coursera]]></title>
+            <description><![CDATA[<article><h1>Internet of Things: Sensing and Actuation From Devices - University of California, San Diego | Coursera</h1><p>Internet of Things: Sensing and Actuation From Devices from University of California, San Diego. Have you wondered how information from physical devices in the real world gets communicated to Smartphone processors? Do you want to make informed design decisions about sampling frequencies and bit-width requirements for various kinds of sensors?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae8e81a77a7204a315309ff983595304baae77b.jpg"></article>]]></description>
+            <link>https://www.coursera.org/learn/internet-of-things-sensing-actuation</link>
+            <guid isPermaLink="false">bdca0df1-d800-4771-ad4d-3cdf303e6434</guid>
+            <pubDate>Mon, 28 Dec 2015 13:22:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hardware Security - University of Maryland, College Park | Coursera]]></title>
+            <description><![CDATA[<article><h1>Hardware Security - University of Maryland, College Park | Coursera</h1><p>Hardware Security from University of Maryland, College Park. In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks to these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b64a146a3ad8e82406bff158d4d9df13ea04ae4.png"></article>]]></description>
+            <link>https://www.coursera.org/course/hardwaresec</link>
+            <guid isPermaLink="false">a3ec2078-7765-4de0-86df-c4e218aee640</guid>
+            <pubDate>Mon, 28 Dec 2015 13:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Introduction to Programming the Internet of Things (IOT) | Coursera]]></title>
+            <description><![CDATA[<article><h1>An Introduction to Programming the Internet of Things (IOT) | Coursera</h1><p>Explore An Introduction to Programming the Internet of Things (IOT) Certificate offered by University of California, Irvine. Create Your Own Internet of Things (IoT) Device - Design and create a simple IoT device in just six courses.. This Specialization covers embedded systems, the Raspberry Pi Platform, and the Arduino environment for building devices that can control the physical world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f93d94f76ddc533f30f2689790bd1ed4f6c19af1.jpg"></article>]]></description>
+            <link>https://www.coursera.org/specializations/iot</link>
+            <guid isPermaLink="false">bdbca35a-145b-4093-852b-895962cc07cd</guid>
+            <pubDate>Mon, 28 Dec 2015 13:21:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chaos Computer Club: Europe's biggest hackers' congress underway in Hamburg | News | DW.COM | 28.12.2015]]></title>
             <description><![CDATA[<article><h1>Chaos Computer Club: Europe's biggest hackers' congress underway in Hamburg | News | DW.COM | 28.12.2015</h1><p>The four-day event, which kicked off on Sunday, has the slogan "Gated Communities" - symbolizing limitations on transparency and free speech in the digital word. The organizers want to point out that users view the world as filtered by Google, Youtube, Facebook - and therefore see only part of the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a2d443aaec5ae95ce99d56fc91ec258096c3d0a.jpg"></article>]]></description>
             <link>http://www.dw.com/en/chaos-computer-club-europes-biggest-hackers-congress-underway-in-hamburg/a-18944610</link>
@@ -29,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[A new kind of smart car]]></title>
-            <description><![CDATA[<article><h1>A new kind of smart car</h1><p>With things like Bluetooth, sensors, cameras and even satellite radio becoming commonplace in today's modern car, our vehicles are already ultra connected. But what if cars themselves were connected to each other? That's the idea behind technology referred to as vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f47f8d8639a36af49b437f4dca35d46a8b1022e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A new kind of smart car</h1><p>With things like Bluetooth, sensors, cameras and even satellite radio becoming commonplace in today's modern car, our vehicles are already ultra connected. But what if cars themselves were connected to each other? That's the idea behind technology referred to as vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/647b8d33a55449122e2cf539d0ce12858757f9a8.jpg"></article>]]></description>
             <link>http://newsroom.cisco.com/feature-content?type=webcontent&amp;articleId=1724437</link>
             <guid isPermaLink="false">9da089cc-f20c-4ee1-b2d4-fca5426091f4</guid>
             <pubDate>Mon, 28 Dec 2015 13:21:01 GMT</pubDate>
@@ -47,34 +75,6 @@
             <link>http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466</link>
             <guid isPermaLink="false">6d84073a-7fd4-41d7-a292-71b2b0d99d21</guid>
             <pubDate>Sun, 27 Dec 2015 21:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AuKey Brand protection solution for peripheral authentication - STMicroelectronics]]></title>
-            <description><![CDATA[<article><h1>AuKey Brand protection solution for peripheral authentication - STMicroelectronics</h1><p>AuKey - Brand protection solution for peripheral authentication, STMicroelectronics, AuKey</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3299fd4a9bea0ab181937aaedd1b622f947f518.gif"></article>]]></description>
-            <link>http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF248395</link>
-            <guid isPermaLink="false">55a86883-69b8-43f4-8f2d-b3ccc0454b23</guid>
-            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Stack Web Development | Coursera]]></title>
-            <description><![CDATA[<article><h1>Full Stack Web Development | Coursera</h1><p>Explore Full Stack Web Development Certificate offered by The Hong Kong University of Science and Technology. Build Complete Web Solutions - Master client- and server-side web development in five comprehensive courses.. The first two courses in this Specialization include an orientation to client-side development, covering HTML/CSS, JavaScript/JQuery, and frameworks such as AngularJS and Bootstrap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/751281be243b65c869249c5939a196eb034f0bf9.jpg"></article>]]></description>
-            <link>https://www.coursera.org/specializations/full-stack</link>
-            <guid isPermaLink="false">97b3c464-f4c2-47f8-a292-e3a09c8f570c</guid>
-            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of Things: Sensing and Actuation From Devices - University of California, San Diego | Coursera]]></title>
-            <description><![CDATA[<article><h1>Internet of Things: Sensing and Actuation From Devices - University of California, San Diego | Coursera</h1><p>Internet of Things: Sensing and Actuation From Devices from University of California, San Diego. Have you wondered how information from physical devices in the real world gets communicated to Smartphone processors? Do you want to make informed design decisions about sampling frequencies and bit-width requirements for various kinds of sensors?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae8e81a77a7204a315309ff983595304baae77b.jpg"></article>]]></description>
-            <link>https://www.coursera.org/learn/internet-of-things-sensing-actuation</link>
-            <guid isPermaLink="false">bdca0df1-d800-4771-ad4d-3cdf303e6434</guid>
-            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to the Internet of Things and Embedded Systems - University of California, Irvine | Coursera]]></title>
-            <description><![CDATA[<article><h1>Introduction to the Internet of Things and Embedded Systems - University of California, Irvine | Coursera</h1><p>Introduction to the Internet of Things and Embedded Systems from University of California, Irvine. The explosive growth of the "Internet of Things" is changing our world and the rapid drop in price for typical IoT components is allowing people to innovate new designs and products at home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed0e62231afea18aa8273cffdbf0298142446e4.jpg"></article>]]></description>
-            <link>https://www.coursera.org/learn/iot</link>
-            <guid isPermaLink="false">fafcb0d2-b297-4ffe-bee8-38ebac0422c1</guid>
-            <pubDate>Sun, 27 Dec 2015 21:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
