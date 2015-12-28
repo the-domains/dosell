@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://newsroom.cisco.com'
-  name: Cisco
-  favicon: 'http://newsroom.cisco.com/cisco-nci-rpwd-theme/images/favicon/favicon192.png'
-  domain: newsroom.cisco.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://newsroom.cisco.com/feature-content?type=webcontent&articleId=1724437'
+inLanguage: en
+starred: false
 keywords:
   - technology
   - cars
@@ -18,17 +17,20 @@ keywords:
   - nhtsa
   - dot
 description: "With things like Bluetooth, sensors, cameras and even satellite radio becoming commonplace in today's modern car, our vehicles are already ultra connected. But what if cars themselves were connected to each other? That's the idea behind technology referred to as vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication."
-inLanguage: en
+datePublished: '2015-12-28T13:21:01.955Z'
+dateModified: '2015-12-28T13:20:58.430Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://newsroom.cisco.com/feature-content?type=webcontent&articleId=1724437'
 title: A new kind of smart car
-datePublished: '2015-12-28T13:19:50.973Z'
-dateModified: '2015-12-28T06:32:43.631Z'
 sourcePath: _posts/2015-12-28-a-new-kind-of-smart-car.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Cisco
+  domain: newsroom.cisco.com
+  url: 'http://newsroom.cisco.com'
+  favicon: 'http://newsroom.cisco.com/cisco-nci-rpwd-theme/images/favicon/favicon192.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
