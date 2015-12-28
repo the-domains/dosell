@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Blog: News, Trends, Insights of Business Architecture, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 13:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 13:25:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,8 +21,22 @@
             <pubDate>Thu, 24 Dec 2015 19:03:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Internet of Things (IoT) Security - Infineon Technologies]]></title>
+            <description><![CDATA[<article><h1>Internet of Things (IoT) Security - Infineon Technologies</h1><p>For almost 30 years, we have been providing security solutions to protect users' data and have already shipped nearly 20 billion security controllers worldwide. We are now bringing our market and innovation leadership to the IoT realm, supporting new, more sustainable ways of communicating and living.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e00a0350bd6625f422b3d2ee9126623dc1b729d.jpg"></article>]]></description>
+            <link>http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/</link>
+            <guid isPermaLink="false">39c57d7e-4113-4e3c-b7f7-071f0d921e5d</guid>
+            <pubDate>Mon, 28 Dec 2015 13:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IoT Use Cases - Infineon Technologies]]></title>
+            <description><![CDATA[<article><h1>IoT Use Cases - Infineon Technologies</h1><p>IoT use cases show the different possibilties for this progressive technology. &#9659; View here our Internet of Things examples and trust in our expertise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f866f21521f90792551d2a7d37fb631ef9af70a7.jpg"></article>]]></description>
+            <link>http://www.infineon.com/iot-security-ebrochure/en/use_cases.html</link>
+            <guid isPermaLink="false">9e3458f8-217b-4b91-95d1-38c08aee280d</guid>
+            <pubDate>Mon, 28 Dec 2015 13:25:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kerkey Security Module for Smartmetering system - STMicroelectronics]]></title>
-            <description><![CDATA[<article><h1>Kerkey Security Module for Smartmetering system - STMicroelectronics</h1><p>Kerkey - Security Module for Smartmetering system, STMicroelectronics, KERKEY</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4666eef197aa4028f1af2433d2043a79a02de87.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Kerkey Security Module for Smartmetering system - STMicroelectronics</h1><p>Kerkey - Security Module for Smartmetering system, STMicroelectronics, KERKEY</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7b3f238db546aecc7cecde31156b12d2a23ee8.gif"></article>]]></description>
             <link>http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466</link>
             <guid isPermaLink="false">6d84073a-7fd4-41d7-a292-71b2b0d99d21</guid>
             <pubDate>Mon, 28 Dec 2015 13:24:56 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://www.coursera.org/course/hardwaresec</link>
             <guid isPermaLink="false">a3ec2078-7765-4de0-86df-c4e218aee640</guid>
             <pubDate>Mon, 28 Dec 2015 13:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Introduction to Programming the Internet of Things (IOT) | Coursera]]></title>
-            <description><![CDATA[<article><h1>An Introduction to Programming the Internet of Things (IOT) | Coursera</h1><p>Explore An Introduction to Programming the Internet of Things (IOT) Certificate offered by University of California, Irvine. Create Your Own Internet of Things (IoT) Device - Design and create a simple IoT device in just six courses.. This Specialization covers embedded systems, the Raspberry Pi Platform, and the Arduino environment for building devices that can control the physical world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f93d94f76ddc533f30f2689790bd1ed4f6c19af1.jpg"></article>]]></description>
-            <link>https://www.coursera.org/specializations/iot</link>
-            <guid isPermaLink="false">bdbca35a-145b-4093-852b-895962cc07cd</guid>
-            <pubDate>Mon, 28 Dec 2015 13:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos Computer Club: Europe's biggest hackers' congress underway in Hamburg | News | DW.COM | 28.12.2015]]></title>
-            <description><![CDATA[<article><h1>Chaos Computer Club: Europe's biggest hackers' congress underway in Hamburg | News | DW.COM | 28.12.2015</h1><p>The four-day event, which kicked off on Sunday, has the slogan "Gated Communities" - symbolizing limitations on transparency and free speech in the digital word. The organizers want to point out that users view the world as filtered by Google, Youtube, Facebook - and therefore see only part of the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a2d443aaec5ae95ce99d56fc91ec258096c3d0a.jpg"></article>]]></description>
-            <link>http://www.dw.com/en/chaos-computer-club-europes-biggest-hackers-congress-underway-in-hamburg/a-18944610</link>
-            <guid isPermaLink="false">07d14e9a-9191-4395-844b-964b95317c55</guid>
-            <pubDate>Mon, 28 Dec 2015 13:20:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
