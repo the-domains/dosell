@@ -17,8 +17,8 @@ keywords:
   - troubleshoot
   - quality
 description: 'Ziba designed an attention-grabbing, low cost line of multimedia speakers for Logitech that make performance clear.'
-datePublished: '2015-12-25T16:26:57.761Z'
-dateModified: '2015-12-25T16:26:53.463Z'
+datePublished: '2015-12-28T13:27:00.272Z'
+dateModified: '2015-12-28T13:26:58.080Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Logitech Multimedia Speakers | Ziba</h1><p>Ziba designed an attention-grabbing, low cost line of multimedia speakers for Logitech that make performance clear.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d02e1d41bacdf731a59ecc379b94e23b3d92270e.jpg" /></article>
+<article style=""><h1>Logitech Multimedia Speakers | Ziba</h1><p>Ziba designed an attention-grabbing, low cost line of multimedia speakers for Logitech that make performance clear.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57cc3ea9df8c504b250e97a0c57a4d26ad42e700.jpg" /></article>
