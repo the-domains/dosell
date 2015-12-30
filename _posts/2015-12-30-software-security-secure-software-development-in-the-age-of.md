@@ -1,25 +1,25 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T16:51:40.451Z'
-dateModified: '2015-12-30T16:51:13.707Z'
+datePublished: '2015-12-30T17:28:54.167Z'
+dateModified: '2015-12-30T17:28:52.589Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
 author: []
+sourcePath: _posts/2015-12-30-software-security-secure-software-development-in-the-age-of.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-30-software-security-secure-software-development-in-the-age-of.md
-published: true
 url: software-security-secure-software-development-in-the-age-of/index.html
 _type: Article
 
@@ -31,8 +31,7 @@ software development in the age of IoT, Smart Things, embedded applications**
 
 **(download the presentation:[link][0])**
 
-Software security news in the media (2015)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/032a0858-5cec-474e-9db9-736b64964de8.jpg)
+# Software security news in the media (2015)
 
 > Cyber-attacks against businesses
 > 'doubled in 2015' by venturebeat
@@ -92,7 +91,7 @@ weaknesses to look for when considering buying a new IoT device:
 ****
 
 # **Trends up to 2020**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fb3478c95fadebdbb1f72eac51f512babba8c5a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c46f7e1359496d3ec71916dfc62329c1ac0d8e1.jpg)
 
 „Like the physical universe, the
 digital universe is large -- by 2020 containing nearly as many digital bits as
@@ -168,7 +167,6 @@ shield\*, ISO
 ****
 
 # **Infineon Secure MCU line**
-null
 
 **Embedded
 security with Common Criteria certified platforms OPTIGA(tm) Trust P -- All-in-one
@@ -224,11 +222,8 @@ server/network manipulation.
 ****
 
 # **Secure Software development approach**
-null
-null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd0cb9e0-592b-42fa-8807-c676b3a3ecd1.jpg)
-
-**Build Your Software Securely**
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ae23c8df45b3d099bb75c50cc1061b5/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F6115a10f575f078e1fd6fc39e1a72fccdcfc0493.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6115a10f575f078e1fd6fc39e1a72fccdcfc0493.jpg)
 
 [][10]
 
@@ -298,9 +293,7 @@ and minimize damage when malicious hackers do succeed.
 
 # **TIC
 players (Testing, Inspection, Certification) industry role**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f254432e-50d8-4a9e-8b11-047c98a3d101.jpg)
-
-https://www.commoncriteriaportal.org/
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6951339afd81593e4f318f5ea4be660/passthrough.jpg?height=443&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff32accec89500e09af0e7aa0721ef60b6b897ee0.jpg&width=750)
 
 1\. Common  Criteria is a standard about Information Technology Security
 Evaluation, which, is true to its name Commonly **accepted
@@ -398,14 +391,8 @@ for Digital Signatures
 ****
 
 [][14]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab01aa72-ab48-41c0-802a-58111bfddff2.jpg)
-
-> # 
-> 
-> ****
-> 
-> **Create Your Own Internet of Things (IoT) Device - Design and
-> create a simple IoT device in just six courses.**
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0effec9c86d0e160e37968f5795528a7/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fa818e9e48f2367c873c627270adb328110bd6b0c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a818e9e48f2367c873c627270adb328110bd6b0c.jpg)
 
 [https://www.coursera.org/specializations/iot][14]
 
@@ -448,36 +435,15 @@ software product management
 ****
 
 # **External service providers (3rd party) create the trust - security**
-null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f318806a-c5f8-4d83-83f6-6fbea011a2a1.png)
 
-Common Criteria accredtited laboratory offers consultancy,
-evaluation services, as a Certified Evaluation Facility.
-• Card applets (ID cards, access cards, signature cards, etc.)
-• Detection Devices and Systems(Log analysers, Vulnerability
-managers, etc.)
-• Data Protection Software (Backup solutions, Cryptographic
-solutions, etc.)
-• Access control systems (Access analysers, Authentication systems,
-Policy managers, etc.)
-• Boundary Protection Systems ( Software firewalls, Secure messaging
-platforms, etc.)
-• Other systems (Mobile computing, RFID systems, IoT, embedded
-application, Smart metering etc.)
+null
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/569fdfc995b79462ac475b11e4df31cc/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1edf8a2fabc4620546cf58194f65b77f98e74348.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f318806a-c5f8-4d83-83f6-6fbea011a2a1.png)
 
 download introduction of common
 criteria services: [download][22]
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6fc1647bc6d95de4eddc040fbb6eb15f/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fdbe483d92ad7df97a649f671fe2f55bb9bfa7649.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a85aa67-552f-469d-9964-f7998f139a22.jpg)
-
-Back-end architecture development: Java EE - OSGi, node.js
-Enterprise Architecture Development end-to-end
-Large scale CMS, E-commerce system development
-RAD technology (framework)
-Rapid application development: Angular JS
-In-depth cryptography and software security solutions
-for Start-up: up to MVP end to end product design, management
-Scrum Project management, and Business Analyst service
-Scrum teams outsourcing
 
 download a Java OSGi case study: [download][23]
 
