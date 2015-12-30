@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T17:28:54.167Z'
-dateModified: '2015-12-30T17:28:52.589Z'
+datePublished: '2015-12-30T19:51:37.693Z'
+dateModified: '2015-12-30T19:51:33.541Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -57,7 +57,7 @@ manufacturers have become software companies, and vulnerable to software flaws.
 [][3]
 
 [https://twitter.com/peterjmsimons/status/625021993897861124/photo/1?ref\_src=twsrc%5Etfw][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2803262-e2c7-4cee-b6de-c019c4792c5b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffb1245b76363ff7c2a36fda4e3de39fcac6ec58.jpg)
 
 > The IoT is the Internet of Easy
 > Home Hacking by venturebeat
@@ -115,7 +115,7 @@ customer data will emerge." (Source: Forbes and On World)
 # **R&D activity in the chip industry -- the hardware
 ecosystems**
 
-STM secure MCU line ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/957b4ee9d3efd6358ab9ebb60edba61970c0615b.jpg)
+STM secure MCU line ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c408720d0d63f36a386c6a174f1d0f02bcc4c8.jpg)
 
 [][5]
 
