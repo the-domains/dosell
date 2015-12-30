@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T19:51:37.693Z'
-dateModified: '2015-12-30T19:51:33.541Z'
+datePublished: '2015-12-30T21:23:58.477Z'
+dateModified: '2015-12-30T21:10:05.899Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -162,7 +162,7 @@ against side channel attacks
 Active
 shield\*, ISO
 3309 CRC calculation block
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcd55d25-8176-4dcc-ad73-cdabafe5931c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/57cc8d4f71dd118d33a78dee4ac5ef901cdc633b.jpg)
 
 ****
 
@@ -222,7 +222,6 @@ server/network manipulation.
 ****
 
 # **Secure Software development approach**
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ae23c8df45b3d099bb75c50cc1061b5/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F6115a10f575f078e1fd6fc39e1a72fccdcfc0493.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6115a10f575f078e1fd6fc39e1a72fccdcfc0493.jpg)
 
 [][10]
@@ -293,7 +292,6 @@ and minimize damage when malicious hackers do succeed.
 
 # **TIC
 players (Testing, Inspection, Certification) industry role**
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6951339afd81593e4f318f5ea4be660/passthrough.jpg?height=443&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff32accec89500e09af0e7aa0721ef60b6b897ee0.jpg&width=750)
 
 1\. Common  Criteria is a standard about Information Technology Security
 Evaluation, which, is true to its name Commonly **accepted
@@ -391,7 +389,6 @@ for Digital Signatures
 ****
 
 [][14]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0effec9c86d0e160e37968f5795528a7/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fa818e9e48f2367c873c627270adb328110bd6b0c.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a818e9e48f2367c873c627270adb328110bd6b0c.jpg)
 
 [https://www.coursera.org/specializations/iot][14]
@@ -435,15 +432,11 @@ software product management
 ****
 
 # **External service providers (3rd party) create the trust - security**
-
-null
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/569fdfc995b79462ac475b11e4df31cc/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1edf8a2fabc4620546cf58194f65b77f98e74348.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f318806a-c5f8-4d83-83f6-6fbea011a2a1.png)
 
 download introduction of common
 criteria services: [download][22]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6fc1647bc6d95de4eddc040fbb6eb15f/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fdbe483d92ad7df97a649f671fe2f55bb9bfa7649.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a85aa67-552f-469d-9964-f7998f139a22.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbe483d92ad7df97a649f671fe2f55bb9bfa7649.jpg)
 
 download a Java OSGi case study: [download][23]
 
