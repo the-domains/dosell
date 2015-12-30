@@ -1,7 +1,7 @@
 name: DoSell
 favicon: null
-layout_spectrum: 0.46841
-typography_spectrum: 0.52246
+layout_spectrum: 0.55324
+typography_spectrum: 0.53511
 title: 'News, Trends, Insights of Product Design - Engineering - Business Architecture'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#2b2a28'
     - '#5c5c5c'
   brandStrength: 0.797297
-  lightness: 0.75
-  saturation: 0.5625
+  lightness: 0.6875
+  saturation: 0.6875
   rhythmicContrast: 0.712838
 purpose: []
