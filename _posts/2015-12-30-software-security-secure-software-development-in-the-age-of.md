@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-31T08:19:13.666Z'
-dateModified: '2015-12-31T08:19:04.136Z'
+datePublished: '2015-12-31T08:19:21.915Z'
+dateModified: '2015-12-31T08:19:17.732Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
