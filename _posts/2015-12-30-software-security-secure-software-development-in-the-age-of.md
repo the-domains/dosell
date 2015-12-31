@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T13:44:43.324Z'
-dateModified: '2015-12-31T13:44:38.088Z'
+datePublished: '2015-12-31T19:23:57.094Z'
+dateModified: '2015-12-31T19:23:21.151Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -162,7 +162,6 @@ against side channel attacks
 Active
 shield\*, ISO
 3309 CRC calculation block
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/57cc8d4f71dd118d33a78dee4ac5ef901cdc633b.jpg)
 
 ****
 
