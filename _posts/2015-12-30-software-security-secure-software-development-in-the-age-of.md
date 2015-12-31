@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T08:41:22.641Z'
-dateModified: '2015-12-31T08:31:06.675Z'
+datePublished: '2015-12-31T08:42:29.384Z'
+dateModified: '2015-12-31T08:42:24.594Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -24,7 +24,7 @@ url: software-security-secure-software-development-in-the-age-of/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/19eef69ab515763e4233d886a9d727c2b3c7806b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ea54afc-45b7-4bec-abf5-3a51c9b3f65a.jpg)
 
 # **Software security, secure
 software development in the age of IoT, Smart Things, embedded applications**
