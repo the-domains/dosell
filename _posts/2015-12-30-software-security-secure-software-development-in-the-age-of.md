@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T13:38:19.137Z'
-dateModified: '2015-12-31T13:38:12.765Z'
+datePublished: '2015-12-31T13:44:43.324Z'
+dateModified: '2015-12-31T13:44:38.088Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -91,7 +91,7 @@ weaknesses to look for when considering buying a new IoT device:
 ****
 
 # **Trends up to 2020**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c46f7e1359496d3ec71916dfc62329c1ac0d8e1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb41f249c06fedea3c8f2df1303e1f2b24a9810.jpg)
 
 „Like the physical universe, the
 digital universe is large -- by 2020 containing nearly as many digital bits as
@@ -389,7 +389,7 @@ for Digital Signatures
 ****
 
 [][14]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a818e9e48f2367c873c627270adb328110bd6b0c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca6e9d2904e0940fb11929ebf1c740cfea1f23c.jpg)
 
 > Full course of designing IoT devices
 
@@ -434,7 +434,7 @@ software product management
 ****
 
 # **External service providers (3rd party) create the trust - security**
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/569fdfc995b79462ac475b11e4df31cc/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1edf8a2fabc4620546cf58194f65b77f98e74348.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a6d234d9918e1db83fcdfe3c066d5185b4bb474.png)
 
 download introduction of common
 criteria services: [download][22]
