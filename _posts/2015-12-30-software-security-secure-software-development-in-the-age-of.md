@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T21:23:58.477Z'
-dateModified: '2015-12-30T21:10:05.899Z'
+datePublished: '2015-12-31T08:19:13.666Z'
+dateModified: '2015-12-31T08:19:04.136Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -291,7 +291,7 @@ and minimize damage when malicious hackers do succeed.
 ****
 
 # **TIC
-players (Testing, Inspection, Certification) industry role**
+players (Testing, Inspection, Certification) industry role: Common Criteria**
 
 1\. Common  Criteria is a standard about Information Technology Security
 Evaluation, which, is true to its name Commonly **accepted
@@ -350,7 +350,7 @@ proving that the certificate can be achieved
 
 ****
 
-**Scope of the Common Criteria **
+# **Scope of the Common Criteria **
 
 On the
 commoncritariaportal.org the product-scope of the CC contains the following categories:
@@ -390,6 +390,8 @@ for Digital Signatures
 
 [][14]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a818e9e48f2367c873c627270adb328110bd6b0c.jpg)
+
+> Full course of designing IoT devices
 
 [https://www.coursera.org/specializations/iot][14]
 
