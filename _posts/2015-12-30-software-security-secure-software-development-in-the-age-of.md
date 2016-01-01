@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-31T19:23:57.094Z'
-dateModified: '2015-12-31T19:23:21.151Z'
+datePublished: '2016-01-01T19:37:12.322Z'
+dateModified: '2016-01-01T19:37:04.130Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -437,7 +437,7 @@ software product management
 
 download introduction of common
 criteria services: [download][22]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbe483d92ad7df97a649f671fe2f55bb9bfa7649.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a5bf2f8ee810f9763f87a33a8757451ba4573d3.jpg)
 
 download a Java OSGi case study: [download][23]
 
