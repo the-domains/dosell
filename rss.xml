@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 21:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 15:02:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
@@ -16,8 +16,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 01 Jan 2016 19:37:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Qualcomm video shows how much smarter drones will get in 2016]]></title>
+            <description><![CDATA[<article><h1>Qualcomm video shows how much smarter drones will get in 2016</h1><p>Earlier this year, chipmaker Qualcomm announced it would be producing a custom version of its widely-used Snapdragon chipset for drones. The company says that its Snapdragon Flight processors will bring down the cost of drones, improve their battery life, and make advanced features more widely available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b17358c363e5cb1e4d6109dcc8794dee5ca52e5.gif"></article>]]></description>
+            <link>http://www.theverge.com/2015/12/31/10693066/qualcomm-snapdragon-flight-preview</link>
+            <guid isPermaLink="false">c2c1e16e-abe3-45f6-845c-0e155c379124</guid>
+            <pubDate>Sun, 03 Jan 2016 15:02:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tech Trends Predictions for 2016 | Capgemini Worldwide]]></title>
-            <description><![CDATA[<article><h1>Tech Trends Predictions for 2016 | Capgemini Worldwide</h1><p>A collection of what leading Capgemini experts see as trending topics for next year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a938f354791fb52cdb32bbeeb83429f926aacbd7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tech Trends Predictions for 2016 | Capgemini Worldwide</h1><p>A collection of what leading Capgemini experts see as trending topics for next year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/495fc0809d6cb3bc2e9dd414382082e8544e7461.jpg"></article>]]></description>
             <link>https://www.capgemini.com/beyond-the-buzz/2016-tech-predictions?utm_source=linkedin&amp;utm_medium=text&amp;utm_term=predictions&amp;utm_content=campaign&amp;utm_campaign=businesstechpredictions2016</link>
             <guid isPermaLink="false">1deed8e7-81a2-46e5-9d79-6d91c8f776fe</guid>
             <pubDate>Fri, 01 Jan 2016 21:07:34 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://www.infineon.com/iot-security-ebrochure/en/use_cases.html</link>
             <guid isPermaLink="false">9e3458f8-217b-4b91-95d1-38c08aee280d</guid>
             <pubDate>Mon, 28 Dec 2015 13:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kerkey Security Module for Smartmetering system - STMicroelectronics]]></title>
-            <description><![CDATA[<article><h1>Kerkey Security Module for Smartmetering system - STMicroelectronics</h1><p>Kerkey - Security Module for Smartmetering system, STMicroelectronics, KERKEY</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7b3f238db546aecc7cecde31156b12d2a23ee8.gif"></article>]]></description>
-            <link>http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466</link>
-            <guid isPermaLink="false">6d84073a-7fd4-41d7-a292-71b2b0d99d21</guid>
-            <pubDate>Mon, 28 Dec 2015 13:24:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
