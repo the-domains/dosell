@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 19:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 19:58:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
@@ -16,8 +16,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 01 Jan 2016 19:37:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[LG expects future growth from car electronics and Internet of Things]]></title>
+            <description><![CDATA[<article><h1>LG expects future growth from car electronics and Internet of Things</h1><p>LG is working on a wide panoramic information display that can give you a lot of data without compromising safety by putting the data on the glass itself. The smart windshield is one of many displays, appliances, and other devices that the company hopes will supply its future growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f13ffd7e665387b8f5d5199346f6d0629fb200e9.png"></article>]]></description>
+            <link>http://venturebeat.com/2016/01/05/lg-expects-future-growth-from-car-electronics-and-internet-of-things/</link>
+            <guid isPermaLink="false">219067e9-1128-4625-b786-2507baefc9a6</guid>
+            <pubDate>Tue, 05 Jan 2016 19:58:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Roundup Of Internet of Things Forecasts And Market Estimates, 2015 - Enterprise Irregulars]]></title>
-            <description><![CDATA[<article><h1>Roundup Of Internet of Things Forecasts And Market Estimates, 2015 - Enterprise Irregulars</h1><p>Cisco predicts the global IoT market will be $14.4T by 2022. IC Insights predicts revenue from Industrial Internet IoT spending will increase from $6.4B in 2012 to $12.4B in 2015. IoT in manufacturing market size is estimated to grow from $4.11B in 2015 to $13.49B by 2020, attaining a CAGR of 26.9%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545980b86f8608d7214124bd9572b33a411fa38a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Roundup Of Internet of Things Forecasts And Market Estimates, 2015 - Enterprise Irregulars</h1><p>Cisco predicts the global IoT market will be $14.4T by 2022. IC Insights predicts revenue from Industrial Internet IoT spending will increase from $6.4B in 2012 to $12.4B in 2015. IoT in manufacturing market size is estimated to grow from $4.11B in 2015 to $13.49B by 2020, attaining a CAGR of 26.9%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d46e623badb7d95e263abc80b08b3cb387f44b9.jpg"></article>]]></description>
             <link>https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</link>
             <guid isPermaLink="false">8475e9ed-e1b9-4be1-9276-816cfa3e0265</guid>
             <pubDate>Tue, 05 Jan 2016 19:56:28 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://centricdigital.com/blog/digital-trends/internet-of-things-2015-the-year-in-review/</link>
             <guid isPermaLink="false">85e0dd7d-6b4d-4fa6-8882-85ebf40cc837</guid>
             <pubDate>Mon, 04 Jan 2016 20:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[STMicroelectronics and ClevX Offer World's First Wireless User-Authentication Technology Platform for IoT-Device Security]]></title>
-            <description><![CDATA[<article><h1>STMicroelectronics and ClevX Offer World's First Wireless User-Authentication Technology Platform for IoT-Device Security</h1><p>Platform allows smartphones and wearables to authenticate with secure IoT devices, home-automation applications, and secure data storage via Bluetooth Smart® technology Geneva, Switzerland and Seattle, WA, January 4, 2016 - STMicroelectronics ( STM), a global semiconductor leader serving customers across the spectrum of electronics applications, and ClevX, an intellectual-property innovator and technology developer for portable storage and mobile device manufacturers, today announced the world`s first DataLock ®-secured encrypted portable storage media with Bluetooth Smart wireless user authentication.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a46fd310e2bfaf488396990b38123ff49a162325.png"></article>]]></description>
-            <link>http://finance.yahoo.com/news/stmicroelectronics-clevx-offer-worlds-first-140302978.html</link>
-            <guid isPermaLink="false">3b2dc7c7-22e8-4898-8c30-3da2e6aa8c14</guid>
-            <pubDate>Mon, 04 Jan 2016 18:10:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
