@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 19:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 11:21:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
@@ -16,8 +16,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 01 Jan 2016 19:37:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Information Security Resource]]></title>
+            <description><![CDATA[<article><h1>The Information Security Resource</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e06182a193371b8771332980a9348230b707dddf.jpg"></article>]]></description>
+            <link>http://www.infosecbuddy.com/</link>
+            <guid isPermaLink="false">5b021d53-1458-41bd-9dcc-b788167728d9</guid>
+            <pubDate>Wed, 06 Jan 2016 09:36:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[LG expects future growth from car electronics and Internet of Things]]></title>
-            <description><![CDATA[<article><h1>LG expects future growth from car electronics and Internet of Things</h1><p>LG is working on a wide panoramic information display that can give you a lot of data without compromising safety by putting the data on the glass itself. The smart windshield is one of many displays, appliances, and other devices that the company hopes will supply its future growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f13ffd7e665387b8f5d5199346f6d0629fb200e9.png"></article>]]></description>
+            <description><![CDATA[<article><h1>LG expects future growth from car electronics and Internet of Things</h1><p>LG is working on a wide panoramic information display that can give you a lot of data without compromising safety by putting the data on the glass itself. The smart windshield is one of many displays, appliances, and other devices that the company hopes will supply its future growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c73ec123fda3ccae37c0d2f42cad295395593a57.png"></article>]]></description>
             <link>http://venturebeat.com/2016/01/05/lg-expects-future-growth-from-car-electronics-and-internet-of-things/</link>
             <guid isPermaLink="false">219067e9-1128-4625-b786-2507baefc9a6</guid>
             <pubDate>Tue, 05 Jan 2016 19:58:48 GMT</pubDate>
@@ -66,17 +73,10 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/42/1c/3e/421c3e2f9e3a7af609d3033fe1aff492.jpg">]]></description>
-            <link>https://thegrid.ai/dosell/abba6335-06c9-4aa6-adb9-3c2909bde7dc/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/136ba710b9872bffcf3f40fc463ef224e1d5325c.jpg" alt="" title="">]]></description>
+            <link>https://www.pinterest.com/pin/556687203914307446/sent/?sender=315955867516180824&amp;invite_code=dbdf69a19d53b25871683d24b4cae8a3</link>
             <guid isPermaLink="false">abba6335-06c9-4aa6-adb9-3c2909bde7dc</guid>
-            <pubDate>Tue, 05 Jan 2016 09:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of Things 2015: The Year in Review | Centric Digital]]></title>
-            <description><![CDATA[<article><h1>Internet of Things 2015: The Year in Review | Centric Digital</h1><p>Everyday interactions and normal tasks like going for a run in the park, test driving a car or turning on the living room lights are increasingly facilitated by machine-to-machine interactions. That jog, car or electricity grid are most likely connected to a machine or set of systems through wearable technology, an integrated GPS, or a "smart grid"-and the Internet of Things is behind it all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64bf9be6d2a8a51a3bda313362ad75540b32d0dc.png"></article>]]></description>
-            <link>http://centricdigital.com/blog/digital-trends/internet-of-things-2015-the-year-in-review/</link>
-            <guid isPermaLink="false">85e0dd7d-6b4d-4fa6-8882-85ebf40cc837</guid>
-            <pubDate>Mon, 04 Jan 2016 20:44:29 GMT</pubDate>
+            <pubDate>Wed, 06 Jan 2016 11:20:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
