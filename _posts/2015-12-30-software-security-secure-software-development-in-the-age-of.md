@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T11:26:38.594Z'
-dateModified: '2016-01-06T11:26:32.480Z'
+datePublished: '2016-01-06T12:16:52.887Z'
+dateModified: '2016-01-06T12:16:51.232Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -429,11 +429,11 @@ software product management
 [][21]
 
 [https://www.coursera.org/specializations/product-management][21]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1702c29371f8b91854821e1b0868fef1db2c0f63.jpg)
 
 ****
 
 # **External service providers (3rd party) create the trust - security**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6576386851535acf58818d9b07c5b8970cf4b2dc.png)
 
 download introduction of common
 criteria services: [download][22]
@@ -449,6 +449,7 @@ email:  tibor.zahorecz@dosell.io
 web: http://dosell.io/ 
 
 download the article in pdf http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b0c221-fd32-4ee5-ac4f-6811e6bedf3f.png)
 
 [0]: http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
 [1]: http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/
