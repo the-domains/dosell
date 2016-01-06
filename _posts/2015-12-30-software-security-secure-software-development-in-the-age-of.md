@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T12:47:00.867Z'
-dateModified: '2016-01-06T12:46:58.278Z'
+datePublished: '2016-01-06T13:33:46.144Z'
+dateModified: '2016-01-06T13:33:40.759Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -429,7 +429,6 @@ software product management
 [][21]
 
 [https://www.coursera.org/specializations/product-management][21]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1702c29371f8b91854821e1b0868fef1db2c0f63.jpg)
 
 ****
 
@@ -437,6 +436,7 @@ software product management
 
 download introduction of common
 criteria services: [download][22]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de708821eeec6967f1773afebbf6e862b6f89c7c.jpg)
 
 download a Java OSGi case study: [download][23]
 
@@ -449,7 +449,7 @@ email:  tibor.zahorecz@dosell.io
 web: http://dosell.io/ 
 
 download the article in pdf http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b0c221-fd32-4ee5-ac4f-6811e6bedf3f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f706afd9f5afd7f73038819ac8bb6b6b13c9ccaf.png)
 
 [0]: http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
 [1]: http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/
