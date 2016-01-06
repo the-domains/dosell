@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T12:16:52.887Z'
-dateModified: '2016-01-06T12:16:51.232Z'
+datePublished: '2016-01-06T12:25:27.992Z'
+dateModified: '2016-01-06T12:25:26.443Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
