@@ -4,16 +4,23 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 16:22:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
 software development in the age of IoT, Smart Things, embedded applications]]></title>
             <description><![CDATA[<article><h1>Software security, secure
-software development in the age of IoT, Smart Things, embedded applications</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e064263be3aa1cd66001bf2e4a23a5d5dc4bab3c.jpg"></article>]]></description>
+software development in the age of IoT, Smart Things, embedded applications</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cd62a2b0a21b9b7d18630a940b8bc2b4ca3b510.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Wed, 06 Jan 2016 16:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glimpse into the future.]]></title>
+            <description><![CDATA[<article><h1>Glimpse into the future.</h1><p>We design from the inside out. Our goal was to build a car with a sixth sense for its driver's intentions and needs - one with adaptive personalization, seamless transfer of custom vehicle configurations, access to live images, and real time data visualization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/880479bc2c6bd602377216e7013fc78e92aec779.jpg"></article>]]></description>
+            <link>http://faradayfuture.com/ces2016/#thepowertrain</link>
+            <guid isPermaLink="false">69cc13ed-1265-4217-8932-d149ea1dddf3</guid>
+            <pubDate>Wed, 06 Jan 2016 16:22:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infographic: Credential Economy - CyberSource]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://mashable.com/2015/12/18/iot-smart-home-brandspeak/?utm_cid=p-bit-2-tw-main-bc#J1bJ5naZ28qc</link>
             <guid isPermaLink="false">08c897f5-e2d4-42d9-a7f7-4921dfed6634</guid>
             <pubDate>Tue, 05 Jan 2016 09:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia creates a deep-learning platform for self-driving cars]]></title>
-            <description><![CDATA[<article><h1>Nvidia creates a deep-learning platform for self-driving cars</h1><p>The self-driving car is a huge computational problem. It's so tough that traditional computer vision techniques don't work tackling it. So Nvidia has turned to an artificial intelligence technique, dubbed deep learning, to train brain-like computers that can learn how to identify hazards on a road and safely direct a self-driving car.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/340ae9484ea834eefe97fde8c448fe1473599c29.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2016/01/04/nvidia-creates-a-deep-learning-platform-for-self-driving-cars/</link>
-            <guid isPermaLink="false">d5727339-cdfb-44a0-8eb9-b0c5f61d47fa</guid>
-            <pubDate>Tue, 05 Jan 2016 09:43:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
