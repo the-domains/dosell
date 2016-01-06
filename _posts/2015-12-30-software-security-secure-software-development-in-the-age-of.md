@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-06T13:33:46.144Z'
-dateModified: '2016-01-06T13:33:40.759Z'
+datePublished: '2016-01-06T16:07:57.112Z'
+dateModified: '2016-01-06T16:07:52.806Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -29,23 +29,23 @@ _type: Article
 # **Software security, secure
 software development in the age of IoT, Smart Things, embedded applications**
 
-**(download the presentation:[link][0])**
+**by Tibor Zahorecz [contact][0] , [linkedin][1] , twitter -  (download the presentation:[link][2])**
 
 # Software security news in the media (2015)
 
 > Cyber-attacks against businesses
 > 'doubled in 2015' by venturebeat
 
-[][1]
+[][3]
 
-[http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/][1]
+[http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/][3]
 
 > Should Software Companies Be
 > Legally Liable For Security Breaches? by techcrunch
 
-[][2]
+[][4]
 
-[http://techcrunch.com/2015/08/06/should-software-companies-be-legally-liable-for-security-breaches/][2]
+[http://techcrunch.com/2015/08/06/should-software-companies-be-legally-liable-for-security-breaches/][4]
 
 "I do not see a way forward without
 software liability," said Jeff Moss aka Dark Tangent. As software eats the
@@ -54,17 +54,17 @@ companies: Moss called Airbus, Boeing, and Tesla manufacturers of "moving data
 centers." The recent Jeep hack highlights the extent to which vehicle
 manufacturers have become software companies, and vulnerable to software flaws.
 
-[][3]
+[][5]
 
-[https://twitter.com/peterjmsimons/status/625021993897861124/photo/1?ref\_src=twsrc%5Etfw][3]
+[https://twitter.com/peterjmsimons/status/625021993897861124/photo/1?ref\_src=twsrc%5Etfw][5]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93e43d363d34dfb7b2b9fd1c59c25c69bbb5d053.jpg)
 
 > The IoT is the Internet of Easy
 > Home Hacking by venturebeat
 
-[][4]
+[][6]
 
-[http://venturebeat.com/2015/12/14/the-iot-is-the-internet-of-easy-home-hacking/][4]
+[http://venturebeat.com/2015/12/14/the-iot-is-the-internet-of-easy-home-hacking/][6]
 
 In 2016, 4 million new "things"
 will become available to consumers, according to Gartner. From a security
@@ -86,7 +86,7 @@ Bogdan Botezatu, Senior E-Threat Analyst at Bitdefender.
 Here are the six most common
 weaknesses to look for when considering buying a new IoT device:
 
-[][4]
+[][6]
 
 ****
 
@@ -117,9 +117,9 @@ ecosystems**
 
 STM secure MCU line ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86440e300023debe0dae1243c9e56be124e0af3.jpg)
 
-[][5]
+[][7]
 
-[http://www.st.com/web/en/catalog/mmc/FM143/CL1814/SC1522?sc=tpm][5]
+[http://www.st.com/web/en/catalog/mmc/FM143/CL1814/SC1522?sc=tpm][7]
 
 The latest ST33-based TPM relies on
 the advanced ARM 32-bit SC300(tm) SecurCore(r) microcontroller. Along with its
@@ -134,9 +134,9 @@ by the TCG organization.
 # STM' Kerkey Security Module for Smartmetering
 system 
 
-[][6]
+[][8]
 
-[http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466][6]
+[http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466][8]
 
 ### 
 
@@ -171,20 +171,20 @@ shield\*, ISO
 security with Common Criteria certified platforms OPTIGA(tm) Trust P -- All-in-one
 device for Authentication**
 
-[][7]
+[][9]
 
-[http://www.infineon.com/dgdl/Infineon-Spolight\_on\_embedded\_security-BC-v10\_15-EN.pdf?fileId=5546d462503812bb0150a397d7663251][7]
+[http://www.infineon.com/dgdl/Infineon-Spolight\_on\_embedded\_security-BC-v10\_15-EN.pdf?fileId=5546d462503812bb0150a397d7663251][9]
 
 **Infineon
 IoT landscape**
 
-[][8]
+[][10]
 
-[http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/][8]
+[http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/][10]
 
-[][8]
+[][10]
 
-[http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/][8]
+[http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/][10]
 
 'The
 Internet of Things (IoT) is moving from a centralized structure to a complex
@@ -214,25 +214,25 @@ server/network manipulation.
 
 **IoT Security**
 
-[][9]
+[][11]
 
-[http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073][9]
+[http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073][11]
 
 ****
 
 # **Secure Software development approach**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1824eb8642cef6015fd140bd9fbed06e25b4baf5.jpg)
 
-[][10]
+[][12]
 
-[https://info.veracode.com/webinar-dark-reading-build-your-software-securely.html][10]
+[https://info.veracode.com/webinar-dark-reading-build-your-software-securely.html][12]
 
 > **The Ten Best Practices for Secure
 > Software Development**
 
-[][11]
+[][13]
 
-[https://www.isc2.org/uploadedfiles/(isc)2\_public\_content/certification\_programs/csslp/isc2\_wpiv.pdf][11]
+[https://www.isc2.org/uploadedfiles/(isc)2\_public\_content/certification\_programs/csslp/isc2\_wpiv.pdf][13]
 
 "In the 80's we wired the world with
 cables and in the 90's we wired the world with computer networks. Today we are
@@ -274,9 +274,9 @@ How to Build Secure Software
 > **How to develop software the secure,
 > Gary McGraw way**
 
-[][12]
+[][14]
 
-[http://searchsecurity.techtarget.com/essentialguide/How-to-develop-software-the-secure-Gary-McGraw-way][12]
+[http://searchsecurity.techtarget.com/essentialguide/How-to-develop-software-the-secure-Gary-McGraw-way][14]
 
 Ensuring security in software, Gary McGraw
 has long argued, means starting at the code level: That is, build security in
@@ -296,7 +296,7 @@ players (Testing, Inspection, Certification) industry role: Common Criteria**
 Evaluation, which, is true to its name Commonly **accepted
 all over the World, in 25 countries. **
 
-[][13]****
+[][15]****
 
 2\. The standard defines a construct of creating
 the system of the product security, in an implementation-independent
@@ -387,58 +387,58 @@ for Digital Signatures
 
 ****
 
-[][14]
+[][16]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a660cbe51f7e721fac4990730d72eb31137824b2.jpg)
 
 > Full course of designing IoT devices
 
-[https://www.coursera.org/specializations/iot][14]
+[https://www.coursera.org/specializations/iot][16]
 
 software security:
 
-[][15]
+[][17]
 
-[https://www.coursera.org/browse/computer-science/computer-security-and-networks?languages=en][15]
+[https://www.coursera.org/browse/computer-science/computer-security-and-networks?languages=en][17]
 
 IoT courses
 
-[][16]
-
-[https://www.coursera.org/learn/internet-of-things-communication][16]
-
-[][17]
-
-[https://www.coursera.org/learn/iot][17]
-
 [][18]
 
-[https://www.coursera.org/learn/internet-of-things-dragonboard][18]
+[https://www.coursera.org/learn/internet-of-things-communication][18]
 
 [][19]
 
-[https://www.coursera.org/learn/internet-of-things-sensing-actuation][19]
-
-hardware security
+[https://www.coursera.org/learn/iot][19]
 
 [][20]
 
-[https://www.coursera.org/course/hardwaresec][20]
-
-software product management
+[https://www.coursera.org/learn/internet-of-things-dragonboard][20]
 
 [][21]
 
-[https://www.coursera.org/specializations/product-management][21]
+[https://www.coursera.org/learn/internet-of-things-sensing-actuation][21]
+
+hardware security
+
+[][22]
+
+[https://www.coursera.org/course/hardwaresec][22]
+
+software product management
+
+[][23]
+
+[https://www.coursera.org/specializations/product-management][23]
 
 ****
 
 # **External service providers (3rd party) create the trust - security**
 
 download introduction of common
-criteria services: [download][22]
+criteria services: [download][24]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de708821eeec6967f1773afebbf6e862b6f89c7c.jpg)
 
-download a Java OSGi case study: [download][23]
+download a Java OSGi case study: [download][25]
 
 Get in contact, ask quote:
 
@@ -451,27 +451,29 @@ web: http://dosell.io/
 download the article in pdf http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f706afd9f5afd7f73038819ac8bb6b6b13c9ccaf.png)
 
-[0]: http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
-[1]: http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/
-[2]: http://techcrunch.com/2015/08/06/should-software-companies-be-legally-liable-for-security-breaches/
-[3]: https://twitter.com/peterjmsimons/status/625021993897861124/photo/1?ref_src=twsrc%5Etfw
-[4]: http://venturebeat.com/2015/12/14/the-iot-is-the-internet-of-easy-home-hacking/
-[5]: http://www.st.com/web/en/catalog/mmc/FM143/CL1814/SC1522?sc=tpm
-[6]: http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466
-[7]: http://www.infineon.com/dgdl/Infineon-Spolight_on_embedded_security-BC-v10_15-EN.pdf?fileId=5546d462503812bb0150a397d7663251
-[8]: http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/
-[9]: http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073
-[10]: https://info.veracode.com/webinar-dark-reading-build-your-software-securely.html
-[11]: https://www.isc2.org/uploadedfiles/(isc)2_public_content/certification_programs/csslp/isc2_wpiv.pdf
-[12]: http://searchsecurity.techtarget.com/essentialguide/How-to-develop-software-the-secure-Gary-McGraw-way
-[13]: https://www.commoncriteriaportal.org/
-[14]: https://www.coursera.org/specializations/iot
-[15]: https://www.coursera.org/browse/computer-science/computer-security-and-networks?languages=en
-[16]: https://www.coursera.org/learn/internet-of-things-communication
-[17]: https://www.coursera.org/learn/iot
-[18]: https://www.coursera.org/learn/internet-of-things-dragonboard
-[19]: https://www.coursera.org/learn/internet-of-things-sensing-actuation
-[20]: https://www.coursera.org/course/hardwaresec
-[21]: https://www.coursera.org/specializations/product-management
-[22]: http://www.slideshare.net/tiborzahorecz7/because-secure-product-and-software-creates-competitive-advantage
-[23]: http://www.slideshare.net/tiborzahorecz7/the-best-way-to-design-secure-software-products
+[0]: http://dosell.io/contact/
+[1]: https://hu.linkedin.com/in/tzahorecz
+[2]: http://www.slideshare.net/tiborzahorecz7/software-security-secure-software-development-in-the-age-of-iot-smart-things-embedded-applications
+[3]: http://venturebeat.com/2015/12/23/cyber-attacks-against-businesses-doubled-in-2015/
+[4]: http://techcrunch.com/2015/08/06/should-software-companies-be-legally-liable-for-security-breaches/
+[5]: https://twitter.com/peterjmsimons/status/625021993897861124/photo/1?ref_src=twsrc%5Etfw
+[6]: http://venturebeat.com/2015/12/14/the-iot-is-the-internet-of-easy-home-hacking/
+[7]: http://www.st.com/web/en/catalog/mmc/FM143/CL1814/SC1522?sc=tpm
+[8]: http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466
+[9]: http://www.infineon.com/dgdl/Infineon-Spolight_on_embedded_security-BC-v10_15-EN.pdf?fileId=5546d462503812bb0150a397d7663251
+[10]: http://www.infineon.com/cms/en/applications/chip-card-security/internet-of-things-security/
+[11]: http://www.infineon.com/iot-security-ebrochure/en/index.html?intc=0420073
+[12]: https://info.veracode.com/webinar-dark-reading-build-your-software-securely.html
+[13]: https://www.isc2.org/uploadedfiles/(isc)2_public_content/certification_programs/csslp/isc2_wpiv.pdf
+[14]: http://searchsecurity.techtarget.com/essentialguide/How-to-develop-software-the-secure-Gary-McGraw-way
+[15]: https://www.commoncriteriaportal.org/
+[16]: https://www.coursera.org/specializations/iot
+[17]: https://www.coursera.org/browse/computer-science/computer-security-and-networks?languages=en
+[18]: https://www.coursera.org/learn/internet-of-things-communication
+[19]: https://www.coursera.org/learn/iot
+[20]: https://www.coursera.org/learn/internet-of-things-dragonboard
+[21]: https://www.coursera.org/learn/internet-of-things-sensing-actuation
+[22]: https://www.coursera.org/course/hardwaresec
+[23]: https://www.coursera.org/specializations/product-management
+[24]: http://www.slideshare.net/tiborzahorecz7/because-secure-product-and-software-creates-competitive-advantage
+[25]: http://www.slideshare.net/tiborzahorecz7/the-best-way-to-design-secure-software-products
