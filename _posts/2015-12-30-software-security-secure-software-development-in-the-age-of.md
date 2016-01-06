@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to manage secure software development and get Common Criteria certification for smart devices
-datePublished: '2016-01-06T16:27:45.807Z'
-dateModified: '2016-01-06T16:27:38.313Z'
+datePublished: '2016-01-06T16:32:42.332Z'
+dateModified: '2016-01-06T16:32:30.288Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
