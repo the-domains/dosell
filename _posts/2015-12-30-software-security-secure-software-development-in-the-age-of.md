@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T19:37:12.322Z'
-dateModified: '2016-01-01T19:37:04.130Z'
+datePublished: '2016-01-06T11:26:38.594Z'
+dateModified: '2016-01-06T11:26:32.480Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -24,7 +24,7 @@ url: software-security-secure-software-development-in-the-age-of/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ea54afc-45b7-4bec-abf5-3a51c9b3f65a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2b2b523d88228564e670892832cb0de71ea677e.jpg)
 
 # **Software security, secure
 software development in the age of IoT, Smart Things, embedded applications**
@@ -57,7 +57,7 @@ manufacturers have become software companies, and vulnerable to software flaws.
 [][3]
 
 [https://twitter.com/peterjmsimons/status/625021993897861124/photo/1?ref\_src=twsrc%5Etfw][3]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffb1245b76363ff7c2a36fda4e3de39fcac6ec58.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93e43d363d34dfb7b2b9fd1c59c25c69bbb5d053.jpg)
 
 > The IoT is the Internet of Easy
 > Home Hacking by venturebeat
@@ -91,7 +91,7 @@ weaknesses to look for when considering buying a new IoT device:
 ****
 
 # **Trends up to 2020**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb41f249c06fedea3c8f2df1303e1f2b24a9810.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c324b74fb4776f0ff14402894bfba003c0cc812c.jpg)
 
 „Like the physical universe, the
 digital universe is large -- by 2020 containing nearly as many digital bits as
@@ -115,7 +115,7 @@ customer data will emerge." (Source: Forbes and On World)
 # **R&D activity in the chip industry -- the hardware
 ecosystems**
 
-STM secure MCU line ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c408720d0d63f36a386c6a174f1d0f02bcc4c8.jpg)
+STM secure MCU line ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86440e300023debe0dae1243c9e56be124e0af3.jpg)
 
 [][5]
 
@@ -221,7 +221,7 @@ server/network manipulation.
 ****
 
 # **Secure Software development approach**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6115a10f575f078e1fd6fc39e1a72fccdcfc0493.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1824eb8642cef6015fd140bd9fbed06e25b4baf5.jpg)
 
 [][10]
 
@@ -388,7 +388,7 @@ for Digital Signatures
 ****
 
 [][14]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca6e9d2904e0940fb11929ebf1c740cfea1f23c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a660cbe51f7e721fac4990730d72eb31137824b2.jpg)
 
 > Full course of designing IoT devices
 
@@ -433,11 +433,10 @@ software product management
 ****
 
 # **External service providers (3rd party) create the trust - security**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a6d234d9918e1db83fcdfe3c066d5185b4bb474.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6576386851535acf58818d9b07c5b8970cf4b2dc.png)
 
 download introduction of common
 criteria services: [download][22]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a5bf2f8ee810f9763f87a33a8757451ba4573d3.jpg)
 
 download a Java OSGi case study: [download][23]
 
