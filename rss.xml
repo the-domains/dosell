@@ -4,20 +4,27 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 10:18:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
 software development in the age of IoT, Smart Things, embedded applications]]></title>
             <description><![CDATA[<article><h1>Software security, secure
-software development in the age of IoT, Smart Things, embedded applications</h1><p>How to manage secure software development and get Common Criteria certification for smart devices</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e064263be3aa1cd66001bf2e4a23a5d5dc4bab3c.jpg"></article>]]></description>
+software development in the age of IoT, Smart Things, embedded applications</h1><p>How to manage secure software development and get Common Criteria certification for smart devices</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cd62a2b0a21b9b7d18630a940b8bc2b4ca3b510.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Wed, 06 Jan 2016 16:32:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Surprise, OS X is the most vulnerable software of 2015 not Adobe Flash]]></title>
+            <description><![CDATA[<article><h1>Surprise, OS X is the most vulnerable software of 2015 not Adobe Flash</h1><p>Now that 2015 is behind us we get to look at the most vulnerable software that could put our PC/laptop or smartphone in jeopardy and also leak our personal information. The year had started with the favourite whipping boy of security researchers and cyber security firm, Adobe Flash reporting multiple zero-days and you would you expected it to top the list of most vulnerable software.</p><img src="http://techworm.vijayprabhu.netdna-cdn.com/wp-content/uploads/2016/01/os_x_wallpaper_1_by_los_mandoade-e1451804392739.jpg?a57812"></article>]]></description>
+            <link>http://www.techworm.net/2016/01/surprise-os-x-is-the-most-vulnerable-software-of-2015-not-adobe-flash.html</link>
+            <guid isPermaLink="false">b195b0e8-e7e5-4924-bd46-88b9cdc3507b</guid>
+            <pubDate>Thu, 07 Jan 2016 10:17:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Glimpse into the future.]]></title>
-            <description><![CDATA[<article><h1>Glimpse into the future.</h1><p>We design from the inside out. Our goal was to build a car with a sixth sense for its driver's intentions and needs - one with adaptive personalization, seamless transfer of custom vehicle configurations, access to live images, and real time data visualization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/880479bc2c6bd602377216e7013fc78e92aec779.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Glimpse into the future.</h1><p>We design from the inside out. Our goal was to build a car with a sixth sense for its driver's intentions and needs - one with adaptive personalization, seamless transfer of custom vehicle configurations, access to live images, and real time data visualization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a46cab77a60d4fbc63d1d7b2054d2b480261f34.jpg"></article>]]></description>
             <link>http://faradayfuture.com/ces2016/#thepowertrain</link>
             <guid isPermaLink="false">69cc13ed-1265-4217-8932-d149ea1dddf3</guid>
             <pubDate>Wed, 06 Jan 2016 16:22:17 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://www.forbes.com/sites/samsungbusiness/2015/10/29/how-the-internet-of-things-increases-efficiency-across-industries/?utm_campaign=ForbesTech&amp;utm_source=TWITTER&amp;utm_medium=social&amp;linkId=20075701</link>
             <guid isPermaLink="false">f81f44ac-e1cb-4279-aa18-3e5fc2ec88c9</guid>
             <pubDate>Wed, 06 Jan 2016 11:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The super creepy side of the Internet of Things and smart homes]]></title>
-            <description><![CDATA[<article><h1>The super creepy side of the Internet of Things and smart homes</h1><p>Gartner estimates that more than 21% of total IoT use in 2016 will be in smart homes, adding up to more than 1.6 billion Internet-connected things. Not only will the average consumer own and use more than three smart personal devices, but all of these devices will have the ability to constantly monitor, interact with, and broadcast personal and private user data at all times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ae6128064e5dd040458b975b56fae98c55c6e0d.jpg"></article>]]></description>
-            <link>http://mashable.com/2015/12/18/iot-smart-home-brandspeak/?utm_cid=p-bit-2-tw-main-bc#J1bJ5naZ28qc</link>
-            <guid isPermaLink="false">08c897f5-e2d4-42d9-a7f7-4921dfed6634</guid>
-            <pubDate>Tue, 05 Jan 2016 09:43:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
