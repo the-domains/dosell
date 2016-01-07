@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 10:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 10:18:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
@@ -14,6 +14,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Wed, 06 Jan 2016 16:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smart-Thing Technologies from STMicroelectronics Power PIQ Multi-Sport Wearable Sensor]]></title>
+            <description><![CDATA[<article><h1>Smart-Thing Technologies from STMicroelectronics Power PIQ Multi-Sport Wearable Sensor</h1><p>Multiple ST ICs designed-in to perform key functions, boost battery lifetime, and shrink product size By tracking hand and wrist movement in multiple axes for accurate 3D analysis, the PIQ multi-sport sensor helps improve performance and technique.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6db6fcb65d2cc586f36006b2bc16706018d9774.jpg"></article>]]></description>
+            <link>http://www.st.com/web/en/press/t3762</link>
+            <guid isPermaLink="false">1cada73a-ed92-4a94-ac3d-a93a5a4a87f0</guid>
+            <pubDate>Thu, 07 Jan 2016 10:17:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Surprise, OS X is the most vulnerable software of 2015 not Adobe Flash]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://www.ibm.com/developerworks/library/iot-cc-watson-iot-platform-trs/index.html</link>
             <guid isPermaLink="false">45724e71-d28c-4980-814b-01739429b441</guid>
             <pubDate>Tue, 05 Jan 2016 09:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung BusinessVoice: How The Internet Of Things Increases Efficiency Across Industries]]></title>
-            <description><![CDATA[<article><h1>Samsung BusinessVoice: How The Internet Of Things Increases Efficiency Across Industries</h1><p>As the devices that power businesses begin to deliver data in real time, they are becoming part of an organization's operational solutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e6cbfde5f1675673f7ae085eb0e74f571181403.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/samsungbusiness/2015/10/29/how-the-internet-of-things-increases-efficiency-across-industries/?utm_campaign=ForbesTech&amp;utm_source=TWITTER&amp;utm_medium=social&amp;linkId=20075701</link>
-            <guid isPermaLink="false">f81f44ac-e1cb-4279-aa18-3e5fc2ec88c9</guid>
-            <pubDate>Wed, 06 Jan 2016 11:23:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
