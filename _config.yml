@@ -1,5 +1,19 @@
+name: DoSell
+favicon: null
+layout_spectrum: 0.50561
+typography_spectrum: 0.666385
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-71835463-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E8F0E8'
@@ -7,13 +21,8 @@ color:
     - '#808880'
     - '#000000'
     - '#000000'
-  brandStrength: 0.714527
+  brandStrength: 0.8125
   lightness: 0.919764
-  rhythmicContrast: 0.403716
   saturation: 0.552365
-cta: {}
-layout_spectrum: 0.465372
-name: DoSell
-opengraph: {}
+  rhythmicContrast: 0.403716
 purpose: []
-typography_spectrum: 0.666385
