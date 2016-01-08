@@ -17,8 +17,8 @@ keywords:
   - service
   - compressed
 description: "DoSell's Development and Implementation Platform connect companies with audited Product Design, Engineering, Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency. DO WHAT YOU LOVE - WE DO THE REST"
-datePublished: '2015-12-27T16:37:47.042Z'
-dateModified: '2015-12-27T16:37:44.114Z'
+datePublished: '2016-01-08T20:06:01.645Z'
+dateModified: '2016-01-08T20:05:58.025Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5f9c31c5766234df50a6f3065856503b67ddd04.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2dcb342e88021766cdb4446045bd1dea94e8ba2.jpg)
 
 <article style=""><h1>B2B reference guide for company makers</h1><p>DoSell's Development and Implementation Platform connect companies with audited Product Design&amp;comma; Engineering&amp;comma; Software Development and Global Market Access Advisory service providers to accelerate growth and efficiency&amp;period; DO WHAT YOU LOVE - WE DO THE REST</p><img src="https://payload.persona.co/1/0/2532/headerimg/profile_1450302064.jpg" /></article>
