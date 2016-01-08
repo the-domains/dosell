@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 16:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 16:17:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
@@ -16,15 +16,8 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Wed, 06 Jan 2016 16:32:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Connected Cars | Automotive Infotainment | Connceted IVI | Connected Smart Devices | Automotive Industry | HARMAN Connected Services]]></title>
-            <description><![CDATA[<article><h1>Connected Cars | Automotive Infotainment | Connceted IVI | Connected Smart Devices | Automotive Industry | HARMAN Connected Services</h1><p>Consumers expect their cars to provide the same connected experiences they get at home, or on their mobile. We harness the power of UI, embedded, analytics and the cloud to design the software that drives 80% of vehicles shipped by major automakers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eec3da1a67378dc9b27bcbbf4c8dba57e45e43ad.jpg"></article>]]></description>
-            <link>http://services.harman.com/industries/automotive/</link>
-            <guid isPermaLink="false">ca49dae8-6357-4e16-b228-650dac94f9c4</guid>
-            <pubDate>Fri, 08 Jan 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Photonic IoT Primer]]></title>
-            <description><![CDATA[<article><h1>The Photonic IoT Primer</h1><p>From Copper-to-Fiber and Silicon-to-Photon The nature of technological advancement demonstrates; that advances in technology, first serve to benefit technological advancement itself - causing an increasing number of advancements to be realized, it distances itself as an ever-accelerating force, ahead of markets. Capitalizing is largely about timing/convergence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb877a0a31186061f6d65b45ef85819f205184e5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Photonic IoT Primer</h1><p>From Copper-to-Fiber and Silicon-to-Photon The nature of technological advancement demonstrates; that advances in technology, first serve to benefit technological advancement itself - causing an increasing number of advancements to be realized, it distances itself as an ever-accelerating force, ahead of markets. Capitalizing is largely about timing/convergence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e343b6e01895a31498069f12f0736f916125352a.jpg"></article>]]></description>
             <link>https://www.linkedin.com/pulse/photonic-iot-primer-brendan-o-gorman</link>
             <guid isPermaLink="false">4ea6f81b-8612-48b1-9559-15edae135a6d</guid>
             <pubDate>Fri, 08 Jan 2016 16:16:12 GMT</pubDate>
@@ -38,7 +31,7 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
         </item>
         <item>
             <title><![CDATA[Why fly a drone when you can fly inside one?]]></title>
-            <description><![CDATA[<article><h1>Why fly a drone when you can fly inside one?</h1><p>LAS VEGAS - Ehang has a crazy, and maybe brilliant, idea. We just have one question first: Are you ready to fly inside a drone? The Chinese drone maker unveiled a high-flying 500 lb. drone, which in theory would also be able to serve as an autonomous transportation vehicle for real humans - at CES on Wednesday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/212587af905096d90a29f003791cfd2f75a465fa.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why fly a drone when you can fly inside one?</h1><p>LAS VEGAS - Ehang has a crazy, and maybe brilliant, idea. We just have one question first: Are you ready to fly inside a drone? The Chinese drone maker unveiled a high-flying 500 lb. drone, which in theory would also be able to serve as an autonomous transportation vehicle for real humans - at CES on Wednesday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a03f86ee01e28b47fb7758cdf156f85ce1ba40f.jpg"></article>]]></description>
             <link>http://mashable.com/2016/01/06/ehang-184-drone/?utm_cid=mash-com-fb-main-vid#9pl9Lc_6Muqs</link>
             <guid isPermaLink="false">7a7c506d-7496-448f-8607-b5350372d735</guid>
             <pubDate>Fri, 08 Jan 2016 16:15:55 GMT</pubDate>
@@ -77,6 +70,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://www.techworm.net/2016/01/surprise-os-x-is-the-most-vulnerable-software-of-2015-not-adobe-flash.html</link>
             <guid isPermaLink="false">b195b0e8-e7e5-4924-bd46-88b9cdc3507b</guid>
             <pubDate>Thu, 07 Jan 2016 10:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glimpse into the future.]]></title>
+            <description><![CDATA[<article><h1>Glimpse into the future.</h1><p>We design from the inside out. Our goal was to build a car with a sixth sense for its driver's intentions and needs - one with adaptive personalization, seamless transfer of custom vehicle configurations, access to live images, and real time data visualization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a46cab77a60d4fbc63d1d7b2054d2b480261f34.jpg"></article>]]></description>
+            <link>http://faradayfuture.com/ces2016/#thepowertrain</link>
+            <guid isPermaLink="false">69cc13ed-1265-4217-8932-d149ea1dddf3</guid>
+            <pubDate>Wed, 06 Jan 2016 16:22:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
