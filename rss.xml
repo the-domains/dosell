@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell: News, Trends, Insights of Product Design _ Engineering _ Business Architecture]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 16:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 16:16:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software security, secure
@@ -14,13 +14,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Wed, 06 Jan 2016 16:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet Allowed Us to Learn Anything-VR Will Let Us Experience Everything - Singularity HUB]]></title>
-            <description><![CDATA[<article><h1>The Internet Allowed Us to Learn Anything-VR Will Let Us Experience Everything - Singularity HUB</h1><p>0 5 I have something to admit-to this day, I'm in awe of Wikipedia. Humanity has created a massive repository of our knowledge available for free to anyone with an Internet connection. All of our presidents and kings, theories and discoveries, just waiting to be read about and discovered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8b0c39f90cb0fb7d9f5570e0ff6d226d5a69495.jpg"></article>]]></description>
-            <link>http://singularityhub.com/2015/12/29/the-internet-allowed-us-to-learn-anything-vr-will-let-us-experience-it/?utm_content=buffer3b7c7&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">5f0c9f69-99c7-40bd-9ec2-7c5b4d47e61e</guid>
-            <pubDate>Fri, 08 Jan 2016 16:15:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why fly a drone when you can fly inside one?]]></title>
@@ -77,6 +70,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://www.cybersource.com/en-APAC/products/payment_security/credential_economy/?dcid=701F0000000SxwJ&amp;utm_source=LinkedIn&amp;utm_medium=Social_Media&amp;utm_content=Infographic_Credential_Economy&amp;utm_campaign=APAC_Customer_Experience</link>
             <guid isPermaLink="false">d120e4ca-67fd-484f-b593-f973e5488380</guid>
             <pubDate>Wed, 06 Jan 2016 11:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Algorithms Are Taking Over: Who Controls Our Online Future?]]></title>
+            <description><![CDATA[<article><h1>The Algorithms Are Taking Over: Who Controls Our Online Future?</h1><p>The Internet is devolving from a free forum of ideas to a series of walled gardens where algorithms and a small cadre of elites decide what is acceptable speech online</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285e7e9cca6b99bb72c2f1c382aae1ae5ba350ef.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/kalevleetaru/2016/01/02/the-algorithms-are-taking-over-who-controls-our-online-future/</link>
+            <guid isPermaLink="false">4e9920c7-0d04-4d0d-a429-5148a4b4e84e</guid>
+            <pubDate>Wed, 06 Jan 2016 11:24:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
