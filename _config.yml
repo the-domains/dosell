@@ -2,11 +2,11 @@ analytics:
   google: UA-71835463-1
 color:
   brandColors:
-    - '#D0D0A8'
-    - '#302810'
-    - '#A09068'
-    - '#BF9F40'
-    - '#E8E8C0'
+    - '#B0C0C8'
+    - '#3080A0'
+    - '#888070'
+    - '#40B0D0'
+    - '#D06858'
   brandStrength: 0.849662
   lightness: 0.924831
   rhythmicContrast: 0.738176
