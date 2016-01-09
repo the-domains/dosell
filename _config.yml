@@ -7,12 +7,12 @@ color:
     - '#A09068'
     - '#BF9F40'
     - '#E8E8C0'
-  brandStrength: 0.746622
-  lightness: 0.978885
+  brandStrength: 0.849662
+  lightness: 0.924831
   rhythmicContrast: 0.737331
   saturation: 0.693412
 cta: {}
-layout_spectrum: 0.513513
+layout_spectrum: 0.511824
 name: DoSell
 opengraph: {}
 purpose: []
