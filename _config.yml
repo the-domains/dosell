@@ -2,17 +2,17 @@ analytics:
   google: UA-71835463-1
 color:
   brandColors:
-    - '#B0B8B0'
+    - '#E0E0E0'
     - '#000000'
-    - '#889070'
+    - '#98A098'
     - '#000000'
     - '#000000'
-  brandStrength: 0.734797
-  lightness: 0.846284
-  rhythmicContrast: 0.63598
-  saturation: 0.693412
+  brandStrength: 0.559966
+  lightness: 0.893581
+  rhythmicContrast: 0.701858
+  saturation: 0.624155
 cta: {}
-layout_spectrum: 0.116554
+layout_spectrum: 0.384291
 name: DoSell
 opengraph: {}
 purpose: []
