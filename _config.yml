@@ -3,12 +3,12 @@ analytics:
 color:
   brandColors:
     - '#E0E0E0'
-    - '#185070'
-    - '#587890'
-    - '#4090B0'
-    - '#E8F8F0'
-  brandStrength: 0.849662
-  lightness: 0.924831
+    - '#000000'
+    - '#98A098'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.734797
+  lightness: 0.961149
   rhythmicContrast: 0.63598
   saturation: 0.693412
 cta: {}
