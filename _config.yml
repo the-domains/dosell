@@ -1,29 +1,19 @@
-name: DoSell
-favicon: null
-layout_spectrum: 0.43702
-typography_spectrum: 0.666385
-title: 'DoSell: News, Trends, Insights of Product Design - Engineering - Business Architecture'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-71835463-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#B8C0B8'
+    - '#B8B8B0'
     - '#000000'
-    - '#989890'
+    - '#909088'
     - '#000000'
     - '#000000'
-  brandStrength: 0.782095
-  lightness: 0.863176
-  saturation: 0.6875
-  rhythmicContrast: 0.528716
+  brandStrength: 0.866554
+  lightness: 0.804054
+  rhythmicContrast: 0.646959
+  saturation: 0.576858
+cta: {}
+layout_spectrum: 0.467905
+name: DoSell
+opengraph: {}
 purpose: []
+typography_spectrum: 0.666385
