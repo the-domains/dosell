@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T10:25:20.406Z'
-dateModified: '2016-01-11T10:25:10.681Z'
+datePublished: '2016-01-11T10:31:45.923Z'
+dateModified: '2016-01-11T10:31:42.718Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -22,7 +22,7 @@ url: common-criteria-software-evaluations/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a66d0efd-733b-4faa-86dc-d1b3bdc241e8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba648916ce51b403bb6fd6a6a3eb736e96e1bfc.png)
 
 # Common Criteria Software Evaluations
 
