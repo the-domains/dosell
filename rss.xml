@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 18:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 09:58:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,20 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Common Criteria Software Evaluations]]></title>
+            <description><![CDATA[<article><h1>Common Criteria Software Evaluations</h1><h2>Solutions To Boost Your Product Security</h2><p>License: http://www.cclab.hu/licence.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2897f5b5b1b5014b64c4b995a18e0dd4fb939dfd.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
+            <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
+            <pubDate>Mon, 11 Jan 2016 09:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Engineering the IoT - Opening Keynote at Embedded World 2015 by Silicon Labs]]></title>
+            <description><![CDATA[<article><h1>Engineering the IoT - Opening Keynote at Embedded World 2015 by Silicon Labs</h1><p>The Embedded World Conference 2015 started with a highlight on the very first day: Tyson Tuttle, CEO Silicon Labs, will open the conference with his keynote "Engineering the IoT: An RF Expert's View on Technology Trends and Challenges". With more than 20 years of electrical engineering experience, Tyson Tuttle has a deep understanding of mixed-signal circuit design and RF in CMOS technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26e5de04bb549ac9fb7ad5c0e7d60f86d6080159.jpg"></article>]]></description>
+            <link>https://youtu.be/LHXkvETDzY0</link>
+            <guid isPermaLink="false">bf5ec2d3-ff3a-4135-af23-e27a0f73ca28</guid>
+            <pubDate>Mon, 11 Jan 2016 09:52:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harvard i-lab | The Business of the Internet of Things with Chad Jones]]></title>
@@ -63,20 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://www.linkedin.com/pulse/photonic-iot-primer-brendan-o-gorman</link>
             <guid isPermaLink="false">4ea6f81b-8612-48b1-9559-15edae135a6d</guid>
             <pubDate>Fri, 08 Jan 2016 16:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet Allowed Us to Learn Anything-VR Will Let Us Experience Everything - Singularity HUB]]></title>
-            <description><![CDATA[<article><h1>The Internet Allowed Us to Learn Anything-VR Will Let Us Experience Everything - Singularity HUB</h1><p>0 5 I have something to admit-to this day, I'm in awe of Wikipedia. Humanity has created a massive repository of our knowledge available for free to anyone with an Internet connection. All of our presidents and kings, theories and discoveries, just waiting to be read about and discovered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a4301e1f8a97cc2eaa312d8bafba38df4e1e08c.jpg"></article>]]></description>
-            <link>http://singularityhub.com/2015/12/29/the-internet-allowed-us-to-learn-anything-vr-will-let-us-experience-it/?utm_content=buffer3b7c7&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">5f0c9f69-99c7-40bd-9ec2-7c5b4d47e61e</guid>
-            <pubDate>Fri, 08 Jan 2016 16:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why fly a drone when you can fly inside one?]]></title>
-            <description><![CDATA[<article><h1>Why fly a drone when you can fly inside one?</h1><p>LAS VEGAS - Ehang has a crazy, and maybe brilliant, idea. We just have one question first: Are you ready to fly inside a drone? The Chinese drone maker unveiled a high-flying 500 lb. drone, which in theory would also be able to serve as an autonomous transportation vehicle for real humans - at CES on Wednesday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/212587af905096d90a29f003791cfd2f75a465fa.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/01/06/ehang-184-drone/?utm_cid=mash-com-fb-main-vid#9pl9Lc_6Muqs</link>
-            <guid isPermaLink="false">7a7c506d-7496-448f-8607-b5350372d735</guid>
-            <pubDate>Fri, 08 Jan 2016 16:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
