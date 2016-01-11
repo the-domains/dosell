@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T10:19:50.475Z'
-dateModified: '2016-01-11T10:19:42.142Z'
+datePublished: '2016-01-11T10:25:20.406Z'
+dateModified: '2016-01-11T10:25:10.681Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -22,8 +22,7 @@ url: common-criteria-software-evaluations/index.html
 _type: Article
 
 ---
-[Contact with us][0], [Linkedin][1], email: tibor.zahorecz@dosell.io
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4146981-71e0-4544-8341-fcc0f893ecb4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a66d0efd-733b-4faa-86dc-d1b3bdc241e8.png)
 
 # Common Criteria Software Evaluations
 
@@ -34,6 +33,8 @@ CClab - Systrans joined to DoSell platform in January 2016
 http://www.cclab.hu/lab.html
 
 License: http://www.cclab.hu/licence.html
+
+contact: tibor.zahorecz@dosell.io
 
 ### What services do we offer?
 
@@ -68,6 +69,3 @@ The goals of Common Criteria are twofold:
 The certifications according to these requirement frameworks are an assurance that the certified products resist against the threats and are also functionally trustworthy. The standard assesses the aim of the product, the physical and logical environment, and gives a standardized approach to define security requirements (functional, assurance and environmental). This approach is based on the security objectives (assumptions, policies and the analysis of threats). The aim of the certification is to prove that the product conforms to the requirements.The geographical scope is split according to the certification-capability of the participant states.
 
 There are Certificate Providers (Australia, Canada, India, France, Germany, Italy, Japan, Malaysia, the Netherlands, New Zealand, Norway, Republic of South Korea, Spain, Sweden, Turkey, the United Kingdom and the United States) and Certificate Consumers (Austria, Czech Republic, Denmark, Finland, Greece, Hungary, Singapore, Israel, Pakistan, India)
-
-[0]: http://dosell.io/contact/
-[1]: https://www.linkedin.com/company/dosell
