@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T14:39:01.777Z'
-dateModified: '2016-01-12T14:38:47.235Z'
+datePublished: '2016-01-12T18:47:39.105Z'
+dateModified: '2016-01-12T18:47:30.114Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -24,17 +24,19 @@ _type: Article
 ---
 # Common Criteria Software Evaluations
 
-## Solutions To Boost Your Product Security - We manage security certification for your software
+> **Solutions To Boost Your Product Security - We manage security certification for your software**
 
-CClab - Systrans joined to DoSell platform in January 2016
+**CClab - Systrans joined to DoSell platform in January 2016\.**
 
-http://www.cclab.hu/lab.html
+visit CClab: http://www.cclab.hu/
 
 License: http://www.cclab.hu/lab.html
 
-contact: tibor.zahorecz@dosell.io
+contact: tibor.zahorecz@dosell.io  or  http://dosell.io/contact/ 
 
-> One-Stop-Shop of software security
+DoSell platform: http://dosell.io/services/
+
+> **One-Stop-Shop of software security**
 
 ### 
 
@@ -47,17 +49,7 @@ contact: tibor.zahorecz@dosell.io
 
 # What sercices do we offer?
 
-### 
-
-CCLab offers evaulating services for CC. We can help if you require a Certificate under a National Scheme, and you look for a CC expert, who can help to get over the difficulties of certification. CCLab is also experienced in Common Criteria Consultations
-
-Our Laboratory staff is highly experienced, involved in Common Criteria evaluations for more than a decade. We have already evaluated
-
-[products][0]
-
-in the field, we can support you instantly what is needed and how, and for other innovations we are ready to learn.
-
-You've just found the perfect site if your Company have been developing viable software applications and your instinct always says, that the functionality is useless without proven security of usage, or your public and private Customer requires CC certification. Evidence for the software security shall be provided through the Evaluation and Certification according to the standards of the internationally recognized Common Criteria (CC) Certification Scheme. Our Systrans Software Laboratory and CCLab Ltd. is your ideal partner for the product categories because:
+CCLab offers evaulating services for CC. We can help if you require a Certificate under a National Scheme, and you look for a CC expert, who can help to get over the difficulties of certification. CCLab is also experienced in Common Criteria Consultations.
 
 • Located in Hungary, we are the only CC accredited lab in whole Central-Europe.
 
@@ -69,68 +61,12 @@ You've just found the perfect site if your Company have been developing viable s
 
 • Due to the Central-European labor cost landscape the Laboratory shall offer very competitive prices - and we mean it!
 
-If you are not sure whether your product is fit for a Common Criteria **Certification, we offer ****Pre-evaluation**
+references: http://www.cclab.hu/ref.html
 
-services to prepare you for the Evaluation, to avoid delays and additional costs during the certification. During pre-evaluation our **Consultants will evaluate the already existing documentation, helps define a Protection Profile, or create a Security Target and will identify areas of non-conformance, or unmet criteria.**
+Need ssecure software development sercices? 
 
-### Main product scope at CCLab:
+Contact:  http://dosell.io/contact/ 
 
-### 
+or write a mail: tibor.zahorecz@dosell.io
 
-* ICs, Smart Cards and Smart Card-Related Devices and Systems
-* Products for Digital Signatures
-* Detection Devices and Systems
-* Access Control Systems
-* Boundary Protection Devices and Systems
-* Mobile computing softwares
-* And much more...
-
-### About the Common Criteria Scheme
-
-### 
-
-If you are looking for a Common Criteria (CC) certificate for one of your products, you already know what it is about. If this is the first time you have come across this term, please visit [commoncriteriaportal.org][1]
-
-, or read our [one page summary][2]: http://www.cclab.hu/documents/about\_the\_common\_criteria\_scheme.pdf
-
-### Accreditations
-
-#### OCSI: Systrans-CCLab is an internationally acknowledged evaulation facility under the Italian Common Criteria Scheme.
-
-### 
-
-Our certification was issued by OSCI (Organismo di Certificatione della Sicurezza Informatika) under the registration number:
-
-**No. 1/2015**
-
-Our certificate can be downloaded
-
-http://www.cclab.hu/images/cert/cc%20cert.pdf
-
-For our published availabilities please click the logo below:
-
-#### NAT
-
-### 
-
-Our registration number under the Hungarian Accreditation Board (NAT):
-
-**NAT-1-1740/2014**
-
-Our certification can be dowloaded:
-
-http://www.cclab.hu/images/cert/okirat.jpg
-
-### Evaluation Assurance Levels we can help with
-
-### 
-
-* EAL1: functionally tested
-* EAL2: structurally tested
-* EAL3: methodically tested and checked
-* EAL4: methodically designed, tested, and reviewed
-* EAL4+: EAL4 level augmented
-
-[0]: http://www.cclab.hu/ref.html
-[1]: http://www.commoncriteriaportal.org/
-[2]: http://www.cclab.hu/documents/about_the_common_criteria_scheme.pdf
+###
