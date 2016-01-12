@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 18:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 18:36:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DoctuSoft - Software Development]]></title>
+            <description><![CDATA[<article><h1>DoctuSoft - Software Development</h1><p>Outsource the development of your application to us and reach your goals by focusing on your core activity. Our software engineers have international expertise in product development on Google App Engine, Java and BPM platform. In addition to quality, agility is also a matter. Our key references are available in logistics, retail, telecommunications and financial sectors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b106111e0187f59fb79c7ba6a228d584d527a30a.jpg"></article>]]></description>
+            <link>http://doctusoft.com/</link>
+            <guid isPermaLink="false">56fbfe54-3ab5-44ae-9bb3-28a4b730e239</guid>
+            <pubDate>Tue, 12 Jan 2016 18:35:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Developers need to establish trust in the IoT]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://embedded-computing.com/articles/developers-need-to-establish-trust-in-the-iot/</link>
             <guid isPermaLink="false">d2e0216c-71f2-4868-a785-d93fef716a5f</guid>
             <pubDate>Fri, 08 Jan 2016 18:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connected Cars | Automotive Infotainment | Connceted IVI | Connected Smart Devices | Automotive Industry | HARMAN Connected Services]]></title>
-            <description><![CDATA[<article><h1>Connected Cars | Automotive Infotainment | Connceted IVI | Connected Smart Devices | Automotive Industry | HARMAN Connected Services</h1><p>Consumers expect their cars to provide the same connected experiences they get at home, or on their mobile. We harness the power of UI, embedded, analytics and the cloud to design the software that drives 80% of vehicles shipped by major automakers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb9de2201a8dbf65693f126a901c4512a43ef731.jpg"></article>]]></description>
-            <link>http://services.harman.com/industries/automotive/</link>
-            <guid isPermaLink="false">ca49dae8-6357-4e16-b228-650dac94f9c4</guid>
-            <pubDate>Fri, 08 Jan 2016 16:17:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
