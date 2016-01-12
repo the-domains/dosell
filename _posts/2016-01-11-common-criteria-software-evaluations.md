@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T18:47:39.105Z'
-dateModified: '2016-01-12T18:47:30.114Z'
+datePublished: '2016-01-12T19:09:43.386Z'
+dateModified: '2016-01-12T19:09:38.226Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -22,6 +22,8 @@ url: common-criteria-software-evaluations/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45d87d2-61cd-433c-9583-9842f5db64ee.png)
+
 # Common Criteria Software Evaluations
 
 > **Solutions To Boost Your Product Security - We manage security certification for your software**
@@ -68,5 +70,4 @@ Need ssecure software development sercices?
 Contact:  http://dosell.io/contact/ 
 
 or write a mail: tibor.zahorecz@dosell.io
-
-###
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/198b9c20-eac8-4470-a94b-b9e6c8b37a2e.png)
