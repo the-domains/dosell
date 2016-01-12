@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T19:36:56.465Z'
-dateModified: '2016-01-12T19:36:52.947Z'
+datePublished: '2016-01-12T19:39:55.102Z'
+dateModified: '2016-01-12T19:39:52.067Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 > Get jobs done with trusted solution providers
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45d87d2-61cd-433c-9583-9842f5db64ee.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/54c36bdde98f9eb07ce58a0857af099962ec8f6a.png)
 
 # Common Criteria Software Evaluations
 
