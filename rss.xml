@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 14:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 18:35:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,11 +23,18 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Developers need to establish trust in the IoT]]></title>
+            <description><![CDATA[<article><h1>Developers need to establish trust in the IoT</h1><p>All the devices connected to the Internet must be secure, or else. As the Internet of Things ( IoT) continues to redefine our daily lives, the debate continues regarding the critical need for security and reliability. In automobiles, medical devices, and avionics, there's an expectation of reliability due to risk and impact of a failure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9261b23261754e1c2ec3b9dcbe826f422d22c88.jpg"></article>]]></description>
+            <link>http://embedded-computing.com/articles/developers-need-to-establish-trust-in-the-iot/</link>
+            <guid isPermaLink="false">e589667f-c99e-4bd2-82ba-b01a15fdbca3</guid>
+            <pubDate>Tue, 12 Jan 2016 18:34:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Common Criteria Software Evaluations]]></title>
-            <description><![CDATA[<article><h1>Common Criteria Software Evaluations</h1><h2>Solutions To Boost Your Product Security - We manage security certification for your software</h2><p>License: http://www.cclab.hu/lab.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a3d6c7efe3c57485d68f3c3805fc77fb2e1cf61.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Common Criteria Software Evaluations</h1><h2>Solutions To Boost Your Product Security - We manage security certification for your software</h2><p>License: http://www.cclab.hu/lab.html</p></article>]]></description>
             <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
             <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
-            <pubDate>Tue, 12 Jan 2016 14:13:14 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 14:39:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Engineering the IoT - Opening Keynote at Embedded World 2015 by Silicon Labs]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://services.harman.com/industries/automotive/</link>
             <guid isPermaLink="false">ca49dae8-6357-4e16-b228-650dac94f9c4</guid>
             <pubDate>Fri, 08 Jan 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Photonic IoT Primer]]></title>
-            <description><![CDATA[<article><h1>The Photonic IoT Primer</h1><p>From Copper-to-Fiber and Silicon-to-Photon The nature of technological advancement demonstrates; that advances in technology, first serve to benefit technological advancement itself - causing an increasing number of advancements to be realized, it distances itself as an ever-accelerating force, ahead of markets. Capitalizing is largely about timing/convergence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb877a0a31186061f6d65b45ef85819f205184e5.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/photonic-iot-primer-brendan-o-gorman</link>
-            <guid isPermaLink="false">4ea6f81b-8612-48b1-9559-15edae135a6d</guid>
-            <pubDate>Fri, 08 Jan 2016 16:16:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
