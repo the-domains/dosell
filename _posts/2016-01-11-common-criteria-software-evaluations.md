@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T20:03:14.634Z'
-dateModified: '2016-01-12T20:03:10.359Z'
+datePublished: '2016-01-12T20:07:54.654Z'
+dateModified: '2016-01-12T20:07:51.194Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -71,4 +71,4 @@ references: http://www.cclab.hu/ref.html
 
 Contact:  http://dosell.io/contact/ 
 
-or write a mail: tibor.zahorecz@dosell.io
+or write a mail: tibor.zahorecz@dosell.io  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1477835f-6527-4f86-b09b-333640967815.png)
