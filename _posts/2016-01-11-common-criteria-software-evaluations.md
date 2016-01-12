@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T19:54:16.384Z'
-dateModified: '2016-01-12T19:54:12.990Z'
+datePublished: '2016-01-12T20:00:16.662Z'
+dateModified: '2016-01-12T20:00:12.680Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -71,4 +71,4 @@ Need secure software development sercices?
 
 Contact:  http://dosell.io/contact/ 
 
-or write a mail: tibor.zahorecz@dosell.io  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/77736d4b45abde2fa01165d5519b7a1aaf4a0b9d.png)
+or write a mail: tibor.zahorecz@dosell.io  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/774bb5f013c8858f4de501f0d123e3fefcb35d42.png)
