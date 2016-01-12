@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T14:13:14.046Z'
-dateModified: '2016-01-12T14:13:10.783Z'
+datePublished: '2016-01-12T14:33:55.832Z'
+dateModified: '2016-01-12T14:33:53.703Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -22,8 +22,6 @@ url: common-criteria-software-evaluations/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5137eb40705c3da6c975a44fb7e802a3f0f2821c.png)
-
 # Common Criteria Software Evaluations
 
 ## Solutions To Boost Your Product Security - We manage security certification for your software
@@ -36,7 +34,7 @@ License: http://www.cclab.hu/lab.html
 
 contact: tibor.zahorecz@dosell.io
 
-### One stop shop of software security
+> One-Stop-Shop of software security
 
 ### 
 
@@ -47,7 +45,7 @@ contact: tibor.zahorecz@dosell.io
 * Pre-verification of CC readiness
 * Training and education
 
-### What services do we offer?
+What sercices do we offer?
 
 ### 
 
