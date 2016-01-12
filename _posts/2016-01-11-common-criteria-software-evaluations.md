@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T14:33:55.832Z'
-dateModified: '2016-01-12T14:33:53.703Z'
+datePublished: '2016-01-12T14:39:01.777Z'
+dateModified: '2016-01-12T14:38:47.235Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -45,7 +45,7 @@ contact: tibor.zahorecz@dosell.io
 * Pre-verification of CC readiness
 * Training and education
 
-What sercices do we offer?
+# What sercices do we offer?
 
 ### 
 
