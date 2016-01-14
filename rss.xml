@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 08:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 08:45:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Now someone can steal your WiFi password from your doorbell]]></title>
+            <description><![CDATA[<article><h1>Now someone can steal your WiFi password from your doorbell</h1><p>Getting hacked sucks, but there's something worse than that: getting hacked because of your own smart doorbell. Ring is a popular smart doorbell that allows you to unlock your door from your phone, as well as see and hear visitors via a webcam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/525a611c2ea6741b333db40938472cc047c8ce29.jpg"></article>]]></description>
+            <link>http://thenextweb.com/gadgets/2016/01/12/now-someone-can-steal-your-wi-fi-password-from-your-doorbell/</link>
+            <guid isPermaLink="false">866fc890-24f9-4c1b-84f0-7f15d5cad84d</guid>
+            <pubDate>Thu, 14 Jan 2016 08:44:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Samsung Shows that the Internet of Things Is Now "In Sync With Real Life"]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://embedded-computing.com/articles/developers-need-to-establish-trust-in-the-iot/</link>
             <guid isPermaLink="false">e589667f-c99e-4bd2-82ba-b01a15fdbca3</guid>
             <pubDate>Tue, 12 Jan 2016 18:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Common Criteria Software Evaluations]]></title>
-            <description><![CDATA[<article><h1>Common Criteria Software Evaluations</h1><p>License: http://www.cclab.hu/lab.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f33294d8652e042c5902dd2a558501332a150f.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
-            <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
-            <pubDate>Tue, 12 Jan 2016 21:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
