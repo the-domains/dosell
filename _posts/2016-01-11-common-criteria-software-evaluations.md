@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T21:23:34.604Z'
-dateModified: '2016-01-12T21:23:31.456Z'
+datePublished: '2016-01-14T08:56:15.273Z'
+dateModified: '2016-01-14T08:56:07.328Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -66,10 +66,10 @@ CCLab offers evaulating services for CC. We can help if you require a Certificat
 • Due to the Central-European labor cost landscape the Laboratory shall offer very competitive prices - and we mean it!
 
 references: http://www.cclab.hu/ref.html
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de5fd97c-bea3-4dda-ab60-3a3a9586e046.png)
 
 > Need secure software development services?
 
 Contact: http://dosell.io/contact/
 
 or email: tibor.zahorecz@dosell.io
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86d4ed4-d3c8-454c-ad3e-e2266174fda8.png)
