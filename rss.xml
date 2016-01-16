@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 11:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 12:00:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technology Trends]]></title>
+            <description><![CDATA[<article><h1>Technology Trends</h1><p>Stay up to date with trends in the hardware industry</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8162f71d85899b64fc91017fe1964f9d178cbcb2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/technology-trends/index.html</link>
+            <guid isPermaLink="false">872c52cb-23de-41f9-9eb9-416a727eeed8</guid>
+            <pubDate>Sat, 16 Jan 2016 12:00:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comparing SIMSOLID with a FEA Benchmark]]></title>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>Is Your Data Safe? Fintech Security: Challenges and Solutions | Centric Digital</h1><p>The financial services industries are a major target for cyber crimes-can companies keep data safe with the current fintech security measures? In 2015, three men were charged as co-conspirators in a theft that is considered one of the largest in the history of U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd7bd09aee28475b57c7d63aba65621c7ae1d642.png"></article>]]></description>
             <link>http://centricdigital.com/blog/fintech/is-your-data-safe-fintech-security-challenges-and-solutions/</link>
             <guid isPermaLink="false">28b5d04f-822d-45ff-b2ef-c87efbfa5509</guid>
-            <pubDate>Sat, 16 Jan 2016 11:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we trust new mobility systems?]]></title>
-            <description><![CDATA[<article><h1>Can we trust new mobility systems?</h1><p>At CES 2016 last week, automotive was once again a large focus not only for NXP, but for the entire conference. Each year, the presence of cars and automotive-related technologies grows at an incredible rate. So much so that some (at least in our own automotive teams) call CES the "car electronics show."</p><img src="http://blog.nxp.com/wp-content/uploads/2016/01/PANELISTS-943x425.jpg"></article>]]></description>
-            <link>http://blog.nxp.com/automotive/can-we-trust-new-mobility-systems/</link>
-            <guid isPermaLink="false">c203bb9d-5391-45d4-87fa-324e056fd9ac</guid>
             <pubDate>Sat, 16 Jan 2016 11:53:18 GMT</pubDate>
         </item>
     </channel>
