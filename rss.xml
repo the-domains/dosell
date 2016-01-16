@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 11:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 11:56:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CM | Computer Aided Mechanical Design (Solidworks CAD)]]></title>
+            <description><![CDATA[<article><h1>CM | Computer Aided Mechanical Design (Solidworks CAD)</h1><p>Creative Mechanisms designs and develops original prototypes using Solidworks Computer Aided Design (CAD) software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82b484446501118a19880cefb6445a1662c920f3.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/cm-or-computer-aided-mechanical-design-solidworks-cad/index.html</link>
+            <guid isPermaLink="false">a9ba2157-6517-4130-aae7-a80f268f024a</guid>
+            <pubDate>Sat, 16 Jan 2016 11:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Your Data Safe? Fintech Security: Challenges and Solutions | Centric Digital]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://www.enisa.europa.eu/media/news-items/secure-cloud-2016-call-for-proposals</link>
             <guid isPermaLink="false">190dc489-d528-47e7-82b1-79cb0c24b5db</guid>
             <pubDate>Thu, 14 Jan 2016 08:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of Things: Roadmap to a Connected World]]></title>
-            <description><![CDATA[<article><h1>Internet of Things: Roadmap to a Connected World</h1><p>Sanjay Sarma is the Fred Fort Flowers (1941) and Daniel Fort Flowers (1941) Professor of Mechanical Engineering at MIT. He is the first Director of Digital Learning at MIT. He co-founded the Auto-ID Center at MIT and developed many of the key technologies behind the EPC suite of RFID standards now used worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e39556bfd55ed053e8eaa2f3015c18440528a8.jpg"></article>]]></description>
-            <link>https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+IOTx+2016_T1/about?utm_source=edx&amp;utm_medium=email&amp;utm_content=jan7&amp;utm_campaign=dp-2016&amp;mc_cid=17c772446b&amp;mc_eid=0074de51b8</link>
-            <guid isPermaLink="false">7921f2e0-c11d-49d1-80b2-4482dcb432a8</guid>
-            <pubDate>Tue, 12 Jan 2016 20:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
