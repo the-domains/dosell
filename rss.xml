@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 11:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 11:56:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taking Your Product from Concept to Reality > ENGINEERING.com]]></title>
+            <description><![CDATA[<article><h1>Taking Your Product from Concept to Reality > ENGINEERING.com</h1><p>Taking a product from concept to reality is an intricate, expensive and time-consuming process. It's not easy and there is a high degree of risk involved. Engineering is only part of the process of successfully bringing a new product to market, and prototype production is only part of the larger engineering process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c692e8348441a83db19a61aa1e9069ae9076aec0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/taking-your-product-from-concept-to-reality-greater-engineeringco/index.html</link>
+            <guid isPermaLink="false">01251e3e-2598-4e61-b1e4-a3bba0e54a8f</guid>
+            <pubDate>Sat, 16 Jan 2016 11:56:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CM | Computer Aided Mechanical Design (Solidworks CAD)]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://venturebeat.com/2016/01/12/the-top-10-trends-of-ces-2016/</link>
             <guid isPermaLink="false">b932de77-07e0-4286-b357-453d54248bb9</guid>
             <pubDate>Thu, 14 Jan 2016 08:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secure Cloud 2016: Call for proposals]]></title>
-            <description><![CDATA[<article><h1>Secure Cloud 2016: Call for proposals</h1><p>The call for proposals for presentations for the Secure Cloud 2016, 4th edition is now open. The biggest European Cloud Security event, is co-organised by CSA, ENISA and Fraunhofer FOKUS. The two-day conference will take place in Dublin on the 24 th and 25th May,2016. Be part of the greatest cloud community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0361cd7d30798224f63630e8de953d1be770503a.jpg"></article>]]></description>
-            <link>https://www.enisa.europa.eu/media/news-items/secure-cloud-2016-call-for-proposals</link>
-            <guid isPermaLink="false">190dc489-d528-47e7-82b1-79cb0c24b5db</guid>
-            <pubDate>Thu, 14 Jan 2016 08:44:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
