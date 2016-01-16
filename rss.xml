@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 11:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 11:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,8 +23,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[VECTARY | The Ultimate Online 3D Tool]]></title>
+            <description><![CDATA[<article><h1>VECTARY | The Ultimate Online 3D Tool</h1><p>VECTARY is an online 3D design tool providing easy ways to create complex shapes. Use your browser to enter the world of 3D modeling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ce3d0f8643d8f1f128d6599a2205cb400c5698e.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/vectary-or-the-ultimate-online-3d-tool/index.html</link>
+            <guid isPermaLink="false">75a8f083-281d-4cdb-bca5-f70ed34c8fa1</guid>
+            <pubDate>Sat, 16 Jan 2016 11:58:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shape Prototype: IoT startups, product design and misconceptions about manufacturing]]></title>
-            <description><![CDATA[<article><h1>Shape Prototype: IoT startups, product design and misconceptions about manufacturing</h1><p>Recently founded manufacturer Shape Prototype is quickly gaining popularity both in Asia and in the West. What differentiates them from many well established counterparts is their focus on working with hardware startups. "We believe communication is the key", says Amanda Hsu, co-founder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68ee7cef89a2c66b74f341f23c811d668092e1d7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Shape Prototype: IoT startups, product design and misconceptions about manufacturing</h1><p>Recently founded manufacturer Shape Prototype is quickly gaining popularity both in Asia and in the West. What differentiates them from many well established counterparts is their focus on working with hardware startups. "We believe communication is the key", says Amanda Hsu, co-founder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4a562949ecd7004b790e9a162356193228fed77.png"></article>]]></description>
             <link>https://thegrid.ai/dosell/shape-prototype-iot-startups-product-design-and-misconcept/index.html</link>
             <guid isPermaLink="false">2c1fe0db-9d93-407a-84ec-281074626288</guid>
             <pubDate>Sat, 16 Jan 2016 11:57:43 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
             <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
             <pubDate>Thu, 14 Jan 2016 08:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now someone can steal your WiFi password from your doorbell]]></title>
-            <description><![CDATA[<article><h1>Now someone can steal your WiFi password from your doorbell</h1><p>Getting hacked sucks, but there's something worse than that: getting hacked because of your own smart doorbell. Ring is a popular smart doorbell that allows you to unlock your door from your phone, as well as see and hear visitors via a webcam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0f1e5b2c7ec4c7f027caf6444d6f31ce1fd9aeb.jpg"></article>]]></description>
-            <link>http://thenextweb.com/gadgets/2016/01/12/now-someone-can-steal-your-wi-fi-password-from-your-doorbell/</link>
-            <guid isPermaLink="false">866fc890-24f9-4c1b-84f0-7f15d5cad84d</guid>
-            <pubDate>Thu, 14 Jan 2016 08:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
