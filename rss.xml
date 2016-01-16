@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 08:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 11:53:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we trust new mobility systems?]]></title>
+            <description><![CDATA[<article><h1>Can we trust new mobility systems?</h1><p>At CES 2016 last week, automotive was once again a large focus not only for NXP, but for the entire conference. Each year, the presence of cars and automotive-related technologies grows at an incredible rate. So much so that some (at least in our own automotive teams) call CES the "car electronics show."</p><img src="http://blog.nxp.com/wp-content/uploads/2016/01/PANELISTS-943x425.jpg"></article>]]></description>
+            <link>http://blog.nxp.com/automotive/can-we-trust-new-mobility-systems/</link>
+            <guid isPermaLink="false">c203bb9d-5391-45d4-87fa-324e056fd9ac</guid>
+            <pubDate>Sat, 16 Jan 2016 11:53:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Common Criteria Software Evaluations]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+CSx+2016_T1/about?utm_source=edx&amp;utm_medium=email&amp;utm_content=jan7&amp;utm_campaign=dp-2016&amp;mc_cid=17c772446b&amp;mc_eid=0074de51b8</link>
             <guid isPermaLink="false">a855df6f-e7b7-413b-82cd-a6de36144fd6</guid>
             <pubDate>Tue, 12 Jan 2016 20:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DoctuSoft - Software Development]]></title>
-            <description><![CDATA[<article><h1>DoctuSoft - Software Development</h1><p>Outsource the development of your application to us and reach your goals by focusing on your core activity. Our software engineers have international expertise in product development on Google App Engine, Java and BPM platform. In addition to quality, agility is also a matter. Our key references are available in logistics, retail, telecommunications and financial sectors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a44b155e3acf4041c87ca273aa4c6d815d5a61e.jpg"></article>]]></description>
-            <link>http://doctusoft.com/</link>
-            <guid isPermaLink="false">56fbfe54-3ab5-44ae-9bb3-28a4b730e239</guid>
-            <pubDate>Tue, 12 Jan 2016 18:35:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
