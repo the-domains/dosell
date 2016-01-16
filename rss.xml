@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 12:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 12:01:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,20 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cisco: Building a global office]]></title>
+            <description><![CDATA[<article><h1>Cisco: Building a global office</h1><p>Within a five-year partnership, dozens of projects have resulted in The Cisco Collaboration System, a high-performance communication system that makes it possible for teams to meet over video. With an ambition to build an experience that is "better than being there", the video and presentation quality meets the standards of a face-to-face meeting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e663d225ad6b8835a73e2588228d7e37e70b8cca.png"></article>]]></description>
+            <link>https://designit.com/cases/cisco-building-a-global-office</link>
+            <guid isPermaLink="false">863b63db-fe00-4bc4-b82a-c8372d45bf65</guid>
+            <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/f5/6b/50/f56b50b019fc8d97f27d389c46d9c476.jpg">]]></description>
+            <link>https://thegrid.ai/dosell/e2c2af0a-cbc8-4c87-a9c2-174c782a5763/index.html</link>
+            <guid isPermaLink="false">e2c2af0a-cbc8-4c87-a9c2-174c782a5763</guid>
+            <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -63,20 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/25-big-tech-predictions-for-2016/index.html</link>
             <guid isPermaLink="false">a4f106e5-9e59-4716-a5ba-f883077ace15</guid>
             <pubDate>Sat, 16 Jan 2016 11:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taking Your Product from Concept to Reality > ENGINEERING.com]]></title>
-            <description><![CDATA[<article><h1>Taking Your Product from Concept to Reality > ENGINEERING.com</h1><p>Taking a product from concept to reality is an intricate, expensive and time-consuming process. It's not easy and there is a high degree of risk involved. Engineering is only part of the process of successfully bringing a new product to market, and prototype production is only part of the larger engineering process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c692e8348441a83db19a61aa1e9069ae9076aec0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/taking-your-product-from-concept-to-reality-greater-engineeringco/index.html</link>
-            <guid isPermaLink="false">01251e3e-2598-4e61-b1e4-a3bba0e54a8f</guid>
-            <pubDate>Sat, 16 Jan 2016 11:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CM | Computer Aided Mechanical Design (Solidworks CAD)]]></title>
-            <description><![CDATA[<article><h1>CM | Computer Aided Mechanical Design (Solidworks CAD)</h1><p>Creative Mechanisms designs and develops original prototypes using Solidworks Computer Aided Design (CAD) software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/991f4161ad77b973f5c6fd3f16a7691d01c0d562.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/cm-or-computer-aided-mechanical-design-solidworks-cad/index.html</link>
-            <guid isPermaLink="false">a9ba2157-6517-4130-aae7-a80f268f024a</guid>
-            <pubDate>Sat, 16 Jan 2016 11:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
