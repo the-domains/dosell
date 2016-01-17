@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 11:25:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,6 +23,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Common Criteria Software Evaluations]]></title>
+            <description><![CDATA[<article><h1>Common Criteria Software Evaluations</h1><p>License: http://www.cclab.hu/lab.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f33294d8652e042c5902dd2a558501332a150f.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
+            <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
+            <pubDate>Sun, 17 Jan 2016 11:24:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://steveblank.files.wordpress.com/2011/02/cybersecurity.jpg">]]></description>
             <link>https://thegrid.ai/dosell/b28cd1fa-2f11-4682-8e19-69d200bcd7b7/index.html</link>
@@ -31,7 +38,7 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
         </item>
         <item>
             <title><![CDATA[The Top Technology Stories You'll Be Reading in 2016 - Singularity HUB]]></title>
-            <description><![CDATA[<article><h1>The Top Technology Stories You'll Be Reading in 2016 - Singularity HUB</h1><p>8,804 2 For the past century, the price and performance of computing has been on an exponential curve. And as futurist Ray Kurzweil observed, once any technology becomes an information technology, its development follows the same curve, so we are seeing exponential advances in technologies such as sensors, networks, artificial intelligence, and robotics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654cdaa8746c931097a33761b34349c0d89af17e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Top Technology Stories You'll Be Reading in 2016 - Singularity HUB</h1><p>8,804 2 For the past century, the price and performance of computing has been on an exponential curve. And as futurist Ray Kurzweil observed, once any technology becomes an information technology, its development follows the same curve, so we are seeing exponential advances in technologies such as sensors, networks, artificial intelligence, and robotics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fb777726ddb8facf45efaaf12cadc7ce8a37585.jpg"></article>]]></description>
             <link>http://singularityhub.com/2016/01/12/these-6-technologies-will-define-2016/</link>
             <guid isPermaLink="false">2ac9b5ab-60d9-4582-bdcb-e4ff15f37c3c</guid>
             <pubDate>Sun, 17 Jan 2016 11:19:36 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://simsolid.com/2015/12/comparing-simsolid-with-a-fea-benchmark/</link>
             <guid isPermaLink="false">8cf8df2a-69ec-4058-a60d-e7d7be0d6a18</guid>
             <pubDate>Sat, 16 Jan 2016 11:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VECTARY | The Ultimate Online 3D Tool]]></title>
-            <description><![CDATA[<article><h1>VECTARY | The Ultimate Online 3D Tool</h1><p>VECTARY is an online 3D design tool providing easy ways to create complex shapes. Use your browser to enter the world of 3D modeling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/317c8d2104b095014ba073111661eb0e8f762b13.png"></article>]]></description>
-            <link>https://thegrid.ai/dosell/vectary-or-the-ultimate-online-3d-tool/index.html</link>
-            <guid isPermaLink="false">75a8f083-281d-4cdb-bca5-f70ed34c8fa1</guid>
-            <pubDate>Sat, 16 Jan 2016 11:58:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
