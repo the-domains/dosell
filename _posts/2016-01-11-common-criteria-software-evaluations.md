@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T08:56:15.273Z'
-dateModified: '2016-01-14T08:56:07.328Z'
+datePublished: '2016-01-17T11:24:58.422Z'
+dateModified: '2016-01-17T11:17:27.876Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -36,7 +36,11 @@ visit CClab: http://www.cclab.hu/
 
 License: http://www.cclab.hu/lab.html
 
-contact: tibor.zahorecz@dosell.io  or  http://dosell.io/contact/ 
+contact: tibor.zahorecz@dosell.io   
+
+http://dosell.io/contact/ 
+
+Tel.: +36 30 836-4099
 
 DoSell platform: http://dosell.io/services/
 
