@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T11:24:58.451Z'
-dateModified: '2016-01-17T11:17:27.876Z'
+datePublished: '2016-01-17T11:25:15.049Z'
+dateModified: '2016-01-17T11:25:10.504Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
