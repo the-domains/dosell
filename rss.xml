@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 14:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 14:59:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Developers | Ubuntu for the Internet of Things | Ubuntu]]></title>
+            <description><![CDATA[<article><h1>Developers | Ubuntu for the Internet of Things | Ubuntu</h1><p>Ubuntu Core is a single platform for developing, testing and publishing applications for internet-connected devices and servers. Open source and secure by design Transactional updates for fast, reliable updates Small footprint means minimal hardware requirements Option to use only the libraries your apps need Get started with Ubuntu Core Or, if you're a device maker, get in touch › The developer community consists of pioneers in robotics, drones and open hubs for connected things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa786b01cf9860cad61ca3cfde3433a9c4cdd0c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/developers-or-ubuntu-for-the-internet-of-things-or-ubuntu/index.html</link>
+            <guid isPermaLink="false">25780acf-86a2-4786-97a7-ea2b49167751</guid>
+            <pubDate>Tue, 19 Jan 2016 14:59:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discover Infineon´s security solutions beyond Chip Cards]]></title>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/f5/6b/50/f56b50b019fc8d97f27d389c46d9c476.jpg">]]></description>
             <link>https://thegrid.ai/dosell/e2c2af0a-cbc8-4c87-a9c2-174c782a5763/index.html</link>
             <guid isPermaLink="false">e2c2af0a-cbc8-4c87-a9c2-174c782a5763</guid>
-            <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/f4/69/92/f469925f9de3d2965ef0f57641b30c4d.jpg">]]></description>
-            <link>https://thegrid.ai/dosell/137838d7-3aaa-4819-a87c-372d337e12d9/index.html</link>
-            <guid isPermaLink="false">137838d7-3aaa-4819-a87c-372d337e12d9</guid>
             <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
         </item>
     </channel>
