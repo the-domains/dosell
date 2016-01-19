@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 14:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 14:59:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu for the Internet of Things | Ubuntu]]></title>
+            <description><![CDATA[<article><h1>Ubuntu for the Internet of Things | Ubuntu</h1><p>Choose snappy Ubuntu Core - the best performing version of Ubuntu for internet-connected devices in need of a totally secure, robust and lightweight OS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b351e543d15080652cd567f3424914a8b9492052.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/ubuntu-for-the-internet-of-things-or-ubuntu/index.html</link>
+            <guid isPermaLink="false">e64b4f99-8e2f-46f7-b6e1-1edbe5747137</guid>
+            <pubDate>Tue, 19 Jan 2016 14:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Developers | Ubuntu for the Internet of Things | Ubuntu]]></title>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>Cisco: Building a global office</h1><p>Within a five-year partnership, dozens of projects have resulted in The Cisco Collaboration System, a high-performance communication system that makes it possible for teams to meet over video. With an ambition to build an experience that is "better than being there", the video and presentation quality meets the standards of a face-to-face meeting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/401db5508c2612a8653820d0d06e9bf0e92f6799.png"></article>]]></description>
             <link>https://designit.com/cases/cisco-building-a-global-office</link>
             <guid isPermaLink="false">863b63db-fe00-4bc4-b82a-c8372d45bf65</guid>
-            <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/f5/6b/50/f56b50b019fc8d97f27d389c46d9c476.jpg">]]></description>
-            <link>https://thegrid.ai/dosell/e2c2af0a-cbc8-4c87-a9c2-174c782a5763/index.html</link>
-            <guid isPermaLink="false">e2c2af0a-cbc8-4c87-a9c2-174c782a5763</guid>
             <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
         </item>
     </channel>
