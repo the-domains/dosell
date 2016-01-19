@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 09:21:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coffee Hardware Story - from Age of Steam to the Internet of Coffee: Part 1]]></title>
+            <description><![CDATA[<article><h1>The Coffee Hardware Story - from Age of Steam to the Internet of Coffee: Part 1</h1><p>"Kaldi woke up early in the morning and was in the fields with his goats just before sunrise. Morning chill started retreating giving way to the sunshine. It would have been just like any other day, but Kaldi kept a closer eye on his goats today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49af8a6331f84f8ad29baf0123c066eb9ffd4baf.jpg"></article>]]></description>
+            <link>http://blog.hwtrek.com/?p=6474.</link>
+            <guid isPermaLink="false">3140202f-edd2-49eb-9397-60944feca56b</guid>
+            <pubDate>Tue, 19 Jan 2016 09:21:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Common Criteria Software Evaluations]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/technology-trends/index.html</link>
             <guid isPermaLink="false">872c52cb-23de-41f9-9eb9-416a727eeed8</guid>
             <pubDate>Sat, 16 Jan 2016 12:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing SIMSOLID with a FEA Benchmark]]></title>
-            <description><![CDATA[<article><h1>Comparing SIMSOLID with a FEA Benchmark</h1><p>In order to try out SIMSOLID, I wanted to compare it to a study previously done using traditional FEA. The model selected was a welded tube joint. This is typical of joints commonly found in industry and from past experience I have found that conventional FEA codes have a difficult time achieving accurate results at stress concentration points, such as at the intersection of the two tube sections in this model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98dceddc98246c99b1311aae9979f22d6bff4d83.jpg"></article>]]></description>
-            <link>http://simsolid.com/2015/12/comparing-simsolid-with-a-fea-benchmark/</link>
-            <guid isPermaLink="false">8cf8df2a-69ec-4058-a60d-e7d7be0d6a18</guid>
-            <pubDate>Sat, 16 Jan 2016 11:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
