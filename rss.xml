@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 14:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 11:29:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,15 +23,22 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[France's Sigfox brings its IoT network to ... Antarctica]]></title>
+            <description><![CDATA[<article><h1>France's Sigfox brings its IoT network to ... Antarctica</h1><p>The Internet of connected frozen things has arrived. France's Sigfox, which operates a low-powered communications network for smart devices, announced today that it will be expanding its network to the Belgian polar-exploration station. The goal is to: "strengthen safety and security during research operations at the Antarctica expedition, which is underway now," according a press release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c0a96b9ce4b7cf70b30fca2feeb6e7bb3133a2.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/01/19/frances-sigfox-brings-its-iot-network-to-antarctica/</link>
+            <guid isPermaLink="false">64e4fb59-47b2-4728-b635-7a4d40cafc0e</guid>
+            <pubDate>Wed, 20 Jan 2016 11:28:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ubuntu for the Internet of Things | Ubuntu]]></title>
-            <description><![CDATA[<article><h1>Ubuntu for the Internet of Things | Ubuntu</h1><p>Choose snappy Ubuntu Core - the best performing version of Ubuntu for internet-connected devices in need of a totally secure, robust and lightweight OS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b351e543d15080652cd567f3424914a8b9492052.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ubuntu for the Internet of Things | Ubuntu</h1><p>Choose snappy Ubuntu Core - the best performing version of Ubuntu for internet-connected devices in need of a totally secure, robust and lightweight OS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db6401b1c15aa4ba6bbf0b418bea10dd483e27c.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/ubuntu-for-the-internet-of-things-or-ubuntu/index.html</link>
             <guid isPermaLink="false">e64b4f99-8e2f-46f7-b6e1-1edbe5747137</guid>
             <pubDate>Tue, 19 Jan 2016 14:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Developers | Ubuntu for the Internet of Things | Ubuntu]]></title>
-            <description><![CDATA[<article><h1>Developers | Ubuntu for the Internet of Things | Ubuntu</h1><p>Ubuntu Core is a single platform for developing, testing and publishing applications for internet-connected devices and servers. Open source and secure by design Transactional updates for fast, reliable updates Small footprint means minimal hardware requirements Option to use only the libraries your apps need Get started with Ubuntu Core Or, if you're a device maker, get in touch › The developer community consists of pioneers in robotics, drones and open hubs for connected things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa786b01cf9860cad61ca3cfde3433a9c4cdd0c7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Developers | Ubuntu for the Internet of Things | Ubuntu</h1><p>Ubuntu Core is a single platform for developing, testing and publishing applications for internet-connected devices and servers. Open source and secure by design Transactional updates for fast, reliable updates Small footprint means minimal hardware requirements Option to use only the libraries your apps need Get started with Ubuntu Core Or, if you're a device maker, get in touch › The developer community consists of pioneers in robotics, drones and open hubs for connected things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6bbd6eacde722a739fc223cec06b7c011ff9714.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/developers-or-ubuntu-for-the-internet-of-things-or-ubuntu/index.html</link>
             <guid isPermaLink="false">25780acf-86a2-4786-97a7-ea2b49167751</guid>
             <pubDate>Tue, 19 Jan 2016 14:59:30 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://singularityhub.com/2016/01/12/these-6-technologies-will-define-2016/</link>
             <guid isPermaLink="false">2ac9b5ab-60d9-4582-bdcb-e4ff15f37c3c</guid>
             <pubDate>Sun, 17 Jan 2016 11:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cisco: Building a global office]]></title>
-            <description><![CDATA[<article><h1>Cisco: Building a global office</h1><p>Within a five-year partnership, dozens of projects have resulted in The Cisco Collaboration System, a high-performance communication system that makes it possible for teams to meet over video. With an ambition to build an experience that is "better than being there", the video and presentation quality meets the standards of a face-to-face meeting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/401db5508c2612a8653820d0d06e9bf0e92f6799.png"></article>]]></description>
-            <link>https://designit.com/cases/cisco-building-a-global-office</link>
-            <guid isPermaLink="false">863b63db-fe00-4bc4-b82a-c8372d45bf65</guid>
-            <pubDate>Sat, 16 Jan 2016 12:00:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
