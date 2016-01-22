@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 09:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 09:18:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,13 +21,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers could secretly tap into corporate meetings]]></title>
-            <description><![CDATA[<article><h1>Hackers could secretly tap into corporate meetings</h1><p>On Thursday, cybersecurity experts at SEC Consult revealed a secret doorway that's built into a popular conference calling product built by a company called AMX. AMX makes tablet panels used to control conference calls for businesses, government agencies and universities. The company hard-coded backdoor access into its system.</p><img src="http://i2.cdn.turner.com/money/dam/assets/160121111011-amx-white-house-780x439.jpg"></article>]]></description>
-            <link>http://money.cnn.com/2016/01/21/technology/amx-corporate-hack/</link>
-            <guid isPermaLink="false">58be3d0c-d064-48e5-b490-26ae775d2bf2</guid>
-            <pubDate>Fri, 22 Jan 2016 09:18:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Only Onboarding Timeline You'll Need: From Offer to First Friday]]></title>
@@ -77,6 +70,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
             <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
             <pubDate>Sun, 17 Jan 2016 11:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://steveblank.files.wordpress.com/2011/02/cybersecurity.jpg">]]></description>
+            <link>https://thegrid.ai/dosell/b28cd1fa-2f11-4682-8e19-69d200bcd7b7/index.html</link>
+            <guid isPermaLink="false">b28cd1fa-2f11-4682-8e19-69d200bcd7b7</guid>
+            <pubDate>Sun, 17 Jan 2016 11:19:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
