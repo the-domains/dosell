@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 11:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 09:18:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,8 +23,22 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hackers could secretly tap into corporate meetings]]></title>
+            <description><![CDATA[<article><h1>Hackers could secretly tap into corporate meetings</h1><p>On Thursday, cybersecurity experts at SEC Consult revealed a secret doorway that's built into a popular conference calling product built by a company called AMX. AMX makes tablet panels used to control conference calls for businesses, government agencies and universities. The company hard-coded backdoor access into its system.</p><img src="http://i2.cdn.turner.com/money/dam/assets/160121111011-amx-white-house-780x439.jpg"></article>]]></description>
+            <link>http://money.cnn.com/2016/01/21/technology/amx-corporate-hack/</link>
+            <guid isPermaLink="false">58be3d0c-d064-48e5-b490-26ae775d2bf2</guid>
+            <pubDate>Fri, 22 Jan 2016 09:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Only Onboarding Timeline You'll Need: From Offer to First Friday]]></title>
+            <description><![CDATA[<article><h1>The Only Onboarding Timeline You'll Need: From Offer to First Friday</h1><p>At the start of 2013, Percolate Co-founder Noah Brier spoke to the company about its values and how it'd keep its culture intact through fast growth. By June, the startup had doubled its headcount to 60 people. When Brier referenced the presentation mid-year, he realized that half of the people in the room hadn't heard it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9725de5db240058d70dbbd4f0a9cdf89a7046fb0.jpg"></article>]]></description>
+            <link>http://firstround.com/review/the-only-onboarding-timeline-youll-need-from-offer-to-first-friday/?ct=t(How_Does_Your_Leadership_Team_Rate_12_3_2015)</link>
+            <guid isPermaLink="false">c0ff3f0a-bfe8-422d-a068-4f1f14311d5d</guid>
+            <pubDate>Fri, 22 Jan 2016 09:18:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[France's Sigfox brings its IoT network to ... Antarctica]]></title>
-            <description><![CDATA[<article><h1>France's Sigfox brings its IoT network to ... Antarctica</h1><p>The Internet of connected frozen things has arrived. France's Sigfox, which operates a low-powered communications network for smart devices, announced today that it will be expanding its network to the Belgian polar-exploration station. The goal is to: "strengthen safety and security during research operations at the Antarctica expedition, which is underway now," according a press release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c0a96b9ce4b7cf70b30fca2feeb6e7bb3133a2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>France's Sigfox brings its IoT network to ... Antarctica</h1><p>The Internet of connected frozen things has arrived. France's Sigfox, which operates a low-powered communications network for smart devices, announced today that it will be expanding its network to the Belgian polar-exploration station. The goal is to: "strengthen safety and security during research operations at the Antarctica expedition, which is underway now," according a press release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d51e1bbe74b63a732f32a0144a850bd689beece.jpg"></article>]]></description>
             <link>http://venturebeat.com/2016/01/19/frances-sigfox-brings-its-iot-network-to-antarctica/</link>
             <guid isPermaLink="false">64e4fb59-47b2-4728-b635-7a4d40cafc0e</guid>
             <pubDate>Wed, 20 Jan 2016 11:28:35 GMT</pubDate>
@@ -63,20 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
             <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
             <pubDate>Sun, 17 Jan 2016 11:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://steveblank.files.wordpress.com/2011/02/cybersecurity.jpg">]]></description>
-            <link>https://thegrid.ai/dosell/b28cd1fa-2f11-4682-8e19-69d200bcd7b7/index.html</link>
-            <guid isPermaLink="false">b28cd1fa-2f11-4682-8e19-69d200bcd7b7</guid>
-            <pubDate>Sun, 17 Jan 2016 11:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Top Technology Stories You'll Be Reading in 2016 - Singularity HUB]]></title>
-            <description><![CDATA[<article><h1>The Top Technology Stories You'll Be Reading in 2016 - Singularity HUB</h1><p>8,804 2 For the past century, the price and performance of computing has been on an exponential curve. And as futurist Ray Kurzweil observed, once any technology becomes an information technology, its development follows the same curve, so we are seeing exponential advances in technologies such as sensors, networks, artificial intelligence, and robotics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fb777726ddb8facf45efaaf12cadc7ce8a37585.jpg"></article>]]></description>
-            <link>http://singularityhub.com/2016/01/12/these-6-technologies-will-define-2016/</link>
-            <guid isPermaLink="false">2ac9b5ab-60d9-4582-bdcb-e4ff15f37c3c</guid>
-            <pubDate>Sun, 17 Jan 2016 11:19:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
