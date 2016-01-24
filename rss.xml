@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 19:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 19:41:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 30 Best Pieces of Advice for Entrepreneurs in 2015]]></title>
+            <description><![CDATA[<article><h1>The 30 Best Pieces of Advice for Entrepreneurs in 2015</h1><p>Last fall, we overheard that Twitter Engineering Director David Loftesness had some solid wisdom about training newly-minted engineering managers - an often precarious transition. So we sat down with him to see what tips he had to offer, and we were blown away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c974da589d57a2c9fb978984301b9d266c552547.jpg"></article>]]></description>
+            <link>http://firstround.com/review/the-30-best-pieces-of-advice-for-entrepreneurs-in-2015/</link>
+            <guid isPermaLink="false">da7aed49-a5d5-4348-9b4f-c1957237b934</guid>
+            <pubDate>Sun, 24 Jan 2016 19:40:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[26 Disruptive Tech Trends for the Rest of the Decade]]></title>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>How to Start a Startup</h1><p>Sam Altman is president of Y Combinator and was the cofounder of Loopt, a location-based social networking app, which was part of YC's first batch in 2005 and acquired by Green Dot in 2012. Prior to taking over as Y Combinator's president, Sam was a part-time partner at Y Combinator since 2011.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f85e74322057e9856d7410ca1c0971bffa401fd.png"></article>]]></description>
             <link>https://startupclass.co/courses/how-to-start-a-startup</link>
             <guid isPermaLink="false">2c11bdc5-6f0c-4c0e-ac48-27ebeb2fc402</guid>
-            <pubDate>Fri, 22 Jan 2016 09:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product Strategy for Start-ups]]></title>
-            <description><![CDATA[<article><h1>Product Strategy for Start-ups</h1><p>I'm speaking about product strategy in startup. That is a beautiful photo of this exact place. I did not realize I'd be standing in front of it twice, but there you go. I am Des Traynor, co-founder of Intercom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a3e35b90a38a38f4fccdbd3b9c27bfccc17caa.jpg"></article>]]></description>
-            <link>http://www.heavybit.com/library/video/2014-02-11-des-traynor</link>
-            <guid isPermaLink="false">b5dbd709-ba2f-4dda-b5a8-8d92a088a45c</guid>
             <pubDate>Fri, 22 Jan 2016 09:21:41 GMT</pubDate>
         </item>
     </channel>
