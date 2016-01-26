@@ -16,7 +16,7 @@ keywords:
   - technologies
   - omnichannel
 description: "Consider the endless search for status, and you're on the path that leads to the heart of consumer behavior. Because in affluent consumer societies, status is the No.1 motivator driving much of what people do (whether they acknowledge it or not;) So what's next for status?"
-datePublished: '2016-01-26T09:50:11.042Z'
+datePublished: '2016-01-26T09:50:11.048Z'
 dateModified: '2016-01-26T09:50:08.080Z'
 author: []
 related:
