@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 09:26:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get ready. 5 consumer trends to run with in 2016.]]></title>
+            <description><![CDATA[<article><h1>Get ready. 5 consumer trends to run with in 2016.</h1><p>Consider the endless search for status, and you're on the path that leads to the heart of consumer behavior. Because in affluent consumer societies, status is the No.1 motivator driving much of what people do (whether they acknowledge it or not;) So what's next for status?</p><img src="http://trendwatching.com/assets/img/briefing/TWP-iceberg.png"></article>]]></description>
+            <link>https://thegrid.ai/dosell/get-ready-5-consumer-trends-to-run-with-in-2016/index.html</link>
+            <guid isPermaLink="false">71b7e912-d868-46c1-814e-6376ab3f2edb</guid>
+            <pubDate>Tue, 26 Jan 2016 09:26:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In case you missed CES 2016: the cool hardware products at the HWTrek booth]]></title>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>Virtual Reality and Next-Gen Experiences - Futurice</h1><p>Today, technology is an enabler to create services that truly improve our lives. The only limit we have is our imagination. Virtual reality as a technology has been around for decades, but only now we are beginning to unleash its endless possibilities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a3ee77e15542d0876102592402b7cbdf092bd76.jpg"></article>]]></description>
             <link>http://futurice.com/blog/virtualreality-and-nextgenexperiences</link>
             <guid isPermaLink="false">a246ac17-4f23-4935-9933-caffcac4bc6c</guid>
-            <pubDate>Sat, 23 Jan 2016 15:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Developing a New Generation of Global Problem Solvers (Paid Post by Cisco From NYTimes.com)]]></title>
-            <description><![CDATA[<article><h1>Developing a New Generation of Global Problem Solvers (Paid Post by Cisco From NYTimes.com)</h1><p>We now live in the age of digitization. Connected technologies can monitor everything from our bodies and cars to factories and businesses. Unprecedented amounts of data are being collected and analyzed to solve real-world problems as personal as asthma attacks and as complicated as car accidents, pipeline ruptures and supply chain breakdowns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73d9f4521ffa41b342ff01a3a615071ace2c8f82.jpg"></article>]]></description>
-            <link>http://paidpost.nytimes.com/cisco/developing-a-new-generation-of-global-problem-solvers.html?_r=2</link>
-            <guid isPermaLink="false">e02bd20b-438e-426c-b266-f17364e2f3cb</guid>
             <pubDate>Sat, 23 Jan 2016 15:27:38 GMT</pubDate>
         </item>
     </channel>
