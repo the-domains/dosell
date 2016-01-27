@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 13:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:54:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,8 +23,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7e67f732989837.569bfbcd18bd6.jpg">]]></description>
+            <link>https://thegrid.ai/dosell/3e627ff2-f60f-4d2e-b339-9a4caf186a94/index.html</link>
+            <guid isPermaLink="false">3e627ff2-f60f-4d2e-b339-9a4caf186a94</guid>
+            <pubDate>Wed, 27 Jan 2016 17:53:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Is How True Unicorn Startups Identify What Consumers Want]]></title>
-            <description><![CDATA[<article><h1>This Is How True Unicorn Startups Identify What Consumers Want</h1><p>The bubbly valuations of so-called ' Unicorns' have led many observers to predict a bloodbath as markets turn. Indeed, the fact that Square, once the darling of the disruptive payments space, now trades below its IPO price is one of many warnings. Some of these firms will make it, of course.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/991bd8d0dd301bbd25ccf03819019945580eb78f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This Is How True Unicorn Startups Identify What Consumers Want</h1><p>The bubbly valuations of so-called ' Unicorns' have led many observers to predict a bloodbath as markets turn. Indeed, the fact that Square, once the darling of the disruptive payments space, now trades below its IPO price is one of many warnings. Some of these firms will make it, of course.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3e1af51b625521b442683b7c152589f034dd095.jpg"></article>]]></description>
             <link>http://fortune.com/2016/01/24/consumer-needs-unicorns/</link>
             <guid isPermaLink="false">d32d0a1b-3f86-4448-a539-3cd51aac1896</guid>
             <pubDate>Wed, 27 Jan 2016 13:56:59 GMT</pubDate>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>MWC Barcelona</h1><p>Join Ericsson at the 2016 Mobile World Congress</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0173de801b50d4affcf5c9bf5192179e48222a1e.png"></article>]]></description>
             <link>http://www.ericsson.com/events/mwc2016</link>
             <guid isPermaLink="false">fe01ef99-8d95-4af4-af9f-abcfc2f4fb8e</guid>
-            <pubDate>Mon, 25 Jan 2016 13:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cybersecurity: tailored responses to critical challenges]]></title>
-            <description><![CDATA[<article><h1>Cybersecurity: tailored responses to critical challenges</h1><p>Thales Cybersecurity in one minute. An essential operator of a city, an energy provider company is victim of a cyber-attack. The impact of the attack is increasing due to a lack of risk prevention. Thales, European leader in cybersecurity, is contacted to counter the cyber-attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8244c75ccf2bd74a64162124fd5a2cbca8e8b931.jpg"></article>]]></description>
-            <link>https://youtu.be/JgAMffSIRXo</link>
-            <guid isPermaLink="false">c51a8a5f-d32a-4e4b-8669-00abf3d667a3</guid>
             <pubDate>Mon, 25 Jan 2016 13:13:08 GMT</pubDate>
         </item>
     </channel>
