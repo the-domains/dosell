@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 09:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 13:57:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,8 +23,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This Is How True Unicorn Startups Identify What Consumers Want]]></title>
+            <description><![CDATA[<article><h1>This Is How True Unicorn Startups Identify What Consumers Want</h1><p>The bubbly valuations of so-called ' Unicorns' have led many observers to predict a bloodbath as markets turn. Indeed, the fact that Square, once the darling of the disruptive payments space, now trades below its IPO price is one of many warnings. Some of these firms will make it, of course.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/991bd8d0dd301bbd25ccf03819019945580eb78f.jpg"></article>]]></description>
+            <link>http://fortune.com/2016/01/24/consumer-needs-unicorns/</link>
+            <guid isPermaLink="false">d32d0a1b-3f86-4448-a539-3cd51aac1896</guid>
+            <pubDate>Wed, 27 Jan 2016 13:56:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Boom in Cybersecurity Investing | MIT Technology Review]]></title>
-            <description><![CDATA[<article><h1>The Boom in Cybersecurity Investing | MIT Technology Review</h1><p>The rash of headline-grabbing cyber­attacks on major companies over the past few years has made one thing abundantly clear: it's not enough to rely only on traditional security tools. To venture capitalists, that means there's money to be made by betting on startups developing new ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2ac523167a65a7778159025e26173f417a6f07c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Boom in Cybersecurity Investing | MIT Technology Review</h1><p>The rash of headline-grabbing cyber­attacks on major companies over the past few years has made one thing abundantly clear: it's not enough to rely only on traditional security tools. To venture capitalists, that means there's money to be made by betting on startups developing new ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a281d599de238c0286e35354fdd705bcb89e02fa.jpg"></article>]]></description>
             <link>http://www.technologyreview.com/news/545626/venture-capitalists-chase-rising-cybersecurity-spending/</link>
             <guid isPermaLink="false">f4e93510-9633-48da-ba8f-9a2588e8a5da</guid>
             <pubDate>Wed, 27 Jan 2016 09:09:16 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://youtu.be/JgAMffSIRXo</link>
             <guid isPermaLink="false">c51a8a5f-d32a-4e4b-8669-00abf3d667a3</guid>
             <pubDate>Mon, 25 Jan 2016 13:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 30 Best Pieces of Advice for Entrepreneurs in 2015]]></title>
-            <description><![CDATA[<article><h1>The 30 Best Pieces of Advice for Entrepreneurs in 2015</h1><p>Last fall, we overheard that Twitter Engineering Director David Loftesness had some solid wisdom about training newly-minted engineering managers - an often precarious transition. So we sat down with him to see what tips he had to offer, and we were blown away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ec256cc110607d9e2673c42f4788b8465690331.jpg"></article>]]></description>
-            <link>http://firstround.com/review/the-30-best-pieces-of-advice-for-entrepreneurs-in-2015/</link>
-            <guid isPermaLink="false">da7aed49-a5d5-4348-9b4f-c1957237b934</guid>
-            <pubDate>Sun, 24 Jan 2016 19:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
