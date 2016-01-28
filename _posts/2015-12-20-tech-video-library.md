@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:44:15.991Z'
+datePublished: '2016-01-28T17:44:16.024Z'
 dateModified: '2016-01-28T17:44:13.517Z'
 title: Tech Video Library
 author: []
