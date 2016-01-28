@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Growthverse was built for marketers, by marketers, with input from more than 100 CMOs  Explore 800 marketing technology companies (and growing)'
-datePublished: '2015-12-27T16:22:44.205Z'
-dateModified: '2015-12-27T16:22:40.637Z'
+datePublished: '2016-01-28T17:43:48.560Z'
+dateModified: '2016-01-28T17:43:44.012Z'
 title: 'Growthverse: Interactive marketing tools overview'
 author: []
 sourcePath: _posts/2015-12-21-growthverse-interactive-marketing-tools-overview.md
