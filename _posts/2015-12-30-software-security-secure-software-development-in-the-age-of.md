@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to manage secure software development and get Common Criteria certification for smart devices
-datePublished: '2016-01-08T16:48:06.897Z'
-dateModified: '2016-01-08T16:48:00.924Z'
+datePublished: '2016-01-28T16:56:05.120Z'
+dateModified: '2016-01-28T16:44:15.049Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -24,7 +24,7 @@ url: software-security-secure-software-development-in-the-age-of/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2b2b523d88228564e670892832cb0de71ea677e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cd62a2b0a21b9b7d18630a940b8bc2b4ca3b510.jpg)
 
 # **Software security, secure
 software development in the age of IoT, Smart Things, embedded applications**
@@ -140,9 +140,7 @@ system
 
 [http://www.st.com/web/catalog/mmc/FM143/CL1814/SC1424/PF259466][9]
 
-### 
-
-Key Features
+### Key Features
 
 Protection profile for the Security
 Module of a Smart Meter Gateway (Security Module PP),  ECC support for NIST-P-256
@@ -365,8 +363,7 @@ Protection Devices and Systems
 * Data
 Protection
 * Databases
-* 
-Detection
+* Detection
 Devices and Systems 
 * ICs,
 Smart Cards and Smart Card-Related Devices and Systems 
