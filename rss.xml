@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 18:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 11:11:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,8 +23,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Fri, 08 Jan 2016 16:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gary Kovacs speaking at CES 2016 - IOT: The Biggest Security Threat to Everything]]></title>
+            <description><![CDATA[<article><h1>Gary Kovacs speaking at CES 2016 - IOT: The Biggest Security Threat to Everything</h1><p>AVG Technologies' CEO, Gary Kovacs, delivers his talk, "IoT: The Biggest Security Threat to Everything," at the inaugural CyberSecurity Forum 2016 at CES on January 6, presented by CyberVista. Gary discusses why it's up to the tech industry to make the Internet of Things (IoT) more private and secure, and why it will require a level of inquiry and accountability that we're not accustomed to.</p></article>]]></description>
+            <link>https://youtu.be/DB2cZQ9MGho</link>
+            <guid isPermaLink="false">7ebc26e4-9b9e-44bd-a3f2-4791fb93e9e1</guid>
+            <pubDate>Thu, 28 Jan 2016 11:10:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Best B2B Growth Hacks - 21 Tactics to Test]]></title>
-            <description><![CDATA[<article><h1>The Best B2B Growth Hacks - 21 Tactics to Test</h1><p>As you are all probably tired of hearing by now, growth hacking is not simply a series of tricks or tactics, but a mindset to do what it takes to grow a company. It is data-driven and dovetails quite a bit with online marketing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4ea079cd912c8071ed08e357264b3240e08595.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Best B2B Growth Hacks - 21 Tactics to Test</h1><p>As you are all probably tired of hearing by now, growth hacking is not simply a series of tricks or tactics, but a mindset to do what it takes to grow a company. It is data-driven and dovetails quite a bit with online marketing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed9ade508707dbee0f0b19cc226d092cad2c2481.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/the-best-b2b-growth-hacks-21-tactics-to-test/index.html</link>
             <guid isPermaLink="false">2f16b765-9e61-47d0-a28a-3669c19458cf</guid>
             <pubDate>Wed, 27 Jan 2016 18:04:39 GMT</pubDate>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>How to Design Successful IoT Products - Hax</h1><p>Join our community on http://www.meetup.com/Hardware_Startup_IO/ Get in touch on Twitter! http://twitter.com/Hardware_IO SPEAKER Duncan Turner, Programme Director and General Partner @ Hax (https://hax.co/)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f99b0092e493ccec7b3b3744a34cf96ec455590.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=HRpsU1yoS5Y</link>
             <guid isPermaLink="false">d65e59b7-6880-4a74-9df6-a46d7b139558</guid>
-            <pubDate>Tue, 26 Jan 2016 20:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of things security years away from being fully baked, says Forrester | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Internet of things security years away from being fully baked, says Forrester | ZDNet</h1><p>Many Internet of things technologies are in deployment among categories such as analytics, hardware and networking, but the vendor ecosystem needs to focus on security and standards, according to a Forrester Report. Anyone who perused the Internet of things dreams that surround smart homes and autos couldn't help but notice that security issues were glossed over at best and more often ignored.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f090e94ffd119b241eab547e313973703f1ac260.png"></article>]]></description>
-            <link>http://www.zdnet.com/article/internet-of-things-security-years-away-from-being-fully-baked-says-forrester/</link>
-            <guid isPermaLink="false">c299136a-60d0-4775-8c69-8b9e52e02759</guid>
             <pubDate>Tue, 26 Jan 2016 20:11:29 GMT</pubDate>
         </item>
     </channel>
