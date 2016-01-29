@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 12:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 12:04:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,6 +21,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Thu, 28 Jan 2016 17:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Information Security Resource]]></title>
+            <description><![CDATA[<article><h1>The Information Security Resource</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a62e984be99bd88a7ddab6a727c8c12b47e4cd61.jpg"></article>]]></description>
+            <link>http://www.infosecbuddy.com/</link>
+            <guid isPermaLink="false">0addd7f9-8ae7-43cc-a4c5-1d3bf00e86d9</guid>
+            <pubDate>Fri, 29 Jan 2016 12:02:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyber London | Europe's first cyber security accelerator and incubator space]]></title>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://youtu.be/DB2cZQ9MGho</link>
             <guid isPermaLink="false">7ebc26e4-9b9e-44bd-a3f2-4791fb93e9e1</guid>
             <pubDate>Thu, 28 Jan 2016 11:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best B2B Growth Hacks - 21 Tactics to Test]]></title>
-            <description><![CDATA[<article><h1>The Best B2B Growth Hacks - 21 Tactics to Test</h1><p>As you are all probably tired of hearing by now, growth hacking is not simply a series of tricks or tactics, but a mindset to do what it takes to grow a company. It is data-driven and dovetails quite a bit with online marketing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed9ade508707dbee0f0b19cc226d092cad2c2481.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/the-best-b2b-growth-hacks-21-tactics-to-test/index.html</link>
-            <guid isPermaLink="false">2f16b765-9e61-47d0-a28a-3669c19458cf</guid>
-            <pubDate>Wed, 27 Jan 2016 18:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
