@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How to manage secure software development and get Common Criteria certification for smart devices
-datePublished: '2016-01-28T17:41:57.178Z'
-dateModified: '2016-01-28T17:21:29.877Z'
+datePublished: '2016-01-31T11:18:06.670Z'
+dateModified: '2016-01-31T11:18:00.113Z'
 title: |-
   Software security, secure
   software development in the age of IoT, Smart Things, embedded applications
@@ -32,6 +32,8 @@ software development in the age of IoT, Smart Things, embedded applications**
 **by Tibor Zahorecz; [contact][0] , [linkedin][1] , [twitter][2]**
 
 **/download the presentation:[link][3] /**
+
+**Service providers' monthly deals: http://www.labsharegroup.com**
 
 # Software security news in the media (2015)
 
