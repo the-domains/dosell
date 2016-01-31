@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DoSell]]></title>
-        <description><![CDATA[DoSell]]></description>
+        <title><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation]]></title>
+        <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 11:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 11:17:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -21,13 +21,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Thu, 28 Jan 2016 17:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[News]]></title>
-            <description><![CDATA[<article><h1>News</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c648eaa7ea62f681656d4ecb4c2eceaf46a7dec.jpg"></article>]]></description>
-            <link>http://www.beechamresearch.com/news.aspx?id=1089</link>
-            <guid isPermaLink="false">639fe4a0-9135-4d4b-a31e-920cfc5228d1</guid>
-            <pubDate>Sun, 31 Jan 2016 11:00:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the true state of IoT security?]]></title>
