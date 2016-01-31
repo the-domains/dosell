@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T11:21:00.622Z'
+datePublished: '2016-01-31T11:21:00.639Z'
 dateModified: '2016-01-31T11:20:55.455Z'
 title: Common Criteria Software Evaluations
 author: []
