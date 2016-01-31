@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T11:25:15.074Z'
-dateModified: '2016-01-17T11:25:10.504Z'
+datePublished: '2016-01-31T11:21:00.622Z'
+dateModified: '2016-01-31T11:20:55.455Z'
 title: Common Criteria Software Evaluations
 author: []
 sourcePath: _posts/2016-01-11-common-criteria-software-evaluations.md
@@ -27,6 +27,8 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/54c36bdde98f9eb07ce58a0857af099962ec8f6a.png)
 
 # Common Criteria Software Evaluations
+
+Monthly deals: http://www.labsharegroup.com
 
 > **Solutions To Boost Your Product Security - We manage security certification for your software**
 
