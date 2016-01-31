@@ -8,7 +8,7 @@ publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+  domain: www.youtube.com
 keywords:
   - duration
   - iot
@@ -33,10 +33,10 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=8YurUTZvpqQ&feature=applinks'
     type: web
-isBasedOnUrl: 'https://youtu.be/8YurUTZvpqQ'
+isBasedOnUrl: 'https://www.youtube.com/watch?v=8YurUTZvpqQ&feature=youtu.be'
 title: 'Internet of Things Conference: Securing the IoT'
-datePublished: '2016-01-31T11:00:08.196Z'
-dateModified: '2016-01-31T07:55:43.272Z'
+datePublished: '2016-01-31T11:05:10.283Z'
+dateModified: '2016-01-31T11:03:26.905Z'
 sourcePath: _posts/2016-01-31-internet-of-things-conference-securing-the-iot.md
 published: true
 inFeed: true
