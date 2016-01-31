@@ -1,6 +1,6 @@
 name: DoSell
 favicon: null
-layout_spectrum: 0.45936
+layout_spectrum: 0.48009
 typography_spectrum: 0.666385
 title: 'News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#C0A870'
     - '#000000'
   brandStrength: 0.625
-  lightness: 0.6875
-  saturation: 0.875
-  rhythmicContrast: 0.5
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
