@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 11:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 11:07:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B2B reference guide for company makers]]></title>
@@ -23,8 +23,22 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Thu, 28 Jan 2016 17:41:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Internet of Things Conference: Securing the IoT]]></title>
+            <description><![CDATA[<article><h1>Internet of Things Conference: Securing the IoT</h1><p>Phill Pexton, Senior Analyst at Beecham Research, explains why securing the IoT is so complex and outlines the implications</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d659a06113850619f1b94a59af64e66ac4d88482.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=8YurUTZvpqQ&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">80d3d2f2-9944-4620-b511-cb06565b4924</guid>
+            <pubDate>Sun, 31 Jan 2016 11:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News]]></title>
+            <description><![CDATA[<article><h1>News</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c648eaa7ea62f681656d4ecb4c2eceaf46a7dec.jpg"></article>]]></description>
+            <link>http://www.beechamresearch.com/news.aspx?id=1089</link>
+            <guid isPermaLink="false">639fe4a0-9135-4d4b-a31e-920cfc5228d1</guid>
+            <pubDate>Sun, 31 Jan 2016 11:00:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is the true state of IoT security?]]></title>
-            <description><![CDATA[<article><h1>What is the true state of IoT security?</h1><p>From toasters to industrial control systems, at this point more things are wired than not. The benefits of connectivity have driven explosive growth in the number of connected devices which collectively create the Internet of Things (IoT). Even with that exponential growth, there has yet to be a wav...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d5e947a1874b58b2fab3392c58456e03739daae.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What is the true state of IoT security?</h1><p>From toasters to industrial control systems, at this point more things are wired than not. The benefits of connectivity have driven explosive growth in the number of connected devices which collectively create the Internet of Things (IoT). Even with that exponential growth, there has yet to be a wav...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c3110b86824d0ada4d19937d37332f36efdb15b.jpg"></article>]]></description>
             <link>http://community.hpe.com/t5/Security-Products/What-is-the-true-state-of-IoT-security/ba-p/6826094#.Vq26mMnH_qA</link>
             <guid isPermaLink="false">1b3d38ba-20cf-46de-8941-a5e849633a44</guid>
             <pubDate>Sun, 31 Jan 2016 11:00:08 GMT</pubDate>
@@ -63,20 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://www.telefonica.com/en/web/press-office/-/shortfall-of-defence-development-for-the-iot-means-businesses-are-sleepwalking-into-unknown-danger-according-to-expert-report?utm_medium=nl&amp;utm_source=internal&amp;mkt_tok=3RkMMJWWfF9wsRoku67Nce%2FhmjTEU5z17egvWaC0lMI%2F0ER3fOvrPUfGjI4CRcJkNK%2BTFAwTG5toziV8R7LMKM1ty9MQWxTk</link>
             <guid isPermaLink="false">c694058d-40b1-4fd3-bc2a-ef7a56476370</guid>
             <pubDate>Sat, 30 Jan 2016 16:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Information Security Resource]]></title>
-            <description><![CDATA[<article><h1>The Information Security Resource</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e06182a193371b8771332980a9348230b707dddf.jpg"></article>]]></description>
-            <link>http://www.infosecbuddy.com/</link>
-            <guid isPermaLink="false">0addd7f9-8ae7-43cc-a4c5-1d3bf00e86d9</guid>
-            <pubDate>Fri, 29 Jan 2016 12:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyber London | Europe's first cyber security accelerator and incubator space]]></title>
-            <description><![CDATA[<article><h1>Cyber London | Europe's first cyber security accelerator and incubator space</h1><p>Founder Amadeus Capital Partners In 1996 Alex co-founded nCipher with venture capital backing to develop internet security products using advanced cryptography. The company became a world leader in IT security, counting major banks, finance companies and governments among its customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1968d2dd682d11cec06b1961413999a67de2789.jpg"></article>]]></description>
-            <link>https://cylonlab.com/</link>
-            <guid isPermaLink="false">0be40f87-276c-4934-aa64-98b1823fb411</guid>
-            <pubDate>Fri, 29 Jan 2016 12:02:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
