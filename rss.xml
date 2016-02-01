@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 21:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 21:11:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -30,8 +30,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Innovation has the smart city of Songdo living in the future]]></title>
+            <description><![CDATA[<article><h1>Innovation has the smart city of Songdo living in the future</h1><p>The city of Songdo, South Korea was a metropolis built with a purpose. With looming high-rises and a sparkling skyline, one of the world's first "smart cities" aims to be entirely connected to technology. In the span between the year 2000 and 2003, South Korea filled 1,500 acres of land with sand in anticipation for Songdo, its newest International Business District.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5e87d109cc0a819168b282f210510973daa60e0.jpg"></article>]]></description>
+            <link>http://newsroom.cisco.stfi.re/feature-content?type=webcontent&amp;articleId=1738492&amp;sf=lgloyy</link>
+            <guid isPermaLink="false">a899d6c0-200a-4aa4-8a9e-a9d5bb2a3964</guid>
+            <pubDate>Mon, 01 Feb 2016 21:11:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SuperSmart in the case of cyber defense | The Network]]></title>
-            <description><![CDATA[<article><h1>SuperSmart in the case of cyber defense | The Network</h1><p>We welcome the re-use, republication, and distribution of "The Network" content. Please credit us with the following information: Used with the permission of http://thenetwork.cisco.stfi.re/.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48eb4e4d2edaea9760aa18f36af74eac6f221dd2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>SuperSmart in the case of cyber defense | The Network</h1><p>We welcome the re-use, republication, and distribution of "The Network" content. Please credit us with the following information: Used with the permission of http://thenetwork.cisco.stfi.re/.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbb0bfc730834176cb90657bbba229fc53bf6d02.jpg"></article>]]></description>
             <link>https://thegrid.ai/dosell/supersmart-in-the-case-of-cyber-defense-or-the-network/index.html</link>
             <guid isPermaLink="false">3810adfe-7492-4cee-9405-dea692cd0b90</guid>
             <pubDate>Mon, 01 Feb 2016 21:02:30 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://www.vdcresearch.com/research_programs/security_and_internet_of_things</link>
             <guid isPermaLink="false">1aab96d1-95f1-4e39-9213-77c67d2fb4b6</guid>
             <pubDate>Sun, 31 Jan 2016 11:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are You Ready For Digital Oil? - GE Reports]]></title>
-            <description><![CDATA[<article><h1>Are You Ready For Digital Oil? - GE Reports</h1><p>GE Oil & Gas became the latest GE business to launch its own digital division. The unit launched a pilot project with BP to help the energy company reduce unplanned downtime by deploying software and analytics, and partnered with "subsurface" software company Paradigm. "Digitization has become not only a competitive differentiator but increasingly, a necessity," ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e258e1c50dea8c0c6f2a734c7723a74b537ee6e0.jpg"></article>]]></description>
-            <link>http://www.gereports.com/ge-launches-new-digital-unit-targeting-the-oil-gas-industry/</link>
-            <guid isPermaLink="false">3c1f5ba2-bb8b-4eff-bc10-8987c3b590ec</guid>
-            <pubDate>Sat, 30 Jan 2016 16:27:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
