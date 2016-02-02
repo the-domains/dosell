@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 21:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 11:05:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -30,15 +30,22 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Product-level architectural validation is the missing link of design flow]]></title>
+            <description><![CDATA[<article><h1>Product-level architectural validation is the missing link of design flow</h1><p>Product-level architectural validation bridges the procedural gap between the marketing requirements definition and detailed design work. During this high-level phase, critical decisions are made that affect the product's functionality, size, cost, and other key parameters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3601cf13821f105b7ec2989001f72424be0b7324.gif"></article>]]></description>
+            <link>http://www.edn.stfi.re/design/pc-board/4441059/Product-level-architectural-validation-is-the-missing-link-of-design-flow?sf=ngegwn</link>
+            <guid isPermaLink="false">060e8d8f-e3a7-450b-8364-d2afb88abf1c</guid>
+            <pubDate>Tue, 02 Feb 2016 11:03:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Researchers focus on cybersecurity in smart factories]]></title>
-            <description><![CDATA[<article><h1>Researchers focus on cybersecurity in smart factories</h1><p>Last spring, a 94,000-square-foot lab and work space opened its doors amid great fanfare in Chicago. A public-private partnership called the Digital Manufacturing and Design Innovation Institute (DMDII), a good chunk of its real estate would be dedicated to a 24,000-square foot glass-enclosed smart manufacturing lab.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b014f0672d76594620664078df42e058aa04ce15.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Researchers focus on cybersecurity in smart factories</h1><p>Last spring, a 94,000-square-foot lab and work space opened its doors amid great fanfare in Chicago. A public-private partnership called the Digital Manufacturing and Design Innovation Institute (DMDII), a good chunk of its real estate would be dedicated to a 24,000-square foot glass-enclosed smart manufacturing lab.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/082c00e4b0f6c6c081472ce2b572dba28f1675ca.jpg"></article>]]></description>
             <link>http://newsroom.cisco.stfi.re/feature-content?type=webcontent&amp;articleId=1737287&amp;sf=pgbklk</link>
             <guid isPermaLink="false">44bec3d8-3ffb-4fde-8bb1-2ab10f549f3f</guid>
             <pubDate>Mon, 01 Feb 2016 21:11:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Innovation has the smart city of Songdo living in the future]]></title>
-            <description><![CDATA[<article><h1>Innovation has the smart city of Songdo living in the future</h1><p>The city of Songdo, South Korea was a metropolis built with a purpose. With looming high-rises and a sparkling skyline, one of the world's first "smart cities" aims to be entirely connected to technology. In the span between the year 2000 and 2003, South Korea filled 1,500 acres of land with sand in anticipation for Songdo, its newest International Business District.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5e87d109cc0a819168b282f210510973daa60e0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Innovation has the smart city of Songdo living in the future</h1><p>The city of Songdo, South Korea was a metropolis built with a purpose. With looming high-rises and a sparkling skyline, one of the world's first "smart cities" aims to be entirely connected to technology. In the span between the year 2000 and 2003, South Korea filled 1,500 acres of land with sand in anticipation for Songdo, its newest International Business District.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5723d0cd8814714adc03757989ba042e1301280.jpg"></article>]]></description>
             <link>http://newsroom.cisco.stfi.re/feature-content?type=webcontent&amp;articleId=1738492&amp;sf=lgloyy</link>
             <guid isPermaLink="false">a899d6c0-200a-4aa4-8a9e-a9d5bb2a3964</guid>
             <pubDate>Mon, 01 Feb 2016 21:11:03 GMT</pubDate>
@@ -70,13 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/common-criteria-software-evaluations/index.html</link>
             <guid isPermaLink="false">4a9b87ca-8d18-4195-9094-9e22ee676957</guid>
             <pubDate>Sun, 31 Jan 2016 11:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of Things Conference: Securing the IoT]]></title>
-            <description><![CDATA[<article><h1>Internet of Things Conference: Securing the IoT</h1><p>Phill Pexton, Senior Analyst at Beecham Research, explains why securing the IoT is so complex and outlines the implications</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d659a06113850619f1b94a59af64e66ac4d88482.jpg"></article>]]></description>
-            <link>https://youtu.be/8YurUTZvpqQ</link>
-            <guid isPermaLink="false">8f718ce4-cd1d-4e7a-9246-e91985b981fb</guid>
-            <pubDate>Sun, 31 Jan 2016 11:00:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
