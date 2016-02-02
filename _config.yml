@@ -1,4 +1,4 @@
-name: DoSell
+name: 'DoSell Blog '
 favicon: null
 layout_spectrum: 0.45936
 typography_spectrum: 0.666385
@@ -22,7 +22,7 @@ color:
     - '#2d3027'
     - '#f05d63'
     - '#ead443'
-  brandStrength: 0.375
+  brandStrength: 0.625
   lightness: 0.5625
   saturation: 0.25
   rhythmicContrast: 0.5
