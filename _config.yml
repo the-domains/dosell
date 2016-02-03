@@ -1,29 +1,19 @@
-name: 'DoSell Blog '
-favicon: null
-layout_spectrum: 0.45936
-typography_spectrum: 0.666385
-title: 'News, Trends, Insights of Business Architecture, Industrial Design, Engineering & Innovation'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-71835463-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#727469'
-    - '#2d3027'
-    - '#f05d63'
-    - '#ead443'
+    - '#D0D0D0'
+    - '#000000'
+    - '#888880'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.8125
   lightness: 0.5625
-  saturation: 0.8125
   rhythmicContrast: 0.5
+  saturation: 0.8125
+cta: {}
+layout_spectrum: 0.45936
+name: 'DoSell Blog '
+opengraph: {}
 purpose: []
+typography_spectrum: 0.666385
