@@ -1,29 +1,19 @@
-name: 'DoSell Blog '
-favicon: null
-layout_spectrum: 0.45936
-typography_spectrum: 0.666385
-title: 'News, Trends, Insights of Engineering, IoT, software security ...'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-71835463-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#D0D0D0'
+    - '#C0C0B0'
     - '#000000'
-    - '#888880'
+    - '#988868'
     - '#000000'
     - '#000000'
   brandStrength: 0.8125
-  lightness: 0.5625
-  saturation: 0.8125
+  lightness: 0.777027
   rhythmicContrast: 0.5
+  saturation: 0.8125
+cta: {}
+layout_spectrum: 0.125
+name: 'DoSell Blog '
+opengraph: {}
 purpose: []
+typography_spectrum: 0.244932
