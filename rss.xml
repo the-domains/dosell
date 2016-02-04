@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DoSell Blog ]]></title>
-        <description><![CDATA[DoSell Blog ]]></description>
+        <title><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></title>
+        <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 12:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 10:21:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -28,6 +28,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NIA - NATO Information Assurance]]></title>
+            <description><![CDATA[<article><h1>NIA - NATO Information Assurance</h1><p>1. Approval for inclusion in NIAPC is at the sole discretion of the NIAPC Management. 2. Inclusion of a product in the NIAPC does not in any way guarantee that any orders whatsoever will be placed for the products or services offered.</p></article>]]></description>
+            <link>http://www.ia.nato.stfi.re/niapc/Information/NIAPC-vendor-info?sf=pgxwag</link>
+            <guid isPermaLink="false">b99bc90e-dbbd-48b8-aaea-5d3f2a69409c</guid>
+            <pubDate>Thu, 04 Feb 2016 10:20:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MWC Barcelona]]></title>
