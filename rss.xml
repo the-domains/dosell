@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 21:07:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -28,6 +28,20 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re-thinking reading on the Web - Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Re-thinking reading on the Web - Truth Labs</h1><p>A cinematic approach Rather than creating a series of interactive widgets embedded throughout the article, we decided to build an interactive narrative that flows alongside the copy. We used WebGL to build full 3D environments which gave us the flexibility to tell the story from a variety of perspectives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c762b32db58399f28db8e7964025b36d3dfad55.jpg"></article>]]></description>
+            <link>http://medium.stfi.re/truth-labs/re-thinking-reading-on-the-web-158e789eddd7?sf=ekxnbo#.wa812p9ti</link>
+            <guid isPermaLink="false">ca9a4b39-6ba8-4d37-b485-9a5be307e699</guid>
+            <pubDate>Mon, 08 Feb 2016 21:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truth Labs]]></title>
+            <description><![CDATA[<article><h1>Truth Labs</h1><p>A digital design studio in Chicago. We create products that make people's lives easier. We specialize in bespoke web, mobile, and experiential design. truthlabs.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cde0d27da1f62bbf5c7c48266d702a6dfeb231c9.png"></article>]]></description>
+            <link>http://medium.stfi.re/truth-labs?sf=oxzdej</link>
+            <guid isPermaLink="false">78b86110-a2eb-4af6-aadd-d68364d9d517</guid>
+            <pubDate>Mon, 08 Feb 2016 21:05:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MIT Technology Review]]></title>
@@ -63,20 +77,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>http://thegrid.stfi.re/?sf=egvxro</link>
             <guid isPermaLink="false">90a294ee-ad23-4483-b650-dc96b68a6693</guid>
             <pubDate>Mon, 08 Feb 2016 17:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IOActive Labs Research]]></title>
-            <description><![CDATA[<article><h1>IOActive Labs Research</h1><p>Just a decade ago, electroencephalography (EEG) was limited to the inner rooms of hospitals, purely for medical purposes. Nowadays, relatively cheap consumer devices capable of measuring brain wave activity are in the hands of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fb3567018277115f6349c365cbec511e4bc26eb.png"></article>]]></description>
-            <link>http://blog.ioactive.stfi.re/?sf=venwbx</link>
-            <guid isPermaLink="false">611133ed-3802-4b13-9f79-9f8574c11de0</guid>
-            <pubDate>Mon, 08 Feb 2016 17:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NIA - NATO Information Assurance]]></title>
-            <description><![CDATA[<article><h1>NIA - NATO Information Assurance</h1><p>1. Approval for inclusion in NIAPC is at the sole discretion of the NIAPC Management. 2. Inclusion of a product in the NIAPC does not in any way guarantee that any orders whatsoever will be placed for the products or services offered.</p></article>]]></description>
-            <link>http://www.ia.nato.stfi.re/niapc/Information/NIAPC-vendor-info?sf=pgxwag</link>
-            <guid isPermaLink="false">b99bc90e-dbbd-48b8-aaea-5d3f2a69409c</guid>
-            <pubDate>Thu, 04 Feb 2016 10:20:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
