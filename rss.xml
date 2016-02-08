@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 21:05:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -28,6 +28,13 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <link>https://thegrid.ai/dosell/software-security-secure-software-development-in-the-age-of/index.html</link>
             <guid isPermaLink="false">bdef0608-08c2-4320-9272-f97e80a0252d</guid>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
+            <description><![CDATA[<article><h1>Cybersecurity: The Age of the Megabreach</h1><p>We haven't stopped huge breaches. The focus now is on resilience, with smarter ways to detect attacks and faster ways to respond to them. Download PDF Download PDF In November 2014, an especially chilling cyberattack shook the corporate world-something that went far beyond garden-variety theft of credit card numbers from a big-box store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da00a7df26cae8f93f372bceeab2cea68bbdeef7.jpg"></article>]]></description>
+            <link>https://www.technologyreview.com/s/545616/cybersecurity-the-age-of-the-megabreach/</link>
+            <guid isPermaLink="false">0619bec6-c17a-4356-b587-fc77ce1445e6</guid>
+            <pubDate>Mon, 08 Feb 2016 21:04:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business Reports]]></title>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<article><h1>MWC Barcelona</h1><p>Join Ericsson at the 2016 Mobile World Congress</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c92a12e21776b63088cb2a374027e5e96cef8c1f.jpg"></article>]]></description>
             <link>http://www.ericsson.stfi.re/events/mwc2016/cellular-for-massive-iot-lpwa?sf=jenegv</link>
             <guid isPermaLink="false">b6e00af7-ec3d-43e3-a730-57484a99818a</guid>
-            <pubDate>Wed, 03 Feb 2016 11:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ericsson IoT]]></title>
-            <description><![CDATA[<article><h1>Ericsson IoT</h1><p>Ericsson technologies and services brings together an integrated approach of operations, business and technology to make the Networked Society a reality. And we're supporting this with a complete range of services to create a whole new world of possibilities. We're making it happen. Here's the proof.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a0b4a9836f9c42e03a178fc14ec22b391be90f4.jpg"></article>]]></description>
-            <link>http://www.ericsson.stfi.re/spotlight/services/?sf=xnynon#internet-of-things</link>
-            <guid isPermaLink="false">ca6bdf9f-9413-45d6-9466-3331da430215</guid>
             <pubDate>Wed, 03 Feb 2016 11:57:13 GMT</pubDate>
         </item>
     </channel>
