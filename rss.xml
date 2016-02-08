@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 17:10:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -30,8 +30,15 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI Websites That Design Themselves]]></title>
+            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3987e9b41b03750da15a51e9e9a013655d77a0d.png"></article>]]></description>
+            <link>http://thegrid.stfi.re/?sf=egvxro</link>
+            <guid isPermaLink="false">90a294ee-ad23-4483-b650-dc96b68a6693</guid>
+            <pubDate>Mon, 08 Feb 2016 17:09:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IOActive Labs Research]]></title>
-            <description><![CDATA[<article><h1>IOActive Labs Research</h1><p>Just a decade ago, electroencephalography (EEG) was limited to the inner rooms of hospitals, purely for medical purposes. Nowadays, relatively cheap consumer devices capable of measuring brain wave activity are in the hands of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68e08d28d3678f745b54baaa832763bd23458af5.png"></article>]]></description>
+            <description><![CDATA[<article><h1>IOActive Labs Research</h1><p>Just a decade ago, electroencephalography (EEG) was limited to the inner rooms of hospitals, purely for medical purposes. Nowadays, relatively cheap consumer devices capable of measuring brain wave activity are in the hands of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fb3567018277115f6349c365cbec511e4bc26eb.png"></article>]]></description>
             <link>http://blog.ioactive.stfi.re/?sf=venwbx</link>
             <guid isPermaLink="false">611133ed-3802-4b13-9f79-9f8574c11de0</guid>
             <pubDate>Mon, 08 Feb 2016 17:02:11 GMT</pubDate>
@@ -69,13 +76,6 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <description><![CDATA[<img src="http://www.ericsson.com/spotlight/services/wp-content/uploads/sites/8/2014/11/internet-of-things-main-FINAL.png">]]></description>
             <link>https://thegrid.ai/dosell/b1b84e77-0c61-40f7-b3f9-9a468db8c693/index.html</link>
             <guid isPermaLink="false">b1b84e77-0c61-40f7-b3f9-9a468db8c693</guid>
-            <pubDate>Wed, 03 Feb 2016 11:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technology Innovation Transforming Industries]]></title>
-            <description><![CDATA[<article><h1>Technology Innovation Transforming Industries</h1><p>Industrial society is being transformed as connectivity, cloud technology, and big data disrupt old business models and create new opportunities, especially in utilities, transport, public safety, and mobile financial services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e5a4b7aabfc136fba9243654d83296045854b13.jpg"></article>]]></description>
-            <link>http://www.ericsson.stfi.re/spotlight/industries?sf=bpnpgz</link>
-            <guid isPermaLink="false">f5f80be1-c9f5-4b7b-8225-9e7c02a05d30</guid>
             <pubDate>Wed, 03 Feb 2016 11:56:59 GMT</pubDate>
         </item>
     </channel>
