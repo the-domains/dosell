@@ -6,24 +6,25 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T13:03:34.122Z'
-dateModified: '2016-01-31T13:03:19.160Z'
+datePublished: '2016-02-09T10:07:44.805Z'
+dateModified: '2016-02-09T10:07:41.744Z'
 title: 'Ease the capacity problem of B2B service industry Today!'
 author: []
+sourcePath: _posts/2016-01-31-ease-the-capacity-problem-of-b2b-service-industry-today.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-ease-the-capacity-problem-of-b2b-service-industry-today.md
-published: true
 url: ease-the-capacity-problem-of-b2b-service-industry-today/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cbddd3f-f8c9-41a6-b9f0-9c24af6d3228.png)
+
 # Ease the capacity problem of B2B service industry Today!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bcda96c-dea5-4250-8175-1dea75c368c1.png)
 
 > There's probably never been more demand for engineering service capacity, but how do you find the right team or company?
 
