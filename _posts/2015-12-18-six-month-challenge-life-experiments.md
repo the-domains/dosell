@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://melissatsang.com/six-month-challenge/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,12 +17,12 @@ keywords:
   - gluten
   - postmortem
 description: This is the table of contents for my 6-month startup journey.
-datePublished: '2015-12-25T18:43:13.858Z'
-dateModified: '2015-12-24T19:05:53.148Z'
+datePublished: '2016-02-13T13:23:38.168Z'
+dateModified: '2016-02-13T13:23:36.954Z'
 author: []
 related: []
 app_links: []
-title: Six Month Challenge - Life experiments
+title: Six Month Challenge to start a venture
 sourcePath: _posts/2015-12-18-six-month-challenge-life-experiments.md
 published: true
 authors: []
@@ -30,7 +31,6 @@ publisher:
   domain: melissatsang.com
   url: 'http://melissatsang.com'
   favicon: null
-url: six-month-challenge-life-experiments/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
