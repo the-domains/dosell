@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://dosell.io/resources-case-studies/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - complicated
   - trusted
 description: "So you are looking for a trusted, top-notch solution provider to solve your business's engineering and business process problems? Searching for the best possible service provider is a PAIN, because there are millions outside of your door and they are cheating you, slow, complicated and make your project fail."
-datePublished: '2015-12-27T16:39:13.491Z'
-dateModified: '2015-12-27T16:39:10.629Z'
+datePublished: '2016-02-13T13:23:01.370Z'
+dateModified: '2016-02-13T13:22:59.443Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: dosell.io
   url: 'http://dosell.io'
   favicon: 'http://dosell.io/wp-content/uploads/2015/07/favicon.png'
-url: dosell-or-resources/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
