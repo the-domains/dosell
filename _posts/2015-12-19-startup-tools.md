@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.slideshare.net/tiborzahorecz7/b2b-reference-guide-for-company-makers-part-iii-soft-launch-and-growth'
 inLanguage: null
 starred: false
 keywords: []
 description: get the full list of current tools for your venture
-datePublished: '2015-12-27T16:25:33.242Z'
-dateModified: '2015-12-27T16:25:28.489Z'
+datePublished: '2016-02-13T13:20:59.944Z'
+dateModified: '2016-02-13T13:20:58.944Z'
 title: Startup Tools
 author: []
 sourcePath: _posts/2015-12-19-startup-tools.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: startup-tools/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba26284cee795463cbfe828e6bd473be14670ba0.jpg)
