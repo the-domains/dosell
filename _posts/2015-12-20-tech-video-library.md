@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.slideshare.net/tiborzahorecz7/b2b-reference-guide-for-company-makers-part-iii-soft-launch-and-growth'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:44:16.014Z'
-dateModified: '2016-01-28T17:44:13.517Z'
+datePublished: '2016-02-13T13:20:04.763Z'
+dateModified: '2016-02-13T13:20:01.881Z'
 title: Tech Video Library
 author: []
 sourcePath: _posts/2015-12-20-tech-video-library.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: tech-video-library/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/355d317abd5bf0fcdae8e3c040231e59e89dc220.jpg)
