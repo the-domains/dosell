@@ -1,6 +1,6 @@
 name: 'DoSell Blog '
 favicon: null
-layout_spectrum: 0.11167
+layout_spectrum: 0.15154
 typography_spectrum: 0.32219
 title: 'News, Trends, Insights of Engineering, IoT, software security ...'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#b4a898'
     - '#f7131d'
   brandStrength: 0.6875
-  lightness: 0.9375
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
