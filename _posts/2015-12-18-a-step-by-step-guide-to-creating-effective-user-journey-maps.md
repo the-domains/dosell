@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://webdesignviews.com'
   name: Web Design Views
-  favicon: 'https://webdesignviews.com/wp-content/themes/promag/favicon.ico'
   domain: webdesignviews.com
+  url: 'https://webdesignviews.com'
+  favicon: 'https://webdesignviews.com/wp-content/themes/promag/favicon.ico'
 keywords:
   - user
   - map
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://webdesignviews.com/step-step-guide-creating-effective-user-journey-maps/?utm_campaign=Submission&utm_medium=Community&utm_source=GrowthHackers.com'
 title: A Step-by-Step Guide to Creating Effective User Journey Maps
-datePublished: '2015-12-18T14:31:25.040Z'
-dateModified: '2015-12-16T06:26:08.300Z'
+datePublished: '2016-02-13T14:59:20.018Z'
+dateModified: '2016-02-13T14:59:15.872Z'
 sourcePath: _posts/2015-12-18-a-step-by-step-guide-to-creating-effective-user-journey-maps.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
