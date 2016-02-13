@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://newsroom.cisco.com'
   name: Cisco
-  favicon: 'http://newsroom.cisco.com/cisco-nci-rpwd-theme/images/favicon/favicon192.png'
   domain: newsroom.cisco.com
+  url: 'http://newsroom.cisco.com'
+  favicon: 'http://newsroom.cisco.com/cisco-nci-rpwd-theme/images/favicon/favicon192.png'
 keywords:
   - mailboxes
   - delivery
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://newsroom.cisco.com/feature-content?type=webcontent&articleId=1716381'
 title: How digital technologies including IoT are transforming the global postal industry
-datePublished: '2015-12-24T16:29:37.643Z'
-dateModified: '2015-12-23T08:29:29.473Z'
+datePublished: '2016-02-13T15:03:36.350Z'
+dateModified: '2016-02-13T15:03:34.114Z'
 sourcePath: _posts/2015-12-24-how-digital-technologies-including-iot-are-transforming-the.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
