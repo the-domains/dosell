@@ -1,6 +1,6 @@
 name: 'DoSell Blog '
 favicon: null
-layout_spectrum: 0.226351
+layout_spectrum: 0.04468
 typography_spectrum: 0.32219
 title: 'News, Trends, Insights of Engineering, IoT, software security ...'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#D0D0D0'
-    - '#000000'
-    - '#888880'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.5
+    - '#ffffff'
+    - '#727e8a'
+    - '#1d2025'
+    - '#c0c0c0'
+    - '#3c4b60'
+  brandStrength: 0.5625
   lightness: 1
-  saturation: 0.8125
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
