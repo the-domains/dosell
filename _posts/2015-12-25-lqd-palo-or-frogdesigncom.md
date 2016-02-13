@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.frogdesign.com/work/lqd-palo.html'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - palo
   - frog
@@ -17,8 +17,8 @@ keywords:
   - connected
   - human
 description: 'Palo connects people to essential information, resources and safety by offering free wifi, information on nearby attractions, restaurants, retail and events, volunteering opportunities and community groups, public service announcements, maps and way finding, emergency alerts, meeting points and taxi beacons.'
-datePublished: '2015-12-25T16:33:43.876Z'
-dateModified: '2015-12-25T16:33:39.422Z'
+datePublished: '2016-02-13T15:03:03.431Z'
+dateModified: '2016-02-13T15:03:01.559Z'
 author: []
 related: []
 app_links: []
