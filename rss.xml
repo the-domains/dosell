@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 09:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 09:27:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,10 +72,10 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quick start guide for using mbed Client API - ARM mbed Client Guide]]></title>
-            <description><![CDATA[<article><h1>Quick start guide for using mbed Client API - ARM mbed Client Guide</h1><p>This section explains how to use our C++ API to create and configure different types of Objects, Object Instances and Resources for mbed Client to comply with the OMA LWM2M specifications. These resources can then be communicated to mbed Device Server. Note: The API complies with the OMA LWM2M specifications.</p></article>]]></description>
-            <link>https://docs.mbed.com/docs/mbed-client-guide/en/latest/Howto/#security-object-resources</link>
-            <guid isPermaLink="false">80aa0e2c-9cee-46dd-9c74-b8e93bc011be</guid>
+            <title><![CDATA[NXP unveils a tiny 64-bit ARM processor for the Internet of Things]]></title>
+            <description><![CDATA[<article><h1>NXP unveils a tiny 64-bit ARM processor for the Internet of Things</h1><p>NXP Semiconductors has unveiled what it calls the world's smallest and lowest-power 64-bit ARM processor for the Internet of Things (IoT). The tiny QorIQ LS1012A delivers networking-grade security and performance acceleration to battery-powered, space-constrained applications. This includes powering applications for Internet of Things, or everyday objects that are smart and connected.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/02/nxp-780x466.jpg"></article>]]></description>
+            <link>http://venturebeat.stfi.re/2016/02/21/nxp-unveils-a-small-and-tiny-64-bit-arm-processor-for-the-internet-of-things/?sf=rpjyeb</link>
+            <guid isPermaLink="false">ffdd5d62-b2ed-47b5-9ef4-0d5d0ac64535</guid>
             <pubDate>Mon, 22 Feb 2016 09:25:30 GMT</pubDate>
         </item>
     </channel>
