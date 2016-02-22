@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 09:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 09:26:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,10 +72,10 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[32F429IDISCOVERY Discovery kit with STM32F429ZI MCU - STMicroelectronics]]></title>
-            <description><![CDATA[<article><h1>32F429IDISCOVERY Discovery kit with STM32F429ZI MCU - STMicroelectronics</h1><p>32F429IDISCOVERY - Discovery kit with STM32F429ZI MCU, STMicroelectronics, STM32F429I-DISCO, STM32F429I-DISC1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d0e80097ead5231215d8c851fd872a420f60c50.jpg"></article>]]></description>
-            <link>http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/PF259090</link>
-            <guid isPermaLink="false">fe793da0-69b8-4e7d-ac0f-cdbaa38bd42b</guid>
+            <title><![CDATA[Quick start guide for using mbed Client API - ARM mbed Client Guide]]></title>
+            <description><![CDATA[<article><h1>Quick start guide for using mbed Client API - ARM mbed Client Guide</h1><p>This section explains how to use our C++ API to create and configure different types of Objects, Object Instances and Resources for mbed Client to comply with the OMA LWM2M specifications. These resources can then be communicated to mbed Device Server. Note: The API complies with the OMA LWM2M specifications.</p></article>]]></description>
+            <link>https://docs.mbed.com/docs/mbed-client-guide/en/latest/Howto/#security-object-resources</link>
+            <guid isPermaLink="false">80aa0e2c-9cee-46dd-9c74-b8e93bc011be</guid>
             <pubDate>Mon, 22 Feb 2016 09:25:30 GMT</pubDate>
         </item>
     </channel>
