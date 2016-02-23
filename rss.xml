@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 20:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 20:05:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,10 +72,10 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2015 In Review: GE's Digital Industrial Revolution - GE Reports]]></title>
-            <description><![CDATA[<article><h1>2015 In Review: GE's Digital Industrial Revolution - GE Reports</h1><p>GE has been around for more than a century, but few years in its history have been as important for the future of the company as the one that's just ending. GE started transforming itself into the world's largest digital industrial company by selling GE Capital assets valued at more than $100 billion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78b2737cbcfad00f233415be878054d649c0be54.jpg"></article>]]></description>
-            <link>http://www.gereports.stfi.re/2015-in-review-ges-digital-industrial-revolution/?sf=jblxnn</link>
-            <guid isPermaLink="false">0729d5f2-a3cd-4321-b499-e40c5ef8e0c7</guid>
+            <title><![CDATA[Secure Microcontrollers from STMicroelectronics Bring Advanced Cyber Safety to Connected Cars]]></title>
+            <description><![CDATA[<article><h1>Secure Microcontrollers from STMicroelectronics Bring Advanced Cyber Safety to Connected Cars</h1><p>Tamper-proof microcontrollers qualified for automotive applications protect data privacy and system integrity Internet connectivity will bring a multitude of services to vehicles and their owners, such as software updates, service packs, location-based information, social media, streaming entertainment content, and emergency support.</p><img src="http://www.st.stfi.re/web/en/fragment/press/product_press_release/press_image/Secure_MCUs_Connected_Cars_P3800S_s.jpg"></article>]]></description>
+            <link>http://www.st.stfi.re/web/en/press/en/p3800?sf=vpoxyo</link>
+            <guid isPermaLink="false">aa9077b5-b997-499f-801a-a5ead3627604</guid>
             <pubDate>Tue, 23 Feb 2016 20:04:05 GMT</pubDate>
         </item>
     </channel>
