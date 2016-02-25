@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 16:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 16:46:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://steveblank.files.wordpress.com/2011/02/machine-intelligence.jpg">]]></description>
-            <link>https://thegrid.ai/dosell/a967f551-8fb1-4ade-ac7d-8ee83c739ed9/index.html</link>
-            <guid isPermaLink="false">a967f551-8fb1-4ade-ac7d-8ee83c739ed9</guid>
-            <pubDate>Thu, 25 Feb 2016 16:43:58 GMT</pubDate>
+            <title><![CDATA[MoodBox: The First Emotionally Intelligent Speaker]]></title>
+            <description><![CDATA[<article><h1>MoodBox: The First Emotionally Intelligent Speaker</h1><p>Revolutionary wireless, voice controlled Hi-Fi speaker with emotion & mood recognition capabilities</p></article>]]></description>
+            <link>https://www.indiegogo.com/projects/moodbox-the-first-emotionally-intelligent-speaker--3#/</link>
+            <guid isPermaLink="false">23e85e5f-4d64-4bf2-bcd6-460bb0bdaaba</guid>
+            <pubDate>Thu, 25 Feb 2016 16:44:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
