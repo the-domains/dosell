@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 16:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 09:28:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MoodBox: The First Emotionally Intelligent Speaker]]></title>
-            <description><![CDATA[<article><h1>MoodBox: The First Emotionally Intelligent Speaker</h1><p>Revolutionary wireless, voice controlled Hi-Fi speaker with emotion & mood recognition capabilities</p></article>]]></description>
-            <link>https://www.indiegogo.com/projects/moodbox-the-first-emotionally-intelligent-speaker--3#/</link>
-            <guid isPermaLink="false">23e85e5f-4d64-4bf2-bcd6-460bb0bdaaba</guid>
-            <pubDate>Thu, 25 Feb 2016 16:44:15 GMT</pubDate>
+            <title><![CDATA[NissanConnect EV app disabled due to security vulnerabality]]></title>
+            <description><![CDATA[<article><h1>NissanConnect EV app disabled due to security vulnerabality</h1><p>A month after first being alerted to the security risk of its NissanConnect EV app, Nissan disabled the app on Wednesday night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8fc622cf1818bc6ccffdf7ff378fdf94e92549b.jpg"></article>]]></description>
+            <link>http://mashable.stfi.re/2016/02/26/nissan-disables-leaf-app/?sf=kblbor#fKhk.vPu4Oqm</link>
+            <guid isPermaLink="false">4b0b7f46-a709-4cef-8d36-c3cc58a6d39a</guid>
+            <pubDate>Fri, 26 Feb 2016 09:26:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
