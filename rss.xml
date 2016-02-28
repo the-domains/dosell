@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 20:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 20:51:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hardware Academy - by Hardware Startup IO]]></title>
-            <description><![CDATA[<article><h1>Hardware Academy - by Hardware Startup IO</h1><p>HARDWARE ACADEMY is a series of educational and training activities run by Hardware Startup IO. We run workshops, classes and courses with the aim of training the next generation of hardware and IoT p</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b958b208348de43ffd6298e75d271fb04ed8b41.jpg"></article>]]></description>
-            <link>http://www.meetup.com/Hardware-Academy-by-Hardware-Startup-IO/</link>
-            <guid isPermaLink="false">a856c49d-9e6e-417e-a216-dbe6b7315496</guid>
-            <pubDate>Sun, 28 Feb 2016 20:49:57 GMT</pubDate>
+            <title><![CDATA[The Internet of Things Forum 2016 | The BLN | IoT Conference]]></title>
+            <description><![CDATA[<article><h1>The Internet of Things Forum 2016 | The BLN | IoT Conference</h1><p>You will meet the people who are doing things, not talking about things, in the Internet of Things. Understand how big companies can innovate using IoT successfully. How could IoT transform your business model? What are the key investment opportunities? How can you demonstrate ROI in IoT?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69ee890cd596b097b55a575b24e86bc556375f3f.jpg"></article>]]></description>
+            <link>http://iot.thebln.com/</link>
+            <guid isPermaLink="false">0cbf9b3e-b4e5-459e-b6a1-f26522e7371c</guid>
+            <pubDate>Sun, 28 Feb 2016 20:50:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
