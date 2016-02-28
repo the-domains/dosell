@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 20:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 20:52:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UL extends mobile product portfolio with Test Tools for M2M]]></title>
-            <description><![CDATA[<article><h1>UL extends mobile product portfolio with Test Tools for M2M</h1><p>February 26, 2016 - UL is pleased to announce the release of two new test tools for Machine-to-Machine (M2M) testing. The UL eUICC Profile Tester, a tool for testing and managing embedded SIM (eUICC) profiles, and the UL Subscription Manager Test Tool, a tool to test Subscription Manager processes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c5b5687755ed2bde389b00386eb08c2c2f073e6.jpg"></article>]]></description>
-            <link>https://www.ul-ts.com/about/newsroom/ul-extends-mobile-product-portfolio-with-test-tools-for-m2m/</link>
-            <guid isPermaLink="false">52ecdd43-5fa3-4759-9549-0b0a9644b4e4</guid>
-            <pubDate>Sun, 28 Feb 2016 20:51:06 GMT</pubDate>
+            <title><![CDATA[US: Sophisticated attackers hacked Ukrainian electric grid]]></title>
+            <description><![CDATA[<article><h1>US: Sophisticated attackers hacked Ukrainian electric grid</h1><p>(AP) - A U.S. investigation found that a December hack on the Ukrainian power grid was coordinated and highly sophisticated. The report released Thursday offers a detailed look at one of the first cyberattacks to succeed in taking down part of a national power grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a17ab99eaa9d5ade0159b1e3fd095b10023504ed.jpg"></article>]]></description>
+            <link>http://www.apnewsarchive.com/2016/A-U-S-investigation-found-that-a-December-hack-on-the-Ukrainian-power-grid-was-coordinated-and-highly-sophisticated/id-5664ced713d8404e915960199ce04241</link>
+            <guid isPermaLink="false">14c9c12a-448c-4972-a307-bca155e83058</guid>
+            <pubDate>Sun, 28 Feb 2016 20:50:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
