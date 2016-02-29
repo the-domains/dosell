@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 10:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 14:58:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London Hardware Newsletter]]></title>
-            <description><![CDATA[<article><h1>London Hardware Newsletter</h1><p>Check out the London Hardware Newsletter by @Hardware_IO. The voice of London hardware startup community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed3c7140c10e69d0454851376eac227645c835d9.png"></article>]]></description>
-            <link>http://us9.campaign-archive1.com/?u=d1bb35d684e690c17826e147d&amp;id=d9e2a29f2e</link>
-            <guid isPermaLink="false">5cb62484-9b1b-4809-aa34-b67737f3e377</guid>
-            <pubDate>Mon, 29 Feb 2016 10:40:22 GMT</pubDate>
+            <title><![CDATA[IoT Security Blog | Bastille Networks Internet Security]]></title>
+            <description><![CDATA[<article><h1>IoT Security Blog | Bastille Networks Internet Security</h1><p>On September 10, Bastille founder and chairman Chris Rouland told the crowd at the Security of Things Forum, sponsored by The Security Ledger and Christian Science Monitor's Passcode, that "the early days of the Internet remind me of where we are...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/891470124829cda1c12222f04b62ea68c1dc3321.jpg"></article>]]></description>
+            <link>https://www.bastille.net/blog</link>
+            <guid isPermaLink="false">273f9792-ad8e-4724-a759-64776f668e37</guid>
+            <pubDate>Mon, 29 Feb 2016 14:57:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
