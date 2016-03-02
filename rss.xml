@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 15:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 15:42:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ARM Holdings Releases A Very Tiny Core For IoT And Wearables]]></title>
-            <description><![CDATA[<article><h1>ARM Holdings Releases A Very Tiny Core For IoT And Wearables</h1><p>Devices are getting smarter and connected - this is a common industry saying and the basis for excitement about IoT. Much of these connected devices run on processors designed by ARM Holdings, PLC of Cambridge, UK. The company estimates that over 60 billion (with a "b") chips have shipped with [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd6f87e7f216a0b567ffa0fdd2180a187b8ff869.jpg"></article>]]></description>
-            <link>http://www.forbes.stfi.re/sites/tiriasresearch/2016/02/22/arm-holdings-releases-a-very-tiny-core-for-iot-and-wearables/?sf=wglaje#44ec123a65b6</link>
-            <guid isPermaLink="false">23b789cd-94d5-43fd-96b4-1c00db79d5b5</guid>
-            <pubDate>Wed, 02 Mar 2016 15:35:48 GMT</pubDate>
+            <title><![CDATA[Combating IoT cyber threats]]></title>
+            <description><![CDATA[<article><h1>Combating IoT cyber threats</h1><p>The Internet of Things is changing the way that businesses operate, especially in the areas of warehousing, transportation, and logistics. These changes make the security of IoT devices even more crucial, considering the time and money that is required if a hacker breaks through the defenses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d4f9bef02fb827385f0310dd83b3b51e9fe9.png"></article>]]></description>
+            <link>http://www.ibm.stfi.re/developerworks/library/iot-security-best-practices-iot-apps/?sf=nblvap</link>
+            <guid isPermaLink="false">86247690-efc1-491e-81a3-cd200f50ca84</guid>
+            <pubDate>Wed, 02 Mar 2016 15:37:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
