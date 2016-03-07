@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 19:43:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Augmented Reality - Home | Meta Company]]></title>
-            <description><![CDATA[<article><h1>Augmented Reality - Home | Meta Company</h1><p>Meta 2 Augmented Reality Headset See-through headset that displays holograms and digital content, along with a software development kit built on top of the most popular 3D engine in the world: Unity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67cfd07bc16aa03fc6fd002ca3cd718eb7d67b3f.jpg"></article>]]></description>
-            <link>https://www.metavision.com/?ref=producthunt</link>
-            <guid isPermaLink="false">68d17e81-5f2a-45ea-90d5-2021db09a45a</guid>
-            <pubDate>Mon, 07 Mar 2016 19:41:49 GMT</pubDate>
+            <title><![CDATA[Deep Learning: New Subsea Service Model Helps Oil Drillers Limit Costs - GE Reports]]></title>
+            <description><![CDATA[<article><h1>Deep Learning: New Subsea Service Model Helps Oil Drillers Limit Costs - GE Reports</h1><p>When Marc Edwards joined Diamond Offshore Drilling Inc. as chief executive in 2014, he already knew how dependent offshore drilling rigs were on blowout preventers - valve assemblies designed to prevent oil spills. But he was surprised when he found out how costly it was when those blowout preventers were out of service.</p><img src="http://gereports.cdnist.com/wp-content/uploads/2016/02/23204527/DiamondBOP2.jpg"></article>]]></description>
+            <link>http://www.gereports.com/deep-learning-new-subsea-service-model-helps-oil-drillers-limit-costs/</link>
+            <guid isPermaLink="false">3bd65e13-c487-4ed5-8dad-2e87908cb5a8</guid>
+            <pubDate>Mon, 07 Mar 2016 19:41:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
