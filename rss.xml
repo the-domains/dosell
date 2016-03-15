@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 08:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 10:50:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attacking the Internet of Things for Fun and Profit | Future-Tech Blog]]></title>
-            <description><![CDATA[<article><h1>Attacking the Internet of Things for Fun and Profit | Future-Tech Blog</h1><p>I got very lucky on reddit and hackernews with my incomplete compilation of "Classic papers every Software Architect should read". So here is a similar take but this time in celebration of my most favourite IoT Security papers targeting engineering professionals who want to jump start their IoT Security foo or otherwise wish to move into this Brave New World that is the Internet of Things or more specifically IoTSecurity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee3d043230499c7955b833b43dac80555846747.jpg"></article>]]></description>
-            <link>http://blog.valbonne-consulting.stfi.re/2016/03/09/attacking-the-internet-of-things-for-fun-and-profit/?sf=krzdjo</link>
-            <guid isPermaLink="false">e1f044f7-5a41-41e3-b129-5081bce1644e</guid>
-            <pubDate>Wed, 09 Mar 2016 08:08:53 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4472_connected_car_start_ups_n.jpg">]]></description>
+            <link>https://thegrid.ai/dosell/5f65e12f-8ecb-460f-aba1-3cb85eb7be7d/index.html</link>
+            <guid isPermaLink="false">5f65e12f-8ecb-460f-aba1-3cb85eb7be7d</guid>
+            <pubDate>Tue, 15 Mar 2016 10:50:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
