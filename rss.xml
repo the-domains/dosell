@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 09:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 14:13:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Security of Things World 2016]]></title>
-            <description><![CDATA[<article><h1>Security of Things World 2016</h1><p>● 80+ expert speakers ● 300 attendees ● 2,5 days with over 70 interactive sessions incl. Keynotes, World Café discussions, Workshops, Case Studies and much more ● 15hrs of dedicated networking time ● Representation of the entire Security of IoT ecosystem and value chain ● 80+ expert speakers ● 300 attendees ● 2,5 days with over 70 interactive sessions incl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5865db99570c7401932bb626665047c1b9ead610.jpg"></article>]]></description>
-            <link>http://securityofthingsworld.stfi.re/en/?sf=eevelb</link>
-            <guid isPermaLink="false">5964200f-6a88-49cf-be90-5ef6d81d1d62</guid>
-            <pubDate>Fri, 18 Mar 2016 09:54:59 GMT</pubDate>
+            <title><![CDATA[LabShare Blog Section]]></title>
+            <description><![CDATA[<article><h1>LabShare Blog Section</h1><p>We deliver excellent engineering companies for your Organization</p></article>]]></description>
+            <link>http://www.labsharegroup.com/blog</link>
+            <guid isPermaLink="false">4c14171e-8678-47d1-b807-333a80c70271</guid>
+            <pubDate>Sun, 20 Mar 2016 14:12:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
