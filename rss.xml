@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 14:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 14:13:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,10 +72,10 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LabShare Blog Section]]></title>
-            <description><![CDATA[<article><h1>LabShare Blog Section</h1><p>We deliver excellent engineering companies for your Organization</p></article>]]></description>
-            <link>http://www.labsharegroup.com/blog</link>
-            <guid isPermaLink="false">4c14171e-8678-47d1-b807-333a80c70271</guid>
+            <title><![CDATA[LabShare home - engineering services capacity management]]></title>
+            <description><![CDATA[<article><h1>LabShare home - engineering services capacity management</h1><p>B2B sourcing and capacity optimization tool</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5f844e3aec99c4921abfa2abcc01e0d28e14808.jpg"></article>]]></description>
+            <link>http://www.labsharegroup.com/</link>
+            <guid isPermaLink="false">51eae422-062c-4dea-b48b-5d923b3a1cd6</guid>
             <pubDate>Sun, 20 Mar 2016 14:12:53 GMT</pubDate>
         </item>
     </channel>
