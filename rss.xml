@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 10:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 10:26:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,10 +72,10 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Find Reliable Manufacturers in China Part 2: How to approach and work with a factory]]></title>
-            <description><![CDATA[<article><h1>How to Find Reliable Manufacturers in China Part 2: How to approach and work with a factory</h1><p>The majority of employees at manufacturing companies are engineers. Most ODM/OEM companies have no products of their own, therefore the sales and marketing departments are very small. They are not selling products, but instead their services, so their "sales pitch" will be their production and engineering capabilities, scalability, quality, and compliances, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a9058c4fe9cab91a672c315eff4afbf92db972c.jpg"></article>]]></description>
-            <link>http://blog.hwtrek.stfi.re/how-to-find-reliable-manufacturers-in-china-part-2-how-to-approach-and-work-with-a-factory/?sf=ldjlno</link>
-            <guid isPermaLink="false">6e687ae0-1e44-4c35-868a-f17328bddb37</guid>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Launch Academy - The Definitive Guide to Launching Your Hardware Startup</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/320249492e6f75a3bef5ce821e8b551e3fd02cd5.jpg"></article>]]></description>
+            <link>http://hackathon.pchintl.com/launch-academy/welcome</link>
+            <guid isPermaLink="false">4254c80a-bda6-4d58-9b9f-3575bfac8111</guid>
             <pubDate>Wed, 23 Mar 2016 10:25:41 GMT</pubDate>
         </item>
     </channel>
