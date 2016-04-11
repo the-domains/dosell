@@ -4,7 +4,7 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 15:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 07:56:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
@@ -72,11 +72,11 @@ software development in the age of IoT, Smart Things, embedded applications</h1>
             <pubDate>Sun, 31 Jan 2016 11:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a VR App in 14 Days - AOL Alpha]]></title>
-            <description><![CDATA[<article><h1>Building a VR App in 14 Days - AOL Alpha</h1><p>A Designer's First Time Building with Unity3D At AOL Alpha we constantly explore new and emerging platforms. One of the hottest new platforms is Virtual Reality so we've begun to experiment with experiences for VR. I was excited about this new prospect, so I spent some down time between other projects researching VR design using Unity3D engine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf80ba24851663180b41c8b0f6851a949bd66a0.png"></article>]]></description>
-            <link>http://medium.stfi.re/aol-alpha/building-a-vr-app-in-14-days-f65eac3c39c4?sf=wrlzep#.tgjgapf3q</link>
-            <guid isPermaLink="false">1baae159-282d-4544-a315-fa5cbd490cf6</guid>
-            <pubDate>Thu, 31 Mar 2016 15:03:47 GMT</pubDate>
+            <title><![CDATA[How to deal with IoT challenges through abstraction]]></title>
+            <description><![CDATA[<article><h1>How to deal with IoT challenges through abstraction</h1><p>The Internet of Things (IoT) is one of the fastest-growing sectors of the tech industry. Yet the way IoT is evolving raises serious concerns: There are too many complexities, moving parts, diversities and competing trends and technologies that must be managed when developing IoT solutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c384ab31c5cad9f47709561d9ea31230d1b469e.jpg"></article>]]></description>
+            <link>http://techcrunch.stfi.re/2016/04/06/how-to-deal-with-iot-challenges-through-abstraction/?ncid=rss&amp;sf=rvxnvj</link>
+            <guid isPermaLink="false">bc3eb666-d52e-4ec4-98d3-014d82665b18</guid>
+            <pubDate>Mon, 11 Apr 2016 07:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
