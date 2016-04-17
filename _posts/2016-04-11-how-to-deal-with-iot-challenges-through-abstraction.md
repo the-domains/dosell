@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://techcrunch.stfi.re'
   name: TechCrunch
-  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
   domain: techcrunch.stfi.re
+  url: 'http://techcrunch.stfi.re'
+  favicon: 'https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico'
 keywords:
   - iot
   - devices
@@ -29,13 +29,15 @@ app_links:
     type: android
 isBasedOnUrl: 'http://techcrunch.stfi.re/2016/04/06/how-to-deal-with-iot-challenges-through-abstraction/?ncid=rss&sf=rvxnvj'
 title: How to deal with IoT challenges through abstraction
-datePublished: '2016-04-11T07:55:38.547Z'
-dateModified: '2016-04-07T08:38:11.652Z'
+datePublished: '2016-04-17T16:05:43.206Z'
+dateModified: '2016-04-17T16:05:28.739Z'
 sourcePath: _posts/2016-04-11-how-to-deal-with-iot-challenges-through-abstraction.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
