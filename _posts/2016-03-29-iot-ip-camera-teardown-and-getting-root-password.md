@@ -9,10 +9,10 @@ related:
     thumbnail_url: 'https://secure.gravatar.com/avatar/f35d391becee38736b67d4423885cea7?s=60&d=mm&r=pg'
     thumbnail_width: 60
 publisher:
-  url: 'http://jelmertiete.stfi.re'
   name: Jelmer Tiete
-  favicon: null
   domain: jelmertiete.stfi.re
+  url: 'http://jelmertiete.stfi.re'
+  favicon: null
 keywords:
   - cameras
   - login
@@ -29,13 +29,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://jelmertiete.stfi.re/2016/03/14/IoT-IP-camera-teardown-and-getting-root-password/?sf=wrrpje'
 title: IoT IP camera teardown and getting root password
-datePublished: '2016-03-29T13:19:19.731Z'
-dateModified: '2016-03-29T13:11:46.152Z'
+datePublished: '2016-04-17T16:06:06.016Z'
+dateModified: '2016-04-17T16:05:56.277Z'
 sourcePath: _posts/2016-03-29-iot-ip-camera-teardown-and-getting-root-password.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
