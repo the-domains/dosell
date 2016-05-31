@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'looking for audited, hand-picked '
-datePublished: '2016-05-31T09:03:49.401Z'
-dateModified: '2016-05-31T09:03:42.608Z'
-title: 'made for business executives '
+description: 'looking for audited, hand-picked'
+datePublished: '2016-05-31T09:04:45.568Z'
+dateModified: '2016-05-31T09:03:55.962Z'
+title: made for business executives
 author: []
+sourcePath: _posts/2016-05-31-made-for-business-executives.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-made-for-business-executives.md
 url: made-for-business-executives/index.html
 _type: Article
 
