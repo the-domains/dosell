@@ -4,8 +4,15 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 09:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 09:15:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hardware Startup | Technology Venture | Technology Company]]></title>
+            <description><![CDATA[<article><h1>Hardware Startup | Technology Venture | Technology Company</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c95544-c59a-482e-9f8f-a319af1cb3d2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dosell/hardware-startup-or-technology-venture-or-technology-company/index.html</link>
+            <guid isPermaLink="false">98e27ce5-5bdc-4e9d-8596-6947becde964</guid>
+            <pubDate>Tue, 31 May 2016 09:15:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[made forbusiness executives]]></title>
             <description><![CDATA[<article><h1>made forbusiness executives</h1><h2>EXCLUSIVE DEALS & INNOVATIONS</h2><p>looking for audited, hand-picked</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.invisionapp.com/building-working-prototypes-without-code/</link>
             <guid isPermaLink="false">fa1dd685-5905-4825-b4aa-b86b102e547c</guid>
             <pubDate>Sat, 13 Feb 2016 15:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Step-by-Step Guide to Creating Effective User Journey Maps]]></title>
-            <description><![CDATA[<article><h1>A Step-by-Step Guide to Creating Effective User Journey Maps</h1><p>In a world where you can reach your customers in so many different ways, how can you ensure consistently high levels of user experience across all of those channels? That's a really daunting task. It requires a smooth and effective communication between multiple departments and a clear strategy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94e2eedc431081429c754f4c1022fd87bdc0accb.jpg"></article>]]></description>
-            <link>https://webdesignviews.com/step-step-guide-creating-effective-user-journey-maps/?utm_campaign=Submission&amp;utm_medium=Community&amp;utm_source=GrowthHackers.com</link>
-            <guid isPermaLink="false">a0f927ec-16e3-4cf2-a7f6-532434503ba0</guid>
-            <pubDate>Sat, 13 Feb 2016 14:59:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
