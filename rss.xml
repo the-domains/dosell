@@ -4,8 +4,15 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 07:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 07:55:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Transformation in Security]]></title>
+            <description><![CDATA[<article><h1>Digital Transformation in Security</h1><p>Thales is working to harden the defenses of enterprises like these. Hardware security modules (HSMs) provide a tamper-resistant environment for secure cryptographic processing, key protection, and key management. These devices allow the deployment of high-assurance security solutions that satisfy established and emerging standards of due care for cryptographic systems and practices - while also maintaining high levels of operational efficiency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c288c5adb05fa7c469759eb783067fda/noop.jpg?input=https%3A%2F%2Fwww.thalesgroup.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcommon_cards_list_image%2Fpublic%2Fassets%2Fimages%2Fdtwebimage.jpg%3Fitok%3D3pNJ8b62"></article>]]></description>
+            <link>https://www.thalesgroup.com/en/worldwide/magazine/digital-transformation-security</link>
+            <guid isPermaLink="false">005a7065-89bb-44a5-9f40-655183833cf6</guid>
+            <pubDate>Thu, 07 Jul 2016 07:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital investment predictions for 2016 - raconteur.net]]></title>
             <description><![CDATA[<article><h1>Digital investment predictions for 2016 - raconteur.net</h1><p>Last year analysts Pivotl iQ predicted an upswing in venture capital investment in financial technology, but didn't expect quite such an explosion. Total investment hit $7.3 billion in 2015 compared with $4.1 billion the previous year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4db31ed64c5108aacadf3f15ba824295/noop.jpg?input=http%3A%2F%2Fraconteur.net%2Fadmin%2F..%2Fpublic%2Fimg%2Farticles%2F2016%2F01%2Ftop-100-digital-venture-capital-deals-360x203.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.frogdesign.com/work/lqd-palo.html</link>
             <guid isPermaLink="false">e27c1f63-08af-4837-a8fa-e968841383fc</guid>
             <pubDate>Sat, 13 Feb 2016 15:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc86a229bdaa0d96e20f5f102b433fa8a91fe6a1.jpg" alt="" title="">]]></description>
-            <link>http://www.frogdesign.com/work/lqd-palo.html</link>
-            <guid isPermaLink="false">b78f7c86-bbe1-46dd-bdbf-41ea16712d6b</guid>
-            <pubDate>Sat, 13 Feb 2016 15:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
