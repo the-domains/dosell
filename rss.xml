@@ -4,8 +4,15 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 09:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 07:54:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital investment predictions for 2016 - raconteur.net]]></title>
+            <description><![CDATA[<article><h1>Digital investment predictions for 2016 - raconteur.net</h1><p>Last year analysts Pivotl iQ predicted an upswing in venture capital investment in financial technology, but didn't expect quite such an explosion. Total investment hit $7.3 billion in 2015 compared with $4.1 billion the previous year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4db31ed64c5108aacadf3f15ba824295/noop.jpg?input=http%3A%2F%2Fraconteur.net%2Fadmin%2F..%2Fpublic%2Fimg%2Farticles%2F2016%2F01%2Ftop-100-digital-venture-capital-deals-360x203.jpg"></article>]]></description>
+            <link>http://raconteur.net/business/digital-investment-predictions-for-2016</link>
+            <guid isPermaLink="false">77facfaa-f615-4253-82e7-bfd62f7490a3</guid>
+            <pubDate>Thu, 07 Jul 2016 07:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hardware Startup | Technology Venture | Technology Company]]></title>
             <description><![CDATA[<article><h1>Hardware Startup | Technology Venture | Technology Company</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c95544-c59a-482e-9f8f-a319af1cb3d2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.frogdesign.com/work/lqd-palo.html</link>
             <guid isPermaLink="false">b78f7c86-bbe1-46dd-bdbf-41ea16712d6b</guid>
             <pubDate>Sat, 13 Feb 2016 15:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building working prototypes without code - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>Building working prototypes without code - InVision Blog</h1><p>An idea might come in a flash, but turning it into an actual product with customers and revenue takes time-and a lot of it. That's why we hosted a webinar with Wade Foster, Co-founder and CEO of Zapier, on how to turn your idea into a working prototype without any code , getting you to version 0.1 much faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/028de727812d36bc52c195c3a3882b142c7bd1d0.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.com/building-working-prototypes-without-code/</link>
-            <guid isPermaLink="false">fa1dd685-5905-4825-b4aa-b86b102e547c</guid>
-            <pubDate>Sat, 13 Feb 2016 15:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
