@@ -4,8 +4,22 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 07:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 07:55:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Automotive cybersecurity; what we don't hack will be used to kill us]]></title>
+            <description><![CDATA[<article><h1>Automotive cybersecurity; what we don't hack will be used to kill us</h1><p>Car hacking is not only a "thing" but it's also a thing that's in its early days and because there's the potential for exploits with serious and quite possibly life-threatening consequences, automotive cybersecurity is something we should all be very concerned about.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afe43d915334b5afa663fd8360584338/noop.jpg?input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F07%2Fjeep_cherokee_kl_3200cc_registered_july_2014-100669751-large.idge.jpg"></article>]]></description>
+            <link>http://www.networkworld.com/article/3091126/security/automotive-cybersecurity-what-we-dont-hack-will-probably-be-used-to-kill-us.html</link>
+            <guid isPermaLink="false">40b4edc1-5a2e-4a47-8c06-0eb2db710ee8</guid>
+            <pubDate>Thu, 07 Jul 2016 07:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Smart, Connected Products Are Transforming Companies]]></title>
+            <description><![CDATA[<article><h1>How Smart, Connected Products Are Transforming Companies</h1><p>Idea in Brief A Radical Shift Smart, connected products are forcing companies to redefine their industries and rethink nearly everything they do, beginning with their strategies. This article, the second in a two-part series, focuses on the impact of these products on companies' operations and organizational structure.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48e1b9b8150d37098aac02b262edeb50/croprotate.jpg?cropheight=939&cropwidth=2000&degrees=0&input=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Farticle_assets%2F2015%2F09%2FR1510G_LABROOY.jpg&x=0&y=0"></article>]]></description>
+            <link>https://hbr.org/2015/10/how-smart-connected-products-are-transforming-companies?utm_campaign=harvardbiz&amp;utm_source=twitter&amp;utm_medium=social</link>
+            <guid isPermaLink="false">6f73203c-efb7-4673-9780-e2c2b41899af</guid>
+            <pubDate>Thu, 07 Jul 2016 07:55:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Transformation in Security]]></title>
             <description><![CDATA[<article><h1>Digital Transformation in Security</h1><p>Thales is working to harden the defenses of enterprises like these. Hardware security modules (HSMs) provide a tamper-resistant environment for secure cryptographic processing, key protection, and key management. These devices allow the deployment of high-assurance security solutions that satisfy established and emerging standards of due care for cryptographic systems and practices - while also maintaining high levels of operational efficiency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c288c5adb05fa7c469759eb783067fda/noop.jpg?input=https%3A%2F%2Fwww.thalesgroup.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcommon_cards_list_image%2Fpublic%2Fassets%2Fimages%2Fdtwebimage.jpg%3Fitok%3D3pNJ8b62"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.technologyreview.stfi.re/s/545616/cybersecurity-the-age-of-the-megabreach/?sf=kldabx</link>
             <guid isPermaLink="false">fcf12703-1eb9-4d1f-99ce-94617cd8ec1f</guid>
             <pubDate>Sat, 13 Feb 2016 15:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How digital technologies including IoT are transforming the global postal industry]]></title>
-            <description><![CDATA[<article><h1>How digital technologies including IoT are transforming the global postal industry</h1><p>Postal and courier services around the world could be substantially reimagined thanks to the latest digital technology, as pilot applications are beginning to demonstrate. Emerging applications promise to remove a whole range of logistical issues for both delivery companies and customers, while paving the way for new value-added services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26051a4ff297a9bdb13147c199d6b9b17ed13371.jpg"></article>]]></description>
-            <link>http://newsroom.cisco.com/feature-content?type=webcontent&amp;articleId=1716381</link>
-            <guid isPermaLink="false">a77f53d6-1946-49f1-9c75-2a2e7963d196</guid>
-            <pubDate>Sat, 13 Feb 2016 15:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LQD PALO | frogdesign.com]]></title>
-            <description><![CDATA[<article><h1>LQD PALO | frogdesign.com</h1><p>Palo connects people to essential information, resources and safety by offering free wifi, information on nearby attractions, restaurants, retail and events, volunteering opportunities and community groups, public service announcements, maps and way finding, emergency alerts, meeting points and taxi beacons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82a22db665e122c633269dd71680771705bfa293.jpg"></article>]]></description>
-            <link>http://www.frogdesign.com/work/lqd-palo.html</link>
-            <guid isPermaLink="false">e27c1f63-08af-4837-a8fa-e968841383fc</guid>
-            <pubDate>Sat, 13 Feb 2016 15:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
