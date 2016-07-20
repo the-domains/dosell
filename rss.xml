@@ -4,8 +4,15 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 10:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 08:48:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GE Transportation launches GoLINC platform enhancements]]></title>
+            <description><![CDATA[<article><h1>GE Transportation launches GoLINC platform enhancements</h1><p>I've been with GE for a long time, and I've been lucky enough to spend a big part of this past year working on an exciting project unlike any other I've experienced in 22 years. It actually keeps me up at night thinking about its potential. I know...I know...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6f94061242a9ca764b5bf4a82eafdd3/noop.png?input=http%3A%2F%2Fmedia.getransportation.com%2Fsites%2Fdefault%2Ffiles%2Fpictures%2FGE-Transportation-GoLINC-infographic.png"></article>]]></description>
+            <link>http://www.getransportation.com/blog/ge-transportation-launches-golinc-platform-enhancements?_lrsc=fe52ecd8-b6dd-40d4-be5f-9080f4f54779&amp;utm_source=linkedin&amp;utm_medium=elevate&amp;src=linkedin-elevate</link>
+            <guid isPermaLink="false">8f67e1d2-3104-496a-aa12-c58509bc531d</guid>
+            <pubDate>Wed, 20 Jul 2016 08:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Automotive cybersecurity; what we don't hack will be used to kill us]]></title>
             <description><![CDATA[<article><h1>Automotive cybersecurity; what we don't hack will be used to kill us</h1><p>Car hacking is not only a "thing" but it's also a thing that's in its early days and because there's the potential for exploits with serious and quite possibly life-threatening consequences, automotive cybersecurity is something we should all be very concerned about.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afe43d915334b5afa663fd8360584338/noop.jpg?input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F07%2Fjeep_cherokee_kl_3200cc_registered_july_2014-100669751-large.idge.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.stfi.re/2016/04/06/how-to-deal-with-iot-challenges-through-abstraction/?ncid=rss&amp;sf=rvxnvj</link>
             <guid isPermaLink="false">bc3eb666-d52e-4ec4-98d3-014d82665b18</guid>
             <pubDate>Sun, 17 Apr 2016 16:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cybersecurity: The Age of the Megabreach]]></title>
-            <description><![CDATA[<article><h1>Cybersecurity: The Age of the Megabreach</h1><p>We haven't stopped huge breaches. The focus now is on resilience, with smarter ways to detect attacks and faster ways to respond to them. Download PDF Download PDF In November 2014, an especially chilling cyberattack shook the corporate world-something that went far beyond garden-variety theft of credit card numbers from a big-box store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a9994fdb67280d7771787bc236eff27250ad46f.jpg"></article>]]></description>
-            <link>http://www.technologyreview.stfi.re/s/545616/cybersecurity-the-age-of-the-megabreach/?sf=kldabx</link>
-            <guid isPermaLink="false">fcf12703-1eb9-4d1f-99ce-94617cd8ec1f</guid>
-            <pubDate>Sat, 13 Feb 2016 15:04:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
