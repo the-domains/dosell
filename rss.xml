@@ -4,8 +4,15 @@
         <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
         <link>https://thegrid.ai/dosell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 08:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 07:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An interactive exploration of stories from around the globe]]></title>
+            <description><![CDATA[<article><h1>An interactive exploration of stories from around the globe</h1><p>Discover how innovations are moving the economy forward in Brazil, China, India, and beyond. Powered by @generalelectric, created by Quartz Marketing</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2f281d0bfacd1b8ea0007bb901a8c56/noop.jpg?input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2015%2F04%2Fge-wim-fb.jpg%3Fquality%3D80%26strip%3Dall%26w%3D1200"></article>]]></description>
+            <link>http://qz.com/384580/world-in-motion/?sr_source=lift_facebook&amp;_lrsc=5e88826b-f633-438e-950e-48f45ed13eec&amp;utm_source=linkedin&amp;utm_medium=elevate&amp;src=linkedin-elevate</link>
+            <guid isPermaLink="false">f4722d43-4fb0-4f9e-a484-d16614886891</guid>
+            <pubDate>Fri, 22 Jul 2016 07:15:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 ways cities can overcome barriers to energy efficiency]]></title>
             <description><![CDATA[<article><h1>3 ways cities can overcome barriers to energy efficiency</h1><p>Cities have more potential than ever to implement significant enhancements in energy efficiency, thereby reducing greenhouse gas emissions at a time when climate change risk tops global agendas. However, urban areas in the United States face major impediments to some of the most effective energy-saving strategies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/88dcea09de79f136d89887e1c1b78ff9/noop.jpg?input=https%3A%2F%2Fwww.greenbiz.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fpanopoly_image_full%2Fpublic%2Fimages%2Farticles%2Ffeatured%2Fcity_melpomene_shutterstock.jpg%3Fitok%3DnW4LzpYy"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dosell/engineering-service-platform/index.html</link>
             <guid isPermaLink="false">d03da0d5-2b2f-44bd-9d18-9fc7715e0f6b</guid>
             <pubDate>Tue, 31 May 2016 06:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IoT IP camera teardown and getting root password]]></title>
-            <description><![CDATA[<article><h1>IoT IP camera teardown and getting root password</h1><p>This post will describe how I inspected the IP traffic of a cheap pan/tilt IP camera. Then continued to open the camera up, connect to the serial console of the SoC; extracted the root password and logged in via telnet over the wireless interface.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6a9f3e29a91c1511b31f5b3abf2b64fd85d6535.jpg"></article>]]></description>
-            <link>http://jelmertiete.stfi.re/2016/03/14/IoT-IP-camera-teardown-and-getting-root-password/?sf=wrrpje</link>
-            <guid isPermaLink="false">8ec30c30-b6f3-415a-8da2-b2c6538dc1ce</guid>
-            <pubDate>Sun, 17 Apr 2016 16:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
