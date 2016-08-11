@@ -19,11 +19,15 @@ analytics:
   google: UA-71835463-1
   facebook: null
   twitter: null
-name: 'DoSell Blog '
+name: 'DoSell Open Innovation Blog '
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Open Innovation Platform
+    url: 'http://www.labsharegroup.com/'
+    type: external
 favicon: null
 title: 'News, Trends, Insights of Engineering, IoT, software security ...'
 purpose: []
