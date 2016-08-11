@@ -1,20 +1,20 @@
-typography_spectrum: 0.37233693548478186
+typography_spectrum: 0.460304
 color:
   brandColors:
-    - '#AFA59B'
-    - '#FFFFFF'
-    - '#37342D'
+    - '#E8E8E0'
     - '#000000'
-    - '#8C0000'
-  brandStrength: 0.29457573569379747
-  lightness: 0.2161838235333562
-  saturation: 0.6489539965987206
-  rhythmicContrast: 0.46642489614896476
+    - '#788078'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.25
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.6901410014834255
+layout_spectrum: 0.121622
 analytics:
   google: UA-71835463-1
   facebook: null
@@ -33,4 +33,5 @@ navigation:
     type: external
 favicon: null
 title: 'News, Trends, Insights of Engineering, IoT, software security ...'
+description: Open Innovation
 purpose: []
