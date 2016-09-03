@@ -35,7 +35,8 @@ navigation:
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4597a850-50b2-41dc-aa6b-d996b9dbdc5a.jpg
 title: 'News, Trends, Insights of Engineering, IoT, software security ...'
 description: Open Innovation
 purpose: []
