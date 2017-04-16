@@ -1,42 +1,129 @@
-typography_spectrum: 0.6617070229258388
+layout_spectrum: 0.9467688631871254
+typography_spectrum: 0.5432717873282399
 color:
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.4254384932573885
-  lightness: 0.6903104947414249
-  saturation: 0.3633734395261854
-  rhythmicContrast: 0.8015583164524287
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.05745172925883591
+  lightness: 0.8231927608363883
+  saturation: 0.24455892379487873
+  rhythmicContrast: 0.9604728489905817
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.07830087724141777
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f317b41-c1ce-4230-b0c1-8fffedc43688.jpg
 analytics:
   google: UA-71835463-1
-  facebook: null
-  twitter: null
 author:
   name: Tibor Zahorecz
-  email: tibor.zahorecz@dosell.io
   url: 'http://www.labsharegroup.com/'
-name: 'DoSell Open Innovation Blog '
-cta:
-  domain: null
-  bucket: null
-  version: null
+  email: tibor.zahorecz@dosell.io
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b024bd24-b9ca-4c38-9e57-779dd26474d5.png
+name: LabShare Engineering Blog
+cta: {}
 navigation:
   - name: Open Innovation Platform
-    url: 'http://www.labsharegroup.com/'
+    url: 'https://www.labsharegroup.com/'
     type: external
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4597a850-50b2-41dc-aa6b-d996b9dbdc5a.jpg
-title: 'News, Trends, Insights of Engineering, IoT, software security ...'
-description: Open Innovation
-purpose: []
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4998a2b-9570-4ba6-8a57-74be5db2ec9a.png
+title: LabShare Engineering Blog
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FuFM4DaUotwg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuFM4DaUotwg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuFM4DaUotwg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: DoSell
+          url: 'https://www.youtube.com/channel/UCMSQTFDkisNiUKcI78zmZ5A'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - dosell
+        - labshare
+        - duration
+        - views
+        - sectio
+        - service
+        - engineering
+        - build
+        - '105'
+        - venture
+      description: introduction
+      inLanguage: en
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=uFM4DaUotwg'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=uFM4DaUotwg
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=uFM4DaUotwg
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=uFM4DaUotwg'
+      title: DoSell short
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Engineering, Software Security, Software Development'
+purpose:
+  - type: contact
+    url: 'mailto:tibor.zahorecz@dosell.io'
+    label: Contact me
+  - type: external
+    url: 'https://www.labsharegroup.com/'
+    label: Engineering Services
+github: true
