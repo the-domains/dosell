@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Apr 2017 07:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2017 07:37:06 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Apr 2017 07:36:22 GMT</pubDate>
+        <pubDate>Mon, 17 Apr 2017 07:36:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Microsoft Office Can Now Verify Docs on the Bitcoin Blockchain]]></title>
+            <description><![CDATA[<article><h1>Microsoft Office Can Now Verify Docs on the Bitcoin Blockchain</h1><p>Stampery, which provides verification of documents against both the Bitcoin and Ethereum blockchains, will be accessible for verifying emails without users leaving Outlook itself. &quot;Stampery provides this functionality today by creating hashes of documents submitted through the web and storing them on the Ethereum and Bitcoin public blockchains.</p><img src="http://bitcoinist.com/wp-content/uploads/2017/04/Optimized-shutterstock_616734464.jpg"></article>]]></description>
+            <link>http://bitcoinist.com/microsoft-verify-docs-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">abdfcf12-3805-4a8d-a03a-8772bd6ca3bb</guid>
+            <pubDate>Mon, 17 Apr 2017 07:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nvidia says deep learning is about to revolutionize medicine]]></title>
             <description><![CDATA[<article><h1>Nvidia says deep learning is about to revolutionize medicine</h1><p>The chip maker Nvidia is riding the current artificial-intelligence boom with hardware designed to power cutting-edge learning algorithms. And the company sees health care and medicine as the next big market for its technology. Kimberly Powell, who leads Nvidia&apos;s efforts in health care, says the company is working with medical researchers in a range of areas and will look to expand these efforts in coming years.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/kimpowell.jpg?cx=10&cy=0&cw=1982&ch=1114&sw=1200"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://venturebeat.com/2017/04/02/understanding-the-limits-of-deep-learning/</link>
             <guid isPermaLink="false">051946d5-1e16-4ab0-9e9c-98130a732d7e</guid>
             <pubDate>Tue, 04 Apr 2017 05:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to profit from the blockchain tech stack]]></title>
-            <description><![CDATA[<article><h1>How to profit from the blockchain tech stack</h1><p>If someone came to you in 1992 and said, &quot;Hey, there&apos;s this thing called the Internet. Let me explain how billions and billions of dollars of value are going to be created in entirely new business models,&quot; how would you have reacted? Well, maybe not, YOU, but most people?</p><img src="https://venturebeat.com/wp-content/uploads/2016/11/blockchain-2.jpg?fit=780%2C503&strip=all"></article>]]></description>
-            <link>https://venturebeat.com/2017/04/02/how-to-profit-from-the-blockchain-tech-stack/</link>
-            <guid isPermaLink="false">91e7ff7a-0d40-4c44-a953-2a428d55f0df</guid>
-            <pubDate>Tue, 04 Apr 2017 05:58:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
