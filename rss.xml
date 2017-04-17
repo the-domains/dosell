@@ -1,80 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></title>
-        <description><![CDATA[News, Trends, Insights of Engineering, IoT, software security ...]]></description>
-        <link>https://thegrid.ai/dosell/</link>
+        <title><![CDATA[LabShare Engineering Blog]]></title>
+        <description><![CDATA[LabShare Engineering Blog]]></description>
+        <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 16:50:09 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/dosell/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 17 Apr 2017 07:36:53 GMT</lastBuildDate>
+        <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 17 Apr 2017 07:36:22 GMT</pubDate>
         <item>
-            <title><![CDATA[An interactive exploration of stories from around the globe]]></title>
-            <description><![CDATA[<article><h1>An interactive exploration of stories from around the globe</h1><p>Discover how innovations are moving the economy forward in Brazil, China, India, and beyond. Powered by @generalelectric, created by Quartz Marketing</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2f281d0bfacd1b8ea0007bb901a8c56/noop.jpg?input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2015%2F04%2Fge-wim-fb.jpg%3Fquality%3D80%26strip%3Dall%26w%3D1200"></article>]]></description>
-            <link>http://qz.com/384580/world-in-motion/?sr_source=lift_facebook&amp;_lrsc=5e88826b-f633-438e-950e-48f45ed13eec&amp;utm_source=linkedin&amp;utm_medium=elevate&amp;src=linkedin-elevate</link>
-            <guid isPermaLink="false">f4722d43-4fb0-4f9e-a484-d16614886891</guid>
-            <pubDate>Fri, 22 Jul 2016 07:15:19 GMT</pubDate>
+            <title><![CDATA[Nvidia says deep learning is about to revolutionize medicine]]></title>
+            <description><![CDATA[<article><h1>Nvidia says deep learning is about to revolutionize medicine</h1><p>The chip maker Nvidia is riding the current artificial-intelligence boom with hardware designed to power cutting-edge learning algorithms. And the company sees health care and medicine as the next big market for its technology. Kimberly Powell, who leads Nvidia&apos;s efforts in health care, says the company is working with medical researchers in a range of areas and will look to expand these efforts in coming years.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/kimpowell.jpg?cx=10&cy=0&cw=1982&ch=1114&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/603917/nvidias-deep-learning-chips-may-give-medicine-a-shot-in-the-arm/?utm_content=bufferbb07c&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">163ba296-238f-4eea-8106-5ed05d6542b9</guid>
+            <pubDate>Mon, 17 Apr 2017 07:36:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3 ways cities can overcome barriers to energy efficiency]]></title>
-            <description><![CDATA[<article><h1>3 ways cities can overcome barriers to energy efficiency</h1><p>Cities have more potential than ever to implement significant enhancements in energy efficiency, thereby reducing greenhouse gas emissions at a time when climate change risk tops global agendas. However, urban areas in the United States face major impediments to some of the most effective energy-saving strategies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/88dcea09de79f136d89887e1c1b78ff9/noop.jpg?input=https%3A%2F%2Fwww.greenbiz.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fpanopoly_image_full%2Fpublic%2Fimages%2Farticles%2Ffeatured%2Fcity_melpomene_shutterstock.jpg%3Fitok%3DnW4LzpYy"></article>]]></description>
-            <link>https://www.greenbiz.com/article/how-cities-overcome-barriers-efficiency</link>
-            <guid isPermaLink="false">d9bc4857-b943-44ac-b41e-265d80fc5486</guid>
-            <pubDate>Wed, 20 Jul 2016 08:48:27 GMT</pubDate>
+            <title><![CDATA[15 venture capital funds to know if you're working on a machine intelligence startup]]></title>
+            <description><![CDATA[<article><h1>15 venture capital funds to know if you&apos;re working on a machine intelligence startup</h1><p>Major tech trends tend to draw lots of &quot;dumb money&quot; from investors and machine intelligence is no exception. Some will lose money on insignificant acquihires while others may survive long enough to see their investments die at the hands of open source.</p><img src="https://tctechcrunch2011.files.wordpress.com/2014/02/money.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>https://techcrunch.com/gallery/15-venture-capital-funds-to-know-if-youre-working-on-a-machine-intelligence-startup/</link>
+            <guid isPermaLink="false">f849fbc5-5780-4eb9-9bd1-2b007616f31f</guid>
+            <pubDate>Fri, 14 Apr 2017 06:44:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GE Transportation launches GoLINC platform enhancements]]></title>
-            <description><![CDATA[<article><h1>GE Transportation launches GoLINC platform enhancements</h1><p>I've been with GE for a long time, and I've been lucky enough to spend a big part of this past year working on an exciting project unlike any other I've experienced in 22 years. It actually keeps me up at night thinking about its potential. I know...I know...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6f94061242a9ca764b5bf4a82eafdd3/noop.png?input=http%3A%2F%2Fmedia.getransportation.com%2Fsites%2Fdefault%2Ffiles%2Fpictures%2FGE-Transportation-GoLINC-infographic.png"></article>]]></description>
-            <link>http://www.getransportation.com/blog/ge-transportation-launches-golinc-platform-enhancements?_lrsc=fe52ecd8-b6dd-40d4-be5f-9080f4f54779&amp;utm_source=linkedin&amp;utm_medium=elevate&amp;src=linkedin-elevate</link>
-            <guid isPermaLink="false">8f67e1d2-3104-496a-aa12-c58509bc531d</guid>
-            <pubDate>Wed, 20 Jul 2016 08:48:27 GMT</pubDate>
+            <title><![CDATA[There's a big problem with AI: even its creators can't explain how it works]]></title>
+            <description><![CDATA[<article><h1>There&apos;s a big problem with AI: even its creators can&apos;t explain how it works</h1><p>Last year, a strange self-driving car was released onto the quiet roads of Monmouth County, New Jersey. The experimental vehicle, developed by researchers at the chip maker Nvidia, didn&apos;t look different from other autonomous cars, but it was unlike anything demonstrated by Google, Tesla, or General Motors, and it showed the rising power of artificial intelligence.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/mj17-aiblackbox1.jpg?cx=0&cy=392&cw=1563&ch=879&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/</link>
+            <guid isPermaLink="false">94fbe6dd-aa59-4e21-a7c0-011fc986dfce</guid>
+            <pubDate>Tue, 11 Apr 2017 16:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Automotive cybersecurity; what we don't hack will be used to kill us]]></title>
-            <description><![CDATA[<article><h1>Automotive cybersecurity; what we don't hack will be used to kill us</h1><p>Car hacking is not only a "thing" but it's also a thing that's in its early days and because there's the potential for exploits with serious and quite possibly life-threatening consequences, automotive cybersecurity is something we should all be very concerned about.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afe43d915334b5afa663fd8360584338/noop.jpg?input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F07%2Fjeep_cherokee_kl_3200cc_registered_july_2014-100669751-large.idge.jpg"></article>]]></description>
-            <link>http://www.networkworld.com/article/3091126/security/automotive-cybersecurity-what-we-dont-hack-will-probably-be-used-to-kill-us.html</link>
-            <guid isPermaLink="false">40b4edc1-5a2e-4a47-8c06-0eb2db710ee8</guid>
-            <pubDate>Thu, 07 Jul 2016 07:55:20 GMT</pubDate>
+            <title><![CDATA[Robotics Nanodegree]]></title>
+            <description><![CDATA[<article><h1>Robotics Nanodegree</h1><p>Learn to build robotics software solutions for growing industries using techniques such as computer vision, machine learning, AI, and hardware actuation.</p><img src="https://d125fmws0bore1.cloudfront.net/assets/udacity_share-46db4b8faf075a5af5a1070a7fa0ad3639783609ff45f447e4ea467fe3aa9d32.png"></article>]]></description>
+            <link>https://www.udacity.com/robotics</link>
+            <guid isPermaLink="false">8c3fbeef-8a59-417f-8a0a-f333b40c3e02</guid>
+            <pubDate>Tue, 11 Apr 2017 16:05:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Smart, Connected Products Are Transforming Companies]]></title>
-            <description><![CDATA[<article><h1>How Smart, Connected Products Are Transforming Companies</h1><p>Idea in Brief A Radical Shift Smart, connected products are forcing companies to redefine their industries and rethink nearly everything they do, beginning with their strategies. This article, the second in a two-part series, focuses on the impact of these products on companies' operations and organizational structure.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48e1b9b8150d37098aac02b262edeb50/croprotate.jpg?cropheight=939&cropwidth=2000&degrees=0&input=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Farticle_assets%2F2015%2F09%2FR1510G_LABROOY.jpg&x=0&y=0"></article>]]></description>
-            <link>https://hbr.org/2015/10/how-smart-connected-products-are-transforming-companies?utm_campaign=harvardbiz&amp;utm_source=twitter&amp;utm_medium=social</link>
-            <guid isPermaLink="false">6f73203c-efb7-4673-9780-e2c2b41899af</guid>
-            <pubDate>Thu, 07 Jul 2016 07:55:19 GMT</pubDate>
+            <title><![CDATA[Blockchain]]></title>
+            <description><![CDATA[<article><h1>Blockchain</h1><p>Blockchain has been called &apos;the next generation of the internet&apos;, a powerful set of technologies forecasted to disrupt centuries-old systems of record-keeping. But what is it, how will it change the way we interact, and what does Airbus contribute to the new conversation in which the word on everyone&apos;s lips is &apos;trust&apos;?</p><img src="http://www.airbusgroup.com/dam/assets/airbusgroup/int/en/news-and-media/FORUM/FORUM-90/Blockchain/Forum-90-blockchain-chapter-intro.2017-03-09-17-40-17.jpg"></article>]]></description>
+            <link>http://www.airbusgroup.com/int/en/news-media/corporate-magazine/Forum-90/Blockchain.html</link>
+            <guid isPermaLink="false">ebb5e5d5-76f2-49ae-a673-a02580425ffd</guid>
+            <pubDate>Mon, 10 Apr 2017 05:55:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Digital Transformation in Security]]></title>
-            <description><![CDATA[<article><h1>Digital Transformation in Security</h1><p>Thales is working to harden the defenses of enterprises like these. Hardware security modules (HSMs) provide a tamper-resistant environment for secure cryptographic processing, key protection, and key management. These devices allow the deployment of high-assurance security solutions that satisfy established and emerging standards of due care for cryptographic systems and practices - while also maintaining high levels of operational efficiency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c288c5adb05fa7c469759eb783067fda/noop.jpg?input=https%3A%2F%2Fwww.thalesgroup.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcommon_cards_list_image%2Fpublic%2Fassets%2Fimages%2Fdtwebimage.jpg%3Fitok%3D3pNJ8b62"></article>]]></description>
-            <link>https://www.thalesgroup.com/en/worldwide/magazine/digital-transformation-security</link>
-            <guid isPermaLink="false">005a7065-89bb-44a5-9f40-655183833cf6</guid>
-            <pubDate>Thu, 07 Jul 2016 07:54:52 GMT</pubDate>
+            <title><![CDATA[Internet of Things Security Solutions - ForeScout]]></title>
+            <description><![CDATA[<article><h1>Internet of Things Security Solutions - ForeScout</h1><p>By 2020 there will be 30 billion connected devices-20 billion of which will be IoT devices that are prone to security attacks. Securing them will be key to your organization&apos;s success and it begins with agentless visibility. Before IoT there were 3.5X more devices than the number of employees in an organization With IoT that&apos;s expected to go up to 10X.</p><img src="https://www.forescout.com/wp-content/uploads/2016/10/header-banner-IoT.jpg"></article>]]></description>
+            <link>https://www.forescout.com/solutions/iot/</link>
+            <guid isPermaLink="false">be76edee-31c0-4271-a9b4-78dd56b20ee6</guid>
+            <pubDate>Mon, 10 Apr 2017 05:55:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Digital investment predictions for 2016 - raconteur.net]]></title>
-            <description><![CDATA[<article><h1>Digital investment predictions for 2016 - raconteur.net</h1><p>Last year analysts Pivotl iQ predicted an upswing in venture capital investment in financial technology, but didn't expect quite such an explosion. Total investment hit $7.3 billion in 2015 compared with $4.1 billion the previous year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4db31ed64c5108aacadf3f15ba824295/noop.jpg?input=http%3A%2F%2Fraconteur.net%2Fadmin%2F..%2Fpublic%2Fimg%2Farticles%2F2016%2F01%2Ftop-100-digital-venture-capital-deals-360x203.jpg"></article>]]></description>
-            <link>http://raconteur.net/business/digital-investment-predictions-for-2016</link>
-            <guid isPermaLink="false">77facfaa-f615-4253-82e7-bfd62f7490a3</guid>
-            <pubDate>Thu, 07 Jul 2016 07:54:52 GMT</pubDate>
+            <title><![CDATA[Implementing blockchain as a microservice for IoT platforms]]></title>
+            <description><![CDATA[<article><h1>Implementing blockchain as a microservice for IoT platforms</h1><p>This week at the Open Networking Summit 2017 in Santa Clara, the industry will meet to learn about the latest open source initiatives related to networking. Here is why there is good reason to include blockchain in that open source discussion. Blockchain and microservices have a lot in common.</p><img src="http://cloudpages.ericsson.com/hubfs/Media/Other_images_used_in_blog_posts/data_integrity_blockchain_Ericsson_IoT.png#keepProtocol"></article>]]></description>
+            <link>http://cloudblog.ericsson.com/blockchain-microservice-data-integrity-iot-platform</link>
+            <guid isPermaLink="false">f06f5e43-322f-483e-acce-6638a356d721</guid>
+            <pubDate>Thu, 06 Apr 2017 07:50:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hardware Startup | Technology Venture | Technology Company]]></title>
-            <description><![CDATA[<article><h1>Hardware Startup | Technology Venture | Technology Company</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c95544-c59a-482e-9f8f-a319af1cb3d2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/hardware-startup-or-technology-venture-or-technology-company/index.html</link>
-            <guid isPermaLink="false">98e27ce5-5bdc-4e9d-8596-6947becde964</guid>
-            <pubDate>Tue, 31 May 2016 09:15:51 GMT</pubDate>
+            <title><![CDATA[Using Blockchain to Keep Public Data Public]]></title>
+            <description><![CDATA[<article><h1>Using Blockchain to Keep Public Data Public</h1><p>Executive Summary Data is under attack. And it is the very leaders of our government and economy who are waging the war. They have made it acceptable to manipulate raw data in a way that benefits them financially or politically-and it has caused public confidence in the veracity of information to completely erode.</p><img src="https://hbr.org/resources/images/article_assets/2017/03/mar17-31-606981671.jpg"></article>]]></description>
+            <link>https://hbr.org/2017/03/using-blockchain-to-keep-public-data-public</link>
+            <guid isPermaLink="false">d2efe3e8-6787-495d-ba9f-8ae81da87bcc</guid>
+            <pubDate>Tue, 04 Apr 2017 05:58:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[made forbusiness executives]]></title>
-            <description><![CDATA[<article><h1>made forbusiness executives</h1><h2>EXCLUSIVE DEALS & INNOVATIONS</h2><p>looking for audited, hand-picked</p></article>]]></description>
-            <link>https://thegrid.ai/dosell/made-for-business-executives/index.html</link>
-            <guid isPermaLink="false">2ecc208d-a177-46a6-b167-da92d3c97f64</guid>
-            <pubDate>Tue, 31 May 2016 09:06:06 GMT</pubDate>
+            <title><![CDATA[Understanding the limits of deep learning]]></title>
+            <description><![CDATA[<article><h1>Understanding the limits of deep learning</h1><p>Artificial intelligence has reached peak hype. News outlets report that companies have replaced workers with IBM Watson and that algorithms are beating doctors at diagnoses. New AI startups pop up everyday, claiming to solve all your personal and business problems with machine learning.</p><img src="https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?fit=780%2C585&strip=all"></article>]]></description>
+            <link>https://venturebeat.com/2017/04/02/understanding-the-limits-of-deep-learning/</link>
+            <guid isPermaLink="false">051946d5-1e16-4ab0-9e9c-98130a732d7e</guid>
+            <pubDate>Tue, 04 Apr 2017 05:58:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Engineering Service Platform]]></title>
-            <description><![CDATA[<article><h1>Engineering Service Platform</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/837de46d-3193-4496-9784-99ac3ffb5c94.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dosell/engineering-service-platform/index.html</link>
-            <guid isPermaLink="false">d03da0d5-2b2f-44bd-9d18-9fc7715e0f6b</guid>
-            <pubDate>Tue, 31 May 2016 06:07:08 GMT</pubDate>
+            <title><![CDATA[How to profit from the blockchain tech stack]]></title>
+            <description><![CDATA[<article><h1>How to profit from the blockchain tech stack</h1><p>If someone came to you in 1992 and said, &quot;Hey, there&apos;s this thing called the Internet. Let me explain how billions and billions of dollars of value are going to be created in entirely new business models,&quot; how would you have reacted? Well, maybe not, YOU, but most people?</p><img src="https://venturebeat.com/wp-content/uploads/2016/11/blockchain-2.jpg?fit=780%2C503&strip=all"></article>]]></description>
+            <link>https://venturebeat.com/2017/04/02/how-to-profit-from-the-blockchain-tech-stack/</link>
+            <guid isPermaLink="false">91e7ff7a-0d40-4c44-a953-2a428d55f0df</guid>
+            <pubDate>Tue, 04 Apr 2017 05:58:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
