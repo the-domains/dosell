@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Apr 2017 07:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2017 06:18:37 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Apr 2017 07:36:54 GMT</pubDate>
+        <pubDate>Tue, 18 Apr 2017 06:17:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Connected car report 2016: Opportunities, risk, and turmoil on the road to autonomous vehicles]]></title>
+            <description><![CDATA[<article><h1>Connected car report 2016: Opportunities, risk, and turmoil on the road to autonomous vehicles</h1><p>The race to build the fully connected car, and ultimately the completely autonomous vehicle, is already underway. Who will cross the finish line successfully - and where exactly that finish line is - remains to be seen.</p><img src="https://www.strategyand.pwc.com/media/image/exhibit01_Connected-car-report-2016-670.jpg"></article>]]></description>
+            <link>https://www.strategyand.pwc.com/reports/connected-car-2016-study</link>
+            <guid isPermaLink="false">e8637144-3872-446d-a0ba-3c72c1f0ed9c</guid>
+            <pubDate>Tue, 18 Apr 2017 06:17:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft Office Can Now Verify Docs on the Bitcoin Blockchain]]></title>
             <description><![CDATA[<article><h1>Microsoft Office Can Now Verify Docs on the Bitcoin Blockchain</h1><p>Stampery, which provides verification of documents against both the Bitcoin and Ethereum blockchains, will be accessible for verifying emails without users leaving Outlook itself. &quot;Stampery provides this functionality today by creating hashes of documents submitted through the web and storing them on the Ethereum and Bitcoin public blockchains.</p><img src="http://bitcoinist.com/wp-content/uploads/2017/04/Optimized-shutterstock_616734464.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hbr.org/2017/03/using-blockchain-to-keep-public-data-public</link>
             <guid isPermaLink="false">d2efe3e8-6787-495d-ba9f-8ae81da87bcc</guid>
             <pubDate>Tue, 04 Apr 2017 05:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding the limits of deep learning]]></title>
-            <description><![CDATA[<article><h1>Understanding the limits of deep learning</h1><p>Artificial intelligence has reached peak hype. News outlets report that companies have replaced workers with IBM Watson and that algorithms are beating doctors at diagnoses. New AI startups pop up everyday, claiming to solve all your personal and business problems with machine learning.</p><img src="https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?fit=780%2C585&strip=all"></article>]]></description>
-            <link>https://venturebeat.com/2017/04/02/understanding-the-limits-of-deep-learning/</link>
-            <guid isPermaLink="false">051946d5-1e16-4ab0-9e9c-98130a732d7e</guid>
-            <pubDate>Tue, 04 Apr 2017 05:58:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
