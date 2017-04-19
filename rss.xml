@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Apr 2017 06:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2017 07:30:12 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Apr 2017 06:17:41 GMT</pubDate>
+        <pubDate>Wed, 19 Apr 2017 07:28:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Facebook for Mobile]]></title>
+            <description><![CDATA[<article><h1>Facebook for Mobile</h1><p>Udacity and Facebook now offer classes that teach you how to add the features your app needs to succeed.</p><img src="https://d125fmws0bore1.cloudfront.net/assets/udacity_share-46db4b8faf075a5af5a1070a7fa0ad3639783609ff45f447e4ea467fe3aa9d32.png"></article>]]></description>
+            <link>https://www.udacity.com/partner/facebook?utm_medium=email&amp;utm_campaign=2017-04-18_fb_iosandandroid_courselaunch&amp;utm_source=blueshift&amp;utm_content=2017-04-18_f8_iosandandroid_courselaunch&amp;bsft_eid=6b0fa837-eea8-450a-ac36-b0917fa083b2&amp;bsft_clkid=8c0b9430-1016-4585-a361-42611432211f&amp;bsft_uid=c40af0e5-a142-49fc-b7c9-e317c20fa804&amp;bsft_mid=00148b17-af32-4934-b514-23c165db3554#design</link>
+            <guid isPermaLink="false">74760e85-2c35-4f68-a748-c640af4aafbd</guid>
+            <pubDate>Wed, 19 Apr 2017 07:28:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Connected car report 2016: Opportunities, risk, and turmoil on the road to autonomous vehicles]]></title>
             <description><![CDATA[<article><h1>Connected car report 2016: Opportunities, risk, and turmoil on the road to autonomous vehicles</h1><p>The race to build the fully connected car, and ultimately the completely autonomous vehicle, is already underway. Who will cross the finish line successfully - and where exactly that finish line is - remains to be seen.</p><img src="https://www.strategyand.pwc.com/media/image/exhibit01_Connected-car-report-2016-670.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://cloudblog.ericsson.com/blockchain-microservice-data-integrity-iot-platform</link>
             <guid isPermaLink="false">f06f5e43-322f-483e-acce-6638a356d721</guid>
             <pubDate>Thu, 06 Apr 2017 07:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Blockchain to Keep Public Data Public]]></title>
-            <description><![CDATA[<article><h1>Using Blockchain to Keep Public Data Public</h1><p>Executive Summary Data is under attack. And it is the very leaders of our government and economy who are waging the war. They have made it acceptable to manipulate raw data in a way that benefits them financially or politically-and it has caused public confidence in the veracity of information to completely erode.</p><img src="https://hbr.org/resources/images/article_assets/2017/03/mar17-31-606981671.jpg"></article>]]></description>
-            <link>https://hbr.org/2017/03/using-blockchain-to-keep-public-data-public</link>
-            <guid isPermaLink="false">d2efe3e8-6787-495d-ba9f-8ae81da87bcc</guid>
-            <pubDate>Tue, 04 Apr 2017 05:58:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
