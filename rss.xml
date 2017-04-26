@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Apr 2017 07:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2017 07:07:50 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Apr 2017 07:28:25 GMT</pubDate>
+        <pubDate>Wed, 26 Apr 2017 07:07:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[A New Wireless Hack Can Unlock 100 Million Volkswagens]]></title>
+            <description><![CDATA[<article><h1>A New Wireless Hack Can Unlock 100 Million Volkswagens</h1><p>In 2013, when University of Birmingham computer scientist Flavio Garcia and a team of researchers were preparing to reveal a vulnerability that allowed them to start the ignition of millions of Volkswagen cars and drive them off without a key, they were hit with a lawsuit that delayed the publication of their research for two years.</p><img src="https://assets.wired.com/photos/w_2064/wp-content/uploads/2016/08/VolkswagenTA-584022388.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/08/oh-good-new-hack-can-unlock-100-million-volkswagens</link>
+            <guid isPermaLink="false">49ddebb2-cad8-455e-8b59-5c58000151bb</guid>
+            <pubDate>Wed, 26 Apr 2017 07:07:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook for Mobile]]></title>
             <description><![CDATA[<article><h1>Facebook for Mobile</h1><p>Udacity and Facebook now offer classes that teach you how to add the features your app needs to succeed.</p><img src="https://d125fmws0bore1.cloudfront.net/assets/udacity_share-46db4b8faf075a5af5a1070a7fa0ad3639783609ff45f447e4ea467fe3aa9d32.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.forescout.com/solutions/iot/</link>
             <guid isPermaLink="false">be76edee-31c0-4271-a9b4-78dd56b20ee6</guid>
             <pubDate>Mon, 10 Apr 2017 05:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Implementing blockchain as a microservice for IoT platforms]]></title>
-            <description><![CDATA[<article><h1>Implementing blockchain as a microservice for IoT platforms</h1><p>This week at the Open Networking Summit 2017 in Santa Clara, the industry will meet to learn about the latest open source initiatives related to networking. Here is why there is good reason to include blockchain in that open source discussion. Blockchain and microservices have a lot in common.</p><img src="http://cloudpages.ericsson.com/hubfs/Media/Other_images_used_in_blog_posts/data_integrity_blockchain_Ericsson_IoT.png#keepProtocol"></article>]]></description>
-            <link>http://cloudblog.ericsson.com/blockchain-microservice-data-integrity-iot-platform</link>
-            <guid isPermaLink="false">f06f5e43-322f-483e-acce-6638a356d721</guid>
-            <pubDate>Thu, 06 Apr 2017 07:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
