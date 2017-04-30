@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 26 Apr 2017 07:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2017 06:44:23 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Apr 2017 07:07:42 GMT</pubDate>
+        <pubDate>Sun, 30 Apr 2017 06:44:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[Is the manufacturing industry ready for the fourth industrial revolution?]]></title>
+            <description><![CDATA[<article><h1>Is the manufacturing industry ready for the fourth industrial revolution?</h1><p>First came steam and water power, then electricity and assembly lines, and then computerisation. As 2016 comes to a close and we look to the future, there&apos;s one big question: What is next? The answer: the fourth industrial revolution, or industry 4.0 (4IR).</p><img src="http://cdn.mos.cms.futurecdn.net/fuJzDv2vvhomc7AgyZHWo-1200-80.jpg"></article>]]></description>
+            <link>http://www.itproportal.com/features/is-the-manufacturing-industry-ready-for-the-fourth-industrial-revolution/</link>
+            <guid isPermaLink="false">bf96a310-7a10-4219-8ade-44bc3991bb61</guid>
+            <pubDate>Sun, 30 Apr 2017 06:44:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A New Wireless Hack Can Unlock 100 Million Volkswagens]]></title>
             <description><![CDATA[<article><h1>A New Wireless Hack Can Unlock 100 Million Volkswagens</h1><p>In 2013, when University of Birmingham computer scientist Flavio Garcia and a team of researchers were preparing to reveal a vulnerability that allowed them to start the ignition of millions of Volkswagen cars and drive them off without a key, they were hit with a lawsuit that delayed the publication of their research for two years.</p><img src="https://assets.wired.com/photos/w_2064/wp-content/uploads/2016/08/VolkswagenTA-584022388.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.airbusgroup.com/int/en/news-media/corporate-magazine/Forum-90/Blockchain.html</link>
             <guid isPermaLink="false">ebb5e5d5-76f2-49ae-a673-a02580425ffd</guid>
             <pubDate>Mon, 10 Apr 2017 05:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet of Things Security Solutions - ForeScout]]></title>
-            <description><![CDATA[<article><h1>Internet of Things Security Solutions - ForeScout</h1><p>By 2020 there will be 30 billion connected devices-20 billion of which will be IoT devices that are prone to security attacks. Securing them will be key to your organization&apos;s success and it begins with agentless visibility. Before IoT there were 3.5X more devices than the number of employees in an organization With IoT that&apos;s expected to go up to 10X.</p><img src="https://www.forescout.com/wp-content/uploads/2016/10/header-banner-IoT.jpg"></article>]]></description>
-            <link>https://www.forescout.com/solutions/iot/</link>
-            <guid isPermaLink="false">be76edee-31c0-4271-a9b4-78dd56b20ee6</guid>
-            <pubDate>Mon, 10 Apr 2017 05:55:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
