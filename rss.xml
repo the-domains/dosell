@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 30 Apr 2017 06:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2017 06:44:38 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Apr 2017 06:44:19 GMT</pubDate>
+        <pubDate>Sun, 30 Apr 2017 06:44:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Spotify acquires blockchain startup Mediachain to solve music's attribution problem]]></title>
+            <description><![CDATA[<article><h1>Spotify acquires blockchain startup Mediachain to solve music&apos;s attribution problem</h1><p>Spotify has acquired the Brooklyn-based blockchain startup Mediachain Labs, whose team will join the company&apos;s office in New York where they will work on developing better technology for connecting artists and other rights holders with the tracks hosted on Spotify&apos;s service.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/05/spotify.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>https://techcrunch.com/2017/04/26/spotify-acquires-blockchain-startup-mediachain-to-solve-musics-attribution-problem/</link>
+            <guid isPermaLink="false">c756d97f-814d-4b89-a182-0bc27ce4bf03</guid>
+            <pubDate>Sun, 30 Apr 2017 06:44:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the manufacturing industry ready for the fourth industrial revolution?]]></title>
             <description><![CDATA[<article><h1>Is the manufacturing industry ready for the fourth industrial revolution?</h1><p>First came steam and water power, then electricity and assembly lines, and then computerisation. As 2016 comes to a close and we look to the future, there&apos;s one big question: What is next? The answer: the fourth industrial revolution, or industry 4.0 (4IR).</p><img src="http://cdn.mos.cms.futurecdn.net/fuJzDv2vvhomc7AgyZHWo-1200-80.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.udacity.com/robotics</link>
             <guid isPermaLink="false">8c3fbeef-8a59-417f-8a0a-f333b40c3e02</guid>
             <pubDate>Tue, 11 Apr 2017 16:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain]]></title>
-            <description><![CDATA[<article><h1>Blockchain</h1><p>Blockchain has been called &apos;the next generation of the internet&apos;, a powerful set of technologies forecasted to disrupt centuries-old systems of record-keeping. But what is it, how will it change the way we interact, and what does Airbus contribute to the new conversation in which the word on everyone&apos;s lips is &apos;trust&apos;?</p><img src="http://www.airbusgroup.com/dam/assets/airbusgroup/int/en/news-and-media/FORUM/FORUM-90/Blockchain/Forum-90-blockchain-chapter-intro.2017-03-09-17-40-17.jpg"></article>]]></description>
-            <link>http://www.airbusgroup.com/int/en/news-media/corporate-magazine/Forum-90/Blockchain.html</link>
-            <guid isPermaLink="false">ebb5e5d5-76f2-49ae-a673-a02580425ffd</guid>
-            <pubDate>Mon, 10 Apr 2017 05:55:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
