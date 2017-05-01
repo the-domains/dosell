@@ -27,7 +27,7 @@ author:
   url: 'http://www.labsharegroup.com/'
   email: tibor.zahorecz@dosell.io
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b024bd24-b9ca-4c38-9e57-779dd26474d5.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2642fcfd-e58d-414d-a380-36bc1ac340a2.png
 name: LabShare Engineering Blog
 cta: {}
 navigation:
@@ -38,7 +38,7 @@ navigation:
     url: 'http://www.buildventure.net/'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4998a2b-9570-4ba6-8a57-74be5db2ec9a.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc37d846-eaeb-4af4-afad-834ce619a0ec.png
 title: LabShare Engineering Blog
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
