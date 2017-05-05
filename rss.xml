@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 30 Apr 2017 06:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2017 06:37:58 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Apr 2017 06:44:23 GMT</pubDate>
+        <pubDate>Fri, 05 May 2017 06:37:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[Amazon's Focus On Artificial Intelligence Is The Next Big Revenue Driver]]></title>
+            <description><![CDATA[<article><h1>Amazon&apos;s Focus On Artificial Intelligence Is The Next Big Revenue Driver</h1><p>Amazon ( AMZN) has turned over nearly every single market it has entered into, with astounding success -- books, cloud computing, online retail, subscription video, and more. However, it&apos;s the company&apos;s focus on artificial intelligence and machine learning which may be the next big revenue driver for the company.</p><img src="http://www.nasdaq.com/images/dreamit.jpg"></article>]]></description>
+            <link>http://m.nasdaq.com/article/amazons-focus-on-artificial-intelligence-is-the-next-big-revenue-driver-cm774598</link>
+            <guid isPermaLink="false">e451cd7e-59b6-466c-97e1-3c0e3b68914d</guid>
+            <pubDate>Fri, 05 May 2017 06:37:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spotify acquires blockchain startup Mediachain to solve music's attribution problem]]></title>
             <description><![CDATA[<article><h1>Spotify acquires blockchain startup Mediachain to solve music&apos;s attribution problem</h1><p>Spotify has acquired the Brooklyn-based blockchain startup Mediachain Labs, whose team will join the company&apos;s office in New York where they will work on developing better technology for connecting artists and other rights holders with the tracks hosted on Spotify&apos;s service.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/05/spotify.jpg?w=764&h=400&crop=1"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/</link>
             <guid isPermaLink="false">94fbe6dd-aa59-4e21-a7c0-011fc986dfce</guid>
             <pubDate>Tue, 11 Apr 2017 16:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robotics Nanodegree]]></title>
-            <description><![CDATA[<article><h1>Robotics Nanodegree</h1><p>Learn to build robotics software solutions for growing industries using techniques such as computer vision, machine learning, AI, and hardware actuation.</p><img src="https://d125fmws0bore1.cloudfront.net/assets/udacity_share-46db4b8faf075a5af5a1070a7fa0ad3639783609ff45f447e4ea467fe3aa9d32.png"></article>]]></description>
-            <link>https://www.udacity.com/robotics</link>
-            <guid isPermaLink="false">8c3fbeef-8a59-417f-8a0a-f333b40c3e02</guid>
-            <pubDate>Tue, 11 Apr 2017 16:05:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
