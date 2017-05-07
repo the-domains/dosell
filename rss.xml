@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 May 2017 06:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2017 07:32:05 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 May 2017 06:37:38 GMT</pubDate>
+        <pubDate>Sun, 07 May 2017 07:32:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[Intel® Nervana™ AI Academy | Intel® Software]]></title>
+            <description><![CDATA[<article><h1>Intel&reg; Nervana&trade; AI Academy | Intel&reg; Software</h1><p>Intel&reg; Nervana&trade; AI Academy provides training in machine learning and deep learning, with associated frameworks, tools, and libraries. Join our events at a meetup or online.</p><img src="https://software.intel.com/sites/default/files/managed/1d/a7/ai-academy-spark-logo-500w-247h.png"></article>]]></description>
+            <link>https://software.intel.com/ai/academy?utm_source=Facebook&amp;utm_medium=Banner_Ad&amp;utm_content=Machine_Learning_Enthusiasts_EMEA&amp;utm_campaign=AI_Q2_17_Digital_Media_Campaign</link>
+            <guid isPermaLink="false">a6f5b74f-8333-4120-9aea-0312bd1e1f7e</guid>
+            <pubDate>Sun, 07 May 2017 07:32:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Blockchains could transform Artificial Intelligence]]></title>
             <description><![CDATA[<article><h1>How Blockchains could transform Artificial Intelligence</h1><p>From Decentralized Model Exchanges to Model Audit Trails [This is based on a talk I first gave on Nov 7, 2016. Here are the slides.] In recent years, AI (artificial intelligence) researchers have finally cracked problems that they&apos;ve worked on for decades, from Go to human-level speech recognition. A key</p><img src="http://dataconomy.com/wp-content/uploads/2016/12/blockchains-e1482263504196.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.technologyreview.com/s/603917/nvidias-deep-learning-chips-may-give-medicine-a-shot-in-the-arm/?utm_content=bufferbb07c&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">163ba296-238f-4eea-8106-5ed05d6542b9</guid>
             <pubDate>Mon, 17 Apr 2017 07:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 venture capital funds to know if you're working on a machine intelligence startup]]></title>
-            <description><![CDATA[<article><h1>15 venture capital funds to know if you&apos;re working on a machine intelligence startup</h1><p>Major tech trends tend to draw lots of &quot;dumb money&quot; from investors and machine intelligence is no exception. Some will lose money on insignificant acquihires while others may survive long enough to see their investments die at the hands of open source.</p><img src="https://tctechcrunch2011.files.wordpress.com/2014/02/money.jpg?w=764&h=400&crop=1"></article>]]></description>
-            <link>https://techcrunch.com/gallery/15-venture-capital-funds-to-know-if-youre-working-on-a-machine-intelligence-startup/</link>
-            <guid isPermaLink="false">f849fbc5-5780-4eb9-9bd1-2b007616f31f</guid>
-            <pubDate>Fri, 14 Apr 2017 06:44:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
