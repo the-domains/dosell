@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 07:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2017 07:04:10 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 07:03:41 GMT</pubDate>
+        <pubDate>Fri, 09 Jun 2017 07:03:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[Over 8,600 Vulnerabilities Found in Pacemakers]]></title>
+            <description><![CDATA[<article><h1>Over 8,600 Vulnerabilities Found in Pacemakers</h1><p>&quot; If you want to keep living, Pay a ransom, or die.&quot; This could happen, as researchers have found thousands of vulnerabilities in Pacemakers that hackers could exploit. Millions of people that rely on pacemakers to keep their hearts beating are at risk of software glitches and hackers, which could eventually take their lives.</p><img src="https://1.bp.blogspot.com/-_ayY4n_g41Y/WTU1zPNwdmI/AAAAAAAAs_k/arPRRKBKQK4tkaxucEVVEadQGVlHte2sgCLcB/s1600/pacemaker-vulnerability.png"></article>]]></description>
+            <link>http://thehackernews.com/2017/06/pacemaker-vulnerability.html?m=1</link>
+            <guid isPermaLink="false">b744a47a-1b16-4fa4-bd93-aa1cbd3975b7</guid>
+            <pubDate>Fri, 09 Jun 2017 07:03:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Udacity Talks Recent Episodes]]></title>
             <description><![CDATA[<article><h1>Udacity Talks Recent Episodes</h1><p>Engage directly with Udacity Talks speakers who have specializations in a broad range of technology fields.</p><img src="https://s3-us-west-1.amazonaws.com/udacity-content/images/shared/talks-episode-10.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers/</link>
             <guid isPermaLink="false">b8d49081-e960-45a2-88ba-3e194153c191</guid>
             <pubDate>Wed, 24 May 2017 15:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security in the Internet of Things]]></title>
-            <description><![CDATA[<article><h1>Security in the Internet of Things</h1><p>Security issues may represent the greatest obstacle to growth of the Internet of Things. How can semiconductor companies help resolve them? Over the past few years, the Internet of Things (IoT) has captured headlines across the world, with newspaper and magazine articles describing its potential to transform our daily lives.</p><img src="http://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Security%20in%20the%20Internet%20of%20Things/Insights-MoSC-Security-in-the-Internet-of-Things-1536x1536-300_Standard.ashx"></article>]]></description>
-            <link>http://www.mckinsey.com/industries/semiconductors/our-insights/security-in-the-internet-of-things?utm_content=buffere63dd&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">ab0c5d81-612f-4f52-9014-8eb3314f0a71</guid>
-            <pubDate>Wed, 24 May 2017 15:24:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
