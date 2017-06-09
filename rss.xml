@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 07:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2017 07:03:57 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 07:03:37 GMT</pubDate>
+        <pubDate>Fri, 09 Jun 2017 07:03:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Udacity Talks Recent Episodes]]></title>
+            <description><![CDATA[<article><h1>Udacity Talks Recent Episodes</h1><p>Engage directly with Udacity Talks speakers who have specializations in a broad range of technology fields.</p><img src="https://s3-us-west-1.amazonaws.com/udacity-content/images/shared/talks-episode-10.jpg"></article>]]></description>
+            <link>https://www.udacity.com/talks</link>
+            <guid isPermaLink="false">19f2b573-48de-405e-b409-56ab7f7f833c</guid>
+            <pubDate>Fri, 09 Jun 2017 07:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IBM turns to artificial intelligence to solve poverty, hunger, and illiteracy]]></title>
             <description><![CDATA[<article><h1>IBM turns to artificial intelligence to solve poverty, hunger, and illiteracy</h1><p>IBM is channeling its science and tech expertise into tackling some of the world&apos;s biggest problems. On Wednesday, the tech giant announced the launch of Science for Social Good, a new program that partners IBM researchers with postdoctoral academic fellows and nonprofits to take on societal issues through data.</p><img src="http://i.amz.mshcdn.com/mcnunyx9JfVAo4Q6GmEX6tBAWns=/1200x630/2017%2F06%2F07%2F16%2Fcc504a52346648978940d65b057d0c80.a0120.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.mckinsey.com/industries/semiconductors/our-insights/security-in-the-internet-of-things?utm_content=buffere63dd&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">ab0c5d81-612f-4f52-9014-8eb3314f0a71</guid>
             <pubDate>Wed, 24 May 2017 15:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toyota pushes into blockchain tech to enable the next generation of cars]]></title>
-            <description><![CDATA[<article><h1>Toyota pushes into blockchain tech to enable the next generation of cars</h1><p>On the same day that Ford officially ousted its chief executive in a bid to remake itself as future-focused vehicle manufacturer, Toyota announced its own steps to embrace technology&apos;s next wave.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/05/internetcars.jpg?w=764&h=400&crop=1"></article>]]></description>
-            <link>https://techcrunch.com/2017/05/22/toyota-pushes-into-blockchain-tech-to-enable-the-next-generation-of-cars/?utm_source=tcfbpage&amp;sr_share=facebook</link>
-            <guid isPermaLink="false">f40bea4e-5520-46e0-84f3-9dccf3b678b8</guid>
-            <pubDate>Mon, 22 May 2017 20:34:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
