@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 07:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2017 17:04:11 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 07:03:43 GMT</pubDate>
+        <pubDate>Mon, 12 Jun 2017 17:04:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blockchain Technology Summit: Across the industries - Blockchain Unleashed: IBM Blockchain Blog]]></title>
+            <description><![CDATA[<article><h1>Blockchain Technology Summit: Across the industries - Blockchain Unleashed: IBM Blockchain Blog</h1><p>This is the year of blockchain: business networks put into production around the world are on display at IBM Blockchain Technology Summit in Atlanta.</p><img src="https://www.ibm.com/blogs/blockchain/wp-content/uploads/2017/06/Atlanta-summit-GIF_3.gif"></article>]]></description>
+            <link>https://www.ibm.com/blogs/blockchain/2017/06/blockchain-technology-summit-across-the-industries/</link>
+            <guid isPermaLink="false">f7de1a4e-01fb-4484-adbd-079d0624d4ca</guid>
+            <pubDate>Mon, 12 Jun 2017 17:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Over 8,600 Vulnerabilities Found in Pacemakers]]></title>
             <description><![CDATA[<article><h1>Over 8,600 Vulnerabilities Found in Pacemakers</h1><p>&quot; If you want to keep living, Pay a ransom, or die.&quot; This could happen, as researchers have found thousands of vulnerabilities in Pacemakers that hackers could exploit. Millions of people that rely on pacemakers to keep their hearts beating are at risk of software glitches and hackers, which could eventually take their lives.</p><img src="https://1.bp.blogspot.com/-_ayY4n_g41Y/WTU1zPNwdmI/AAAAAAAAs_k/arPRRKBKQK4tkaxucEVVEadQGVlHte2sgCLcB/s1600/pacemaker-vulnerability.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>IoT | Intel&reg; Software</h1><p>Access resources for IoT prototyping, including hardware and software from Intel, integrating sensors and the cloud, and transitioning to production.</p><img src="https://software.intel.com/sites/default/files/managed/fb/b4/IoT-Gateways-375x350.jpg"></article>]]></description>
             <link>https://software.intel.com/en-us/iot/home?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
             <guid isPermaLink="false">544309a5-9100-499c-9297-f62472b6f238</guid>
-            <pubDate>Wed, 24 May 2017 15:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's New AI Is Better at Creating AI Than the Company's Engineers]]></title>
-            <description><![CDATA[<article><h1>Google&apos;s New AI Is Better at Creating AI Than the Company&apos;s Engineers</h1><p>One of the more noteworthy remarks to come out of Google I/O &apos;17 conference this week was CEO Sundar Pichai recalling how his team had joked that they have achieved &quot; AI inception &quot; with AutoML.</p><img src="https://futurism.com/wp-content/uploads/2016/07/Understanding-Machine-Learning_home_v1.jpg"></article>]]></description>
-            <link>https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers/</link>
-            <guid isPermaLink="false">b8d49081-e960-45a2-88ba-3e194153c191</guid>
             <pubDate>Wed, 24 May 2017 15:24:09 GMT</pubDate>
         </item>
     </channel>
