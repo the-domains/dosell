@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Jun 2017 17:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2017 17:04:21 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Jun 2017 17:04:04 GMT</pubDate>
+        <pubDate>Mon, 12 Jun 2017 17:04:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[InfoSec 2017: 'One disaster away from governments doing something' on IoT - Naked Security - IoT Newsletter]]></title>
+            <description><![CDATA[<article><h1>InfoSec 2017: &apos;One disaster away from governments doing something&apos; on IoT - Naked Security - IoT Newsletter</h1><p>Regulation is coming to the world of Internet of Things (IoT), according to security expert Bruce Schneier, who used his keynote at Infosec 2017 to warn delegates of the dangers of inaction. &quot;Regulation is coming for us&quot;, he told the audience, adding: Governments are going to get involved, regardless.</p><img src="https://pbs.twimg.com/media/DBwxvGSXsAE9Mcu.jpg"></article>]]></description>
+            <link>https://iotnewsletter.org/infosec-2017-one-disaster-away-from-governments-doing-something-iot-cybersecurity/?utm_source=social&amp;utm_medium=linkedin&amp;utm_campaign=share</link>
+            <guid isPermaLink="false">26a193a2-f0f0-403a-b70e-1af02527d297</guid>
+            <pubDate>Mon, 12 Jun 2017 17:04:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Technology Summit: Across the industries - Blockchain Unleashed: IBM Blockchain Blog]]></title>
             <description><![CDATA[<article><h1>Blockchain Technology Summit: Across the industries - Blockchain Unleashed: IBM Blockchain Blog</h1><p>This is the year of blockchain: business networks put into production around the world are on display at IBM Blockchain Technology Summit in Atlanta.</p><img src="https://www.ibm.com/blogs/blockchain/wp-content/uploads/2017/06/Atlanta-summit-GIF_3.gif"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://research.googleblog.com/2017/05/updating-google-maps-with-deep-learning.html?utm_content=buffer899ef&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer&amp;m=1</link>
             <guid isPermaLink="false">f4160370-6315-460e-af41-261b437d8642</guid>
             <pubDate>Sat, 27 May 2017 06:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IoT | Intel® Software]]></title>
-            <description><![CDATA[<article><h1>IoT | Intel&reg; Software</h1><p>Access resources for IoT prototyping, including hardware and software from Intel, integrating sensors and the cloud, and transitioning to production.</p><img src="https://software.intel.com/sites/default/files/managed/fb/b4/IoT-Gateways-375x350.jpg"></article>]]></description>
-            <link>https://software.intel.com/en-us/iot/home?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
-            <guid isPermaLink="false">544309a5-9100-499c-9297-f62472b6f238</guid>
-            <pubDate>Wed, 24 May 2017 15:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
