@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Jun 2017 17:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2017 06:50:52 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Jun 2017 17:04:06 GMT</pubDate>
+        <pubDate>Tue, 20 Jun 2017 06:50:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[IoT Reference Implementation: How to Build an Environment Monitor Solution]]></title>
+            <description><![CDATA[<article><h1>IoT Reference Implementation: How to Build an Environment Monitor Solution</h1><p>This guide demonstrates how existing IoT solutions can be adapted to address more complex problems (e.g., solutions that require more sensor monitoring). The solution we present here, an Environment Monitor, incorporates additional hardware and extends the use of IoT software libraries (sensors and I/O).</p><img src="https://software.intel.com/sites/default/files/managed/a9/69/adapted-environmental-monitor-solution.jpg"></article>]]></description>
+            <link>https://software.intel.com/articles/iot-reference-implementation-how-to-build-an-environment-monitor-solution?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
+            <guid isPermaLink="false">af52be6f-9d72-4426-8d6b-59ccc41fdbb1</guid>
+            <pubDate>Tue, 20 Jun 2017 06:50:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[InfoSec 2017: 'One disaster away from governments doing something' on IoT - Naked Security - IoT Newsletter]]></title>
             <description><![CDATA[<article><h1>InfoSec 2017: &apos;One disaster away from governments doing something&apos; on IoT - Naked Security - IoT Newsletter</h1><p>Regulation is coming to the world of Internet of Things (IoT), according to security expert Bruce Schneier, who used his keynote at Infosec 2017 to warn delegates of the dangers of inaction. &quot;Regulation is coming for us&quot;, he told the audience, adding: Governments are going to get involved, regardless.</p><img src="https://pbs.twimg.com/media/DBwxvGSXsAE9Mcu.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.forbes.com/sites/joshbersin/2017/03/09/robotics-ai-and-cognitive-computing-are-changing-organizations-even-faster-than-we-thought/#c9e81e2a3f49</link>
             <guid isPermaLink="false">20803e68-cc46-40be-bb90-dbed1f3c7f41</guid>
             <pubDate>Wed, 31 May 2017 06:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updating Google Maps with Deep Learning and Street View]]></title>
-            <description><![CDATA[<article><h1>Updating Google Maps with Deep Learning and Street View</h1><p>Every day, Google Maps provides useful directions, real-time traffic information and information on businesses to millions of people. In order to provide the best experience for our users, this information has to constantly mirror an ever-changing world.</p><img src="https://1.bp.blogspot.com/-ZYdBFgbis3M/WQoVxc8aPRI/AAAAAAAABy4/QeCwCnH0l_ULx3Prb50FdgxmfVzyS49LwCLcB/s640/Fig2.png"></article>]]></description>
-            <link>https://research.googleblog.com/2017/05/updating-google-maps-with-deep-learning.html?utm_content=buffer899ef&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer&amp;m=1</link>
-            <guid isPermaLink="false">f4160370-6315-460e-af41-261b437d8642</guid>
-            <pubDate>Sat, 27 May 2017 06:24:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
