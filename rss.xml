@@ -4,9 +4,9 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Jun 2017 06:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2017 06:50:59 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jun 2017 06:50:20 GMT</pubDate>
+        <pubDate>Tue, 20 Jun 2017 06:50:43 GMT</pubDate>
         <item>
             <title><![CDATA[IoT Reference Implementation: How to Build an Environment Monitor Solution]]></title>
             <description><![CDATA[<article><h1>IoT Reference Implementation: How to Build an Environment Monitor Solution</h1><p>This guide demonstrates how existing IoT solutions can be adapted to address more complex problems (e.g., solutions that require more sensor monitoring). The solution we present here, an Environment Monitor, incorporates additional hardware and extends the use of IoT software libraries (sensors and I/O).</p><img src="https://software.intel.com/sites/default/files/managed/a9/69/adapted-environmental-monitor-solution.jpg"></article>]]></description>
