@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Jun 2017 06:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2017 18:30:17 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jun 2017 06:50:47 GMT</pubDate>
+        <pubDate>Wed, 21 Jun 2017 18:30:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[IoT | Intel® Software]]></title>
+            <description><![CDATA[<article><h1>IoT | Intel&reg; Software</h1><p>Access resources for IoT prototyping, including hardware and software from Intel, integrating sensors and the cloud, and transitioning to production.</p><img src="https://software.intel.com/sites/default/files/managed/48/e3/IoT-Home-Markets-Automotive.jpg"></article>]]></description>
+            <link>https://software.intel.com/en-us/iot/home?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
+            <guid isPermaLink="false">c3a9f9f4-43eb-4388-89f6-0945bcc1e865</guid>
+            <pubDate>Wed, 21 Jun 2017 18:30:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IoT Reference Implementation: How to Build an Environment Monitor Solution]]></title>
             <description><![CDATA[<article><h1>IoT Reference Implementation: How to Build an Environment Monitor Solution</h1><p>This guide demonstrates how existing IoT solutions can be adapted to address more complex problems (e.g., solutions that require more sensor monitoring). The solution we present here, an Environment Monitor, incorporates additional hardware and extends the use of IoT software libraries (sensors and I/O).</p><img src="https://software.intel.com/sites/default/files/managed/a9/69/adapted-environmental-monitor-solution.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://community.arm.com/iot/embedded/b/embedded-blog/posts/arm-education-media?utm_source=Social%20media&amp;utm_medium=Organic&amp;utm_campaign=EducationMediaBlogMay17</link>
             <guid isPermaLink="false">0b1b9968-972a-4758-90d4-cf92afec3368</guid>
             <pubDate>Wed, 31 May 2017 06:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robotics, AI And Cognitive Computing Are Changing Organizations Even Faster Than We Thought]]></title>
-            <description><![CDATA[<article><h1>Robotics, AI And Cognitive Computing Are Changing Organizations Even Faster Than We Thought</h1><p>The world of AI, robotics and cognitive computing are changing business even faster than we thought. JPMorgan Chase &amp; Co now uses software to perform the mind-numbing job of interpreting commercial loans, reducing 360,000 hours of lawyer time each year. AI software can now identify leukemia in photos and X-rays, learning faster than technicians.</p><img src="https://blogs-images.forbes.com/joshbersin/files/2017/03/hct.jpg?width=960"></article>]]></description>
-            <link>https://www.forbes.com/sites/joshbersin/2017/03/09/robotics-ai-and-cognitive-computing-are-changing-organizations-even-faster-than-we-thought/#c9e81e2a3f49</link>
-            <guid isPermaLink="false">20803e68-cc46-40be-bb90-dbed1f3c7f41</guid>
-            <pubDate>Wed, 31 May 2017 06:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
