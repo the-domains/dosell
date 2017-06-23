@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Jun 2017 18:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2017 05:39:21 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jun 2017 18:30:15 GMT</pubDate>
+        <pubDate>Fri, 23 Jun 2017 05:39:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[An introduction to Support Vector Machines (SVM)]]></title>
+            <description><![CDATA[<article><h1>An introduction to Support Vector Machines (SVM)</h1><p>So you&apos;re working on a text classification problem. You&apos;re refining your training set, and maybe you&apos;ve even tried stuff out using Naive Bayes. But now you&apos;re feeling confident in your dataset, and want to take it one step further. Enter Support Vector Machines (SVM): a fast and dependable classification algorithm that performs very well with a limited amount of data.</p><img src="https://monkeylearn.com/blog/wp-content/uploads/2017/06/Post_1e.png"></article>]]></description>
+            <link>https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/</link>
+            <guid isPermaLink="false">cabb1f01-c148-4e90-b40a-c15a3cd93223</guid>
+            <pubDate>Fri, 23 Jun 2017 05:39:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IoT | Intel® Software]]></title>
             <description><![CDATA[<article><h1>IoT | Intel&reg; Software</h1><p>Access resources for IoT prototyping, including hardware and software from Intel, integrating sensors and the cloud, and transitioning to production.</p><img src="https://software.intel.com/sites/default/files/managed/48/e3/IoT-Home-Markets-Automotive.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://software.intel.com/ai/academy?utm_source=Facebook&amp;utm_medium=Banner_Ad&amp;utm_content=Machine_Learning_Enthusiasts_EMEA&amp;utm_campaign=AI_Q2_17_Digital_Media_Campaign</link>
             <guid isPermaLink="false">8f106046-b1df-4588-85cc-9a30340af8de</guid>
             <pubDate>Mon, 05 Jun 2017 16:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ARM Education Media Online Courses and Textbooks]]></title>
-            <description><![CDATA[<article><h1>ARM Education Media Online Courses and Textbooks</h1><p>Back in October, we announced the launch of ARM Education Media - a subscription-based digital content hub offering interactive online courses and e-first textbooks. The aim of this hub is to help address the growing education/skills gap in engineering, by developing academically rigorous and highly interactive content that demonstrates and harnesses state-of-the-art technologies from the ARM ecosystem.</p><img src="https://developer.arm.com/-/media/developer/cover.JPG"></article>]]></description>
-            <link>https://community.arm.com/iot/embedded/b/embedded-blog/posts/arm-education-media?utm_source=Social%20media&amp;utm_medium=Organic&amp;utm_campaign=EducationMediaBlogMay17</link>
-            <guid isPermaLink="false">0b1b9968-972a-4758-90d4-cf92afec3368</guid>
-            <pubDate>Wed, 31 May 2017 06:18:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
