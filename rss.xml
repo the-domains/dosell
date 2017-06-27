@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Jun 2017 12:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2017 15:08:27 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Jun 2017 12:43:22 GMT</pubDate>
+        <pubDate>Tue, 27 Jun 2017 15:07:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[Code Samples | Intel® Software]]></title>
+            <description><![CDATA[<article><h1>Code Samples | Intel&reg; Software</h1><p>This two-part series discusses how data and memory layout affect performance and suggests specific steps to improve software performance. The basic steps shown can yield significant performance gains.</p><img src="https://software.intel.com/sites/default/files/managed/fb/66/improve-vert-perf-intel-advanced-vector-512-fig-1.jpg"></article>]]></description>
+            <link>https://software.intel.com/modern-code/code-samples?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Modern_Code_Supporters_EMEA&amp;utm_campaign=DRD_17_49</link>
+            <guid isPermaLink="false">4b56a1b7-7091-4467-9e4c-0a29c42eaae0</guid>
+            <pubDate>Tue, 27 Jun 2017 15:07:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain: The New Technology of Trust]]></title>
             <description><![CDATA[<article><h1>Blockchain: The New Technology of Trust</h1><p>Beyond just Bitcoin, learn how blockchain technology is transforming how we interact with the world with our immersive infographic:</p><img src="http://www.goldmansachs.com/our-thinking/pages/blockchain/800x450.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.udacity.com/talks</link>
             <guid isPermaLink="false">19f2b573-48de-405e-b409-56ab7f7f833c</guid>
             <pubDate>Fri, 09 Jun 2017 07:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM turns to artificial intelligence to solve poverty, hunger, and illiteracy]]></title>
-            <description><![CDATA[<article><h1>IBM turns to artificial intelligence to solve poverty, hunger, and illiteracy</h1><p>IBM is channeling its science and tech expertise into tackling some of the world&apos;s biggest problems. On Wednesday, the tech giant announced the launch of Science for Social Good, a new program that partners IBM researchers with postdoctoral academic fellows and nonprofits to take on societal issues through data.</p><img src="http://i.amz.mshcdn.com/mcnunyx9JfVAo4Q6GmEX6tBAWns=/1200x630/2017%2F06%2F07%2F16%2Fcc504a52346648978940d65b057d0c80.a0120.jpg"></article>]]></description>
-            <link>http://mashable.com/2017/06/07/ibm-science-for-social-good/#9xVlYdZv0SqJ</link>
-            <guid isPermaLink="false">3db45be2-63f9-4fe0-bdef-32575b808e9d</guid>
-            <pubDate>Fri, 09 Jun 2017 07:03:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
