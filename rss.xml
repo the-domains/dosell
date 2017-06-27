@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Jun 2017 05:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2017 05:03:08 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Jun 2017 05:39:11 GMT</pubDate>
+        <pubDate>Tue, 27 Jun 2017 05:03:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[The 100-year study of AI has begun]]></title>
+            <description><![CDATA[<article><h1>The 100-year study of AI has begun</h1><p>A panel of academic and industrial thinkers has looked ahead to 2030 to forecast how advances in artificial intelligence (AI) might affect life in a typical North American city - in areas as diverse as transportation, health care and education &shy;- and to spur discussion about how to ensure the safe, fair and beneficial development of these rapidly emerging technologies.</p><img src="https://engineering.stanford.edu/sites/default/files/styles/banner-850x400/public/ai100_robot-concept_1_.jpg?itok=blrZdEH0"></article>]]></description>
+            <link>https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society?utm_source=facebook&amp;utm_medium=social&amp;utm_content=AIrepost&amp;utm_campaign=stripes</link>
+            <guid isPermaLink="false">57f06457-24ac-4f22-9b5e-5f1d913d2c0e</guid>
+            <pubDate>Tue, 27 Jun 2017 05:03:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An introduction to Support Vector Machines (SVM)]]></title>
             <description><![CDATA[<article><h1>An introduction to Support Vector Machines (SVM)</h1><p>So you&apos;re working on a text classification problem. You&apos;re refining your training set, and maybe you&apos;ve even tried stuff out using Naive Bayes. But now you&apos;re feeling confident in your dataset, and want to take it one step further. Enter Support Vector Machines (SVM): a fast and dependable classification algorithm that performs very well with a limited amount of data.</p><img src="https://monkeylearn.com/blog/wp-content/uploads/2017/06/Post_1e.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.udacity.com/2017/05/udacity-liams-life-foundation-scholarship.html</link>
             <guid isPermaLink="false">9e8f2c8b-fff2-4445-98fc-ba4d9b429f45</guid>
             <pubDate>Mon, 05 Jun 2017 16:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intel® Nervana™ AI Academy | Intel® Software]]></title>
-            <description><![CDATA[<article><h1>Intel&reg; Nervana&trade; AI Academy | Intel&reg; Software</h1><p>Intel&reg; Nervana&trade; AI Academy provides training in machine learning and deep learning, with associated frameworks, tools, and libraries. Join our events at a meetup or online.</p><img src="https://software.intel.com/sites/default/files/managed/e1/7e/ai-academy-tensorflow-logo-500w-247h.png"></article>]]></description>
-            <link>https://software.intel.com/ai/academy?utm_source=Facebook&amp;utm_medium=Banner_Ad&amp;utm_content=Machine_Learning_Enthusiasts_EMEA&amp;utm_campaign=AI_Q2_17_Digital_Media_Campaign</link>
-            <guid isPermaLink="false">8f106046-b1df-4588-85cc-9a30340af8de</guid>
-            <pubDate>Mon, 05 Jun 2017 16:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
