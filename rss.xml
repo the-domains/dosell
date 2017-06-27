@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Jun 2017 05:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2017 12:43:24 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Jun 2017 05:03:10 GMT</pubDate>
+        <pubDate>Tue, 27 Jun 2017 12:43:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blockchain: The New Technology of Trust]]></title>
+            <description><![CDATA[<article><h1>Blockchain: The New Technology of Trust</h1><p>Beyond just Bitcoin, learn how blockchain technology is transforming how we interact with the world with our immersive infographic:</p><img src="http://www.goldmansachs.com/our-thinking/pages/blockchain/800x450.jpg"></article>]]></description>
+            <link>http://www.goldmansachs.com/our-thinking/pages/blockchain/</link>
+            <guid isPermaLink="false">191b0c2b-e040-40d5-adff-e204813f9102</guid>
+            <pubDate>Tue, 27 Jun 2017 12:43:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 100-year study of AI has begun]]></title>
             <description><![CDATA[<article><h1>The 100-year study of AI has begun</h1><p>A panel of academic and industrial thinkers has looked ahead to 2030 to forecast how advances in artificial intelligence (AI) might affect life in a typical North American city - in areas as diverse as transportation, health care and education &shy;- and to spur discussion about how to ensure the safe, fair and beneficial development of these rapidly emerging technologies.</p><img src="https://engineering.stanford.edu/sites/default/files/styles/banner-850x400/public/ai100_robot-concept_1_.jpg?itok=blrZdEH0"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://mashable.com/2017/06/07/ibm-science-for-social-good/#9xVlYdZv0SqJ</link>
             <guid isPermaLink="false">3db45be2-63f9-4fe0-bdef-32575b808e9d</guid>
             <pubDate>Fri, 09 Jun 2017 07:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Udacity and the Liam's Life Foundation: A New Scholarship Program Begins | Udacity]]></title>
-            <description><![CDATA[<article><h1>Udacity and the Liam&apos;s Life Foundation: A New Scholarship Program Begins | Udacity</h1><p>We&apos;re excited to announce the start of a new scholarship program designed to provide learning opportunities for recipients to make the world a better and safer place for everyone. In the case of this very special scholarship, we also have the opportunity to honor the great work of our partner, .</p><img src="http://blog.udacity.com/wp-content/uploads/2017/05/Liams-Life-Foundation-Scholarship.jpg"></article>]]></description>
-            <link>http://blog.udacity.com/2017/05/udacity-liams-life-foundation-scholarship.html</link>
-            <guid isPermaLink="false">9e8f2c8b-fff2-4445-98fc-ba4d9b429f45</guid>
-            <pubDate>Mon, 05 Jun 2017 16:12:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
