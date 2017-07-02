@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Jun 2017 06:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2017 06:33:21 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Jun 2017 06:03:46 GMT</pubDate>
+        <pubDate>Sun, 02 Jul 2017 06:33:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[Microsoft squeezed AI onto a Raspberry Pi]]></title>
+            <description><![CDATA[<article><h1>Microsoft squeezed AI onto a Raspberry Pi</h1><p>Artificial Intelligence and Machine Learning usually work best with a lot of horsepower behind them to crunch the data, compute possibilities and instantly come up with better solutions. That&apos;s why most AI systems rely on local sensors to gather input, while more powerful hardware in the cloud manages all the heavy lifting of output.</p><img src="https://i.amz.mshcdn.com/K72-MqSkudc2qdjjQeb8GFeQ0pg=/1200x630/2017%2F06%2F29%2F5b%2F454b36c8247d481091f6244b304285f0.cb32c.jpg"></article>]]></description>
+            <link>http://mashable.com/2017/06/29/microsoft-puts-ai-on-a-raspberry-pi/?utm_cid=mash-com-fb-main-link#Ns6.7y2PtaqO</link>
+            <guid isPermaLink="false">25fa5103-7ac4-4ec7-987e-63631a08c580</guid>
+            <pubDate>Sun, 02 Jul 2017 06:33:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Generative Adversarial Networks for Beginners]]></title>
             <description><![CDATA[<article><h1>Generative Adversarial Networks for Beginners</h1><p>You can download and modify the code from this tutorial on GitHub here. According to Yann LeCun, &quot;adversarial training is the coolest thing since sliced bread.&quot; Sliced bread certainly never created this much excitement within the deep learning community.</p><img src="https://d3tdunqjn7n0wj.cloudfront.net/1400x933/poster-7a64c10cf8bd4ccaa9c11e5e787ddd3b.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.ibm.com/blogs/blockchain/2017/06/blockchain-technology-summit-across-the-industries/</link>
             <guid isPermaLink="false">f7de1a4e-01fb-4484-adbd-079d0624d4ca</guid>
             <pubDate>Mon, 12 Jun 2017 17:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over 8,600 Vulnerabilities Found in Pacemakers]]></title>
-            <description><![CDATA[<article><h1>Over 8,600 Vulnerabilities Found in Pacemakers</h1><p>&quot; If you want to keep living, Pay a ransom, or die.&quot; This could happen, as researchers have found thousands of vulnerabilities in Pacemakers that hackers could exploit. Millions of people that rely on pacemakers to keep their hearts beating are at risk of software glitches and hackers, which could eventually take their lives.</p><img src="https://1.bp.blogspot.com/-_ayY4n_g41Y/WTU1zPNwdmI/AAAAAAAAs_k/arPRRKBKQK4tkaxucEVVEadQGVlHte2sgCLcB/s1600/pacemaker-vulnerability.png"></article>]]></description>
-            <link>http://thehackernews.com/2017/06/pacemaker-vulnerability.html?m=1</link>
-            <guid isPermaLink="false">b744a47a-1b16-4fa4-bd93-aa1cbd3975b7</guid>
-            <pubDate>Fri, 09 Jun 2017 07:03:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
