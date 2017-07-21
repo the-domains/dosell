@@ -4,9 +4,9 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Jul 2017 06:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2017 05:16:23 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Jul 2017 06:33:15 GMT</pubDate>
+        <pubDate>Fri, 21 Jul 2017 05:15:57 GMT</pubDate>
         <item>
             <title><![CDATA[Microsoft squeezed AI onto a Raspberry Pi]]></title>
             <description><![CDATA[<article><h1>Microsoft squeezed AI onto a Raspberry Pi</h1><p>Artificial Intelligence and Machine Learning usually work best with a lot of horsepower behind them to crunch the data, compute possibilities and instantly come up with better solutions. That&apos;s why most AI systems rely on local sensors to gather input, while more powerful hardware in the cloud manages all the heavy lifting of output.</p><img src="https://i.amz.mshcdn.com/K72-MqSkudc2qdjjQeb8GFeQ0pg=/1200x630/2017%2F06%2F29%2F5b%2F454b36c8247d481091f6244b304285f0.cb32c.jpg"></article>]]></description>
