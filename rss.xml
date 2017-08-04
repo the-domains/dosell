@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 21 Jul 2017 05:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2017 05:05:00 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Jul 2017 05:15:57 GMT</pubDate>
+        <pubDate>Fri, 04 Aug 2017 05:04:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[62% of cybersecurity experts believe AI will be weaponized in next year]]></title>
+            <description><![CDATA[<article><h1>62% of cybersecurity experts believe AI will be weaponized in next year</h1><p>Some 62% of security experts believe that artificial intelligence (AI) will be weaponized and used for cyberattacks within the next 12 months, a Cylance survey released Tuesday found. This makes the growth of AI a double-edge sword, according to Cylance&apos;s blog post on the finding.</p><img src="https://tr3.cbsistatic.com/hub/i/r/2017/08/01/8c867f91-722d-45d0-a369-7b169b2104fb/thumbnail/770x578/9f0b997b044a0f167c4a6737612d58a9/securityai.jpg"></article>]]></description>
+            <link>http://www.techrepublic.com/article/62-of-cybersecurity-experts-believe-ai-will-be-weaponized-in-next-year/</link>
+            <guid isPermaLink="false">504d50a8-f530-4fc6-bfb2-fd0737b41876</guid>
+            <pubDate>Fri, 04 Aug 2017 05:04:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft squeezed AI onto a Raspberry Pi]]></title>
             <description><![CDATA[<article><h1>Microsoft squeezed AI onto a Raspberry Pi</h1><p>Artificial Intelligence and Machine Learning usually work best with a lot of horsepower behind them to crunch the data, compute possibilities and instantly come up with better solutions. That&apos;s why most AI systems rely on local sensors to gather input, while more powerful hardware in the cloud manages all the heavy lifting of output.</p><img src="https://i.amz.mshcdn.com/K72-MqSkudc2qdjjQeb8GFeQ0pg=/1200x630/2017%2F06%2F29%2F5b%2F454b36c8247d481091f6244b304285f0.cb32c.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://iotnewsletter.org/infosec-2017-one-disaster-away-from-governments-doing-something-iot-cybersecurity/?utm_source=social&amp;utm_medium=linkedin&amp;utm_campaign=share</link>
             <guid isPermaLink="false">26a193a2-f0f0-403a-b70e-1af02527d297</guid>
             <pubDate>Mon, 12 Jun 2017 17:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Technology Summit: Across the industries - Blockchain Unleashed: IBM Blockchain Blog]]></title>
-            <description><![CDATA[<article><h1>Blockchain Technology Summit: Across the industries - Blockchain Unleashed: IBM Blockchain Blog</h1><p>This is the year of blockchain: business networks put into production around the world are on display at IBM Blockchain Technology Summit in Atlanta.</p><img src="https://www.ibm.com/blogs/blockchain/wp-content/uploads/2017/06/Atlanta-summit-GIF_3.gif"></article>]]></description>
-            <link>https://www.ibm.com/blogs/blockchain/2017/06/blockchain-technology-summit-across-the-industries/</link>
-            <guid isPermaLink="false">f7de1a4e-01fb-4484-adbd-079d0624d4ca</guid>
-            <pubDate>Mon, 12 Jun 2017 17:04:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
