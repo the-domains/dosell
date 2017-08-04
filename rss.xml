@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Aug 2017 05:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2017 05:05:40 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Aug 2017 05:04:48 GMT</pubDate>
+        <pubDate>Fri, 04 Aug 2017 05:05:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[3 Industries You Probably Didn't Know Were Using Machine Learning | Udacity]]></title>
+            <description><![CDATA[<article><h1>3 Industries You Probably Didn&apos;t Know Were Using Machine Learning | Udacity</h1><p>Say Machine Learning to someone, and if they recognize the term, they&apos;ll probably think, &quot;tech company.&quot; But while the origin stories of transformative technologies like machine learning, deep learning, and artificial intelligence often seem to take root in Silicon Valley, the truth is these are industry-agnostic innovations.</p><img src="http://blog.udacity.com/wp-content/uploads/2017/08/Agriculture-Machine-Learning-Udacity.jpg"></article>]]></description>
+            <link>http://blog.udacity.com/2017/08/3-industries-using-machine-learning.html</link>
+            <guid isPermaLink="false">d33a946d-999f-4c4d-bcb3-29dfa941f405</guid>
+            <pubDate>Fri, 04 Aug 2017 05:04:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[62% of cybersecurity experts believe AI will be weaponized in next year]]></title>
             <description><![CDATA[<article><h1>62% of cybersecurity experts believe AI will be weaponized in next year</h1><p>Some 62% of security experts believe that artificial intelligence (AI) will be weaponized and used for cyberattacks within the next 12 months, a Cylance survey released Tuesday found. This makes the growth of AI a double-edge sword, according to Cylance&apos;s blog post on the finding.</p><img src="https://tr3.cbsistatic.com/hub/i/r/2017/08/01/8c867f91-722d-45d0-a369-7b169b2104fb/thumbnail/770x578/9f0b997b044a0f167c4a6737612d58a9/securityai.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://software.intel.com/articles/iot-reference-implementation-how-to-build-an-environment-monitor-solution?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
             <guid isPermaLink="false">af52be6f-9d72-4426-8d6b-59ccc41fdbb1</guid>
             <pubDate>Tue, 20 Jun 2017 06:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[InfoSec 2017: 'One disaster away from governments doing something' on IoT - Naked Security - IoT Newsletter]]></title>
-            <description><![CDATA[<article><h1>InfoSec 2017: &apos;One disaster away from governments doing something&apos; on IoT - Naked Security - IoT Newsletter</h1><p>Regulation is coming to the world of Internet of Things (IoT), according to security expert Bruce Schneier, who used his keynote at Infosec 2017 to warn delegates of the dangers of inaction. &quot;Regulation is coming for us&quot;, he told the audience, adding: Governments are going to get involved, regardless.</p><img src="https://pbs.twimg.com/media/DBwxvGSXsAE9Mcu.jpg"></article>]]></description>
-            <link>https://iotnewsletter.org/infosec-2017-one-disaster-away-from-governments-doing-something-iot-cybersecurity/?utm_source=social&amp;utm_medium=linkedin&amp;utm_campaign=share</link>
-            <guid isPermaLink="false">26a193a2-f0f0-403a-b70e-1af02527d297</guid>
-            <pubDate>Mon, 12 Jun 2017 17:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
