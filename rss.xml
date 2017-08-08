@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Aug 2017 05:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2017 05:28:21 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Aug 2017 05:27:55 GMT</pubDate>
+        <pubDate>Tue, 08 Aug 2017 05:28:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[A Brief History of Blockchain]]></title>
+            <description><![CDATA[<article><h1>A Brief History of Blockchain</h1><p>Many of the technologies we now take for granted were quiet revolutions in their time. Just think about how much smartphones have changed the way we live and work. It used to be that when people were out of the office, they were gone, because a telephone was tied to a place, not to a person.</p><img src="https://hbr.org/resources/images/article_assets/2017/02/feb17-28-687784913.jpg"></article>]]></description>
+            <link>https://hbr.org/2017/02/a-brief-history-of-blockchain?utm_content=bufferedadc&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">ac41dcb3-ce6f-4878-b761-ab88423ce42b</guid>
+            <pubDate>Tue, 08 Aug 2017 05:27:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IBM Introduces The Robot Super-Brain]]></title>
             <description><![CDATA[<article><h1>IBM Introduces The Robot Super-Brain</h1><p>This week&apos;s milestones in the history of technology include the introduction of IBM&apos;s first large computer in 1944 and its first PC in 1981, Netscape IPO and the start of the dot-com bubble, the first email from space, and the invention of the mimeograph and the pay phone.</p><img src="https://specials-images.forbesimg.com/imageserve/682219105/960x0.jpg?fit=scale"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/</link>
             <guid isPermaLink="false">cabb1f01-c148-4e90-b40a-c15a3cd93223</guid>
             <pubDate>Fri, 23 Jun 2017 05:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IoT | Intel® Software]]></title>
-            <description><![CDATA[<article><h1>IoT | Intel&reg; Software</h1><p>Access resources for IoT prototyping, including hardware and software from Intel, integrating sensors and the cloud, and transitioning to production.</p><img src="https://software.intel.com/sites/default/files/managed/48/e3/IoT-Home-Markets-Automotive.jpg"></article>]]></description>
-            <link>https://software.intel.com/en-us/iot/home?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
-            <guid isPermaLink="false">c3a9f9f4-43eb-4388-89f6-0945bcc1e865</guid>
-            <pubDate>Wed, 21 Jun 2017 18:30:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
