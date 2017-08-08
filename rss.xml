@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Aug 2017 05:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2017 05:28:05 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Aug 2017 05:05:00 GMT</pubDate>
+        <pubDate>Tue, 08 Aug 2017 05:27:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[IBM Introduces The Robot Super-Brain]]></title>
+            <description><![CDATA[<article><h1>IBM Introduces The Robot Super-Brain</h1><p>This week&apos;s milestones in the history of technology include the introduction of IBM&apos;s first large computer in 1944 and its first PC in 1981, Netscape IPO and the start of the dot-com bubble, the first email from space, and the invention of the mimeograph and the pay phone.</p><img src="https://specials-images.forbesimg.com/imageserve/682219105/960x0.jpg?fit=scale"></article>]]></description>
+            <link>https://www.forbes.com/sites/gilpress/2017/08/06/ibm-introduces-the-robot-super-brain/?s=trending#726a73a31365</link>
+            <guid isPermaLink="false">0c9f5507-3cc1-459d-8f1d-553bdcbda97b</guid>
+            <pubDate>Tue, 08 Aug 2017 05:27:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 Industries You Probably Didn't Know Were Using Machine Learning | Udacity]]></title>
             <description><![CDATA[<article><h1>3 Industries You Probably Didn&apos;t Know Were Using Machine Learning | Udacity</h1><p>Say Machine Learning to someone, and if they recognize the term, they&apos;ll probably think, &quot;tech company.&quot; But while the origin stories of transformative technologies like machine learning, deep learning, and artificial intelligence often seem to take root in Silicon Valley, the truth is these are industry-agnostic innovations.</p><img src="http://blog.udacity.com/wp-content/uploads/2017/08/Agriculture-Machine-Learning-Udacity.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://software.intel.com/en-us/iot/home?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
             <guid isPermaLink="false">c3a9f9f4-43eb-4388-89f6-0945bcc1e865</guid>
             <pubDate>Wed, 21 Jun 2017 18:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IoT Reference Implementation: How to Build an Environment Monitor Solution]]></title>
-            <description><![CDATA[<article><h1>IoT Reference Implementation: How to Build an Environment Monitor Solution</h1><p>This guide demonstrates how existing IoT solutions can be adapted to address more complex problems (e.g., solutions that require more sensor monitoring). The solution we present here, an Environment Monitor, incorporates additional hardware and extends the use of IoT software libraries (sensors and I/O).</p><img src="https://software.intel.com/sites/default/files/managed/a9/69/adapted-environmental-monitor-solution.jpg"></article>]]></description>
-            <link>https://software.intel.com/articles/iot-reference-implementation-how-to-build-an-environment-monitor-solution?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Broad_Commercial_IoT_Enthusiasts_EMEA&amp;utm_campaign=DRD_17_57</link>
-            <guid isPermaLink="false">af52be6f-9d72-4426-8d6b-59ccc41fdbb1</guid>
-            <pubDate>Tue, 20 Jun 2017 06:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
