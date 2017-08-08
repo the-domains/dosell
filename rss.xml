@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Aug 2017 05:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2017 05:28:38 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Aug 2017 05:28:05 GMT</pubDate>
+        <pubDate>Tue, 08 Aug 2017 05:28:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Cisco says blockchain ledger technology has networking role]]></title>
+            <description><![CDATA[<article><h1>Cisco says blockchain ledger technology has networking role</h1><p>Cisco believes blockchain is likely to play a significant role in network management with early adopters of the distributed ledger technology surfacing within three years. Cisco is helping to steer blockchain&apos;s ascendancy in networking through membership in industry development efforts.</p><img src="http://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"></article>]]></description>
+            <link>http://searchsdn.techtarget.com/news/450423763/Cisco-says-blockchain-ledger-technology-has-networking-role?utm_medium=EM&amp;asrc=EM_NLN_80943137&amp;utm_campaign=20170807_Cisco%20predicts%20blockchain%20to%20have%20upcoming%20role%20in%20network%20management&amp;utm_source=NLN&amp;track=NL-1817&amp;ad=915850&amp;src=915850</link>
+            <guid isPermaLink="false">29e92126-9dab-418e-9d05-e9e09a215875</guid>
+            <pubDate>Tue, 08 Aug 2017 05:28:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Brief History of Blockchain]]></title>
             <description><![CDATA[<article><h1>A Brief History of Blockchain</h1><p>Many of the technologies we now take for granted were quiet revolutions in their time. Just think about how much smartphones have changed the way we live and work. It used to be that when people were out of the office, they were gone, because a telephone was tied to a place, not to a person.</p><img src="https://hbr.org/resources/images/article_assets/2017/02/feb17-28-687784913.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society?utm_source=facebook&amp;utm_medium=social&amp;utm_content=AIrepost&amp;utm_campaign=stripes</link>
             <guid isPermaLink="false">57f06457-24ac-4f22-9b5e-5f1d913d2c0e</guid>
             <pubDate>Tue, 27 Jun 2017 05:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An introduction to Support Vector Machines (SVM)]]></title>
-            <description><![CDATA[<article><h1>An introduction to Support Vector Machines (SVM)</h1><p>So you&apos;re working on a text classification problem. You&apos;re refining your training set, and maybe you&apos;ve even tried stuff out using Naive Bayes. But now you&apos;re feeling confident in your dataset, and want to take it one step further. Enter Support Vector Machines (SVM): a fast and dependable classification algorithm that performs very well with a limited amount of data.</p><img src="https://monkeylearn.com/blog/wp-content/uploads/2017/06/Post_1e.png"></article>]]></description>
-            <link>https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/</link>
-            <guid isPermaLink="false">cabb1f01-c148-4e90-b40a-c15a3cd93223</guid>
-            <pubDate>Fri, 23 Jun 2017 05:39:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
