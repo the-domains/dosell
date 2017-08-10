@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Aug 2017 05:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2017 05:32:52 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Aug 2017 05:28:06 GMT</pubDate>
+        <pubDate>Thu, 10 Aug 2017 05:32:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[IoT messaging protocol is big security risk]]></title>
+            <description><![CDATA[<article><h1>IoT messaging protocol is big security risk</h1><p>The insecure implementation of the MQTT (Message Queue Telemetry Transport) protocol, an Oasis standard for IoT communication, by many IoT product vendors is contributing to the high risk of IoT devices on enterprise and home networks. Although TLS is recommended by the Cloud Security Alliance for secure communication with MQTT, most vendors appear to ignore transport security, making all communication open and available.</p><img src="https://images.techhive.com/images/article/2017/05/wifi-iot-100722302-large.3x2.jpg"></article>]]></description>
+            <link>http://www.csoonline.com/article/3207770/internet-of-things/iot-messaging-protocol-is-big-security-risk.html?es_p=4691313</link>
+            <guid isPermaLink="false">48db575e-1a14-412c-be38-2882d2e7f2d5</guid>
+            <pubDate>Thu, 10 Aug 2017 05:32:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cisco says blockchain ledger technology has networking role]]></title>
             <description><![CDATA[<article><h1>Cisco says blockchain ledger technology has networking role</h1><p>Cisco believes blockchain is likely to play a significant role in network management with early adopters of the distributed ledger technology surfacing within three years. Cisco is helping to steer blockchain&apos;s ascendancy in networking through membership in industry development efforts.</p><img src="http://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.goldmansachs.com/our-thinking/pages/blockchain/</link>
             <guid isPermaLink="false">191b0c2b-e040-40d5-adff-e204813f9102</guid>
             <pubDate>Tue, 27 Jun 2017 12:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 100-year study of AI has begun]]></title>
-            <description><![CDATA[<article><h1>The 100-year study of AI has begun</h1><p>A panel of academic and industrial thinkers has looked ahead to 2030 to forecast how advances in artificial intelligence (AI) might affect life in a typical North American city - in areas as diverse as transportation, health care and education &shy;- and to spur discussion about how to ensure the safe, fair and beneficial development of these rapidly emerging technologies.</p><img src="https://engineering.stanford.edu/sites/default/files/styles/banner-850x400/public/ai100_robot-concept_1_.jpg?itok=blrZdEH0"></article>]]></description>
-            <link>https://engineering.stanford.edu/news/how-will-driverless-cars-and-other-applications-ai-affect-society?utm_source=facebook&amp;utm_medium=social&amp;utm_content=AIrepost&amp;utm_campaign=stripes</link>
-            <guid isPermaLink="false">57f06457-24ac-4f22-9b5e-5f1d913d2c0e</guid>
-            <pubDate>Tue, 27 Jun 2017 05:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
