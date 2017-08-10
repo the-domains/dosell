@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Aug 2017 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2017 05:33:03 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Aug 2017 05:32:51 GMT</pubDate>
+        <pubDate>Thu, 10 Aug 2017 05:32:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[The key principles of vehicle cyber security for connected and automated vehicles - GOV.UK]]></title>
+            <description><![CDATA[<article><h1>The key principles of vehicle cyber security for connected and automated vehicles - GOV.UK</h1><p>As vehicles get smarter, cyber security in the automotive industry is becoming an increasing concern. Whether we&apos;re turning cars into wifi connected hotspots or equipping them with millions of lines of code to create fully autonomous vehicles, cars are more vulnerable than ever to hacking and data theft.</p><img src="https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png"></article>]]></description>
+            <link>https://www.gov.uk/government/publications/principles-of-cyber-security-for-connected-and-automated-vehicles/the-key-principles-of-vehicle-cyber-security-for-connected-and-automated-vehicles</link>
+            <guid isPermaLink="false">b04e22c0-1ab6-41dc-a297-0568d00367f9</guid>
+            <pubDate>Thu, 10 Aug 2017 05:32:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IoT messaging protocol is big security risk]]></title>
             <description><![CDATA[<article><h1>IoT messaging protocol is big security risk</h1><p>The insecure implementation of the MQTT (Message Queue Telemetry Transport) protocol, an Oasis standard for IoT communication, by many IoT product vendors is contributing to the high risk of IoT devices on enterprise and home networks. Although TLS is recommended by the Cloud Security Alliance for secure communication with MQTT, most vendors appear to ignore transport security, making all communication open and available.</p><img src="https://images.techhive.com/images/article/2017/05/wifi-iot-100722302-large.3x2.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://software.intel.com/modern-code/code-samples?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Modern_Code_Supporters_EMEA&amp;utm_campaign=DRD_17_49</link>
             <guid isPermaLink="false">4b56a1b7-7091-4467-9e4c-0a29c42eaae0</guid>
             <pubDate>Tue, 27 Jun 2017 15:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain: The New Technology of Trust]]></title>
-            <description><![CDATA[<article><h1>Blockchain: The New Technology of Trust</h1><p>Beyond just Bitcoin, learn how blockchain technology is transforming how we interact with the world with our immersive infographic:</p><img src="http://www.goldmansachs.com/our-thinking/pages/blockchain/800x450.jpg"></article>]]></description>
-            <link>http://www.goldmansachs.com/our-thinking/pages/blockchain/</link>
-            <guid isPermaLink="false">191b0c2b-e040-40d5-adff-e204813f9102</guid>
-            <pubDate>Tue, 27 Jun 2017 12:43:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
