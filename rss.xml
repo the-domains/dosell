@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Aug 2017 05:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2017 08:18:38 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Aug 2017 05:32:54 GMT</pubDate>
+        <pubDate>Sat, 12 Aug 2017 08:18:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[OpenAI]]></title>
+            <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence.</p><img src="https://openai.com/assets/images/opengraph/og_image-1cfd63ae6b.png"></article>]]></description>
+            <link>https://openai.com/</link>
+            <guid isPermaLink="false">9aeef063-0be5-4877-8451-db9af5810063</guid>
+            <pubDate>Sat, 12 Aug 2017 08:18:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The key principles of vehicle cyber security for connected and automated vehicles - GOV.UK]]></title>
             <description><![CDATA[<article><h1>The key principles of vehicle cyber security for connected and automated vehicles - GOV.UK</h1><p>As vehicles get smarter, cyber security in the automotive industry is becoming an increasing concern. Whether we&apos;re turning cars into wifi connected hotspots or equipping them with millions of lines of code to create fully autonomous vehicles, cars are more vulnerable than ever to hacking and data theft.</p><img src="https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners?imm_mid=0f3eba&amp;cmp=em-data-na-na-newsltr_20170628</link>
             <guid isPermaLink="false">e09f6a9a-d0f5-40bd-a538-4f2c906fe341</guid>
             <pubDate>Fri, 30 Jun 2017 06:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Code Samples | Intel® Software]]></title>
-            <description><![CDATA[<article><h1>Code Samples | Intel&reg; Software</h1><p>This two-part series discusses how data and memory layout affect performance and suggests specific steps to improve software performance. The basic steps shown can yield significant performance gains.</p><img src="https://software.intel.com/sites/default/files/managed/fb/66/improve-vert-perf-intel-advanced-vector-512-fig-1.jpg"></article>]]></description>
-            <link>https://software.intel.com/modern-code/code-samples?utm_source=Facebook&amp;utm_medium=banner&amp;utm_content=Modern_Code_Supporters_EMEA&amp;utm_campaign=DRD_17_49</link>
-            <guid isPermaLink="false">4b56a1b7-7091-4467-9e4c-0a29c42eaae0</guid>
-            <pubDate>Tue, 27 Jun 2017 15:07:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
