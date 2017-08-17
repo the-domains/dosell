@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Aug 2017 08:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2017 06:07:36 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Aug 2017 08:18:36 GMT</pubDate>
+        <pubDate>Thu, 17 Aug 2017 06:07:30 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blockstack]]></title>
+            <description><![CDATA[<article><h1>Blockstack</h1><p>Blockstack is a new decentralized internet where users own their data and apps run locally. Take back control over your digital life. A browser portal is all you need to get started.</p><img src="https://blockstack.org/images/metatags/twitter-image.png"></article>]]></description>
+            <link>https://blockstack.org/</link>
+            <guid isPermaLink="false">83bc3b70-09a3-4919-ae35-a6dec5eca2b0</guid>
+            <pubDate>Thu, 17 Aug 2017 06:07:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenAI]]></title>
             <description><![CDATA[<article><h1>OpenAI</h1><p>OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence.</p><img src="https://openai.com/assets/images/opengraph/og_image-1cfd63ae6b.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://mashable.com/2017/06/29/microsoft-puts-ai-on-a-raspberry-pi/?utm_cid=mash-com-fb-main-link#Ns6.7y2PtaqO</link>
             <guid isPermaLink="false">25fa5103-7ac4-4ec7-987e-63631a08c580</guid>
             <pubDate>Sun, 02 Jul 2017 06:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generative Adversarial Networks for Beginners]]></title>
-            <description><![CDATA[<article><h1>Generative Adversarial Networks for Beginners</h1><p>You can download and modify the code from this tutorial on GitHub here. According to Yann LeCun, &quot;adversarial training is the coolest thing since sliced bread.&quot; Sliced bread certainly never created this much excitement within the deep learning community.</p><img src="https://d3tdunqjn7n0wj.cloudfront.net/1400x933/poster-7a64c10cf8bd4ccaa9c11e5e787ddd3b.png"></article>]]></description>
-            <link>https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners?imm_mid=0f3eba&amp;cmp=em-data-na-na-newsltr_20170628</link>
-            <guid isPermaLink="false">e09f6a9a-d0f5-40bd-a538-4f2c906fe341</guid>
-            <pubDate>Fri, 30 Jun 2017 06:03:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
