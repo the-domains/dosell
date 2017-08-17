@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Aug 2017 06:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2017 14:41:44 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Aug 2017 06:07:41 GMT</pubDate>
+        <pubDate>Thu, 17 Aug 2017 14:41:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[OpenMined Introduction]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsXFmKquiVnk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsXFmKquiVnk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsXFmKquiVnk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/sXFmKquiVnk</link>
+            <guid isPermaLink="false">c4805b82-b0ea-4e59-aef5-ef8514ea01a3</guid>
+            <pubDate>Thu, 17 Aug 2017 14:41:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What does AI mean for the future of manufacture?]]></title>
             <description><![CDATA[<article><h1>What does AI mean for the future of manufacture?</h1><p>The world is on the brink of the fourth industrial revolution, and it could change the way we use everything from cars to shoes. The first three industrial revolutions brought us mechanisation, mass production and automation. Now, more than half a century after the first robots worked on production lines, artificial intelligence (AI) and machine learning are shaking things up again.</p><img src="http://www.telegraph.co.uk/content/dam/business/spark/social-innovation/factory-supervisor-using-interactive-display-xlarge.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.udacity.com/2017/08/3-industries-using-machine-learning.html</link>
             <guid isPermaLink="false">d33a946d-999f-4c4d-bcb3-29dfa941f405</guid>
             <pubDate>Fri, 04 Aug 2017 05:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[62% of cybersecurity experts believe AI will be weaponized in next year]]></title>
-            <description><![CDATA[<article><h1>62% of cybersecurity experts believe AI will be weaponized in next year</h1><p>Some 62% of security experts believe that artificial intelligence (AI) will be weaponized and used for cyberattacks within the next 12 months, a Cylance survey released Tuesday found. This makes the growth of AI a double-edge sword, according to Cylance&apos;s blog post on the finding.</p><img src="https://tr3.cbsistatic.com/hub/i/r/2017/08/01/8c867f91-722d-45d0-a369-7b169b2104fb/thumbnail/770x578/9f0b997b044a0f167c4a6737612d58a9/securityai.jpg"></article>]]></description>
-            <link>http://www.techrepublic.com/article/62-of-cybersecurity-experts-believe-ai-will-be-weaponized-in-next-year/</link>
-            <guid isPermaLink="false">504d50a8-f530-4fc6-bfb2-fd0737b41876</guid>
-            <pubDate>Fri, 04 Aug 2017 05:04:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
