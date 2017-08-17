@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Aug 2017 14:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2017 14:42:10 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Aug 2017 14:41:22 GMT</pubDate>
+        <pubDate>Thu, 17 Aug 2017 14:41:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[deeplearn.js]]></title>
+            <description><![CDATA[<article><h1>deeplearn.js</h1><p>a hardware-accelerated machine intelligence library for the web</p><img src="https://pair-code.github.io/deeplearnjs/preview.png"></article>]]></description>
+            <link>https://pair-code.github.io/deeplearnjs/index.html</link>
+            <guid isPermaLink="false">6530ff67-5bee-4e92-9829-f4a94367b61d</guid>
+            <pubDate>Thu, 17 Aug 2017 14:41:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenMined Introduction]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsXFmKquiVnk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsXFmKquiVnk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsXFmKquiVnk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.forbes.com/sites/gilpress/2017/08/06/ibm-introduces-the-robot-super-brain/?s=trending#726a73a31365</link>
             <guid isPermaLink="false">0c9f5507-3cc1-459d-8f1d-553bdcbda97b</guid>
             <pubDate>Tue, 08 Aug 2017 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Industries You Probably Didn't Know Were Using Machine Learning | Udacity]]></title>
-            <description><![CDATA[<article><h1>3 Industries You Probably Didn&apos;t Know Were Using Machine Learning | Udacity</h1><p>Say Machine Learning to someone, and if they recognize the term, they&apos;ll probably think, &quot;tech company.&quot; But while the origin stories of transformative technologies like machine learning, deep learning, and artificial intelligence often seem to take root in Silicon Valley, the truth is these are industry-agnostic innovations.</p><img src="http://blog.udacity.com/wp-content/uploads/2017/08/Agriculture-Machine-Learning-Udacity.jpg"></article>]]></description>
-            <link>http://blog.udacity.com/2017/08/3-industries-using-machine-learning.html</link>
-            <guid isPermaLink="false">d33a946d-999f-4c4d-bcb3-29dfa941f405</guid>
-            <pubDate>Fri, 04 Aug 2017 05:04:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
