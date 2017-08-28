@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Aug 2017 14:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2017 06:09:14 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Aug 2017 14:41:25 GMT</pubDate>
+        <pubDate>Mon, 28 Aug 2017 06:09:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Business of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
+            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
+            <guid isPermaLink="false">a02dbb06-3087-4f69-873d-75df70db0819</guid>
+            <pubDate>Mon, 28 Aug 2017 06:09:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[deeplearn.js]]></title>
             <description><![CDATA[<article><h1>deeplearn.js</h1><p>a hardware-accelerated machine intelligence library for the web</p><img src="https://pair-code.github.io/deeplearnjs/preview.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hbr.org/2017/02/a-brief-history-of-blockchain?utm_content=bufferedadc&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">ac41dcb3-ce6f-4878-b761-ab88423ce42b</guid>
             <pubDate>Tue, 08 Aug 2017 05:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Introduces The Robot Super-Brain]]></title>
-            <description><![CDATA[<article><h1>IBM Introduces The Robot Super-Brain</h1><p>This week&apos;s milestones in the history of technology include the introduction of IBM&apos;s first large computer in 1944 and its first PC in 1981, Netscape IPO and the start of the dot-com bubble, the first email from space, and the invention of the mimeograph and the pay phone.</p><img src="https://specials-images.forbesimg.com/imageserve/682219105/960x0.jpg?fit=scale"></article>]]></description>
-            <link>https://www.forbes.com/sites/gilpress/2017/08/06/ibm-introduces-the-robot-super-brain/?s=trending#726a73a31365</link>
-            <guid isPermaLink="false">0c9f5507-3cc1-459d-8f1d-553bdcbda97b</guid>
-            <pubDate>Tue, 08 Aug 2017 05:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
