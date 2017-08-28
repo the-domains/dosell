@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Aug 2017 06:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2017 06:09:29 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Aug 2017 06:09:11 GMT</pubDate>
+        <pubDate>Mon, 28 Aug 2017 06:09:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[Smart Devices Can Be Hijacked to Track Your Body Movements And Activities Remotely]]></title>
+            <description><![CDATA[<article><h1>Smart Devices Can Be Hijacked to Track Your Body Movements And Activities Remotely</h1><p>If your smartphones, tablets, smart refrigerators, smart TVs and other smart devices are smart enough to make your life easier, their smart behavior could also be leveraged by hackers to steal data, invade your privacy or spy on you, if not secured properly.</p><img src="https://4.bp.blogspot.com/-U3lSjg7AXrQ/WZlgeNM9RZI/AAAAAAAAADY/BtJv_RFdHeAIgTgAEOZEAHpn9YQAuP7pgCLcBGAs/s1600/hacking-news.png"></article>]]></description>
+            <link>http://thehackernews.com/2017/08/hacking-track-movements.html?_m=3n.009a.1561.bb0ao088zs.xqw&amp;es_p=4803795&amp;m=1</link>
+            <guid isPermaLink="false">7c9715da-2283-4fa6-915a-9d53f6de7a3c</guid>
+            <pubDate>Mon, 28 Aug 2017 06:09:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Business of Artificial Intelligence]]></title>
             <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://searchsdn.techtarget.com/news/450423763/Cisco-says-blockchain-ledger-technology-has-networking-role?utm_medium=EM&amp;asrc=EM_NLN_80943137&amp;utm_campaign=20170807_Cisco%20predicts%20blockchain%20to%20have%20upcoming%20role%20in%20network%20management&amp;utm_source=NLN&amp;track=NL-1817&amp;ad=915850&amp;src=915850</link>
             <guid isPermaLink="false">29e92126-9dab-418e-9d05-e9e09a215875</guid>
             <pubDate>Tue, 08 Aug 2017 05:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Brief History of Blockchain]]></title>
-            <description><![CDATA[<article><h1>A Brief History of Blockchain</h1><p>Many of the technologies we now take for granted were quiet revolutions in their time. Just think about how much smartphones have changed the way we live and work. It used to be that when people were out of the office, they were gone, because a telephone was tied to a place, not to a person.</p><img src="https://hbr.org/resources/images/article_assets/2017/02/feb17-28-687784913.jpg"></article>]]></description>
-            <link>https://hbr.org/2017/02/a-brief-history-of-blockchain?utm_content=bufferedadc&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">ac41dcb3-ce6f-4878-b761-ab88423ce42b</guid>
-            <pubDate>Tue, 08 Aug 2017 05:27:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
