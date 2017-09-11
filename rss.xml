@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Sep 2017 07:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2017 07:57:17 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 Sep 2017 07:56:59 GMT</pubDate>
+        <pubDate>Mon, 11 Sep 2017 07:57:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hackers Can Silently Control Siri, Alexa & Other Voice Assistants Using Ultrasound]]></title>
+            <description><![CDATA[<article><h1>Hackers Can Silently Control Siri, Alexa &amp; Other Voice Assistants Using Ultrasound</h1><p>What if your smartphone starts making calls, sending text messages, and browsing malicious websites on the Internet itself without even asking you? This is no imaginations, as hackers can make this possible using your smartphone&apos;s personal assistant like Siri or Google Now.</p><img src="https://4.bp.blogspot.com/-8tb8Zwn4iI8/WbEAQn3UuxI/AAAAAAAAAEA/WFZIaTxA13kY5CoTcsmIXF9aM--dounLgCLcBGAs/s1600/ultrasound-hacking.png"></article>]]></description>
+            <link>http://thehackernews.com/2017/09/ai-digital-voice-assistants.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+TheHackersNews+(The+Hackers+News+-+Security+Blog)&amp;_m=3n.009a.1574.bb0ao088zs.y2a&amp;es_p=4879186&amp;m=1</link>
+            <guid isPermaLink="false">804c10ee-f090-4c44-a1ba-cd31b0c12a41</guid>
+            <pubDate>Mon, 11 Sep 2017 07:57:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Internet Of Things' Massive Security Problem, Visualized]]></title>
             <description><![CDATA[<article><h1>The Internet Of Things&apos; Massive Security Problem, Visualized</h1><p>Earlier this year, the usernames and passwords for more than 8,000 internet of things devices were posted online so hackers could easily access them. The security breach was a perfect illustration of the IoT&apos;s security problems: Of the 8,000+ username and password combinations, only 142 were unique.</p><img src="https://assets.fastcompany.com/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/sites/4/2017/08/p-1-admin-admin-is-the-username-and-password-for-half-of-leaked-iot-devices.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.gov.uk/government/publications/principles-of-cyber-security-for-connected-and-automated-vehicles/the-key-principles-of-vehicle-cyber-security-for-connected-and-automated-vehicles</link>
             <guid isPermaLink="false">b04e22c0-1ab6-41dc-a297-0568d00367f9</guid>
             <pubDate>Thu, 10 Aug 2017 05:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IoT messaging protocol is big security risk]]></title>
-            <description><![CDATA[<article><h1>IoT messaging protocol is big security risk</h1><p>The insecure implementation of the MQTT (Message Queue Telemetry Transport) protocol, an Oasis standard for IoT communication, by many IoT product vendors is contributing to the high risk of IoT devices on enterprise and home networks. Although TLS is recommended by the Cloud Security Alliance for secure communication with MQTT, most vendors appear to ignore transport security, making all communication open and available.</p><img src="https://images.techhive.com/images/article/2017/05/wifi-iot-100722302-large.3x2.jpg"></article>]]></description>
-            <link>http://www.csoonline.com/article/3207770/internet-of-things/iot-messaging-protocol-is-big-security-risk.html?es_p=4691313</link>
-            <guid isPermaLink="false">48db575e-1a14-412c-be38-2882d2e7f2d5</guid>
-            <pubDate>Thu, 10 Aug 2017 05:32:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
