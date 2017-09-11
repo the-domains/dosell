@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Sep 2017 07:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2017 13:29:46 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 Sep 2017 07:57:10 GMT</pubDate>
+        <pubDate>Mon, 11 Sep 2017 13:29:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[Reshaping Business With Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>Reshaping Business With Artificial Intelligence</h1><p>Advertisement Expectations for artificial intelligence (AI) are sky-high, but what are businesses actually doing now? The goal of this report is to present a realistic baseline that allows companies to compare their AI ambitions and efforts.</p><img src="http://sloanreview.mit.edu/content/uploads/2017/09/2017-AI-BCG-Report-Artificial-Intelligence-Business-1200x627.jpg"></article>]]></description>
+            <link>http://sloanreview.mit.edu/projects/reshaping-business-with-artificial-intelligence/?imm_mid=0f5f74&amp;cmp=em-data-na-na-newsltr_ai_20170911</link>
+            <guid isPermaLink="false">7edbf770-c4aa-4bb0-ad42-ebeca0e47eec</guid>
+            <pubDate>Mon, 11 Sep 2017 13:29:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hackers Can Silently Control Siri, Alexa & Other Voice Assistants Using Ultrasound]]></title>
             <description><![CDATA[<article><h1>Hackers Can Silently Control Siri, Alexa &amp; Other Voice Assistants Using Ultrasound</h1><p>What if your smartphone starts making calls, sending text messages, and browsing malicious websites on the Internet itself without even asking you? This is no imaginations, as hackers can make this possible using your smartphone&apos;s personal assistant like Siri or Google Now.</p><img src="https://4.bp.blogspot.com/-8tb8Zwn4iI8/WbEAQn3UuxI/AAAAAAAAAEA/WFZIaTxA13kY5CoTcsmIXF9aM--dounLgCLcBGAs/s1600/ultrasound-hacking.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://openai.com/</link>
             <guid isPermaLink="false">9aeef063-0be5-4877-8451-db9af5810063</guid>
             <pubDate>Sat, 12 Aug 2017 08:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The key principles of vehicle cyber security for connected and automated vehicles - GOV.UK]]></title>
-            <description><![CDATA[<article><h1>The key principles of vehicle cyber security for connected and automated vehicles - GOV.UK</h1><p>As vehicles get smarter, cyber security in the automotive industry is becoming an increasing concern. Whether we&apos;re turning cars into wifi connected hotspots or equipping them with millions of lines of code to create fully autonomous vehicles, cars are more vulnerable than ever to hacking and data theft.</p><img src="https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png"></article>]]></description>
-            <link>https://www.gov.uk/government/publications/principles-of-cyber-security-for-connected-and-automated-vehicles/the-key-principles-of-vehicle-cyber-security-for-connected-and-automated-vehicles</link>
-            <guid isPermaLink="false">b04e22c0-1ab6-41dc-a297-0568d00367f9</guid>
-            <pubDate>Thu, 10 Aug 2017 05:32:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
