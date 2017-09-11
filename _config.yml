@@ -1,10 +1,23 @@
+layout_spectrum: 0.2881058942878822
+typography_spectrum: 0.13232645275882712
+color:
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  brandStrength: 0.5489969712351034
+  lightness: 0.8553936271481032
+  saturation: 0.14171806182398802
+  rhythmicContrast: 0.6523903472805488
+coverPrefs:
+  filter: false
 name: LabShare Engineering Blog
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc37d846-eaeb-4af4-afad-834ce619a0ec.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2642fcfd-e58d-414d-a380-36bc1ac340a2.png
-layout_spectrum: 0.17987976768035627
-typography_spectrum: 0.24667427840070927
 cta: {}
 analytics:
   google: UA-71835463-1
@@ -13,17 +26,6 @@ opengraph:
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f317b41-c1ce-4230-b0c1-8fffedc43688.jpg
-color:
-  brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-  brandStrength: 0.8693458878305178
-  lightness: 0.17508673953832968
-  saturation: 0.9390946164466256
-  rhythmicContrast: 0.6854460190222738
 purpose:
   - type: contact
     label: Contact me
