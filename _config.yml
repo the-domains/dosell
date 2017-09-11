@@ -1,45 +1,51 @@
-layout_spectrum: 0.9064123767902983
-typography_spectrum: 0.26767952630453107
-color:
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  brandStrength: 0.4802302717956908
-  lightness: 0.4053860661504551
-  saturation: 0.2759279725762398
-  rhythmicContrast: 0.062352427866420534
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
+name: LabShare Engineering Blog
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc37d846-eaeb-4af4-afad-834ce619a0ec.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2642fcfd-e58d-414d-a380-36bc1ac340a2.png
+layout_spectrum: 0.17987976768035627
+typography_spectrum: 0.24667427840070927
+cta: {}
+analytics:
+  google: UA-71835463-1
 opengraph:
   type: ''
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f317b41-c1ce-4230-b0c1-8fffedc43688.jpg
-analytics:
-  google: UA-71835463-1
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.8693458878305178
+  lightness: 0.17508673953832968
+  saturation: 0.9390946164466256
+  rhythmicContrast: 0.6854460190222738
+purpose:
+  - type: contact
+    label: Contact me
+    url: 'mailto:tibor.zahorecz@dosell.io'
+  - type: external
+    label: Engineering Services
+    url: 'https://www.labsharegroup.com/'
+title: LabShare Engineering Blog
+description: 'Engineering, Software Security, Software Development'
 author:
   name: Tibor Zahorecz
   url: 'http://www.labsharegroup.com/'
   email: tibor.zahorecz@dosell.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2642fcfd-e58d-414d-a380-36bc1ac340a2.png
-name: LabShare Engineering Blog
-cta: {}
+content_rating:
+  adult: false
 navigation:
-  - name: Open Innovation Platform
+  - name: Software Security Experts
     url: 'https://www.labsharegroup.com/'
     type: external
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc37d846-eaeb-4af4-afad-834ce619a0ec.png
-title: LabShare Engineering Blog
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -50,16 +56,10 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: DoSell
-          url: 'https://www.youtube.com/channel/UCMSQTFDkisNiUKcI78zmZ5A'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=uFM4DaUotwg'
+      inLanguage: en
       keywords:
         - dosell
         - labshare
@@ -71,59 +71,19 @@ content:
         - build
         - '105'
         - venture
-      description: introduction
-      inLanguage: en
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=uFM4DaUotwg&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=uFM4DaUotwg'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=uFM4DaUotwg
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=uFM4DaUotwg
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=uFM4DaUotwg'
       title: DoSell short
-      datePublished: null
+      publisher:
+        name: YouTube
+        domain: www.youtube.com
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: DoSell
+          url: 'https://www.youtube.com/channel/UCMSQTFDkisNiUKcI78zmZ5A'
+          avatar: {}
+      starred: false
+      description: introduction
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Engineering, Software Security, Software Development'
-purpose:
-  - type: contact
-    url: 'mailto:tibor.zahorecz@dosell.io'
-    label: Contact me
-  - type: external
-    url: 'https://www.labsharegroup.com/'
-    label: Engineering Services
 github: true
