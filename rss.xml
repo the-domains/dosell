@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Aug 2017 06:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2017 07:57:10 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Aug 2017 06:09:21 GMT</pubDate>
+        <pubDate>Mon, 11 Sep 2017 07:56:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Internet Of Things' Massive Security Problem, Visualized]]></title>
+            <description><![CDATA[<article><h1>The Internet Of Things&apos; Massive Security Problem, Visualized</h1><p>Earlier this year, the usernames and passwords for more than 8,000 internet of things devices were posted online so hackers could easily access them. The security breach was a perfect illustration of the IoT&apos;s security problems: Of the 8,000+ username and password combinations, only 142 were unique.</p><img src="https://assets.fastcompany.com/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/sites/4/2017/08/p-1-admin-admin-is-the-username-and-password-for-half-of-leaked-iot-devices.jpg"></article>]]></description>
+            <link>https://www.fastcodesign.com/90138467/the-internet-of-things-massive-security-problem-visualized?partner=rss</link>
+            <guid isPermaLink="false">15190f2a-06d1-4a61-987e-a8b8b49ec722</guid>
+            <pubDate>Mon, 11 Sep 2017 07:56:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smart Devices Can Be Hijacked to Track Your Body Movements And Activities Remotely]]></title>
             <description><![CDATA[<article><h1>Smart Devices Can Be Hijacked to Track Your Body Movements And Activities Remotely</h1><p>If your smartphones, tablets, smart refrigerators, smart TVs and other smart devices are smart enough to make your life easier, their smart behavior could also be leveraged by hackers to steal data, invade your privacy or spy on you, if not secured properly.</p><img src="https://4.bp.blogspot.com/-U3lSjg7AXrQ/WZlgeNM9RZI/AAAAAAAAADY/BtJv_RFdHeAIgTgAEOZEAHpn9YQAuP7pgCLcBGAs/s1600/hacking-news.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.csoonline.com/article/3207770/internet-of-things/iot-messaging-protocol-is-big-security-risk.html?es_p=4691313</link>
             <guid isPermaLink="false">48db575e-1a14-412c-be38-2882d2e7f2d5</guid>
             <pubDate>Thu, 10 Aug 2017 05:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cisco says blockchain ledger technology has networking role]]></title>
-            <description><![CDATA[<article><h1>Cisco says blockchain ledger technology has networking role</h1><p>Cisco believes blockchain is likely to play a significant role in network management with early adopters of the distributed ledger technology surfacing within three years. Cisco is helping to steer blockchain&apos;s ascendancy in networking through membership in industry development efforts.</p><img src="http://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"></article>]]></description>
-            <link>http://searchsdn.techtarget.com/news/450423763/Cisco-says-blockchain-ledger-technology-has-networking-role?utm_medium=EM&amp;asrc=EM_NLN_80943137&amp;utm_campaign=20170807_Cisco%20predicts%20blockchain%20to%20have%20upcoming%20role%20in%20network%20management&amp;utm_source=NLN&amp;track=NL-1817&amp;ad=915850&amp;src=915850</link>
-            <guid isPermaLink="false">29e92126-9dab-418e-9d05-e9e09a215875</guid>
-            <pubDate>Tue, 08 Aug 2017 05:28:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
