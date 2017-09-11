@@ -29,7 +29,7 @@ purpose:
     label: Contact me
     url: 'mailto:tibor.zahorecz@dosell.io'
   - type: external
-    label: Engineering Services
+    label: Software Security Experts
     url: 'https://www.labsharegroup.com/'
 title: LabShare Engineering Blog
 description: 'Engineering, Software Security, Software Development'
