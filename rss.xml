@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Sep 2017 06:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2017 15:10:18 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 Sep 2017 06:09:52 GMT</pubDate>
+        <pubDate>Thu, 21 Sep 2017 15:10:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blockchain Protocol Analysis and Security Engineering 2017 | Cyber Initiative]]></title>
+            <description><![CDATA[<article><h1>Blockchain Protocol Analysis and Security Engineering 2017 | Cyber Initiative</h1><p>January 26-27 2017, Paul Brest Hall, Stanford University Video recordings and slides, where provided by presenters, are posted with talk titles below. The conference will explore the use of formal methods, empirical analysis, and risk modeling to better understand security and systemic risk in blockchain protocols.</p><img src="https://cyber.stanford.edu/sites/all/themes/stanford_framework/images/footer-stanford-logo@2x.png"></article>]]></description>
+            <link>https://cyber.stanford.edu/blockchainconf</link>
+            <guid isPermaLink="false">d186b082-931d-4be8-9c91-3294e88b93ce</guid>
+            <pubDate>Thu, 21 Sep 2017 15:10:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Billions of Devices Potentially Exposed to New Bluetooth Attack | SecurityWeek.Com]]></title>
             <description><![CDATA[<article><h1>Billions of Devices Potentially Exposed to New Bluetooth Attack | SecurityWeek.Com</h1><p>Billions of Android, iOS, Windows and Linux devices that use Bluetooth may be exposed to a new attack that can be carried out remotely without any user interaction, researchers warned. Armis Labs, a company that specializes in protecting Internet of Things (IoT) devices, has discovered a total of eight Bluetooth implementation vulnerabilities that expose mobile, desktop and IoT systems to an attack it has dubbed &quot;BlueBorne.&quot;</p><img src="http://www.securityweek.com/sites/default/files/imagecache/auth_story/pictures/picture-106.gif"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.telegraph.co.uk/business/social-innovation/artificial-intelligence-future-of-manufacture/</link>
             <guid isPermaLink="false">1e6742e5-6ca6-4788-8939-ec22de2d8c36</guid>
             <pubDate>Thu, 17 Aug 2017 06:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockstack]]></title>
-            <description><![CDATA[<article><h1>Blockstack</h1><p>Blockstack is a new decentralized internet where users own their data and apps run locally. Take back control over your digital life. A browser portal is all you need to get started.</p><img src="https://blockstack.org/images/metatags/twitter-image.png"></article>]]></description>
-            <link>https://blockstack.org/</link>
-            <guid isPermaLink="false">83bc3b70-09a3-4919-ae35-a6dec5eca2b0</guid>
-            <pubDate>Thu, 17 Aug 2017 06:07:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
