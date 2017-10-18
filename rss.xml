@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Oct 2017 06:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2017 06:05:47 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Oct 2017 06:38:59 GMT</pubDate>
+        <pubDate>Wed, 18 Oct 2017 06:05:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FcWzi38-vDbE&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWzi38-vDbE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FcWzi38-vDbE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/cWzi38-vDbE</link>
+            <guid isPermaLink="false">95065992-d756-4b8f-97f2-e3042b9d80a3</guid>
+            <pubDate>Wed, 18 Oct 2017 06:05:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchains: How They Work and Why They'll Change the World]]></title>
             <description><![CDATA[<article><h1>Blockchains: How They Work and Why They&apos;ll Change the World</h1><p>Jump to Sections in this Feature Bitcoin was hatched as an act of defiance. Unleashed in the wake of the Great Recession, the cryptocurrency was touted by its early champions as an antidote to the inequities and corruption of the traditional financial system.</p><img src="https://spectrum.ieee.org/image/Mjk1NzQ0NA.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://pair-code.github.io/deeplearnjs/index.html</link>
             <guid isPermaLink="false">6530ff67-5bee-4e92-9829-f4a94367b61d</guid>
             <pubDate>Thu, 17 Aug 2017 14:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenMined Introduction]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsXFmKquiVnk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsXFmKquiVnk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsXFmKquiVnk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/sXFmKquiVnk</link>
-            <guid isPermaLink="false">c4805b82-b0ea-4e59-aef5-ef8514ea01a3</guid>
-            <pubDate>Thu, 17 Aug 2017 14:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
