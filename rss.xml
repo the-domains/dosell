@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Oct 2017 06:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2017 08:10:08 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Oct 2017 06:05:41 GMT</pubDate>
+        <pubDate>Wed, 01 Nov 2017 08:10:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[IBM Can Run an Experimental AI in Memory, Not on Processors]]></title>
+            <description><![CDATA[<article><h1>IBM Can Run an Experimental AI in Memory, Not on Processors</h1><p>Don&apos;t throw out your CPUs just yet, but there may be a new way to run your neural networks. In the regular world of computing-whether you&apos;re running exotic deep learning algorithms or just using Excel-calculations are usually performed on a processor while data is passed back and forth to the memory.</p><img src="https://cdn.technologyreview.com/i/images/37830752576049b3bd4deb.jpg?sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/the-download/609205/ibm-can-run-an-experimental-ai-in-memory-not-on-processors/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social</link>
+            <guid isPermaLink="false">ff8f7a46-1e59-4208-9682-3decfef2be2a</guid>
+            <pubDate>Wed, 01 Nov 2017 08:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FcWzi38-vDbE&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWzi38-vDbE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FcWzi38-vDbE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
             <guid isPermaLink="false">a02dbb06-3087-4f69-873d-75df70db0819</guid>
             <pubDate>Mon, 28 Aug 2017 06:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[deeplearn.js]]></title>
-            <description><![CDATA[<article><h1>deeplearn.js</h1><p>a hardware-accelerated machine intelligence library for the web</p><img src="https://pair-code.github.io/deeplearnjs/preview.png"></article>]]></description>
-            <link>https://pair-code.github.io/deeplearnjs/index.html</link>
-            <guid isPermaLink="false">6530ff67-5bee-4e92-9829-f4a94367b61d</guid>
-            <pubDate>Thu, 17 Aug 2017 14:41:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
