@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Nov 2017 08:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2017 06:23:04 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Nov 2017 08:10:03 GMT</pubDate>
+        <pubDate>Thu, 23 Nov 2017 06:23:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[IoT devices are an enterprise security time bomb | ZDNet]]></title>
+            <description><![CDATA[<article><h1>IoT devices are an enterprise security time bomb | ZDNet</h1><p>The Internet of Things (IoT) is causing serious security concerns for enterprises worldwide with few companies capable of securing them as they are unable to identify devices properly, according to new research. On Wednesday, ForeScout Technologies revealed the results of a new survey into the challenges IoT poses for the enterprise.</p><img src="https://zdnet1.cbsistatic.com/hub/i/r/2017/11/06/7a56be9f-c95e-478e-8c29-2848cce2fdb8/thumbnail/770x578/44cb72c8ff9f83a1a6c8b1ec7b4e36ab/cipher-herocredcnet.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/iot-devices-are-an-enterprise-security-time-bomb/?es_p=5482141</link>
+            <guid isPermaLink="false">1ea2095b-2772-49be-a36a-7f85dae30caf</guid>
+            <pubDate>Thu, 23 Nov 2017 06:23:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IBM Can Run an Experimental AI in Memory, Not on Processors]]></title>
             <description><![CDATA[<article><h1>IBM Can Run an Experimental AI in Memory, Not on Processors</h1><p>Don&apos;t throw out your CPUs just yet, but there may be a new way to run your neural networks. In the regular world of computing-whether you&apos;re running exotic deep learning algorithms or just using Excel-calculations are usually performed on a processor while data is passed back and forth to the memory.</p><img src="https://cdn.technologyreview.com/i/images/37830752576049b3bd4deb.jpg?sw=1200"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://thehackernews.com/2017/08/hacking-track-movements.html?_m=3n.009a.1561.bb0ao088zs.xqw&amp;es_p=4803795&amp;m=1</link>
             <guid isPermaLink="false">7c9715da-2283-4fa6-915a-9d53f6de7a3c</guid>
             <pubDate>Mon, 28 Aug 2017 06:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Business of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>The Business of Artificial Intelligence</h1><p>For more than 250 years the fundamental drivers of economic growth have been technological innovations. The most important of these are what economists call general-purpose technologies - a category that includes the steam engine, electricity, and the internal combustion engine. Each one catalyzed waves of complementary innovations and opportunities.</p><img src="https://hbr.org/resources/images/article_assets/2017/07/AI-hero-premium.jpg"></article>]]></description>
-            <link>https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence</link>
-            <guid isPermaLink="false">a02dbb06-3087-4f69-873d-75df70db0819</guid>
-            <pubDate>Mon, 28 Aug 2017 06:09:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
