@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Nov 2017 06:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2017 07:20:28 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Nov 2017 06:23:02 GMT</pubDate>
+        <pubDate>Fri, 08 Dec 2017 07:20:24 GMT</pubDate>
+        <item>
+            <title><![CDATA[Quantum Computing Explained]]></title>
+            <description><![CDATA[<article><h1>Quantum Computing Explained</h1><p>In 1982, a scientific paper - &apos;Simulating Physics with Computers&apos; written by the f...</p><img src="https://s3-us-west-2.amazonaws.com/tile-s3-static-bucket/prod/media/user_uploads/user_122/project_coverimages/1510996379_78_quantumComputingExplained.png"></article>]]></description>
+            <link>http://www.clerro.com/mobile/guide/580/quantum-computing-explained</link>
+            <guid isPermaLink="false">ce248cd5-594a-41b3-bb67-f0af4e180b81</guid>
+            <pubDate>Fri, 08 Dec 2017 07:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IoT devices are an enterprise security time bomb | ZDNet]]></title>
             <description><![CDATA[<article><h1>IoT devices are an enterprise security time bomb | ZDNet</h1><p>The Internet of Things (IoT) is causing serious security concerns for enterprises worldwide with few companies capable of securing them as they are unable to identify devices properly, according to new research. On Wednesday, ForeScout Technologies revealed the results of a new survey into the challenges IoT poses for the enterprise.</p><img src="https://zdnet1.cbsistatic.com/hub/i/r/2017/11/06/7a56be9f-c95e-478e-8c29-2848cce2fdb8/thumbnail/770x578/44cb72c8ff9f83a1a6c8b1ec7b4e36ab/cipher-herocredcnet.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.fastcodesign.com/90138467/the-internet-of-things-massive-security-problem-visualized?partner=rss</link>
             <guid isPermaLink="false">15190f2a-06d1-4a61-987e-a8b8b49ec722</guid>
             <pubDate>Mon, 11 Sep 2017 07:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smart Devices Can Be Hijacked to Track Your Body Movements And Activities Remotely]]></title>
-            <description><![CDATA[<article><h1>Smart Devices Can Be Hijacked to Track Your Body Movements And Activities Remotely</h1><p>If your smartphones, tablets, smart refrigerators, smart TVs and other smart devices are smart enough to make your life easier, their smart behavior could also be leveraged by hackers to steal data, invade your privacy or spy on you, if not secured properly.</p><img src="https://4.bp.blogspot.com/-U3lSjg7AXrQ/WZlgeNM9RZI/AAAAAAAAADY/BtJv_RFdHeAIgTgAEOZEAHpn9YQAuP7pgCLcBGAs/s1600/hacking-news.png"></article>]]></description>
-            <link>http://thehackernews.com/2017/08/hacking-track-movements.html?_m=3n.009a.1561.bb0ao088zs.xqw&amp;es_p=4803795&amp;m=1</link>
-            <guid isPermaLink="false">7c9715da-2283-4fa6-915a-9d53f6de7a3c</guid>
-            <pubDate>Mon, 28 Aug 2017 06:09:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
