@@ -4,9 +4,9 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Jan 2018 16:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2018 06:36:58 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jan 2018 16:18:25 GMT</pubDate>
+        <pubDate>Fri, 05 Jan 2018 06:36:56 GMT</pubDate>
         <item>
             <title><![CDATA['Kernel memory leaking' Intel processor design flaw forces Linux, Windows redesign]]></title>
             <description><![CDATA[<article><h1>&apos;Kernel memory leaking&apos; Intel processor design flaw forces Linux, Windows redesign</h1><p>A fundamental design flaw in Intel&apos;s processor chips has forced a significant redesign of the Linux and Windows kernels to defang the chip-level security bug. Programmers are scrambling to overhaul the open-source Linux kernel&apos;s virtual memory system, while Microsoft is expected to publicly introduce necessary changes to its Windows operating system in this month&apos;s Patch Tuesday.</p><img src="https://regmedia.co.uk/2016/02/03/malware_45656768.jpg?x=1200&y=794"></article>]]></description>
