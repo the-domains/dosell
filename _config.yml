@@ -1,16 +1,16 @@
-layout_spectrum: 0.6461541269533336
-typography_spectrum: 0.02821301801877078
+layout_spectrum: 0.5921419544533669
+typography_spectrum: 0.45472004391428195
 color:
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  brandStrength: 0.12463566655698831
-  lightness: 0.6843878367857658
-  saturation: 0.3848916999315198
-  rhythmicContrast: 0.8129314073531123
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  brandStrength: 0.30738313536178136
+  lightness: 0.7288172601973915
+  saturation: 0.5107735511569288
+  rhythmicContrast: 0.7243671777227543
 coverPrefs:
   filter: false
 name: LabShare Engineering Blog
