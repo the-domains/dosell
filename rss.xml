@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Feb 2018 06:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2018 18:51:43 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Feb 2018 06:23:43 GMT</pubDate>
+        <pubDate>Tue, 06 Feb 2018 18:51:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[SensorTile Curriculum: Introduction to Embedded Systems]]></title>
+            <description><![CDATA[<article><h1>SensorTile Curriculum: Introduction to Embedded Systems</h1><p>The SensorTile Curriculum is open source university-level coursework created for those seeking hands-on experience in real-time embedded systems based on Arm&reg;-Core microcontrollers. It is based on the SensorTile development kit, a new Internet-of-Things (IoT) system integrating a state-of-the-art Arm Cortex&reg; M4 MCU, wireless interfaces, and sensors.</p><img src="http://www.st.com/content/dam/sensortile-edu/BN_sensortile_main1_v2-min.jpg"></article>]]></description>
+            <link>http://www.st.com/content/st_com/en/campaigns/sensortile-edu.html</link>
+            <guid isPermaLink="false">2899dedf-3bdd-45a9-8f7b-b0b827d68e6b</guid>
+            <pubDate>Tue, 06 Feb 2018 18:51:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Truth About Blockchain]]></title>
             <description><![CDATA[<article><h1>The Truth About Blockchain</h1><p>In Brief The Hype We&apos;ve all heard that blockchain will revolutionize business, but it&apos;s going to take a lot longer than many people claim. The Reason Like TCP/IP (on which the internet was built), blockchain is a foundational technology that will require broad coordination. The level of complexity-technological, regulatory, and social-will be unprecedented.</p><img src="https://hbr.org/resources/images/article_assets/2016/11/R1701J_MOHAMED.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world</link>
             <guid isPermaLink="false">229155c4-ca1a-493a-9a9f-a2fd999577f1</guid>
             <pubDate>Fri, 06 Oct 2017 06:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Protocol Analysis and Security Engineering 2017 | Cyber Initiative]]></title>
-            <description><![CDATA[<article><h1>Blockchain Protocol Analysis and Security Engineering 2017 | Cyber Initiative</h1><p>January 26-27 2017, Paul Brest Hall, Stanford University Video recordings and slides, where provided by presenters, are posted with talk titles below. The conference will explore the use of formal methods, empirical analysis, and risk modeling to better understand security and systemic risk in blockchain protocols.</p><img src="https://cyber.stanford.edu/sites/all/themes/stanford_framework/images/footer-stanford-logo@2x.png"></article>]]></description>
-            <link>https://cyber.stanford.edu/blockchainconf</link>
-            <guid isPermaLink="false">d186b082-931d-4be8-9c91-3294e88b93ce</guid>
-            <pubDate>Thu, 21 Sep 2017 15:10:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
