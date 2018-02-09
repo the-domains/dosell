@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 06 Feb 2018 18:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2018 05:50:02 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Feb 2018 18:51:37 GMT</pubDate>
+        <pubDate>Fri, 09 Feb 2018 05:50:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[5 top machine learning use cases for security]]></title>
+            <description><![CDATA[<article><h1>5 top machine learning use cases for security</h1><p>At its simplest level, machine learning is defined as &quot;the ability (for computers) to learn without being explicitly programmed.&quot; Using mathematical techniques across huge datasets, machine learning algorithms essentially build models of behaviors and use those models as a basis for making future predictions based on newly input data.</p><img src="https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.3x2.jpg"></article>]]></description>
+            <link>https://www.csoonline.com/article/3240925/machine-learning/5-top-machine-learning-use-cases-for-security.html</link>
+            <guid isPermaLink="false">4f2d3d45-22ab-4668-86bc-47c1cdee22e9</guid>
+            <pubDate>Fri, 09 Feb 2018 05:49:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SensorTile Curriculum: Introduction to Embedded Systems]]></title>
             <description><![CDATA[<article><h1>SensorTile Curriculum: Introduction to Embedded Systems</h1><p>The SensorTile Curriculum is open source university-level coursework created for those seeking hands-on experience in real-time embedded systems based on Arm&reg;-Core microcontrollers. It is based on the SensorTile development kit, a new Internet-of-Things (IoT) system integrating a state-of-the-art Arm Cortex&reg; M4 MCU, wireless interfaces, and sensors.</p><img src="http://www.st.com/content/dam/sensortile-edu/BN_sensortile_main1_v2-min.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/cWzi38-vDbE</link>
             <guid isPermaLink="false">95065992-d756-4b8f-97f2-e3042b9d80a3</guid>
             <pubDate>Wed, 18 Oct 2017 06:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchains: How They Work and Why They'll Change the World]]></title>
-            <description><![CDATA[<article><h1>Blockchains: How They Work and Why They&apos;ll Change the World</h1><p>Jump to Sections in this Feature Bitcoin was hatched as an act of defiance. Unleashed in the wake of the Great Recession, the cryptocurrency was touted by its early champions as an antidote to the inequities and corruption of the traditional financial system.</p><img src="https://spectrum.ieee.org/image/Mjk1NzQ0NA.jpeg"></article>]]></description>
-            <link>https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world</link>
-            <guid isPermaLink="false">229155c4-ca1a-493a-9a9f-a2fd999577f1</guid>
-            <pubDate>Fri, 06 Oct 2017 06:38:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
