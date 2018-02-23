@@ -4,9 +4,23 @@
         <description><![CDATA[LabShare Engineering Blog]]></description>
         <link>http://labshare.tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Feb 2018 05:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2018 19:06:40 GMT</lastBuildDate>
         <atom:link href="http://labshare.tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Feb 2018 05:50:00 GMT</pubDate>
+        <pubDate>Fri, 23 Feb 2018 19:06:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[Blockchain Basics]]></title>
+            <description><![CDATA[<article><h1>Blockchain Basics</h1><p>This is a guide to help you develop a mental model of blockchain technology as well as its impact on society and business. We have compiled this guide to touch upon all the material you need to feel confident in your blockchain knowledge.</p><img src="https://s3.amazonaws.com/titlepages.leanpub.com/blockchainknowledgetree/medium?1518214417"></article>]]></description>
+            <link>https://leanpub.com/blockchainknowledgetree</link>
+            <guid isPermaLink="false">fafa3571-2067-4ec9-912d-216425e16231</guid>
+            <pubDate>Fri, 23 Feb 2018 19:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 use cases for blockchain in security]]></title>
+            <description><![CDATA[<article><h1>6 use cases for blockchain in security</h1><p>Blockchain is a decentralized, distributed electronic ledger built on the model of offering absolute security and trust. Using cryptography, transactions are recorded chronologically and publicly, each one time-stamped and linked to the previous one. Critically, these digital &apos;blocks&apos; can only be updated through the consensus of all participants, with data interception, modification and deletion near impossible.</p><img src="https://images.idgesg.net/images/article/2018/01/bitcoin_currency_blockchain_finance_bank_binary-100745936-large.3x2.jpg"></article>]]></description>
+            <link>https://www.csoonline.com/article/3252213/security/6-use-cases-for-blockchain-in-security.html</link>
+            <guid isPermaLink="false">a2a90361-d565-4731-8264-d7126c324773</guid>
+            <pubDate>Fri, 09 Feb 2018 05:50:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 top machine learning use cases for security]]></title>
             <description><![CDATA[<article><h1>5 top machine learning use cases for security</h1><p>At its simplest level, machine learning is defined as &quot;the ability (for computers) to learn without being explicitly programmed.&quot; Using mathematical techniques across huge datasets, machine learning algorithms essentially build models of behaviors and use those models as a basis for making future predictions based on newly input data.</p><img src="https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.3x2.jpg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://www.zdnet.com/article/iot-devices-are-an-enterprise-security-time-bomb/?es_p=5482141</link>
             <guid isPermaLink="false">1ea2095b-2772-49be-a36a-7f85dae30caf</guid>
             <pubDate>Thu, 23 Nov 2017 06:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Can Run an Experimental AI in Memory, Not on Processors]]></title>
-            <description><![CDATA[<article><h1>IBM Can Run an Experimental AI in Memory, Not on Processors</h1><p>Don&apos;t throw out your CPUs just yet, but there may be a new way to run your neural networks. In the regular world of computing-whether you&apos;re running exotic deep learning algorithms or just using Excel-calculations are usually performed on a processor while data is passed back and forth to the memory.</p><img src="https://cdn.technologyreview.com/i/images/37830752576049b3bd4deb.jpg?sw=1200"></article>]]></description>
-            <link>https://www.technologyreview.com/the-download/609205/ibm-can-run-an-experimental-ai-in-memory-not-on-processors/?utm_campaign=Owned+Social&amp;utm_source=Facebook&amp;utm_medium=Owned+Social</link>
-            <guid isPermaLink="false">ff8f7a46-1e59-4208-9682-3decfef2be2a</guid>
-            <pubDate>Wed, 01 Nov 2017 08:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FcWzi38-vDbE&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWzi38-vDbE&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FcWzi38-vDbE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/cWzi38-vDbE</link>
-            <guid isPermaLink="false">95065992-d756-4b8f-97f2-e3042b9d80a3</guid>
-            <pubDate>Wed, 18 Oct 2017 06:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
